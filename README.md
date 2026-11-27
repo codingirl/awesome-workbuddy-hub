@@ -1,5 +1,7 @@
 # Awesome WorkBuddy 资源合集
 
+> **网站入口：** [Awesome WorkBuddy Hub](site/README.md) 是本仓库的在线目录（Cloudflare Workers 静态资源，Worker 名 `awesome-workbuddy-hub`）。正式地址上线后，把本行换成网站链接。本地预览和部署步骤见 [site/README.md](site/README.md)。
+
 维护者：[阿佐](https://x.com/azuo_blog)（X [@azuo_blog](https://x.com/azuo_blog)）
 
 致谢上游：[sandbaseai/awesome-workbuddy](https://github.com/sandbaseai/awesome-workbuddy)、[semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy)、[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)、[yehuzi2026/workbuddy-skills-hub](https://github.com/yehuzi2026/workbuddy-skills-hub)、[weininghui/skills](https://github.com/weininghui/skills)、[shuangying0001-beep/awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills)、[sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) 以及 X 上的分享者。
@@ -21,6 +23,7 @@
 - [提示词](#prompt) （354）
 - [案例与实测](#case) （380）
 - [工具与其他资源](#other) （251）
+- [在线网站（site/）](site/README.md)
 - [完整清单（lists/）](lists/README.md)
 - [数据来源与致谢](#数据来源与致谢)
 - [参与贡献](#参与贡献) · [CONTRIBUTING.md](CONTRIBUTING.md)

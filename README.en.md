@@ -1,5 +1,7 @@
 # Awesome WorkBuddy Collection
 
+> **Website:** [Awesome WorkBuddy Hub](site/README.md) is the browsable catalog for this repo (Cloudflare Workers static assets, worker name `awesome-workbuddy-hub`). Replace this line with the live URL after deploy. Build and deploy steps: [site/README.md](site/README.md).
+
 Maintainer: [Azo / 阿佐](https://x.com/azuo_blog) ([@azuo_blog](https://x.com/azuo_blog) on X).
 
 Thanks to upstream lists: sandbaseai/awesome-workbuddy, semlinker/awesome-workbuddy, AlephAITech/WorkBuddyGuide, yehuzi2026/workbuddy-skills-hub, weininghui/skills, shuangying0001-beep/awesome-workbuddy-skills, and sandbaseai/workbuddy-skill, plus everyone who shared on X.
