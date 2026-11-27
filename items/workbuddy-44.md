@@ -1,0 +1,24 @@
+# WorkBuddy完整课程
+
+> 类型：教程与指南 ｜ 分类：内容创作 ｜ 标签：内容创作
+
+## 简介
+
+WorkBuddy完整课程 🔗： 视频里 10 个 Skill 的地址👇 01 Find Skills 02 Skill Creator …
+
+## 详情
+
+以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
+
+> WorkBuddy完整课程 🔗： 视频里 10 个 Skill 的地址👇 01 Find Skills 02 Skill Creator workbuddy里输入/skill-creator 03 writing-dna 04 Grill Me 05 UI UX Pro Max
+
+## 使用/获取
+
+- 链接：<https://pan.chatgptgi.com/B9BY6p44>
+
+## 所有来源
+
+- X · [白骏知识分享 @cj3214567667](https://x.com/cj3214567667/status/2125163767390499289) · 2026-11-24 · 33 赞 / 11 转 / 2954 浏览
+
+---
+*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

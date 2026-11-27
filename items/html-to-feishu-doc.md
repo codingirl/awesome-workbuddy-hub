@@ -1,0 +1,22 @@
+# HTML to Feishu Doc
+
+> 类型：工具与其他资源 ｜ 分类：办公文档 ｜ 标签：Tools and integrations、办公文档
+
+## 简介
+
+MIT 许可的跨平台 Skill，可将 HTML 或 URL 转为 Markdown，并可选创建飞书文档，保留表格、图片、标题并提供完整性回查
+
+## 详情
+
+本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
+
+## 使用/获取
+
+- 链接：<https://github.com/bonboruyau-dev/html-to-feishu-doc>
+
+## 所有来源
+
+- GitHub · [sandbaseai/awesome-workbuddy](https://github.com/bonboruyau-dev/html-to-feishu-doc) · 许可：CC0-1.0 · Tools and integrations
+
+---
+*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
