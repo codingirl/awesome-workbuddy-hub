@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 data/raw/
+node_modules/
+site/dist/
+.wrangler/
+.dev.vars
+.dev.vars.*

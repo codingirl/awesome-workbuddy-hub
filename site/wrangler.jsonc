@@ -1,0 +1,25 @@
+{
+  // Awesome WorkBuddy Hub — static site on Workers Assets.
+  // No Worker script: HTML is prerendered, search runs in the browser.
+  // Dashboard name must match `name` when connecting Workers Builds.
+  "name": "awesome-workbuddy-hub",
+  "compatibility_date": "2026-11-27",
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1
+    },
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.01
+    }
+  },
+  "assets": {
+    "directory": "./dist",
+    // /item/<slug> serves dist/item/<slug>.html (200, no trailing slash).
+    "html_handling": "auto-trailing-slash",
+    // Unknown paths serve the nearest 404.html with status 404.
+    "not_found_handling": "404-page"
+  }
+}

@@ -14,6 +14,7 @@
 
 ## 自动化脚本
 - `scripts/x.py`：从已采集的 X 候选帖生成条目；`scripts/merge.py`：与 GitHub 清单合并去重并生成 `data/items.json`；`scripts/gen.py`：生成 README、`lists/*.md` 与 `items/*.md`。
+- `site/`：在线目录。更新 `data/items.json` 后，在 `site/` 运行 `npm run build` 重新生成静态站。
 - `tools/ingest.py`（把采集页合并为 posts_all.json）、`tools/rank.py`（放宽门槛的候选筛选）、`tools/parse.py`（解析工具）。原始抓取数据不在本仓库中，如需复跑采集脚本，请自备数据目录。
 
 提交内容即视为以 CC0-1.0 授权你写的简介与分类。
