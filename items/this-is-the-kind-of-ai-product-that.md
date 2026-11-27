@@ -1,6 +1,6 @@
 # This is the kind of AI product that…
 
-> 类型：工作流 ｜ 分类：设计 ｜ 标签：设计
+> 类型：知识点与使用技巧 ｜ 分类：设计 ｜ 标签：设计
 
 ## 简介
 

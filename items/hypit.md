@@ -1,6 +1,6 @@
 # Hypit 还是太强了
 
-> 类型：工作流 ｜ 分类：内容创作 ｜ 标签：内容创作
+> 类型：知识点与使用技巧 ｜ 分类：内容创作 ｜ 标签：内容创作
 
 ## 简介
 
@@ -19,6 +19,7 @@ Hypit 还是太强了 一句话就可以让你的 Agent 换人复刻视频 codex
 ## 所有来源
 
 - X · [Felix @Felixwwj](https://x.com/Felixwwj/status/2100377776822071318) · 2026-09-17 · 260 赞 / 52 转 / 34805 浏览
+- X · [Felix @Felixwwj](https://x.com/Felixwwj/status/2100377324478960055) · 2026-09-17 · 0 赞 / 10 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

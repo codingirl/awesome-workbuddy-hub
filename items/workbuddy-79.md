@@ -1,10 +1,10 @@
-# WorkBuddy零基础入门系统教程（上）
+# 教你用WorkBuddy搞定新媒体运营工作
 
-> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
+> 类型：知识点与使用技巧 ｜ 分类：营销 ｜ 标签：营销
 
 ## 简介
 
-WorkBuddy零基础入门系统教程（上）
+教你用WorkBuddy搞定新媒体运营工作
 
 ## 详情
 
@@ -15,7 +15,7 @@ WorkBuddy零基础入门系统教程（上）
 
 ## 所有来源
 
-- X · [挺身而出的蜗牛 @isanameonly](https://x.com/isanameonly/status/2081749668753821769) · 2026-07-27 · 3 赞 / 1 转 / 1888 浏览
+- X · [马佳彬 @majiabin](https://x.com/majiabin/status/2091706350292308442) · 2026-08-24 · 56 赞 / 14 转 / 8315 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

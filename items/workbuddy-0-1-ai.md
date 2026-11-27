@@ -15,7 +15,7 @@
 
 ## 所有来源
 
-- X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2072514519990223112) · 2026-07-02 · 1272 赞 / 262 转 / 796363 浏览
+- X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2072514519990223112) · 2026-07-02 · 1273 赞 / 262 转 / 796363 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

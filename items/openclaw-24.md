@@ -15,11 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HDREFSMakAA4nRy.jpg)
-![](https://pbs.twimg.com/media/HDREGAaa4AEWzFd.jpg)
-
 ## 所有来源
 
 - X · [Jason Zhu（GEO） @GoSailGlobal](https://x.com/GoSailGlobal/status/2032325546433265896) · 2026-03-13 · 9 赞 / 4 转 / 3856 浏览

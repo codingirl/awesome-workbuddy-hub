@@ -1,6 +1,6 @@
 # 用国产Agent（TRAE、WorkBuddy），总遇到这个痛点。
 
-> 类型：技能（Skills） ｜ 分类：开发 ｜ 标签：开发
+> 类型：知识点与使用技巧 ｜ 分类：开发 ｜ 标签：开发
 
 ## 简介
 
@@ -15,8 +15,6 @@
 ## 使用/获取
 
 - 链接：<https://github.com/EdwardWason/session-branch>
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 

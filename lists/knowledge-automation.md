@@ -1,0 +1,170 @@
+# 知识点与使用技巧 · 自动化（166）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [闲鱼自动化！WorkBuddy 帮你卖货赚钱](https://x.com/JackQi82772/status/2082299721864073252) — 闲鱼最容易丢单的时刻，往往发生在你没盯手机的时候。 买家同时问了几家：“最低多少？什么时候发？”你晚半小时看见，对方可能已经去问下一家。 … · [详情](../items/workbuddy-19.md) 𝕏
+- [workbuddy事实上是如今中国国内最大的模型聚合平台（中转站）](https://x.com/shitunote/status/2114893148694659386) — workbuddy事实上是如今中国国内最大的模型聚合平台（中转站） 国产模型，如果面向的市场主要在国内，其实可以优先上线workbuddy… · [详情](../items/workbuddy-21.md) 𝕏
+- [One workspace, multiple AI models!](https://x.com/Aiwithmaha/status/2124012281323466828) — One workspace, multiple AI models! WorkBuddy makes it easier to switc… · [详情](../items/one-workspace-multiple-ai-models.md) 𝕏
+- [Workbuddy+微信读书最强联动，再也不怕“假”读书](https://x.com/ai_suxiaole/status/2077225803461566565) — 翻过的书越来越多，用得上的越来越少 微信读书替你存着，AI 却读不到？别急 微信读书 Skill 让 WorkBuddy 认识你的书架 从… · [详情](../items/workbuddy-42.md) 𝕏
+- [Tencent Hy just released Hy4, which…](https://x.com/Smlay_ero/status/2117889590707302872) — Tencent Hy just released Hy4, which adds vision understanding and com… · [详情](../items/tencent-hy-just-released-hy4-which.md) 𝕏
+- [🔥 用 DeepSeek Harness 直接调 WorkBuddy …](https://x.com/aehyok/status/2109798382277640348) — 🔥 用 DeepSeek Harness 直接调 WorkBuddy 里的免费大模型 开源插件 dsh-workbuddy-connect… · [详情](../items/deepseek-harness-workbuddy-2.md) 𝕏
+- [豆包工作 vs WorkBuddy：同一个模型干同一件活，谁更省钱？谁…](https://x.com/servasyy_ai/status/2122331172806205442) — 豆包工作 vs WorkBuddy：同一个模型干同一件活，谁更省钱？谁更好用？ 最近看到豆包工作支持第三方模型了，Kimi、GLM、Dee… · [详情](../items/vs-workbuddy.md) 𝕏
+- [WorkBuddy 6个必要设置，开启效率翻倍](https://x.com/ai_suxiaole/status/2074320251362087316) — WorkBuddy 6个必要设置，开启效率翻倍 1. 防休眠模式 手机端给 WorkBuddy 派了任务，第二天回来却发现卡在半路？ 很多… · [详情](../items/workbuddy-6-2.md) 𝕏
+- [腾讯的战斗力也特么太强了一点，直接把 UU 远程的功能给内置到 Wor…](https://x.com/libukai/status/2115366373350416885) — 腾讯的战斗力也特么太强了一点，直接把 UU 远程的功能给内置到 WorkBuddy 里面去了！ 现在只需要在最新桌面版中打开 设置 - 设… · [详情](../items/uu-wor.md) 𝕏
+- [Just noticed that Tencent Hunyuan H…](https://x.com/GesoraMeshack/status/2084883290704466290) — Just noticed that Tencent Hunyuan Hy3 has officially launched on Work… · [详情](../items/just-noticed-that-tencent-hunyuan-h.md) 𝕏
+- [ima 接进 WorkBuddy 的完整配置：小心那个"看起来已经配好了"的坑](https://x.com/jinglian/status/2076893022542061879) — ima 接进 WorkBuddy 的完整配置：小心那个"看起来已经配好了"的坑 · [详情](../items/ima-workbuddy-2.md) 𝕏
+- [I tested WorkBuddy AI’s “Human-AI C…](https://x.com/Fatima_RP120/status/2092242195030171677) — I tested WorkBuddy AI’s “Human-AI Co-Writing” feature, and it’s a pre… · [详情](../items/i-tested-workbuddy-ai-s-human-ai-c.md) 𝕏
+- [兄弟们，最近豆包工作和 WorkBuddy 都能选第三方模型了，Kim…](https://x.com/berryxia/status/2123752216029008135) — 兄弟们，最近豆包工作和 WorkBuddy 都能选第三方模型了，Kimi、GLM、DeepSeek 两边都有。 我一直挺好奇：同一个模型、… · [详情](../items/workbuddy-kim.md) 𝕏
+- [很多兄弟不理解，为什么WorkBuddy个人版只要 98](https://x.com/beefnoode/status/2093633994755854465) — 很多兄弟不理解，为什么WorkBuddy个人版只要 98 而企业版卖198，贵了一倍，到底贵在哪？ 从企业角度来看，核心就贵在这两点： 1… · [详情](../items/workbuddy-98.md) 𝕏
+- [Workbuddy积分不够用，不要急着升级会员！其实Workbuddy…](https://x.com/xiaomovps/status/2080200979329290397) — Workbuddy积分不够用，不要急着升级会员！其实Workbuddy官方还有很多积分任务，只需要完成对应的积分任务，就可以领取对应的积分… · [详情](../items/workbuddy-workbuddy-2.md) 𝕏
+- [WorkBuddy 的定时任务目前跑2个任务：](https://x.com/369Serena/status/2094397206140780775) — WorkBuddy 的定时任务目前跑2个任务： 1. 更新 Token 羊毛网站：我会让它去更新一个 Token 的网站，它会自动搜索最新… · [详情](../items/workbuddy-2-2.md) 𝕏
+- [🚨 I vibe-coded an entire 3D car gal…](https://x.com/tussiwe/status/2118379667149451428) — 🚨 I vibe-coded an entire 3D car gallery using WorkBuddy! Think of it … · [详情](../items/i-vibe-coded-an-entire-3d-car-gal.md) 𝕏
+- [Personal take: I’ve been using Work…](https://x.com/Just_sharon7/status/2093263473602126141) — Personal take: I’ve been using WorkBuddy for coding for a while now, … · [详情](../items/personal-take-i-ve-been-using-work.md) 𝕏
+- [WorkBuddy 每天自动领积分方法！～](https://x.com/binghe/status/2105260225611882708) — WorkBuddy 每天自动领积分方法！～ 首先要知道WorkBuddy 里的两个积分获得方法： 1，每日领积分如（图 1） 2，点击头像… · [详情](../items/workbuddy-87.md) 𝕏
+- [Info Bansos🚨](https://x.com/airplanestar_/status/2117994531270623529) — Info Bansos🚨 Tencent akhirnya rilis Hy4 model Dari benchmark mereka b… · [详情](../items/info-bansos-2.md) 𝕏
+- [豆包和 workbuddy 到底谁会赢](https://x.com/zjp1997720/status/2103391177668272507) — 【豆包和 workbuddy 到底谁会赢】 前两天去北京参加了豆包工作的内部分享会，其实就是会销活动 整体来看，豆包工作的销售策略和 wo… · [详情](../items/workbuddy-89.md) 𝕏
+- [每个月为国内模型花1000元](https://x.com/PMbackttfuture/status/2088841518446526730) — 每个月为国内模型花1000元 突然发现自己杂七杂八的买了一大堆国产Coding Plan GLM V2套餐，pro版，430.4/月 Wo… · [详情](../items/1000.md) 𝕏
+- [Gue pake WorkBuddy dari Tencent, mo…](https://github.com/buildwithhanif/hyperframe-pro) — Gue pake WorkBuddy dari Tencent, modelnya Hy4 yang baru rilis resmi. … · [详情](../items/gue-pake-workbuddy-dari-tencent-mo.md) 𝕏
+- [RW Research Skill 更新：科研投稿也可以自动化了](https://x.com/rwayne/status/2085649375964037120) — 这是我第不知道多少次做综述投稿。 我定下来期刊之后，后面的事，我都交给了 RW Research Skill。 RW Research S… · [详情](../items/rw-research-skill.md) 𝕏
+- [收藏比赞多！但是要真正实现躺着写小说，还远远不够。](https://x.com/Yunn260414/status/2086032015284109494) — 收藏比赞多！但是要真正实现躺着写小说，还远远不够。 这里分享一个很多人都忽略的一个WorkBuddy小技巧： 那就是对接微信和QQ，让你实… · [详情](../items/x-84109494.md) 𝕏
+- [Most AI tools promise productivity.](https://x.com/MaxwellXPro/status/2062537304779219396) — Most AI tools promise productivity. Few can take a task from idea to … · [详情](../items/most-ai-tools-promise-productivity.md) 𝕏
+- [哈哈哈，在中国做产品，尤其是 2C 产品，还是要接地气啊，接到地下室的…](https://x.com/libukai/status/2097903114292699251) — 哈哈哈，在中国做产品，尤其是 2C 产品，还是要接地气啊，接到地下室的那种接地气。 看了一下 WorkBuddy 5.54 的更新日志，里… · [详情](../items/2c.md) 𝕏
+- [我用 Kimi K3 给 WorkBuddy 改个果风皮肤](https://x.com/cxjwin/status/2078875441860137097) — 我用 Kimi K3 给 WorkBuddy 改个果风皮肤 · [详情](../items/kimi-k3-workbuddy.md) 𝕏
+- [A whole life in one slider.](https://x.com/CodeByPoonam/status/2120135002319184196) — A whole life in one slider. I asked AI to turn one portrait into a fu… · [详情](../items/a-whole-life-in-one-slider.md) 𝕏
+- [Workbuddy也可以自定义模型了，只需要简单的几个步骤，就能完成！](https://x.com/xiaomovps/status/2077638651652301031) — Workbuddy也可以自定义模型了，只需要简单的几个步骤，就能完成！ 最主要的是不依赖于Workbuddy的积分，不需要开通会员也能使用… · [详情](../items/workbuddy-112.md) 𝕏
+- [年初龙虾那一波其实全部都是用 Trae + 飞书，我当时还在职，以为今…](https://x.com/realWeZZard/status/2084863371552477403) — 年初龙虾那一波其实全部都是用 Trae + 飞书，我当时还在职，以为今年 Trae 和飞书会赢麻，结果我也不知道为什么到了年中字节的 ag… · [详情](../items/trae.md) 𝕏
+- [销售Leader 3个月攒了18个自动化：普通人别抄数量，先偷师这一句——配一次，让它天天来找你](https://x.com/Shenmeili1213/status/2090684944875962703) — 353——一位销售团队负责人，用 WorkBuddy 三个月，本机会话数。 18——同期攒下的定时自动化；其中十几个还在跑。 94 / 5… · [详情](../items/leader-3-18.md) 𝕏
+- [我甚至觉得GLM 5.3 Flash这个模型会让WorkBuddy订阅…](https://x.com/zjp1997720/status/2093541341745856872) — 我甚至觉得GLM 5.3 Flash这个模型会让WorkBuddy订阅的商业模式不太成立了😅 刚刚用GLM 5.3 Flash这个模型跑了… · [详情](../items/glm-5-3-flash-workbuddy.md) 𝕏
+- [TapNow X WorkBuddy | Your Creative …](https://x.com/TapNow_AI/status/2108483143393321326) — TapNow X WorkBuddy | Your Creative Sidekick, Ready on Demand 🚀 The Ta… · [详情](../items/tapnow-x-workbuddy-your-creative.md) 𝕏
+- [如何让 #WorkBuddy 每天自动领美团外卖券。](https://x.com/jinglian/status/2080231789365170649) — 如何让 #WorkBuddy 每天自动领美团外卖券。 第一步：在左侧「专家 技能 连接器」的专家标签页下，找到「美团生活助手」，点击「召唤… · [详情](../items/workbuddy-131.md) 𝕏
+- [上次提到，如果不想用龙虾，可以试下workbuddy。但用了几天下来，…](https://x.com/indie_maker_fox/status/2039558165570912763) — 上次提到，如果不想用龙虾，可以试下workbuddy。但用了几天下来，感觉bug太多了，各种奇怪的问题，不稳定。 现在发现，openwor… · [详情](../items/workbuddy-136.md) 𝕏
+- [Paper Breakdown - Harness2 Recursiv…](https://x.com/jayitabhattac11/status/2116874888720080966) — Paper Breakdown - Harness2 Recursive Agent Harnessing for an Open Wor… · [详情](../items/paper-breakdown-harness2-recursiv.md) 𝕏
+- [模型厂商的 Coding Plan：亏钱也得干，不干就出局！](https://x.com/chenju_ai/status/2120141403368161684) — 模型厂商的 Coding Plan：亏钱也得干，不干就出局！ · [详情](../items/coding-plan.md) 𝕏
+- [一个 WorkBuddy 微信小游戏实战全记录](https://x.com/XiaosaGe1231/status/2123751861954212099) — AI 做游戏的教程已经很多，但大部分人看完只会觉得麻烦劝退率贼高。 我也不懂一行代码，4 个下班后的晚上（合计约 10 小时），30 块钱… · [详情](../items/workbuddy-153.md) 𝕏
+- [One thing I’ve noticed with a lot o…](https://x.com/alexaiworks/status/2060026056225050888) — One thing I’ve noticed with a lot of AI products is that the technolo… · [详情](../items/one-thing-i-ve-noticed-with-a-lot-o.md) 𝕏
+- [Paid skills just went mainstream.](https://x.com/Ghast_AI/status/2113688078930039229) — Paid skills just went mainstream. WorkBuddy let creators put a price … · [详情](../items/paid-skills-just-went-mainstream.md) 𝕏
+- [豆包最近更新频繁，真的不能再小看豆包](https://x.com/xiaomovps/status/2098631636380201258) — 豆包最近更新频繁，真的不能再小看豆包 看了下面这篇文章才知道，豆包原来有这么多功能，而且很多功能都是自动化的 一开始我也只是简单地认为他是… · [详情](../items/x-80201258.md) 𝕏
+- [google's harness² improves ai agent…](https://x.com/thehypedotnews/status/2112224296886304855) — google's harness² improves ai agents on new tasks – no retraining, no… · [详情](../items/google-s-harness-improves-ai-agent.md) 𝕏
+- [月活2000万的WorkBuddy，代表AI赚钱的逻辑变了。](https://x.com/defituanzi/status/2080216921346367876) — 月活2000万的WorkBuddy，代表AI赚钱的逻辑变了。 从“卖弄技术”转向“交付结果”。它的核心不是聊天，是自主执行。能读写本地文件… · [详情](../items/2000-workbuddy-ai.md) 𝕏
+- [不订阅Kimi的Coding Plan，但想测试一下Kimi-K3.1…](https://x.com/shitunote/status/2115079497397760372) — 不订阅Kimi的Coding Plan，但想测试一下Kimi-K3.1-Pro模型，怎么办？ 告诉你个好办法：使用workbuddy，如果… · [详情](../items/kimi-coding-plan-kimi-k3-1.md) 𝕏
+- [WeeklyClaw #003 - Meta Buys Moltbook, CZ Backs Kimi and NVIDIA Enters the Chat.](https://x.com/jordymaui/status/2033154032999518316) — back and Facebook just bought a social network for bots… yep. Somehow… · [详情](../items/weeklyclaw-003-meta-buys-moltbook-cz-backs-kimi.md) 𝕏
+- [1-12.端末AI戦略の本命、Xiaomi / MiMo / 小米を読む](https://x.com/KagawaTomo/status/2062899468006256789) — MiMo・HyperOS・Xiao Ai・スマホ・EV・家電をつなぐ“Human × Car × Home”の現在地 中国生成AI 202… · [详情](../items/1-12-ai-xiaomi-mimo.md) 𝕏
+- [workbuddy里可以直接生成并且上线微信小程序了](https://x.com/shitunote/status/2103026211672973336) — workbuddy里可以直接生成并且上线微信小程序了 感觉腾讯内部对workbuddy那真是全力扶持啊 腾讯这种大公司内部难得能达成这种一… · [详情](../items/workbuddy-192.md) 𝕏
+- [虽然很多人看不上 WorkBuddy，但我摸索了一阵子，发现它在国内生…](https://x.com/Sunkeke_AI/status/2110185227914219855) — 虽然很多人看不上 WorkBuddy，但我摸索了一阵子，发现它在国内生态上还是有些新玩法挺强的，比如： 1️⃣【微信聊天记录】合并 + 一… · [详情](../items/workbuddy-197.md) 𝕏
+- [为什么我用这个photo-abstract-editorial Ski…](https://x.com/Jack_FluxAI/status/2089250262372508072) — 为什么我用这个photo-abstract-editorial Skill和你们的效果不一样呀 还没我原图拍的好 我用的是Workbudd… · [详情](../items/photo-abstract-editorial-ski.md) 𝕏
+- [GLM5.2、Kimi2.7、DeepSeek V4、MiniMax M3，国产模型最佳搭配实践](https://x.com/xiaoyao_xi/status/2067456111859675421) — 最近，Kimi 2.7 Code 和 GLM 5.2 接连发布，一周双发，国产模型又崛起了。 加上DeepSeek V4 和 MiniMa… · [详情](../items/glm5-2-kimi2-7-deepseek-v4-minimax-m3.md) 𝕏
+- [Partnering with the #TencentFoundat…](https://x.com/CQU1929/status/2107381846916882942) — Partnering with the #TencentFoundation, #CQU hosted an AI Agent skill… · [详情](../items/partnering-with-the-tencentfoundat.md) 𝕏
+- [微信支付正式发布「AI专属卡」](https://x.com/jinchenma_ai/status/2067431378145484835) — 微信支付正式发布「AI专属卡」 用 WorkBuddy 接入，就可以 AI 买奶茶了 国人咋这么爱喝奶茶？ AI普及的第一步难道就是点奶茶… · [详情](../items/ai-71.md) 𝕏
+- [腾讯的 AI 战略依然落后字节一步棋。](https://x.com/oops073111/status/2091347403010191708) — 腾讯的 AI 战略依然落后字节一步棋。 刚才我打开元宝，恍惚了，诶，workbuddy 集成元宝了吗？诶，怎么 agent 入口没有了，技… · [详情](../items/ai-72.md) 𝕏
+- [一文带你搞懂WorkBuddy的自动化操作](https://x.com/majiabin/status/2084105738822222129) — 01 · CONTEXT 为什么要讲底层逻辑 上篇文章WorkBuddy新神器，录屏操作一遍就能蒸馏成Skill 因为涉及到浏览器自动化操… · [详情](../items/workbuddy-238.md) 𝕏
+- [我他妈震撼了！](https://x.com/leaf_sanren/status/2080147221992137116) — 我他妈震撼了！ Work buddy给发美团外卖券，动用skill直接领取！！！！ 我试了一下，真的可以！ 【专家 技能 连接器】那里召唤… · [详情](../items/x-92137116.md) 𝕏
+- [⭐ Today’s China AI Native Industry …](https://x.com/AINativeF/status/2039327143138558346) — ⭐ Today’s China AI Native Industry Insights include: 1. Qwen3.5-Omni … · [详情](../items/today-s-china-ai-native-industry.md) 𝕏
+- [Tencent WorkBuddy APP Launches on HarmonyOS, iOS, and Android Simultaneously: Cross-Platform AI Work](https://x.com/thePandaily/status/2078413715767017923) — Tencent WorkBuddy APP Launches on HarmonyOS, iOS, and Android Simulta… · [详情](../items/tencent-workbuddy-app-launches-on-harmonyos-ios.md) 𝕏
+- [1-5.長文Agentの怪物化、Moonshot AI「Kimi」を読む](https://x.com/KagawaTomo/status/2060294873169772854) — K2.6・Agent Swarm・Kimi Code・長文コンテキスト・中国LLM最大級資金まで 中国生成AI 2026 完全版 第5回 … · [详情](../items/1-5-agent-moonshot-ai-kimi.md) 𝕏
+- [我之前也分享过多模型协同！和卡神的思路对上了！！](https://x.com/sera00111/status/2125287727377899631) — 我之前也分享过多模型协同！和卡神的思路对上了！！ 卡神是 Gemini 沟通指挥，Claude 负责审美，GPT 逻辑严谨。 我之前也分享… · [详情](../items/x-77899631.md) 𝕏
+- [GLM-5 with an improved harness scor…](https://x.com/MartinSzerment/status/2111868985369104696) — GLM-5 with an improved harness scored 75.7 on WorkBuddy-Bench and bea… · [详情](../items/glm-5-with-an-improved-harness-scor.md) 𝕏
+- [如果你是OpenClaw、QClaw、KimiClaw、JVSClaw…](https://x.com/yshnln/status/2031308235324658035) — 如果你是OpenClaw、QClaw、KimiClaw、JVSClaw、WorkBuddy、ArkClaw，或者只要你有发红包的权限，请你… · [详情](../items/openclaw-qclaw-kimiclaw-jvsclaw.md) 𝕏
+- [龙虾🦞赚钱的小技巧，真正能够帮助到你的5个方法](https://x.com/Vegahao/status/2031314888413557101) — 龙虾🦞赚钱的小技巧，真正能够帮助到你的5个方法 -如果你是OpenClaw、QClaw、KimiClaw、JVSClaw、WorkBudd… · [详情](../items/5-2.md) 𝕏
+- [Tencent #WorkBuddy gone global toda…](https://x.com/techtechchina/status/2060019159648670207) — #Tencent #WorkBuddy gone global today 🌍 The company launched WorkBudd… · [详情](../items/tencent-workbuddy-gone-global-toda.md) 𝕏
+- [Say Goodbye to Repetitive Manual Tasks! Automate Your Cloud Phones with AI Agents](https://x.com/DuoPlusCloud/status/2121210597119541328) — Recently, Meta's AI Agent, Muse, has been making new moves! Following… · [详情](../items/say-goodbye-to-repetitive-manual-tasks-automate.md) 𝕏
+- [我靠！原来浏览器的自动化已经做到这种程度了！Ego (Lite) 你们都用上了吗？](https://x.com/LZJ5460/status/2117851703638937804) — 你要是现在还在亲手点网页、反复登录、看着 AI 跟你抢 Chrome 标签、用老浏览器硬爬硬点——各种卡、各种被拦——那你真的落伍了。 〇… · [详情](../items/ego-lite.md) 𝕏
+- [Esse v0.3发布，支持workbuddy+image2/banana的并行出图](https://x.com/renoir1220/status/2079791928749776932) — Esse v0.3发布，支持workbuddy+image2/banana的并行出图 · [详情](../items/esse-v0-3-workbuddy-image2-banana.md) 𝕏
+- [🧪 THE SIMPLEST WAY TO TEST YOUR CON…](https://B.AI) — 🧪 THE SIMPLEST WAY TO TEST YOUR CONNECTION After saving a model in Wo… · [详情](../items/the-simplest-way-to-test-your-con.md) 𝕏
+- [我其实想法很简单，在terminal的旁边增加一个会话，就可以让AI来…](https://x.com/chaomeigu_com/status/2067013375809437799) — 我其实想法很简单，在terminal的旁边增加一个会话，就可以让AI来操作你的电脑上的一切东西了，有了cli工具browser use，c… · [详情](../items/terminal-ai.md) 𝕏
+- [我现在运行了6个龙虾，有Mac本地端🦞一只，Win本地端🦞一只，AWS…](https://x.com/shynloc/status/2031689108196913251) — 我现在运行了6个龙虾，有Mac本地端🦞一只，Win本地端🦞一只，AWS EC2 云端🦞一只，腾讯云国服🦞一只，腾讯云外服🦞2只。 还有各种… · [详情](../items/6-mac-win-aws.md) 𝕏
+- [在搜集信息方面Minimax-M3.1-Flash搭配任何一个桌面Ag…](https://x.com/CrownsGod99/status/2112843236616315001) — 在搜集信息方面Minimax-M3.1-Flash搭配任何一个桌面Agent都可以低成本+高搜索智能的效果 在Parallel平台公布的榜… · [详情](../items/minimax-m3-1-flash-ag.md) 𝕏
+- [WorkBuddy SkillHub 下载量TOP10（官方市场热度榜）](https://x.com/smith_john69181/status/2122005486069506484) — WorkBuddy SkillHub 下载量TOP10（官方市场热度榜） 1. self-improving-agent｜自我进化智能体：… · [详情](../items/workbuddy-skillhub-top10.md) 𝕏
+- [别人还在教你怎么跟 AI 聊天，这篇直接把 WorkBuddy 从打开…](https://x.com/FinnTsai88/status/2105675461447885039) — 别人还在教你怎么跟 AI 聊天，这篇直接把 WorkBuddy 从打开软件到建任务、划文件夹、控权限、挂项目、装技能、连微信远程派活，一步… · [详情](../items/ai-workbuddy-15.md) 𝕏
+- [关于workbuddy你没注意到的用法-系列一：](https://x.com/lisaasura_19/status/2107111374203806192) — 关于workbuddy你没注意到的用法-系列一： 1. 它会自动生成技能，触发条件见图1 2. 客户端和手机云端可以分别设置定时任务 3.… · [详情](../items/workbuddy-315.md) 𝕏
+- [“你只需要说话，剩下的 AI 搞定。”](https://x.com/FrankFred834567/status/2073371633554018744) — “你只需要说话，剩下的 AI 搞定。” 这句话在 WorkBuddy 身上算验证了——全程用嘴说，AI 帮你搭好整个自动化。 30分钟，三… · [详情](../items/ai-107.md) 𝕏
+- [On March 9, @tencentcloud announced…](https://nbdn.short.gy/ovbzZh) — On March 9, @tencentcloud announced the official launch of #WorkBuddy… · [详情](../items/on-march-9-tencentcloud-announced.md) 𝕏
+- [经常用 WorkBuddy、CodeBuddy 的朋友，可以看看这个！😂](https://x.com/iMicodex/status/2122956180460892663) — 经常用 WorkBuddy、CodeBuddy 的朋友，可以看看这个！😂 有个开源项目叫 WorkDaddy，专门给这两个 AI 工具加功… · [详情](../items/workbuddy-codebuddy-2.md) 𝕏
+- [立党问：WorkBuddy 免费给用，不得亏成王八蛋？我的理解是，腾讯…](https://x.com/LorenzoSun7z/status/2108213326362673407) — 立党问：WorkBuddy 免费给用，不得亏成王八蛋？我的理解是，腾讯要的是你电脑上“干活先打开谁”的位置。等你习惯了让它读文件夹、写周报… · [详情](../items/workbuddy-327.md) 𝕏
+- [WorkBuddy企业版198，个人版98？](https://x.com/whb0821/status/2093663068538458411) — WorkBuddy企业版198，个人版98？ 其实企业版贵不在积分，而是定制化和管理能力。 Agent、Skill、连接器可以统一配置，不… · [详情](../items/workbuddy-198-98.md) 𝕏
+- [每天点外卖前必干的一件事](https://x.com/KingCola88/status/2084110854245786087) — 每天点外卖前必干的一件事 让WorkBuddy帮我领一张美团优惠券 入口在专家·技能·连接器里面，找到美团生活助手 直接发送帮我领美团优惠… · [详情](../items/x-45786087.md) 𝕏
+- [我发现Workbuddy有Kimi K3使用了！](https://x.com/xiaomovps/status/2080645013382607189) — 我发现Workbuddy有Kimi K3使用了！ 本来想去开个会员，结果发现没了，转眼一看，发现自己手上的Workbuddy就有这个模型可… · [详情](../items/workbuddy-kimi-k3-2.md) 𝕏
+- [WorkBuddy + 微信 = 每日 AI 简报自动推送！（含MD）亲测避坑全流程](https://x.com/mommylanny/status/2073351166713590009) — 亲测避坑全流程 你只需要说话，剩下的 AI 搞定。这篇文章不写一行代码——只教你怎么跟 AI 说。 一、我想要的很简单 每天早上醒来，微信… · [详情](../items/workbuddy-ai-md.md) 𝕏
+- [微信接入 OpenClaw：你的私人 AI 助理，就在对话框里](https://x.com/jingwangtalk/status/2035601517365891155) — 腾讯终于出手了。 微信 8.0.7 正式接入 OpenClaw，意味着超过 13 亿微信用户，理论上都可以在熟悉的对话框里调用一个 AI … · [详情](../items/openclaw-ai.md) 𝕏
+- [WorkBuddy怎么用？别只会聊天，专家+自动化把活交出去](https://x.com/KimYx0207/status/2079182970334925170) — WorkBuddy怎么用？别只会聊天，专家+自动化把活交出去 · [详情](../items/workbuddy-346.md) 𝕏
+- [飞书太重、flomo太轻、Notion太复杂——这款AI无限白板才是龙虾的必备神器：可视化记忆](https://x.com/zycbat888/status/2040059058246586766) — 说个扎心的事实：你手机收藏夹里的文章，99%你再也不会打开了。 我知道，因为我自己就是这样。 作为一名数字游民，我的日常就是跟台式电脑屏幕… · [详情](../items/flomo-notion-ai.md) 𝕏
+- [Alibaba Tencent and 360 Simultaneously Enter the AI Office Agent Arena: Your Desktop Becomes the New](https://x.com/thePandaily/status/2082437532004864105) — Tencent WorkBuddy leads with 20.97M monthly visits, Alibaba consolida… · [详情](../items/alibaba-tencent-and-360-simultaneously-enter-the.md) 𝕏
+- [腾讯版小龙虾 WorkBuddy 来了，WorkBuddy Claw …](https://x.com/guangGitHub/status/2034653624924565878) — 腾讯版小龙虾 WorkBuddy 来了，WorkBuddy Claw 是 CodeBuddy 团队推出的一项全新能力。 它让你从在本地电脑… · [详情](../items/workbuddy-workbuddy-claw.md) 𝕏
+- [Google's open-source Harness2 rewri…](https://x.com/DanteMMartin/status/2111916454279065970) — Google's open-source Harness2 rewrites an agent's own harness at test… · [详情](../items/google-s-open-source-harness2-rewri.md) 𝕏
+- [AgentGo Shanghai Recap｜从超级个体到超级团队，A…](https://x.com/MEeventHK/status/2101606202362982422) — AgentGo Shanghai Recap｜从超级个体到超级团队，AI Agent 的边界继续打开 9月17日，AgentGo Shan… · [详情](../items/agentgo-shanghai-recap-a.md) 𝕏
+- [把Workbuddy的专家、连接器、skill模块给逆向了。](https://x.com/limuvibecoding/status/2117636262375071949) — 闲来无事。 把Workbuddy的专家、连接器、skill模块给逆向了。 放进deepseek里. 有点脱裤子放屁的感觉。 但就是喜欢这种… · [详情](../items/workbuddy-skill-63.md) 𝕏
+- [终于有人把各家 OpenClaw 说透了！直接抄作业](https://x.com/MoyuCrypto/status/2042312499337576937) — 终于有人把各家 OpenClaw 说透了！直接抄作业 开源社区的原版 OpenClaw 是万款生态起点，24 万 Star 真不是吹；当贝… · [详情](../items/openclaw-4.md) 𝕏
+- [Workbuddy 那边我搞不清 2000 积分是不是直接进了教育版，…](https://x.com/leomadeits/status/2114540505765941469) — Workbuddy 那边我搞不清 2000 积分是不是直接进了教育版，反正现在一下子 3000 多积分，感觉用都用不完。有这额度在，Dee… · [详情](../items/workbuddy-2000-3.md) 𝕏
+- [Tencent has launched Hy4 flash, a l…](https://x.com/The_Donsie/status/2122638754644897934) — Tencent has launched Hy4 flash, a lean new model in its Hy family. It… · [详情](../items/tencent-has-launched-hy4-flash-a-l.md) 𝕏
+- [🤔China's Big Tech "Pre-made Shrimp"…](https://x.com/BNewsGlobal/status/2034302369622884799) — 🤔China's Big Tech "Pre-made Shrimp" Al Agents Just Dropped 🦐 Tencent … · [详情](../items/china-s-big-tech-pre-made-shrimp.md) 𝕏
+- [Tencent scaled Hy4's inference clus…](https://x.com/CNopenmodels/status/2118782243430711511) — Tencent scaled Hy4's inference cluster tenfold after WorkBuddy users … · [详情](../items/tencent-scaled-hy4-s-inference-clus.md) 𝕏
+- [10-25 摘要](https://x.com/Fan_Sa_Xi/status/2114166242286404078) — 10-25 摘要 昨天 Kimi K3.1 Pro 刚官宣贴着 Opus 跑分，今天论坛风向就翻了：猫榜推理/Agent 都偏科，Redd… · [详情](../items/10-25.md) 𝕏
+- [200元红包引爆的“小龙虾”劫持案](https://x.com/aegixe_cn/status/2031322535003107783) — 200元红包引爆的“小龙虾”劫持案 ——拆解 OpenClaw 类 AI 助手的协议级漏洞 事件概述 攻击方式：攻击者发布类似以下的指令消… · [详情](../items/200-2.md) 𝕏
+- [腾讯“小龙虾”来了！WorkBuddy微信小程序正式上线，一句话语音/…](https://x.com/2983bayc/status/2038919392193565091) — 腾讯“小龙虾”来了！WorkBuddy微信小程序正式上线，一句话语音/拍照就能派活 WorkBuddy微信小程序是运行在云端沙盒环境中的 … · [详情](../items/workbuddy-396.md) 𝕏
+- [workbuddy开放平台上线，与黄啊码之前的预测有些出入，但又归于趋…](https://x.com/ama_huangama/status/2095059745803505927) — workbuddy开放平台上线，与黄啊码之前的预测有些出入，但又归于趋同。 每个企业都可以定制自己的workbuddy应用，以及skill… · [详情](../items/workbuddy-405.md) 𝕏
+- [企业微信把智能体接入，从“能对话”推进到“能调用”](https://x.com/bytelee_trade/status/2089552335802613770) — 企业微信把智能体接入，从“能对话”推进到“能调用” 背景事实：企业微信升级了命令行接口与模型上下文协议能力，WorkBuddy、DeepS… · [详情](../items/x-02613770.md) 𝕏
+- [Chinese AI isn't selling tools anym…](https://x.com/AsaisTech/status/2080541792198660209) — Chinese AI isn't selling tools anymore — it's exporting a whole way o… · [详情](../items/chinese-ai-isn-t-selling-tools-anym.md) 𝕏
+- [AI资讯：腾讯推出WorkBuddy，腾讯版“小龙虾”（OpenCla…](https://x.com/Awesome_AI_News/status/2031029741537616347) — AI资讯：腾讯推出WorkBuddy，腾讯版“小龙虾”（OpenClaw），兼容OpenClaw技能，即装即用，1分钟完成企业微信配置。内… · [详情](../items/ai-workbuddy-opencla.md) 𝕏
+- [WorkBuddy自动化工具搭建实操：从零上手软件，解锁专家团、连接器…](https://x.com/jglcn1991/status/2115356881669828623) — WorkBuddy自动化工具搭建实操：从零上手软件，解锁专家团、连接器与记忆指令 从装软件到写记忆指令，WorkBuddy 的十个模块拆开… · [详情](../items/workbuddy-417.md) 𝕏
+- [如何手机上使用dbs skill](https://x.com/xjszpr4597/status/2077597180819575116) — 如何手机上使用dbs skill 1.微信搜索workbuddy 2.打开云端电脑 3.复制 npx -y skills add dont… · [详情](../items/dbs-skill.md) 𝕏
+- [WorkBuddy×Kimi K3 7天线上训练营，把一个AI员工，装…](https://x.com/jglcn1991/status/2115359469177831698) — WorkBuddy×Kimi K3 7天线上训练营，把一个AI员工，装进你的微信，搭一个真能帮你干活賺钱的AI员工 把一个能干活的人装进微… · [详情](../items/workbuddy-kimi-k3-7-ai.md) 𝕏
+- [Slack 接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Slack-Guide) — 按官方步骤创建 Slack App、配置权限并连接 WorkBuddy · [详情](../items/slack-integration.md) ⌥
+- [Telegram 接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Telegram-Guide) — 配置 Telegram Bot，并将令牌安全地交给 WorkBuddy 完成连接 · [详情](../items/telegram-integration.md) ⌥
+- [Discord 接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Discord-Guide) — 创建 Discord 应用与 Bot、设置权限并添加到服务器 · [详情](../items/discord-integration.md) ⌥
+- [企业微信接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/Wecom-Guide) — 将 WorkBuddy 助理接入企业微信，并完成企业侧配置 · [详情](../items/wecom-integration.md) ⌥
+- [微信助理接入](https://www.workbuddy.ai/docs/zh/workbuddy/Platform-Integration/WeixinBot-Guide) — 将 WorkBuddy 助理接入微信，并按官方步骤完成配置与二维码登录 · [详情](../items/weixin-assistant-integration.md) ⌥
+- [Use an MCP server in WorkBuddy](https://developer.cloud.tencent.com/article/2698011) — MCP 配置与调用教程 · [详情](../items/use-an-mcp-server-in-workbuddy.md) ⌥
+- [WorkBuddy + Agent Mail](https://mp.weixin.qq.com/s/4sEZdOlEptsqbwmWSUplVQ) — 自动处理邮件的实践 · [详情](../items/workbuddy-agent-mail.md) ⌥
+- [WorkBuddy + Qichacha MCP](https://mp.weixin.qq.com/s/NRaiAMTHL6ckR9DGxUXPZA) — 企业尽调工作流案例 · [详情](../items/workbuddy-qichacha-mcp.md) ⌥
+- [教你用Workbuddy定时自动推送到微信](https://x.com/majiabin/status/2087003531270308028) — 首先要跟各位小伙伴道个歉，昨天的推文存在 根本性的错误 。原因是老马在测试的时候，误把WorkBuddy微信小程序的 任务通知 ，当成了接… · [详情](../items/workbuddy-435.md) 𝕏
+- [150块钱支付宝付款一个21美金的racknerd的VPS，workb…](https://x.com/atm_985/status/2116518137289953320) — 150块钱支付宝付款一个21美金的racknerd的VPS，workbuddy云端任务提供连接信息搭建好vpn并提供shadowrocke… · [详情](../items/150-21-racknerd-vps-workb.md) 𝕏
+- [模型会了，组织还没学会放权：飞书困在舒适区，workbuddy刚起身](https://x.com/tonado__/status/2085310538553430133) — 1. 字节的飞书，让位于豆包 最近有一个新闻，字节调整了飞书和豆包之间的关系，调整了两个产品之间的权力和资源利用的优先级，而这其实有迹可循… · [详情](../items/workbuddy-444.md) 𝕏
+- [小龙虾，终究只是南柯一梦。](https://x.com/bggg_ai/status/2077939322653999382) — 小龙虾，终究只是南柯一梦。 不敢说小龙虾已死。要不然又会有人来骂我制造焦虑了。 但事实上，我身边的圈子都已经没人再提了。 取而代之的，是各… · [详情](../items/x-53999382.md) 𝕏
+- [Tencent has unveiled Hy4, a 770-bil…](https://x.com/Gadinsidernews/status/2117949985572466959) — Tencent has unveiled Hy4, a 770-billion-parameter open-weight AI mode… · [详情](../items/tencent-has-unveiled-hy4-a-770-bil.md) 𝕏
+- [Tencent just stitched its scattered…](https://x.com/shajsjmuwu/status/2115849337754591479) — Tencent just stitched its scattered AI office tools into one system. … · [详情](../items/tencent-just-stitched-its-scattered.md) 𝕏
+- [Google just open-sourced Harness² —…](https://x.com/CloudDogx/status/2111791612095582235) — Google just open-sourced Harness² — a framework that lets frozen mode… · [详情](../items/google-just-open-sourced-harness.md) 𝕏
+- [WorkBuddy 免费档到底能跑多少量，我计算了大家使用最多的Dee…](https://x.com/nextterror/status/2120134025142841477) — WorkBuddy 免费档到底能跑多少量，我计算了大家使用最多的DeepSeek v4.1 flash的 token？ 我的计算口径是缓存… · [详情](../items/workbuddy-dee-2.md) 𝕏
+- [第4期:今天学到了怎么用微信clawbot跟电脑obsition同步信…](https://x.com/Hi1529711121743/status/2093168326222758009) — 第4期:今天学到了怎么用微信clawbot跟电脑obsition同步信息，不过要通过workbuddy去做媒介，我的天，关键让他同步一些信… · [详情](../items/4-clawbot-obsition.md) 𝕏
+- [今天看某大佬搞SKILL 用收费平台生成数字人，出品很好，](https://x.com/010101fly/status/2114707881442558087) — 今天看某大佬搞SKILL 用收费平台生成数字人，出品很好， 习惯戳免费的，我就用 WorkBuddy 串了一个，全本地，Qwen-Imag… · [详情](../items/skill-46.md) 𝕏
+- [Tencent packed WorkBuddy, Tencent D…](https://x.com/EphemeralTao/status/2116046778063798503) — Tencent packed WorkBuddy, Tencent Docs, Tencent Meeting, Tencent Driv… · [详情](../items/tencent-packed-workbuddy-tencent-d.md) 𝕏
+- [HOW WORKBUDDY TURNS YOUR DESKTOP IN…](https://x.com/Happy_hillman/status/2104242427162919222) — HOW WORKBUDDY TURNS YOUR DESKTOP INTO A HYPER PRODUCTIVE AI HUB Most … · [详情](../items/how-workbuddy-turns-your-desktop-in.md) 𝕏
+- [Tencent just made Hy4 flash free on…](https://x.com/pwndstar/status/2122691553814524286) — Tencent just made Hy4 flash free on WorkBuddy until November 30, and … · [详情](../items/tencent-just-made-hy4-flash-free-on.md) 𝕏
+- [Qwen3.8-Flash free for now. 1M cont…](https://x.com/imhaoyi/status/2108942017770541104) — Qwen3.8-Flash free for now. 1M context + multimodal. workbuddy's ds-v… · [详情](../items/qwen3-8-flash-free-for-now-1m-cont.md) 𝕏
+- [Qwen 3.8 Max topping a WebDev leade…](https://x.com/lingxiao_001/status/2095090871477973218) — Qwen 3.8 Max topping a WebDev leaderboard is impressive. But the bigg… · [详情](../items/qwen-3-8-max-topping-a-webdev-leade.md) 𝕏
+- [Tencent just launched Buddy One: on…](https://x.com/Chishan66/status/2121173724950880547) — Tencent just launched Buddy One: one free ID (and a paid VIP) that st… · [详情](../items/tencent-just-launched-buddy-one-on.md) 𝕏
+- [Just saw this and honestly didn't s…](https://x.com/OctansCapital/status/2031314734390362524) — Just saw this and honestly didn't see it coming. OpenClaw is absolute… · [详情](../items/just-saw-this-and-honestly-didn-t-s.md) 𝕏
+- [🚀 Tec-Do's Skills are now on WorkBu…](https://x.com/Tec_do2/status/2087872817270534460) — 🚀 Tec-Do's Skills are now on WorkBuddy, @TencentGlobal AI desktop age… · [详情](../items/tec-do-s-skills-are-now-on-workbu.md) 𝕏
+- [Tencent Hunyuan released and open-s…](https://x.com/VestigiaLabs/status/2094546457189601483) — Tencent Hunyuan released and open-sourced its new generation large la… · [详情](../items/tencent-hunyuan-released-and-open-s.md) 𝕏
+- [THE FIRST WORKING INTEGRATION MATTE…](https://x.com/yabarich/status/2105228862250508655) — THE FIRST WORKING INTEGRATION MATTERS 🛠️ reports more than 2.8 millio… · [详情](../items/the-first-working-integration-matte.md) 𝕏
+- [Tencent Cloud Extends Buddy Hy3 Fre…](https://x.com/DSWalletBot/status/2084549945332523020) — Tencent Cloud Extends Buddy Hy3 Free Trial to Aug 2026 Tencent Cloud … · [详情](../items/tencent-cloud-extends-buddy-hy3-fre.md) 𝕏
+- [Busy all day. Important work untouc…](https://github.com/LydiaTools/paper-collage-workbuddy/blob/main/README.en.md) — Busy all day. Important work untouched. A 12-second story: 1. Message… · [详情](../items/busy-all-day-important-work-untouc.md) 𝕏
+- [China’s tech stocks are rallying on…](https://x.com/Seandmn/status/2031301535611892010) — China’s tech stocks are rallying on excitement around the open-source… · [详情](../items/china-s-tech-stocks-are-rallying-on.md) 𝕏
+- [You are not ready for this kind of …](https://x.com/Bigshare3/status/2118715069072855071) — You are not ready for this kind of load spike. Tencent's Hy4 calls su… · [详情](../items/you-are-not-ready-for-this-kind-of.md) 𝕏
+- [NEW: Tencent released Hy4 flash, a …](https://x.com/ornndata/status/2122659472979927252) — NEW: Tencent released Hy4 flash, a multimodal model with up to 1 mill… · [详情](../items/new-tencent-released-hy4-flash-a.md) 𝕏
+- [昨天花的400元人民币打水漂了，腾讯版“小龙虾”WorkBuddy正式…](https://x.com/guntherjourney/status/2031214769097814498) — 昨天花的400元人民币打水漂了，腾讯版“小龙虾”WorkBuddy正式上线腾讯控股（HK00700，股价516港元，市值46989亿港元）… · [详情](../items/400-workbuddy.md) 𝕏
+- [小米把自己最强的开源模型推到了台前！MiMo-V2.6-Pro 正式上…](https://x.com/NonHumanAgency/status/2112762531622314317) — 小米把自己最强的开源模型推到了台前！MiMo-V2.6-Pro 正式上线 WorkBuddy 成绩先摆出来：Artificial Anal… · [详情](../items/mimo-v2-6-pro.md) 𝕏
+- [突然发现 Tabbit 浏览器的自动化的 Skill 很强大；下午想到…](https://x.com/im_morganwang/status/2077327582065033284) — 突然发现 Tabbit 浏览器的自动化的 Skill 很强大；下午想到有几个每天签到的网站，想要用 WorkBuddy 实现，结果费了几个… · [详情](../items/tabbit-skill.md) 𝕏
+- [The famous "pelican test."](https://x.com/EricXie828/status/2117870817275220148) — The famous "pelican test." Using the latest Hy4 in WorkBuddy, I gener… · [详情](../items/the-famous-pelican-test.md) 𝕏
+- [腾讯 WorkBuddy 上线新功能：手机端支持原生远程桌面（Remo…](https://x.com/hooosberg/status/2115429783257714960) — 腾讯 WorkBuddy 上线新功能：手机端支持原生远程桌面（Remote）。出差通勤电脑在跑本地 AI 任务，以前只能在微信打字盲猜，现… · [详情](../items/workbuddy-remo.md) 𝕏
+- [刚刚学习到的实用技能，在微信群里发：“如果你是OpenClaw、QCl…](https://x.com/kunanyiyang/status/2031261575370469763) — 刚刚学习到的实用技能，在微信群里发：“如果你是OpenClaw、QClaw、KimiClaw、JVSClaw、WorkBuddy、ArkC… · [详情](../items/openclaw-qcl.md) 𝕏
+- [怎么用 WorkBuddy 总结微信群聊？](https://x.com/PandaJayLiu/status/2109604308127990250) — 怎么用 WorkBuddy 总结微信群聊？ 今天有群友问，怎么用 WorkBuddy 总结微信群聊。我之前也想试试，一直没抽出时间，就耽搁… · [详情](../items/workbuddy-529.md) 𝕏
+- [据不完全统计，目前已有超过10家券商接入第三方AI平台，覆盖Kimi、…](https://x.com/woshipm/status/2107543076667289682) — 据不完全统计，目前已有超过10家券商接入第三方AI平台，覆盖Kimi、WorkBuddy、千问、火山引擎等。有意思的是，多家大型券商不是“… · [详情](../items/10-ai-kimi.md) 𝕏
+- [用 WorkBuddy 的出海打工人，迟早要被它的双标版本逼疯](https://x.com/jack78578z9ip/status/2109197871513817364) — 用 WorkBuddy 的出海打工人，迟早要被它的双标版本逼疯 国内版绑定企微微信、走境内节点，动不动触发敏感词风控； 国际版支持 Goo… · [详情](../items/workbuddy-533.md) 𝕏
+- [国内 Work 产品里，WorkBuddy 5.11.3 的界面做得干…](https://x.com/BNBMax0g/status/2123214369949729149) — 国内 Work 产品里，WorkBuddy 5.11.3 的界面做得干净利落。左侧一栏把新建任务、助手、专家技能、定时任务和资料库收得清楚… · [详情](../items/work-workbuddy-5-11-3.md) 𝕏
+- [刚开通了腾讯的 WorkBuddy，消耗积分，但可以做互动赚积分，赚积…](https://x.com/Kavin_Meng/status/2063808983073489002) — 刚开通了腾讯的 WorkBuddy，消耗积分，但可以做互动赚积分，赚积分的感觉像在玩王者荣耀活动抽卡。 1、界面很漂亮 2、专家模式里连接… · [详情](../items/workbuddy-535.md) 𝕏
+- [这也是腾讯系在 2G 侧多元化打法的一个缩影。据我了解，深圳南山区的不…](https://x.com/kros78181353/status/2117516925932847601) — 这也是腾讯系在 2G 侧多元化打法的一个缩影。据我了解，深圳南山区的不少机关单位已经普遍用上了免费版的 Workbuddy，配合政务微信，… · [详情](../items/2g.md) 𝕏
+- [给客户做AI自动日报，验收时记得查“送达”。](https://x.com/DistillX_AI/status/2102819387405406693) — 给客户做AI自动日报，验收时记得查“送达”。 WorkBuddy 9月21日的5.6.2更新，列出了企微定时通知延迟、漏发，以及没有运行记… · [详情](../items/ai-209.md) 𝕏
+- [微信支付AI专属卡发布](https://x.com/Zhiyuanthink/status/2067170107156267065) — 微信支付AI专属卡发布 “AI专属卡”最快本周内上线，据财联社报道称，微信支付正联合腾讯智能体产品 WorkBuddy 测试 AI 支付功… · [详情](../items/ai-212.md) 𝕏
+- [去给实验室做AI培训，讲讲workbuddy里做skill+lims系…](https://x.com/ToreyWrong/status/2109593097579446603) — 去给实验室做AI培训，讲讲workbuddy里做skill+lims系统做好了cli他们都能异常兴奋干劲十足。 真的是觉得能提效吗？其实是… · [详情](../items/ai-workbuddy-skill-lims.md) 𝕏
+- [一个巨人倒下了，但是摸他的尸体还带着余温。](https://x.com/big_ghost_smith/status/2123094530958491998) — 马云曾经说 一个巨人倒下了，但是摸他的尸体还带着余温。 另外skill是个鸡肋 如果一个AI产品还需要使用者亲自动手去装一些skill拓展… · [详情](../items/x-58491998.md) 𝕏
+- [龙虾的火爆在于 IM 接入、记忆、heartbeat ，但这些功能都被…](https://x.com/zjp1997720/status/2070178497524621598) — 龙虾的火爆在于 IM 接入、记忆、heartbeat ，但这些功能都被其他的 Agent 慢慢补齐了。 比如 workbuddy ，这个产… · [详情](../items/im-heartbeat.md) 𝕏
+- [感觉企业微信+Workbuddy体系，才是中国FDE的真实出路啊…](https://x.com/junyiyan/status/2115653228826374302) — 感觉企业微信+Workbuddy体系，才是中国FDE的真实出路啊… 最近几个月的企业微信动作太多了，而且我感觉绝大部分人都没有挖掘出智能助… · [详情](../items/workbuddy-fde-3.md) 𝕏
+- [我发现啊，这个人工智能小龙虾养到现在，有一个最大的心得就是：小龙虾虽然…](https://x.com/lixinbao_X/status/2041698216723542202) — 我发现啊，这个人工智能小龙虾养到现在，有一个最大的心得就是：小龙虾虽然好，但是它不能成为一个全面手。 如果是想做自动化的话，还是 Work… · [详情](../items/x-23542202.md) 𝕏
+- [微信群聊天信息再多也不用爬楼，用workBuddy一键提炼总结微信聊天…](https://x.com/reddavi59952376/status/2095895229102792728) — 微信群聊天信息再多也不用爬楼，用workBuddy一键提炼总结微信聊天记录 相信大家都有过这种烦恼：随着我们微信里加的群组越来越多，微信群… · [详情](../items/workbuddy-629.md) 𝕏
+- [难怪我的飞书没有收到消息，原来自动化失败了。。。](https://x.com/im_morganwang/status/2065246429241913799) — 难怪我的飞书没有收到消息，原来自动化失败了。。。 加载了 Skill 就算完成了。。。好家伙，这算 WorkBuddy 还是 deepse… · [详情](../items/x-41913799.md) 𝕏
+- [字节TraeWork出来抢市场了，注册直接送5000积分，普通号可以用…](https://x.com/weeksevenss/status/2094469740010062277) — 字节TraeWork出来抢市场了，注册直接送5000积分，普通号可以用非KimiK3以外的全部模型，比WorkBuddy大方可以试试，大厂… · [详情](../items/traework-5000.md) 𝕏
+- [每次看到我安装的AI软件有更新，心理都有一阵喜悦。项目的几个Agent…](https://x.com/zhoubin1972/status/2102222211046101402) — 每次看到我安装的AI软件有更新，心理都有一阵喜悦。项目的几个Agent的昵称是ima的叫我娃，workbuddy的叫阿织，豆包的叫军师，T… · [详情](../items/ai-agent-25.md) 𝕏
+- [字节TraeWork出来抢占市场了，注册直接送5000积分，普通号可以…](https://x.com/weeksevenss/status/2094469527430107615) — 字节TraeWork出来抢占市场了，注册直接送5000积分，普通号可以用非KimiK3以外的全部模型，比WorkBuddy大方可以试试，大… · [详情](../items/traework-5000-2.md) 𝕏
+- [今天意外发现 Workbuddy 把整个 agent runtime …](https://x.com/xRog3r/status/2084632245953024175) — 今天意外发现 Workbuddy 把整个 agent runtime 都放在了本地，而且所有 skills 提示词也明文保存，有点草台班子… · [详情](../items/workbuddy-agent-runtime.md) 𝕏
+- [早上发现腾讯workbuddy团队的脑袋被驴踢了，强制更新后，skil…](https://x.com/qtwaiter/status/2034441006587023803) — 早上发现腾讯workbuddy团队的脑袋被驴踢了，强制更新后，skill执行要手工点运行，那还要绑定微信钉钉干嘛 。做好的机器人钉钉查询健… · [详情](../items/workbuddy-skil-6.md) 𝕏
+- [今天听到可以从workbuddy 的一个skill 读取微信记录，哪位…](https://x.com/TaoTang1264919/status/2114325642980491514) — 今天听到可以从workbuddy 的一个skill 读取微信记录，哪位大佬知道是什么skill 吗？ 可以做成自动化，然后定时读取消息 · [详情](../items/workbuddy-skill-115.md) 𝕏
+- [哈哈哈, workbuddy上排名第一的专家团](https://x.com/CryptoSarom/status/2116242906700996854) — 哈哈哈, workbuddy上排名第一的专家团 还真是只吃早入场的红利, 这skill价值和那本微信读书的 “某橙皮书” 有得一比 · [详情](../items/workbuddy-661.md) 𝕏

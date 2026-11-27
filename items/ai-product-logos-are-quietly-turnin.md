@@ -15,11 +15,6 @@ AI product logos are quietly turning into characters. Grok, Coze, Wor…
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HQFvZIyWkAAb2vP.jpg)
-![](https://pbs.twimg.com/media/HQFvZInXUAAkAUO.jpg)
-
 ## 所有来源
 
 - X · [Wilson T. @WilsonTseng8](https://x.com/WilsonTseng8/status/2090074182209974704) · 2026-08-19 · 508 赞 / 35 转 / 23625 浏览

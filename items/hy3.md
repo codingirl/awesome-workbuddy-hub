@@ -15,10 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HMjN5-ua0AAVv1P.jpg)
-
 ## 所有来源
 
 - X · [Roger波杰克 @roger9949](https://x.com/roger9949/status/2074134416591622585) · 2026-07-06 · 10 赞 / 11815 浏览

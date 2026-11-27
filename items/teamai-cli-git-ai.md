@@ -15,10 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HQEofW2aAAAfGcU.jpg)
-
 ## 所有来源
 
 - X · [AIGCLINK @aigclink](https://x.com/aigclink/status/2089996669186462041) · 2026-08-19 · 390 赞 / 86 转 / 34643 浏览

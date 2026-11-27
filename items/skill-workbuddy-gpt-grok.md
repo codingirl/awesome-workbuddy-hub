@@ -1,6 +1,6 @@
 # 开源一个skill，让你的WorkBuddy一键用上GPT、Grok、…
 
-> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
+> 类型：技能（Skills） ｜ 分类：学习教程 ｜ 标签：学习教程
 
 ## 简介
 
@@ -14,15 +14,12 @@
 
 ## 使用/获取
 
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HN0V2EbaYAAwuJA.jpg)
-![](https://pbs.twimg.com/media/HN0V2S1bIAAdMhR.jpg)
+- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
+- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 
-- X · [智见AI-大鹏 @zjp1997720](https://x.com/zjp1997720/status/2079843010649747678) · 2026-07-22 · 250 赞 / 50 转 / 111531 浏览
+- X · [智见AI-大鹏 @zjp1997720](https://x.com/zjp1997720/status/2079843010649747678) · 2026-07-22 · 250 赞 / 50 转 / 111532 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

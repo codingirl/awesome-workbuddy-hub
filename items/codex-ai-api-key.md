@@ -15,10 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HRlr6AaagAAp1Ov.jpg)
-
 ## 所有来源
 
 - X · [半格 / HalfBit @justhalfbit](https://x.com/justhalfbit/status/2096828768946151466) · 2026-09-07 · 32 赞 / 3 转 / 11396 浏览

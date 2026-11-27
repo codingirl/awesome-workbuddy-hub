@@ -17,14 +17,10 @@
 - 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
 - ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HWF9lhiaEAAsvWv.jpg)
-![](https://pbs.twimg.com/media/HWF9rUWboAA674S.png)
-
 ## 所有来源
 
-- X · [躺在废墟里 Lieflat @lieflat_3](https://x.com/lieflat_3/status/2117111952690516412) · 2026-11-02 · 1726 赞 / 130 转 / 234323 浏览
+- X · [躺在废墟里 Lieflat @lieflat_3](https://x.com/lieflat_3/status/2117111952690516412) · 2026-11-02 · 1726 赞 / 130 转 / 234324 浏览
+- X · [离岸工具包🎒 @Stanllll6o](https://x.com/Stanllll6o/status/2117393476765782328) · 2026-11-02 · 0 赞 / 52 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

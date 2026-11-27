@@ -1,27 +1,21 @@
-# WorkBuddy 全套 AI 提效实战课
+# 实操记录：我用 WorkBuddy 跑通的第一条完整 AI 办公闭环
 
-> 类型：教程与指南 ｜ 分类：开发 ｜ 标签：开发
+> 类型：案例与实测 ｜ 分类：办公文档 ｜ 标签：办公文档
 
 ## 简介
 
-WorkBuddy 全套 AI 提效实战课 Codex + OpenClaw 自定义 Skill 全教程 🔗：
+实操记录：我用 WorkBuddy 跑通的第一条完整 AI 办公闭环
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
-> WorkBuddy 全套 AI 提效实战课 Codex + OpenClaw 自定义 Skill 全教程 🔗：
+本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HMTgPlQaQAADary.png)
-
 ## 所有来源
 
-- X · [白骏知识分享 @cj3214567667](https://x.com/cj3214567667/status/2073045093788061789) · 2026-07-03 · 135 赞 / 32 转 / 21852 浏览
+- X · [mousepotato @iluciddreaming](https://x.com/iluciddreaming/status/2074008662893547616) · 2026-07-06 · 232 赞 / 44 转 / 81684 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

@@ -1,10 +1,10 @@
-# 用 WorkBuddy 实现技能库 SKILL自由
+# Workbuddy换肤skill
 
-> 类型：技能（Skills） ｜ 分类：效率 ｜ 标签：效率
+> 类型：知识点与使用技巧 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
-用 WorkBuddy 实现技能库 SKILL自由
+Workbuddy换肤skill
 
 ## 详情
 
@@ -12,12 +12,10 @@
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 
-- X · [Tommy Xiao @xds2000](https://x.com/xds2000/status/2073306589360992369) · 2026-07-04 · 0 赞 / 258 浏览
+- X · [Wukong @WukongNumber1](https://x.com/WukongNumber1/status/2077784022596628822) · 2026-07-16 · 12 赞 / 1 转 / 2886 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

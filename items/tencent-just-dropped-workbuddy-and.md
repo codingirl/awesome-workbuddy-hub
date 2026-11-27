@@ -1,6 +1,6 @@
 # Tencent just dropped WorkBuddy and …
 
-> 类型：技能（Skills） ｜ 分类：效率 ｜ 标签：效率
+> 类型：提示词 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
@@ -14,8 +14,7 @@ Tencent just dropped WorkBuddy and it's wild. No setup, no prompt eng…
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
+- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
 
 ## 所有来源
 

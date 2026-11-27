@@ -1,6 +1,6 @@
 # md2wechat-skill v2.8.0 发布，新增 Agent …
 
-> 类型：工作流 ｜ 分类：设计 ｜ 标签：设计
+> 类型：技能（Skills） ｜ 分类：设计 ｜ 标签：设计
 
 ## 简介
 
@@ -14,10 +14,8 @@ md2wechat-skill v2.8.0 发布，新增 Agent 图片计划模式。 这版重点�
 
 ## 使用/获取
 
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HLobEoFbcAAtIrN.jpg)
+- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
+- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 

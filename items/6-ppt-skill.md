@@ -17,7 +17,7 @@
 
 ## 所有来源
 
-- X · [西堂AI创业笔记 @xitang_ai](https://x.com/xitang_ai/status/2121796122670743663) · 2026-11-15 · 74 赞 / 13 转 / 8598 浏览
+- X · [西堂AI创业笔记 @xitang_ai](https://x.com/xitang_ai/status/2121796122670743663) · 2026-11-15 · 74 赞 / 13 转 / 8599 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

@@ -1,25 +1,23 @@
-# 腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。
+# 看到有人吐槽 WorkBuddy 的付费 Skill：卖就卖吧，怎么还…
 
-> 类型：技能（Skills） ｜ 分类：内容创作 ｜ 标签：内容创作
+> 类型：知识点与使用技巧 ｜ 分类：办公文档 ｜ 标签：办公文档
 
 ## 简介
 
-腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。 现在的 Skill 绝大部分就是一个 Markdown 纯文本，里面写着…
+看到有人吐槽 WorkBuddy 的付费 Skill：卖就卖吧，怎么还要按月收费？ 这吐槽其实挺有道理。比如一个 Excel 处理技能，如…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。 现在的 Skill 绝大部分就是一个 Markdown 纯文本，里面写着提示词和调用规则。 除了浪费了更多的token并没有提升多少 所谓的专家并没用
+> 看到有人吐槽 WorkBuddy 的付费 Skill：卖就卖吧，怎么还要按月收费？ 这吐槽其实挺有道理。比如一个 Excel 处理技能，如果买断之后就能一直用，那为什么还要每个月继续付钱？ 当然，如果这个 Skill
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 
-- X · [杰克船长 @lovingkidzs](https://x.com/lovingkidzs/status/2114351090850550223) · 2026-10-25 · 3 赞 / 112 浏览
+- X · [高静宇 | AI 落地 @gaojingyu](https://x.com/gaojingyu/status/2113822012997255344) · 2026-10-24 · 15 赞 / 3821 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

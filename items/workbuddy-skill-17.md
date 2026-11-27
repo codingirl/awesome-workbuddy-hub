@@ -1,28 +1,23 @@
-# WorkBuddy 的 Skill 审核给我上了一课。本想上传一个开源…
+# 腾讯的workbuddy 有一个skill 能够直接排版、上传图片，一…
 
-> 类型：工作流 ｜ 分类：设计 ｜ 标签：设计
+> 类型：知识点与使用技巧 ｜ 分类：设计 ｜ 标签：设计
 
 ## 简介
 
-WorkBuddy 的 Skill 审核给我上了一课。本想上传一个开源 Skill，现在决定先整理自己工作流里真正反复用的技能，注明来源和…
+腾讯的workbuddy 有一个skill 能够直接排版、上传图片，一秒钟就解决了之前得花半个多小时的排版工作，我怎么才发现啊！！！ 我不…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> WorkBuddy 的 Skill 审核给我上了一课。本想上传一个开源 Skill，现在决定先整理自己工作流里真正反复用的技能，注明来源和授权。我的“免费图片生成”因类目不符被驳回； I’ll share skills I actually use, with proper credit and licensing. #WorkBuddy #开源 #AI技能
+> 腾讯的workbuddy 有一个skill 能够直接排版、上传图片，一秒钟就解决了之前得花半个多小时的排版工作，我怎么才发现啊！！！ 我不希望居然还有人不知道这个玩意！用起来！
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HWK1IOfacAAcvhY.jpg)
-![](https://pbs.twimg.com/media/HWK1IOrakAEHRpf.jpg)
-
 ## 所有来源
 
-- X · [chase Liu（damn版） @chaseLiudoqt](https://x.com/chaseLiudoqt/status/2117454154172133527) · 2026-11-03 · 9 赞 / 678 浏览
+- X · [Nikola @Nikola314159](https://x.com/Nikola314159/status/2071850221416701962) · 2026-06-30 · 19 赞 / 4 转 / 6137 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

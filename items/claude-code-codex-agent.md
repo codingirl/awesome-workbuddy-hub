@@ -1,6 +1,6 @@
 # 如果你因为种种原因用不了Claude Code、Codex等Agent…
 
-> 类型：知识点与使用技巧 ｜ 分类：数据分析 ｜ 标签：数据分析
+> 类型：案例与实测 ｜ 分类：数据分析 ｜ 标签：数据分析
 
 ## 简介
 
@@ -14,11 +14,6 @@
 
 ## 使用/获取
 
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HOR1ZxPagAABHAQ.jpg)
-![](https://pbs.twimg.com/media/HOR1kPRa0AA8xwu.jpg)
 
 ## 所有来源
 

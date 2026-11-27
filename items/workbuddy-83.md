@@ -1,10 +1,10 @@
-#  WorkBuddy 零基础入门系统教程（下）
+# 教你用WorkBuddy搞定公司日常销售工作
 
-> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
+> 类型：知识点与使用技巧 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
-WorkBuddy 零基础入门系统教程（下）
+教你用WorkBuddy搞定公司日常销售工作
 
 ## 详情
 
@@ -15,7 +15,7 @@ WorkBuddy 零基础入门系统教程（下）
 
 ## 所有来源
 
-- X · [挺身而出的蜗牛 @isanameonly](https://x.com/isanameonly/status/2084687389604323348) · 2026-08-04 · 2 赞 / 9979 浏览
+- X · [马佳彬 @majiabin](https://x.com/majiabin/status/2091348666887950667) · 2026-08-23 · 51 赞 / 14 转 / 6874 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

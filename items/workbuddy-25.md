@@ -1,29 +1,24 @@
-# Workbuddy 教育版通过无教资通过，25 号申请的，用的是学生信…
+# 前两天，小灰发布的《WorkBuddy 保姆级入门教程》爆火了！
 
-> 类型：提示词 ｜ 分类：效率 ｜ 标签：效率
+> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
 
 ## 简介
 
-Workbuddy 教育版通过无教资通过，25 号申请的，用的是学生信息，估计是bug,没上传教师资格证、课表、聘书等内容 也可以用 ai…
+前两天，小灰发布的《WorkBuddy 保姆级入门教程》爆火了！ 大家对 WorkBuddy 的学习热情，还远超小灰的预期。 为了方便大家…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> Workbuddy 教育版通过无教资通过，25 号申请的，用的是学生信息，估计是bug,没上传教师资格证、课表、聘书等内容 也可以用 ai 生成，千问提示词：生成小学课表，教师是我 申请链接直达：
+> 前两天，小灰发布的《WorkBuddy 保姆级入门教程》爆火了！ 大家对 WorkBuddy 的学习热情，还远超小灰的预期。 为了方便大家阅读，小灰把 WorkBuddy 的上下篇教程汇总在一起，希望能帮助到各位AI圈友。 教程上篇： 教程下篇：
 
 ## 使用/获取
 
-- 链接：<https://doc.weixin.qq.com/txdoc/apply_page?form_id=AJEAIQdfAAoAXcAJQZtABoCNHisaiAXTf&ver=1&sourcetag=redirect#/login>
-- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HVlGgtQawAAhQH_.jpg)
 
 ## 所有来源
 
-- X · [DaBin.Binah @yedabinbinah](https://x.com/yedabinbinah/status/2114799039581696321) · 2026-10-26 · 177 赞 / 20 转 / 49889 浏览
+- X · [程序员小灰 @XiaohuiAI666](https://x.com/XiaohuiAI666/status/2073223879624192437) · 2026-07-04 · 318 赞 / 73 转 / 59959 浏览
+- X · [程序员小灰 @XiaohuiAI666](https://x.com/XiaohuiAI666/status/2073211585330565591) · 2026-07-04 · 2 赞 / 284 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

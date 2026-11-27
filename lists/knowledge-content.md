@@ -1,0 +1,228 @@
+# 知识点与使用技巧 · 内容创作（224）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [Codex剪辑第三弹：2条视频接下近四位数商单，知识类视频剪辑方法全公开【万字长文】](https://x.com/xilo2991/status/2091071218963411453) — 熟悉的朋友应该都知道我最近在更新视频，并且数据还不错。 某音2条视频开通精选计划，某书2条视频接下了近四位数商单。目前两个账号都只发了3条… · [详情](../items/codex-2.md) 𝕏
+- [别不信！ WorkBuddy 就可以把你的小红书从0粉干到1000](https://x.com/Eejoylove/status/2074028317498601870) — 别不信！ WorkBuddy 就可以把你的小红书从0粉干到1000 · [详情](../items/workbuddy-0-1000.md) 𝕏
+- [ffmpeg-skill 本地剪视频](https://github.com/kajisho5/ffmpeg-skill) — 杀疯了！ ffmpeg-skill 本地剪视频 AI编程助手直接出片 让claude code, cursor, codex, workb… · [详情](../items/ffmpeg-skill.md) 𝕏
+- [最近用ai做小红书有点小心得了，小小分享一下给朋友们，后面再整一篇干货…](https://x.com/liuqindong888/status/2114159223240306889) — 最近用ai做小红书有点小心得了，小小分享一下给朋友们，后面再整一篇干货出来。 首先是在你的电脑上搞一个ai，来到这里的应该都懂，不是网页版… · [详情](../items/ai-9.md) 𝕏
+- [做国内的AI 自媒体账号，如何快速涨到 10w 粉，月入 10w+？](https://x.com/Bigwave521/status/2123999019102011437) — 做国内的AI 自媒体账号，如何快速涨到 10w 粉，月入 10w+？ 其实非常简单，按照下面这个公式来即可： 第一步： 把Codex，Cl… · [详情](../items/ai-10w-10w.md) 𝕏
+- [我来揭示秘密！](https://x.com/PixelAigc/status/2093563293306929579) — 我来揭示秘密！ 1⃣硬件： 我的电脑是4070显卡16G显存，CUP I7-13700内存是32G 2⃣配置技术： 这种配置电脑和显卡本地… · [详情](../items/x-06929579.md) 𝕏
+- [如果你身边的人，到现在还没有在讨论：](https://x.com/MaxForAI/status/2089184371886690760) — 如果你身边的人，到现在还没有在讨论： Codex、Claude Code、WorkBuddy、Cursor、Vibe Coding、Ski… · [详情](../items/x-86690760.md) 𝕏
+- [用 ima 搭一个公众号爆款知识库，顺便把钱赚了](https://x.com/Eejoylove/status/2075526205714092470) — 看了我前面的教程的朋友，现在我们有了内容，有了方法，最后发现做公众号最痛苦的事，其实不是写不出来。 是每天打开后台，对着空白编辑器，脑子也… · [详情](../items/ima.md) 𝕏
+- [手搓视频的时代，真的回不去了。](https://x.com/CryY666666/status/2121128472441667699) — 手搓视频的时代，真的回不去了。 LibTV + WorkBuddy 组合，整个视频创作流程丝滑得有点离谱。 你可以直接在 WorkBudd… · [详情](../items/x-41667699.md) 𝕏
+- [Hypit 还是太强了](https://hypit.ai) — Hypit 还是太强了 一句话就可以让你的 Agent 换人复刻视频 codex 到期了 用的是 WorkBuddy 接的 wan3.0 … · [详情](../items/hypit.md) 𝕏
+- [我自己的公众号排版工具，开源了。](https://x.com/zhouluobo/status/2123018626127327708) — 大家好，我是萝卜哥~ 前段时间我开源了一个公众号排版 Skill，叫“萝卜排版”。把 Markdown 文章交给 Agent，它会按内容选… · [详情](../items/x-27327708.md) 𝕏
+- [这也太爽了吧！躺在床上说说话就把小说写了，还能赚钱？](https://x.com/Yunn260414/status/2085374669247705324) — 这也太爽了吧！躺在床上说说话就把小说写了，还能赚钱？ 视频演示了 WorkBuddy 从七猫扫榜到自动写小说的完整链路： 📊 扫七猫新书榜… · [详情](../items/x-47705324.md) 𝕏
+- [腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。](https://x.com/realchendahuang/status/2114034181042762003) — 腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。 现在的 Skill 绝大部分就是一个 Markdown 纯文本，里面写着… · [详情](../items/workbuddy-skill-8.md) 𝕏
+- [GPT Image 2.0 炸场！1块5生成一套漫剧分镜，Codex+…](https://x.com/Vincent_AINotes/status/2047852069609144623) — GPT Image 2.0 炸场！1块5生成一套漫剧分镜，Codex+Image 2.0 彻底进化！🔥 这是一个门槛极低，但异常暴利的“A… · [详情](../items/gpt-image-2-0-1-5-codex.md) 𝕏
+- [日更博主不会告诉你的选题方法：WorkBuddy + Obsidian搭建一个永不枯竭的选题库](https://x.com/momo_peggy/status/2086711885064183891) — 今天来说说我选题的方法，大家多批评指正 我一直关注AI圈的两个大博主，你肯定也认识 一个叫宝玉，技术出身，写AI编程、Agent工作流这些… · [详情](../items/workbuddy-obsidian-3.md) 𝕏
+- [WorkBuddy+Renoise MCP , 生成具有Opus 5.…](https://x.com/shitunote/status/2115421474828013593) — WorkBuddy+Renoise MCP , 生成具有Opus 5.5效果的动效视频 1/4 下面这条炫酷的动效视频，我是用AI工具一句… · [详情](../items/workbuddy-renoise-mcp-opus-5.md) 𝕏
+- [至今没碰 WorkBuddy, 但忍不住好奇心，又想玩](https://x.com/huangyun_122/status/2081063108932718931) — 至今没碰 WorkBuddy, 但忍不住好奇心，又想玩 可实在忍不了要去官网下载，安装，看说明，还有可能要配置各种环境 于是，把任务丢给 … · [详情](../items/workbuddy-45.md) 𝕏
+- [我用WorkBuddy里面的Deepseek Flash写的文章](https://x.com/newbeeyu/status/2113454845785149531) — 我用WorkBuddy里面的Deepseek Flash写的文章 用朱雀检测，卧槽，竟然100%人工 果然写作skill需要不断迭代才可以… · [详情](../items/workbuddy-deepseek-flash.md) 𝕏
+- [OPC：夸大描述 Claude、Codex 的能力做 AI 博主搞流量…](https://x.com/dontbesilent/status/2115752158457122894) — OPC：夸大描述 Claude、Codex 的能力做 AI 博主搞流量，然后接 workbuddy 商单赚钱 每日烦恼：小红书限流封号 F… · [详情](../items/opc-claude-codex-ai.md) 𝕏
+- [为什么放着 Codex 不用？视频号博主选 WorkBuddy 的真实理由](https://x.com/ModengSir/status/2074312503618584610) — 为什么放着 Codex 不用？视频号博主选 WorkBuddy 的真实理由 · [详情](../items/codex-workbuddy.md) 𝕏
+- [卧槽，豆包，你要干啥，你真的想超越workbuddy吗？豆包可能真的在…](https://x.com/gengdaJ/status/2090686537684099218) — 卧槽，豆包，你要干啥，你真的想超越workbuddy吗？豆包可能真的在不知不觉间要吓各位一跳了。 之前做下面这个批量抓取抖音AI视频数据的… · [详情](../items/workbuddy-50.md) 𝕏
+- [微信视频号博主如何利用workbuddy一条龙做好内容策划](https://x.com/ModengSir/status/2074702153579429927) — 一、做视频号越做越累？核心是在内容上 很多视频号博主越做越累，真不是你不会拍、不会剪！ 90% 的博主之所以涨粉停滞、数据忽高忽低、频繁断… · [详情](../items/workbuddy-51.md) 𝕏
+- [我分享做怎么用 AI 视频做动画的那条推文，第一次带上了自己完整社媒视…](https://x.com/I_am_oil_oil/status/2086752343094403559) — 我分享做怎么用 AI 视频做动画的那条推文，第一次带上了自己完整社媒视频，但是没想到能收到这么多人的关注，现在点赞竟然有两千多了。 这条视… · [详情](../items/ai-17.md) 𝕏
+- [我的WorkBuddy真的在20分钟帮我变现了 3.93，0成本，一点…](https://x.com/Astronaut_1216/status/2087482978418958791) — 我的WorkBuddy真的在20分钟帮我变现了 3.93，0成本，一点TOKEN都没花 而且我觉得这套东西挂到小红书上能够卖199，成为一… · [详情](../items/workbuddy-20-3-93-0.md) 𝕏
+- [AI 漫剧全流程 Skill：一句话生成企划案、资产图提示词、分集剧本…](https://x.com/jackzhang123vip/status/2117144424828243984) — AI 漫剧全流程 Skill：一句话生成企划案、资产图提示词、分集剧本、分镜与视频提示词。全平台适用 Claude Code、codex，… · [详情](../items/ai-skill.md) 𝕏
+- [教你用Workbuddy实现公众号文章精美排版](https://x.com/majiabin/status/2087735053447217496) — 今天先给大家补一篇有小伙伴问到的教程，那就是老马的公众号文章排版问题。后续有关 WorkBuddy 的教程，可能会更偏向行业落地解决方案。… · [详情](../items/workbuddy-60.md) 𝕏
+- [2 月错过 OpenClaw，6 月错过 Codex，8 月又错过 W…](https://x.com/Sunkeke_AI/status/2110553097697448054) — 2 月错过 OpenClaw，6 月错过 Codex，8 月又错过 WorkBuddy。年初还没入局，现在才刚上场。以前总觉得自己准备不足… · [详情](../items/2-openclaw-6-codex-8-w.md) 𝕏
+- [如果你想用Skill写公众号或者微头条或者其他平台的内容型文章，建议大…](https://x.com/QuantaQueen/status/2070016019930939791) — 如果你想用Skill写公众号或者微头条或者其他平台的内容型文章，建议大家可以用一下Workbuddy。你正常只是写文章的情况下，坚持每天领… · [详情](../items/skill-7.md) 𝕏
+- [对于国内的应用场景，我真心觉得 WorkBuddy 可以平替 Code…](https://x.com/zhouluobo/status/2082833995117850779) — 对于国内的应用场景，我真心觉得 WorkBuddy 可以平替 Codex，而且比 Codex 的功能更多，无论是做自媒体还是日常提效，都相… · [详情](../items/workbuddy-code.md) 𝕏
+- [最近 WAIC 认识了很多 AI 人才，很多人都跟我说，自己也想做自媒…](https://x.com/ally_foe/status/2079126233141616688) — 最近 WAIC 认识了很多 AI 人才，很多人都跟我说，自己也想做自媒体，想做 AI 博主。 那我先讲一个很炸裂的暴论：个人做 AI 小红… · [详情](../items/waic-ai.md) 𝕏
+- [仔细拆了大冰老师这段录屏，发现厉害的不只是用了多少 AI 工具，而是他…](https://x.com/0xlangeai/status/2120153968164917341) — 仔细拆了大冰老师这段录屏，发现厉害的不只是用了多少 AI 工具，而是他在认真研究：怎么让这些 AI 一起干活。 App 研发、音乐配音、短… · [详情](../items/ai-20.md) 𝕏
+- [我让 WorkBuddy 进微信，从公众号评论区找商机](https://x.com/WattterDjiang/status/2124808183076266486) — 我让 WorkBuddy 进微信，从公众号评论区找商机 · [详情](../items/workbuddy-81.md) 𝕏
+- [还在找 Opus 5.5 入口？先停。](https://x.com/ModengSir/status/2115262836050100517) — 还在找 Opus 5.5 入口？先停。 分享一条不靠共享账号、稳定可用的路线，成片见下方视频。 比起追一时炸裂的效果，我更看重交付稳定性和… · [详情](../items/opus-5-5.md) 𝕏
+- [我们的WorkBuddy实战蓝皮书，开源半个月，已经有10万人学习过啦…](https://x.com/aikangarooking/status/2082500266835034482) — 我们的WorkBuddy实战蓝皮书，开源半个月，已经有10万人学习过啦！ GitHub也到1.5K Star了，感谢大家支持～ 这条视频用… · [详情](../items/workbuddy-10-4.md) 𝕏
+- [小红书的付费意愿真的可以](https://x.com/Jack_FluxAI/status/2082863427752804811) — 小红书的付费意愿真的可以 帮这位小红书的兄弟 装了ChatGPT和WorkBuddy 现在他还有文献检索的需求 还可以再帮他做个Skill… · [详情](../items/x-52804811.md) 𝕏
+- [教你用WorkBuddy制作公众号文章酷炫SVG动画](https://x.com/majiabin/status/2119981047614226882) — 说到SVG动画，老一辈的微信公众号运营人都不陌生。就是一篇公众号文章打开来，它里面是有可以互动，或者呈现动画展示内容效果的，并非正常显示阅… · [详情](../items/workbuddy-svg.md) 𝕏
+- [小红书做自媒体，现在还是红利期。](https://x.com/ai_suxiaole/status/2105157520642003396) — 小红书做自媒体，现在还是红利期。 千粉就能开始变现。 再配合 Workbuddy 找选题、整理资料、写初稿，一个人也能把内容做起来。 当个… · [详情](../items/x-42003396.md) 𝕏
+- [说说 WorkBuddy Harness 蓝皮书📘的起心动念。](https://x.com/zjp1997720/status/2088926783949180933) — 说说 WorkBuddy Harness 蓝皮书📘的起心动念。 大概两个月前，我和电子工业出版社签了一个 WorkBuddy 视频课的项目… · [详情](../items/workbuddy-harness-3.md) 𝕏
+- [WorkBuddy VS 豆包工作，你应该选择哪一个？](https://x.com/XiaohuiAI666/status/2106698273138639136) — WorkBuddy VS 豆包工作，你应该选择哪一个？ 小灰真人出镜，从6个角度为大家深度分析。 文章和视频，总有一款适合你。 · [详情](../items/workbuddy-vs.md) 𝕏
+- [Tencent WorkBuddy 让我看到了在 AI 时代下一个真正…](https://x.com/WiseInvest513/status/2069391410386849907) — Tencent WorkBuddy 让我看到了在 AI 时代下一个真正有价值的产品真正应该解放的生产力！ 就过去而言，多数朋友都非常好奇我… · [详情](../items/tencent-workbuddy-ai.md) 𝕏
+- [分享一个 WorkBuddy 的省额度小技巧](https://x.com/ai_suxiaole/status/2077410225116860910) — 分享一个 WorkBuddy 的省额度小技巧 不要把模型设置成 Auto 直接选择 HY3，目前还是限时免费，可以无限使用 如果只是日常问… · [详情](../items/workbuddy-96.md) 𝕏
+- [教你用WorkBuddy本地部署MiniMax H3开源生视频模型](https://x.com/majiabin/status/2121432063727563224) — 教你用WorkBuddy本地部署MiniMax H3开源生视频模型 · [详情](../items/workbuddy-minimax-h3.md) 𝕏
+- [腾讯 Hy4 今天开源！非常亮眼！](https://x.com/servasyy_ai/status/2093247729531310184) — 腾讯 Hy4 今天开源！非常亮眼！ 我提前拿到内测，让它干了一件事：在 WorkBuddy 里从零做一个 3D 赛车游戏，最后要能开着跑。… · [详情](../items/hy4.md) 𝕏
+- [workbuddy 创业进展-我要出书了](https://x.com/zjp1997720/status/2086688194414985545) — 【workbuddy 创业进展-我要出书了】 再给大家汇报一下最新进展～ 上午在北京见了位出版社的主任编辑，签了个 workbuddy 的… · [详情](../items/workbuddy-97.md) 𝕏
+- [WorkBuddy + Skill公众号自动化获客实战课](https://x.com/jglcn1991/status/2112565867938709722) — WorkBuddy + Skill公众号自动化获客实战课 公众号做不起来，往往不是写不动，是那八件事没人替你干 一个人既要追热点选题、写一… · [详情](../items/workbuddy-skill-16.md) 𝕏
+- [Claude Code这个Harness工具确实厉害](https://x.com/shitunote/status/2065956235686592873) — Claude Code这个Harness工具确实厉害 我想做一个自动抓取自己关注的几个微信公众号24小时内文章的小工具 本来想优先用腾讯系… · [详情](../items/claude-code-harness.md) 𝕏
+- [最近在做的海绵宝宝讲经济学视频，我发现 WorkBuddy + Dee…](https://x.com/zq4495/status/2086687910120841639) — 最近在做的海绵宝宝讲经济学视频，我发现 WorkBuddy + DeepSeek V4 flash 这个组合已经足够用了。 在 WorkB… · [详情](../items/workbuddy-dee.md) 𝕏
+- [《墨戏·四点》由 DeepSeek v4.1-flash-1017 制作](https://x.com/Leviwoyun/status/2112545681361813931) — 《墨戏·四点》由 DeepSeek v4.1-flash-1017 制作 我让 DeepSeek 去跟 Claude取了取经🤣，整体风格有… · [详情](../items/deepseek-v4-1-flash-1017.md) 𝕏
+- [下周开始系统研究一下 workbuddy 主要有以下几个方向，感兴趣的…](https://x.com/Jackywine/status/2084872587746963893) — 下周开始系统研究一下 workbuddy 主要有以下几个方向，感兴趣的友友可以持续关注： workbuddy 公众号运营，从写作到发布 w… · [详情](../items/workbuddy-114.md) 𝕏
+- [AI 历史故事视频：一次真实的实践探索](https://x.com/cy666cy666/status/2116727165827875236) — 前段时间，我尝试了一个内容变现方向： 用 AI 制作历史人物故事视频，发布到视频号，再通过视频号橱窗关联历史书籍。 最开始是看到一位博主分… · [详情](../items/ai-35.md) 𝕏
+- [不会吧不会吧？？？难道现在还有人不知道，Claude、Codex、Wo…](https://x.com/rionaifantasy/status/2125274787790631382) — 不会吧不会吧？？？难道现在还有人不知道，Claude、Codex、Workbuddy也是可以直接帮你爬取X的爆款贴并读取数据的？？ 只要装… · [详情](../items/claude-codex-wo.md) 𝕏
+- [WorkBuddy正式上线「远程控制」，现在用手机就能查看并接管电脑。](https://x.com/cheery9998/status/2115631609689108705) — WorkBuddy正式上线「远程控制」，现在用手机就能查看并接管电脑。 1、实时查看电脑画面 打开WorkBuddy App，一键连接电脑… · [详情](../items/workbuddy-118.md) 𝕏
+- [用workbuddy写作，过朱雀最容易的模型是Deepseek-V4-…](https://x.com/QuantaQueen/status/2074266159646703749) — 用workbuddy写作，过朱雀最容易的模型是Deepseek-V4-Pro，前提是你的skill已经比较成熟的训练过。 · [详情](../items/workbuddy-deepseek-v4.md) 𝕏
+- [我发现WorkBuddy还有个妙用：就是很轻松就能下载视频号的视频，不…](https://x.com/lanshu/status/2113134538562085083) — 我发现WorkBuddy还有个妙用：就是很轻松就能下载视频号的视频，不需要skill，直接发链接就可以。 codex就不行，到底是一个系的… · [详情](../items/workbuddy-126.md) 𝕏
+- [现在很多人研究 AI 短剧，天天盯着哪个视频模型更厉害。](https://x.com/gimcall/status/2121921641190199708) — 现在很多人研究 AI 短剧，天天盯着哪个视频模型更厉害。 我反而觉得，模型不是最重要的。 真正值得研究的是，能不能一个人把整部短剧做完，而… · [详情](../items/ai-39.md) 𝕏
+- [🔥重磅！腾讯AI混元元宝搜索正式对外开放！](https://x.com/NFT_Chen/status/2112541539008385214) — 🔥重磅！腾讯AI混元元宝搜索正式对外开放！ 鹅厂Agent内部在用的联网搜索引擎，现通过腾讯云面向开发者全面开放。 核心亮点： 🔹 千亿级… · [详情](../items/ai-42.md) 𝕏
+- [今天刷 GitHub 时又翻出 4 个刚更新的 WorkBuddy 开…](https://x.com/cheery9998/status/2125520366651015356) — 今天刷 GitHub 时又翻出 4 个刚更新的 WorkBuddy 开源配套项目，涵盖跨 Agent 会话索引、自然语言生图生视频，以及每… · [详情](../items/github-4-workbuddy.md) 𝕏
+- [Personal AI 火了，它和 Codex、WorkBuddy 这…](https://x.com/czzzzzzJ_/status/2107710313051381764) — Personal AI 火了，它和 Codex、WorkBuddy 这类通用 Agent 到底有什么不一样？ 这期一条视频讲清楚，再横评三… · [详情](../items/personal-ai-codex-workbuddy.md) 𝕏
+- [两个我在 WorkBuddy 里一直在用的小技巧](https://x.com/ai_suxiaole/status/2077594754150510980) — 两个我在 WorkBuddy 里一直在用的小技巧 ① 给 AI 建立长期记忆（MEMORY.md） 不要让 AI 每次都重新认识你 让它维… · [详情](../items/workbuddy-134.md) 𝕏
+- [DeepSeek 不是多模态，不能生图/生视频，怎么办？](https://x.com/afei_AI/status/2086650268813586892) — 最近被问到一个卡点：在 WorkBuddy 或 codex 里配好了 DeepSeek 文本任务跑得挺顺，轮到出图、出视频，整条链路就断了… · [详情](../items/deepseek.md) 𝕏
+- [做视频博主的第一原则就是](https://x.com/kongge_space/status/2097951966194188658) — 做视频博主的第一原则就是 也就是把任何动作都当成视频脚本 详细展开下这个方法，就是比如我现在发的这个动态，比如我操作 workbuddy … · [详情](../items/x-94188658.md) 𝕏
+- [想让豆包、Workbuddy、Claude Code、Deepseek…](https://x.com/Miamaomimia/status/2109622342850949204) — 想让豆包、Workbuddy、Claude Code、Deepseek Harness 都能调用 Codex 的原生生图能力？接入这个 S… · [详情](../items/workbuddy-claude-code-deepseek.md) 𝕏
+- [如何建立一套真正可执行的公众号 AI 写作流程？（深度拆解，建议收藏）](https://x.com/JunCoi7d/status/2119355630930870529) — 我用 WorkBuddy 跑通了一套公众号写作流程。今天不讲虚的，直接把整套工作流的底层逻辑和配置方法全拆给你。 我自己平时做内容、写公众… · [详情](../items/ai-45.md) 𝕏
+- [workbuddy里看公众号的skill也是用的红狐，不过公众号我们测…](https://x.com/lanshu/status/2090416664630415786) — workbuddy里看公众号的skill也是用的红狐，不过公众号我们测试过发现账号不全，数据要延迟到T+1 的，要想要准实时的还需要一些手… · [详情](../items/workbuddy-skill-20.md) 𝕏
+- [蓝桥云课】蓝桥杯省赛无忧班（Java 组） - 带源码课件](https://pan.quark.cn/s/c912d09fcb2e) — 【蓝桥云课】蓝桥杯省赛无忧班（Java 组） - 带源码课件 AI写作陪跑营3.0，Ai智能体创建写作skill（workbuddy）+人… · [详情](../items/java.md) 𝕏
+- [因核心接口被官方关闭，微信公众号文章批量下载工具已不复存在😭](https://x.com/msjiaozhu/status/2090625905886691517) — 因核心接口被官方关闭，微信公众号文章批量下载工具已不复存在😭 所以摸索了一条新路： 基于 WorkBuddy，登录自己的后台 → Play… · [详情](../items/x-86691517.md) 𝕏
+- [兄弟们, 如果没有 Claude Opus5.5 怎么做 vibe 知…](https://x.com/0xlangeai/status/2120057117583528018) — 兄弟们, 如果没有 Claude Opus5.5 怎么做 vibe 知识的视频 , 这篇文章提供了个方法, 用 workbuddy + 特… · [详情](../items/claude-opus5-5-vibe.md) 𝕏
+- [腾讯的workbuddy非常容易上手，尤其是专家里面有很多实用的技能。](https://x.com/Eejoylove/status/2071485948194611690) — 腾讯的workbuddy非常容易上手，尤其是专家里面有很多实用的技能。 比如内容创作，他可以给你做小红书账号运营的规划，很接地气。 工具不… · [详情](../items/workbuddy-158.md) 𝕏
+- [最近在测试 DeepSeek-V4.1-Flash-1017 的表现！](https://x.com/leo_xiaolei/status/2112230546671829343) — 最近在测试 DeepSeek-V4.1-Flash-1017 的表现！ 不得不说，在视频制作方面的效果~~ 没有想象的那么差，下面这个视频… · [详情](../items/deepseek-v4-1-flash-1017-2.md) 𝕏
+- [马斯克是黄仁勋真正的朋友！](https://x.com/shitunote/status/2122129119207190815) — 马斯克是黄仁勋真正的朋友！ 患难见真情（A friend in need is a friend indeed） Appriciate E… · [详情](../items/x-07190815.md) 𝕏
+- [OpenMotion 支持 Codex、Claude Code、Dee…](https://x.com/tuturetom/status/2122649336660296089) — OpenMotion 支持 Codex、Claude Code、DeepSeek Harness、WorkBuddy 等 20+ Agen… · [详情](../items/openmotion-codex-claude-code-dee.md) 𝕏
+- [我和很多大厂的朋友聊天，基本上除了程序员，很多人对 AI 的认知就是豆…](https://x.com/rollingSirius/status/2091893669532180508) — 我和很多大厂的朋友聊天，基本上除了程序员，很多人对 AI 的认知就是豆包和 Workbuddy，多得是不知道 Agent 和 Skill … · [详情](../items/ai-53.md) 𝕏
+- [用workbuddy](https://x.com/ScarletWave7/status/2112813313163952185) — 用workbuddy 把 codex 的GPT image 2 做成了一个skills命令 这样就可以在workvuddy里面 写文章的时… · [详情](../items/workbuddy-168.md) 𝕏
+- [我在workbuddy里，用HY 4生成了一段给孩子演示太阳系行星运动…](https://x.com/shitunote/status/2119662335673749691) — 我在workbuddy里，用HY 4生成了一段给孩子演示太阳系行星运动的视频，让孩子理解一年的概念以及为什么不同星球的一年长短不同。如下。… · [详情](../items/workbuddy-hy-4.md) 𝕏
+- [AI 视频别再靠运气了：Claude Code + Codex + Seedance，如何从想法走向成片？](https://x.com/HeyWildAbe/status/2118645967759327509) — 现在用 AI 生成一段视频，已经不算特别难了。 输入几句话，上传一张图片，点击生成，过一会儿就能看到画面动起来。 但如果你想制作一条真正完… · [详情](../items/ai-claude-code-codex-seedance.md) 𝕏
+- [就一定有搬运工](https://x.com/yangyi/status/2117246855293931643) — 只要能赚钱 就一定有搬运工 skills被workbuddy搬运了 一分钱没赚到 然后大家开始发帖子给workbuddy做广告 从前不知道… · [详情](../items/x-93931643.md) 𝕏
+- [噪音之后 · 视频播客｜WorkBuddy 能卖 skill 了，是 …](https://x.com/isnail/status/2117995285007790304) — 噪音之后 · 视频播客｜WorkBuddy 能卖 skill 了，是 AI 创作者的机会吗？ 腾讯 WorkBuddy 上线了付费 ski… · [详情](../items/workbuddy-skill-26.md) 𝕏
+- [Workbuddy其实有一个核心的功能被很多人忽略了，那就是自动化定时…](https://x.com/xiaomovps/status/2068934374142480844) — Workbuddy其实有一个核心的功能被很多人忽略了，那就是自动化定时任务。 我自己基本上就拿来搜集AI新闻和做自媒体选题，还有就是内容整… · [详情](../items/workbuddy-172.md) 𝕏
+- [我刚用workbuddy给这段内容生成了一段相关的短视频](https://x.com/shitunote/status/2084567355301195815) — 我刚用workbuddy给这段内容生成了一段相关的短视频 核心就两个步骤： 1.使用 视频生成专家 这个技能，将视频文案内容发给workb… · [详情](../items/workbuddy-173.md) 𝕏
+- [兄弟们，做内容的，一个月光AI订阅费花多少？](https://x.com/NFTCPS/status/2117619790668075445) — 兄弟们，做内容的，一个月光AI订阅费花多少？ 写文案开一个网页，作图、做视频又各是一家，来回切。 会员费加起来，每个月就是大几百。 想省钱… · [详情](../items/ai-54.md) 𝕏
+- [推特上平时讨论的都是各大一线模型，GPT、Cladude、Gemini…](https://x.com/binghe/status/2122487198352277941) — 推特上平时讨论的都是各大一线模型，GPT、Cladude、Gemini 。。。。。等 。。 不过国内的媒体和短视频都在聊 workbudd… · [详情](../items/gpt-cladude-gemini.md) 𝕏
+- [AI 圈有一批人正在把企业 AI 落地这件事讲得过于简单了。](https://x.com/UPing123zzz/status/2107669754806927814) — AI 圈有一批人正在把企业 AI 落地这件事讲得过于简单了。 前几天刷到一个博主，以前做情感咨询、教别人做自媒体，现在突然转型做企业 AI… · [详情](../items/ai-ai-3.md) 𝕏
+- [workbuddy+hyperframes，教你一句话生成图书视频](https://x.com/alkaidy2025/status/2083814840964173999) — 做一条图书介绍视频，你得依次搞完：选书、写文案、写口播稿、配旁白、画分镜、一张张生图、加动效、合成视频、写发布物料。每一步都吃时间，每一步… · [详情](../items/workbuddy-hyperframes.md) 𝕏
+- [可以的啊，腾讯混元也有 Computer Use 了。](https://x.com/ZondarkAI/status/2117921873896063112) — 可以的啊，腾讯混元也有 Computer Use 了。 腾讯混元今天发布的 Hy4，第一次加入了视觉理解和电脑操作能力，已上线元宝、Wor… · [详情](../items/computer-use.md) 𝕏
+- [腾讯宣布通过腾讯云向开发者开放元宝搜索，支持 API、MCP 和 Sk…](https://x.com/0xLogicrw/status/2112461749500952951) — 腾讯宣布通过腾讯云向开发者开放元宝搜索，支持 API、MCP 和 Skill 接入。 腾讯披露，这套搜索服务拥有千亿级索引，日均调用数亿次… · [详情](../items/api-mcp-sk.md) 𝕏
+- [其实没有谁吃掉谁 一阴一阳之谓道 共存是常态](https://x.com/yangyi/status/2081981118556090767) — 其实没有谁吃掉谁 一阴一阳之谓道 共存是常态 只是大家占据不同的生态位 喜欢垂直的 是通用满足需求的成本更高 内容更冗余 喜欢开放的 是因… · [详情](../items/x-56090767.md) 𝕏
+- [黄果短剧制作要点：](https://x.com/justinxjx/status/2115369587105747269) — 黄果短剧制作要点： 配置推荐 Windows + RTX 5070 Ti + 32GB及以上内存。 5060 Ti 16GB能跑但慢，50… · [详情](../items/x-05747269.md) 𝕏
+- [继续一句提示词：](https://x.com/wangray/status/2112489978651689372) — 继续一句提示词： 「用 HyperFrames 帮我做一条 60 秒的竖屏科普视频，讲「飞机为什么能飞起来」，要有中文配音和字幕，做好放进… · [详情](../items/x-51689372.md) 𝕏
+- [给 WorkBuddy 一个主题，它把短视频从头做到尾](https://x.com/ZouKaiwen176075/status/2123015407305175100) — 给 WorkBuddy 一个主题，它把短视频从头做到尾 · [详情](../items/workbuddy-203.md) 𝕏
+- [夸克网盘现已接入 Skill 能力，资源收藏爱好者可以尝试这套自动化方…](https://x.com/nangongyuan/status/2087815930227368179) — 夸克网盘现已接入 Skill 能力，资源收藏爱好者可以尝试这套自动化方案： 基础操作示例： 启动 Codex（小龙虾、爱马仕、workbu… · [详情](../items/skill-14.md) 𝕏
+- [Workbuddy已经可以连接美团自动领优惠券了，没事干，测试了一下，…](https://x.com/xiaomovps/status/2072661034868081029) — Workbuddy已经可以连接美团自动领优惠券了，没事干，测试了一下，帮我领了挺多券的。 这样下次我点外卖就可以让ai自动帮我领券。然后我… · [详情](../items/workbuddy-226.md) 𝕏
+- [以前做一条视频，从写剧本到剪辑，每一步都得自己折腾。](https://x.com/gimcall/status/2121157912521552314) — 以前做一条视频，从写剧本到剪辑，每一步都得自己折腾。 现在 LibTV + WorkBuddy，直接把整条制作流程交给 Agent。 你在… · [详情](../items/x-21552314.md) 𝕏
+- [WorkBuddy必装的四个Skill，带货视频篇](https://x.com/doudouniuto/status/2119652614640107939) — WorkBuddy必装的四个Skill，带货视频篇 我把WorkBuddy里跟带货视频相关的实用Skill整理好了： 你用过几个？ 先看找… · [详情](../items/workbuddy-skill-38.md) 𝕏
+- [最近尝试了很多种用非 Opus 5.5 去做 Web 知识大赏相关的自…](https://x.com/kxxg625/status/2115313694515286454) — 最近尝试了很多种用非 Opus 5.5 去做 Web 知识大赏相关的自媒体视频，国内的模型从 DeepSeek、Kimi、智谱一直到 GP… · [详情](../items/opus-5-5-web.md) 𝕏
+- [小米技术宣布，Xiaomi MiMo-V2.6-Pro 正式上线 Wo…](https://x.com/Mashiro_0619/status/2112548870635102500) — 小米技术宣布，Xiaomi MiMo-V2.6-Pro 正式上线 WorkBuddy。该模型在 Artificial Analysis 智… · [详情](../items/xiaomi-mimo-v2-6-pro-wo.md) 𝕏
+- [用 Codex＋CreatOK，批量发布 TikTok Shop 店群挂车视频](https://x.com/songzhiyuan_AI/status/2121232874754204115) — 如果你做TikTok 跨境电商，如果你做店群，如果你做多个国家，如果你用AI做视频提效，如果你每天要发几十个视频到几十个账号，如果你还在用… · [详情](../items/codex-creatok-tiktok-shop.md) 𝕏
+- [为什么要选择Claude 而不是GPT，这里有一组数据。](https://x.com/lichuyikong/status/2116343813832884314) — 为什么要选择Claude 而不是GPT，这里有一组数据。 同一个skill跑libtv生视频， 3条视频在Claude code里用son… · [详情](../items/claude-gpt.md) 𝕏
+- [workbuddy虽然好用，但是一定要为同一个公众号创建多个不同写作风…](https://x.com/QuantaQueen/status/2073814615969148937) — workbuddy虽然好用，但是一定要为同一个公众号创建多个不同写作风格的skill，否则写的文章就会出现套路化运营的违规。 · [详情](../items/workbuddy-251.md) 𝕏
+- [公众号起号必备：这个免费工具，帮你一键挖到低粉爆款文章](https://x.com/KengGuangLong/status/2055077801154466069) — 做公众号最痛苦的事情是什么？不是写不出来，是不知道写什么。 你打开电脑，盯着空白的编辑器，脑子里一片空白。刷了半小时同行的号，越刷越焦虑：… · [详情](../items/x-54466069.md) 𝕏
+- [用 WorkBuddy 生成财经视频：从一句需求到视频、配音和字幕对齐](https://x.com/qtdevlop/status/2082763452142293352) — 最近我用 WorkBuddy 跑通了一条财经视频生成流程。 先说清楚：我使用的“视频生成专家”Skill，只负责基于 Remotion 生… · [详情](../items/workbuddy-258.md) 𝕏
+- [不用Opus，WorkBuddy也能做知识大赏爆款视频](https://x.com/yuanliuwei/status/2117586391668334747) — 刷屏的知识动画，我这边用 WorkBuddy 也能做出来。 不用先纠结有没有最强模型。 先看画面动起来。 （自家城市宣传片成片动图 · 武… · [详情](../items/opus-workbuddy.md) 𝕏
+- [每月帮你省 1000+ AI 订阅费](https://x.com/alonliai/status/2119769612510548098) — 每个月 1000 多块的 AI 订阅费，其实可以一分不花。 不是标题党。有个抖音博主分享了他每月花 1000+ 的 7 个付费 AI 订阅… · [详情](../items/1000-ai.md) 𝕏
+- [AI学习】 别再让你的知识库吃灰了！WorkBuddy+IMA，才是普…](https://x.com/DeerOdds/status/2105853275182408005) — 【#AI学习】 别再让你的知识库吃灰了！WorkBuddy+IMA，才是普通人逆袭的终极武器 你是不是也这样？ 看到一篇好文章，赶紧收藏；… · [详情](../items/ai-workbuddy-ima-2.md) 𝕏
+- [WorkBuddy 的 Skill 生态真的丰富。](https://x.com/harrisonitsme/status/2084958644593135756) — WorkBuddy 的 Skill 生态真的丰富。 Linkfox 这个 skill 支持 100+ 国家电商爆款选品：亚马逊选品、168… · [详情](../items/workbuddy-skill-46.md) 𝕏
+- [让claude code 4.8 1M帮我处理切图抠图，让gpt-im…](https://x.com/charlotte730rei/status/2070032156064424094) — 让claude code 4.8 1M帮我处理切图抠图，让gpt-image-2绘制特定文案的人物头像+补全立绘全身，岂不是直接把画家干翻… · [详情](../items/claude-code-4-8-1m-gpt-im.md) 𝕏
+- [我并未订阅kimi的coding plan，而是使用的是workbud…](https://x.com/shitunote/status/2115076404920631470) — 我并未订阅kimi的coding plan，而是使用的是workbuddy国际版中的Kimi-K3.1-Pro 。 生成这个视频，仅需两步… · [详情](../items/kimi-coding-plan-workbud.md) 𝕏
+- [workbuddy 带货视频篇，爆款复刻skill](https://x.com/doudouniuto/status/2119649234882580612) — workbuddy 带货视频篇，爆款复刻skill 兄弟们，做tiktok要关注了 如果刚好在用workbuddy，更要关注 #Clipc… · [详情](../items/workbuddy-skill-48.md) 𝕏
+- [WorkBuddy、codex装上 Clipcat，一键复刻带货同款](https://x.com/doudouniuto/status/2118560815800607033) — WorkBuddy、codex装上 Clipcat，一键复刻带货同款 刷到 TikTok 爆款还在按暂停、手抄笔记？给 WorkBuddy… · [详情](../items/workbuddy-codex-clipcat.md) 𝕏
+- [卧槽，原来拿 AI 看财报最该防的根本不是它猜不准涨跌。](https://x.com/xy8590042849845/status/2121459671152369834) — 卧槽，原来拿 AI 看财报最该防的根本不是它猜不准涨跌。 平时拿 AI 看财报，最怕的不是它猜不准明天涨跌，而是它张嘴瞎编数据，或者把不同… · [详情](../items/ai-87.md) 𝕏
+- [蝉镜 AI+ WorkBuddy 做数字人视频太夸张了，我刚刚让 AI…](https://github.com/agidesigner/WorkBuddy-ChanjingAI-Minimax-DigitalHuman-VIDEO-Gen) — 蝉镜 AI+ WorkBuddy 做数字人视频太夸张了，我刚刚让 AI参考一个蝉镜AI 的技能,skill的链接在这里: 我让 WorkB… · [详情](../items/ai-workbuddy-ai-2.md) 𝕏
+- [我用 K3 模型的 WorkBuddy ，解决了中转 CC 登录不了的…](https://x.com/QianWenFlow/status/2087952016706601413) — 我用 K3 模型的 WorkBuddy ，解决了中转 CC 登录不了的问题 又用中转 CC 解决了梯子的问题 最后恢复了网络，用回了原生 … · [详情](../items/k3-workbuddy-cc.md) 𝕏
+- [OK，兄弟们，我现在正在测试一下那个视频号的流量](https://x.com/jaker_Q/status/2120782382965928043) — OK，兄弟们，我现在正在测试一下那个视频号的流量 用 WorkBuddy 来搞 后续我会公布，AI 转接包，大家安装就能直接用了 · [详情](../items/ok.md) 𝕏
+- [啊啊啊啊😭😭！ 国庆了，WorkBuddy 也不给发个大额外卖券啊！！😣](https://x.com/leaf_sanren/status/2105484092703961101) — 啊啊啊啊😭😭！ 国庆了，WorkBuddy 也不给发个大额外卖券啊！！😣 我应该算 WorkBuddy 的铁杆日活了， 每天都用脚本自动打… · [详情](../items/workbuddy-282.md) 𝕏
+- [今天在优化我的AI以及SKILL](https://x.com/aigcgu/status/2107374763475890348) — 今天在优化我的AI以及SKILL (1)优化WORKBUDDY，让它打通并索引我的所有文件夹和数据/人物。是时候让AI进入我们的生活了。 … · [详情](../items/ai-skill-4.md) 𝕏
+- [WorkBuddy + Hyperframes 做视频](https://x.com/leiwh3/status/2113924193616322939) — WorkBuddy + Hyperframes 做视频 不用写代码，也不用一帧帧打关键帧。把一段文字、一个想法或一个文件丢给 WorkBu… · [详情](../items/workbuddy-hyperframes-2.md) 𝕏
+- [让Workbuddy研究如何下载常见视频，只有抖音的视频稍微曲折了点，…](https://x.com/vern33/status/2104202743632323049) — 让Workbuddy研究如何下载常见视频，只有抖音的视频稍微曲折了点，其他的基本都是直接调用 yt-dlp 就都能下载了 做成了 Skil… · [详情](../items/workbuddy-283.md) 𝕏
+- [用 WorkBuddy 拆了 1000 条抖音爆款后，我把运营炒了](https://x.com/sj66587/status/2074783538566877542) — 用 WorkBuddy 拆了 1000 条抖音爆款后，我把运营炒了 · [详情](../items/workbuddy-1000-2.md) 𝕏
+- [教你用WorkBuddy自动剪辑视频](https://x.com/majiabin/status/2084470765488058704) — 01 · INTRODUCTION ChatCut 为什么火 说到AI自动剪辑视频，这个方向目前不少团队都在研发相关的Agent产品。今天… · [详情](../items/workbuddy-287.md) 𝕏
+- [想做自媒体的都来用，这个免费skill可以帮你少走很多选题弯路](https://x.com/AnnaYu5192/status/2060297345645109642) — 我从去年 5 月开始认真筹划 AI 自媒体，到现在，差不多刚好一年。 这一年给我的感受很复杂，当然也很爽。 你会明显感觉到，自己在逼着自己… · [详情](../items/skill-20.md) 𝕏
+- [没想到开源半个月，我们的workbuddy蓝皮书已经有10多万人学习过…](https://x.com/aikangarooking/status/2083048946239431014) — 没想到开源半个月，我们的workbuddy蓝皮书已经有10多万人学习过了🎉。交流群甚至都干到15个了！ 今天甚至还被腾讯workbuddy… · [详情](../items/workbuddy-10-6.md) 𝕏
+- [想靠 AI 做内容赚钱，很多人第一步就错了：先比哪个模型最强，再囤一堆…](https://x.com/ken524mail/status/2117987918925238590) — 想靠 AI 做内容赚钱，很多人第一步就错了：先比哪个模型最强，再囤一堆工具清单。 我是一个收入还是 0 的 AI 自媒体新手，ChatGP… · [详情](../items/ai-99.md) 𝕏
+- [DeepSeek 现在下场做 Harness，有点像期末才交作业：](https://x.com/KobinFlow/status/2087120942384525633) — 说实话—— DeepSeek 现在下场做 Harness，有点像期末才交作业： 分早就用自家未发的壳刷完了，公众号还是空的。 这不叫迟到，… · [详情](../items/deepseek-harness-2.md) 𝕏
+- [因为一直觉得 claude 封号麻烦，然后 Codex workbud…](https://x.com/YaxiBuilds/status/2118279961408831869) — 因为一直觉得 claude 封号麻烦，然后 Codex workbuddy 我全部用得很 6，就一直没用 cluade。但最近 codex… · [详情](../items/claude-codex-workbud.md) 𝕏
+- [我不得不承认，Workbuddy内置的这些 抖音策略师、公众号营销师 …](https://x.com/seventhoce56019/status/2074517375647695358) — 我不得不承认，Workbuddy内置的这些 抖音策略师、公众号营销师 专家，虽然很中二，但是确实很有用。 对于我这个自媒体小白来说，那些什… · [详情](../items/workbuddy-319.md) 𝕏
+- [我忘记看到了谁的帖子，使用了remotion-best-practic…](https://x.com/luomufany/status/2114311034504929726) — 我忘记看到了谁的帖子，使用了remotion-best-practice skill. 原帖是opus5.5+deepseek v4.1-… · [详情](../items/remotion-best-practic.md) 𝕏
+- [我前几天测试了一下用别人的skill写小红书](https://x.com/AILaobing/status/2100052872260198721) — 我前几天测试了一下用别人的skill写小红书 装同样一套skill chatgpt生成的图确实比workbuddy的好看规整 我是把大纲给… · [详情](../items/skill-26.md) 𝕏
+- [怎么用ai写公众号文章（workbuddy实操版）](https://x.com/SenshanW5079/status/2117169090137931906) — 怎么用ai写公众号文章（workbuddy实操版） 1.下载好一个workbuddy，找到网络上想要仿写的爆款文章 2.给予人设和文章书写… · [详情](../items/ai-workbuddy-16.md) 𝕏
+- [微信读书 Skill 接入 WorkBuddy，让 AI 能查书架、阅…](https://x.com/HytidelLegend/status/2077626314635546979) — 微信读书 Skill 接入 WorkBuddy，让 AI 能查书架、阅读数据、划线笔记，盘活旧书积累，直接参与写作和工作。 · [详情](../items/skill-workbuddy-ai.md) 𝕏
+- [WorkBuddy，可能是普通人离 AI 最近的一次。](https://x.com/samxqu8/status/2061648535159009642) — WorkBuddy，可能是普通人离 AI 最近的一次。 ① 能连微信，手机发条消息就远程开工，现在谁还不用微信 ② 100+ 内置专家——… · [详情](../items/workbuddy-ai-36.md) 𝕏
+- [我用 Codex，其实用 Workbuddy 也可以，把 17 分钟的…](https://x.com/oops073111/status/2081759578010833123) — 我用 Codex，其实用 Workbuddy 也可以，把 17 分钟的长视频剪成了 6 个 3 分钟左右的口播。这完全是由Hyperfra… · [详情](../items/codex-workbuddy-17.md) 𝕏
+- [WorkBuddy 这波羊毛，是真送。](https://x.com/Ylj158852/status/2119724175845917137) — WorkBuddy 这波羊毛，是真送。 昨天记者节，中国记协"记者之家"大学堂联合腾讯 WorkBuddy 发了记者节福利，11 月 8 … · [详情](../items/workbuddy-356.md) 𝕏
+- [起号焚决！！！](https://x.com/MikeSayLess/status/2124377545152012525) — 起号焚决！！！ 做国内的AI 自媒体账号，如何快速涨到 10w 粉，月入 10w+？ 其实非常简单，按照下面这个公式来即可： 第一步： 把… · [详情](../items/x-52012525.md) 𝕏
+- [一张照片 + 一句话，出数字人口播片：digital-human-ko…](https://x.com/jojogh_007/status/2114891116050841861) — 一张照片 + 一句话，出数字人口播片：digital-human-koubo 开源了。 走 Renoise MCP 生成口型视频，再配 5… · [详情](../items/digital-human-ko.md) 𝕏
+- [最近 X 的增长有点慢，也准备开始把内容同步到公众号了。](https://x.com/ai_suxiaole/status/2081925506065412534) — 最近 X 的增长有点慢，也准备开始把内容同步到公众号了。 一份内容，多平台分发，流量和收益都别浪费。 现在公众号还有不少扶持，早点占个位置… · [详情](../items/x-5.md) 𝕏
+- [从零搓一个自动获客技能：小红书实采 + AI 生成话术 + 一键私信](https://x.com/allen19954/status/2124919939824038319) — 从零搓一个自动获客技能：小红书实采 + AI 生成话术 + 一键私信 整条链路四段： ① 用 Gemini 设计技能蓝图，打包成 zip … · [详情](../items/ai-127.md) 𝕏
+- [文章里忘记介绍了，这个 skill 还能一句话把任意文章转成小红书图文…](https://x.com/zhouluobo/status/2101990589398913475) — 文章里忘记介绍了，这个 skill 还能一句话把任意文章转成小红书图文，有图片有笔记，非常方便，而且图片的风格还能自己选择，也挺漂亮的，符… · [详情](../items/skill-31.md) 𝕏
+- [在 AI 商业落地、帮企业降本增效这个赛道上，](https://x.com/ModengSir/status/2125430849856311626) — 在 AI 商业落地、帮企业降本增效这个赛道上， 可可老师@Sunkeke_AI 有着很深的研究， 沉淀了一套成熟可落地的打法，值得我们学习… · [详情](../items/ai-129.md) 𝕏
+- [腾讯新模型的价格，算到 AI 视频站头上，基本等于零。](https://x.com/StewartLi666/status/2118719280263069790) — 腾讯新模型的价格，算到 AI 视频站头上，基本等于零。 11 月 5 号腾讯发了混元大模型 Hy4 完整版（7700 亿参数，能看图、能操… · [详情](../items/ai-132.md) 𝕏
+- [抖音视频放到收藏夹吃灰无法消化？](https://x.com/guawuchang2000/status/2092126991810273733) — 抖音视频放到收藏夹吃灰无法消化？ 可以看一下这个skill，一键导入到workbuddy里面 之后看到内容很干的视频，直接复制链接发给wo… · [详情](../items/x-10273733.md) 𝕏
+- [腾讯的元宝搜索升级了，通过腾讯云开放给个人开发者和企业，支持 Skil…](https://x.com/Moblacksoil/status/2112551915179364557) — 腾讯的元宝搜索升级了，通过腾讯云开放给个人开发者和企业，支持 Skill、MCP、API 接入。 腾讯称，这套搜索已支撑 WorkBudd… · [详情](../items/skil.md) 𝕏
+- [普通人做 AI 自媒体，最大的误区就是盯着 C 端小白用户，想着怎么赚…](https://x.com/Wizvice/status/2117081079534473272) — 普通人做 AI 自媒体，最大的误区就是盯着 C 端小白用户，想着怎么赚他们的 99 块钱。 真正值得研究的，是大厂的 AI 战略级产品。 … · [详情](../items/ai-c.md) 𝕏
+- [准备更新一波视频剪辑skill](https://x.com/aigcgu/status/2107077930635632900) — 准备更新一波视频剪辑skill 给workbuddy用，毕竟和codex比起来还是有点差距，需要配适一下。 我准备结合自己原由的skill… · [详情](../items/skill-34.md) 𝕏
+- [我用 WorkBuddy+DeepSeek 把一台 NVIDIA DG…](https://x.com/Aihua_X/status/2114015321078276572) — 我用 WorkBuddy+DeepSeek 把一台 NVIDIA DGX H100 服务器做成了可以交互拆解的 3D 模型，可以在浏览器里… · [详情](../items/workbuddy-deepseek-nvidia-dg.md) 𝕏
+- [小米 MiMo-V2.6-Pro 上线 WorkBuddy](https://x.com/bangbigbig28937/status/2112728878925934780) — 小米 MiMo-V2.6-Pro 上线 WorkBuddy 小米技术宣布，Xiaomi MiMo-V2.6-Pro 正式上线 WorkBu… · [详情](../items/mimo-v2-6-pro-workbuddy.md) 𝕏
+- [向日葵和 ToDesk 慌不慌我不知道，反正我今天开始出门不用背电脑了。](https://x.com/hr_yueBing/status/2115327058368762051) — 向日葵和 ToDesk 慌不慌我不知道，反正我今天开始出门不用背电脑了。 腾讯 WorkBuddy 今天正式上线「远程控制」：用手机一键连… · [详情](../items/todesk.md) 𝕏
+- [我本想做个 telegram bot，丢个链接进去让 LLM 执行 S…](https://github.com/vern33/video-download-skill) — 我本想做个 telegram bot，丢个链接进去让 LLM 执行 SKILL，很快发现没必要：各家云 Agent 本来就是带 LLM 的… · [详情](../items/telegram-bot-llm-s.md) 𝕏
+- [最近“手搓自己的AI 工作台” 在AI圈和小红书大火了一把](https://x.com/helin021798/status/2085363868323528859) — 最近“手搓自己的AI 工作台” 在AI圈和小红书大火了一把 先别管这玩意儿好用不好用 你就说帖子火不火吧 胡楚靓的小红书带起来的这一波热度… · [详情](../items/ai-ai-10.md) 𝕏
+- [Computer Use 不是歧路，但它是我夜班里最脆的一层。](https://x.com/zycbat888/status/2098222303691842029) — Computer Use 不是歧路，但它是我夜班里最脆的一层。 小红书上一百多条评论在吵它是不是歧路，你大概也刷到了：豆包工作和 Work… · [详情](../items/computer-use-2.md) 𝕏
+- [视频号和抖音的用户不在乎你最新最好用的agent是什么](https://x.com/JessiCao_JC/status/2113087097796264087) — 视频号和抖音的用户不在乎你最新最好用的agent是什么 你只需要告诉他们workbuddy怎么安装，安装之后能解决你什么难题，仅此而已 · [详情](../items/agent-34.md) 𝕏
+- [WorkBuddy漫剧AI工作台实战课：从工作台搭建到人物场景生成、分…](https://x.com/jglcn1991/status/2115359606587469955) — WorkBuddy漫剧AI工作台实战课：从工作台搭建到人物场景生成、分镜视频制作，一站式掌握AI漫剧创作流程 漫剧不好看，多半是人物形象没… · [详情](../items/workbuddy-ai-43.md) 𝕏
+- [公司把 WorkBuddy 发到你手上，卡住的不是工具。小红书那条 2…](https://x.com/zycbat888/status/2100682933304758605) — 公司把 WorkBuddy 发到你手上，卡住的不是工具。小红书那条 2741 赞的帖子底下，143 条评论全在问同一句：指令有什么技巧吗。… · [详情](../items/workbuddy-2-6.md) 𝕏
+- [这是我上架的workbuddy专家](https://www.workbuddy.cn/share/asset?shareCode=Y2cXGwR2DgcDB5oF1HuIaE&sig=4jGztiK_kqnNAx30) — 这是我上架的workbuddy专家 这个专家的优点是0成本制作任意时长视频 1、不需要图片模型、 2、不需要声音模型 3、不需要视频模型 … · [详情](../items/workbuddy-409.md) 𝕏
+- [做自媒体、写公众号/X/小红书、或者拍短视频的朋友，最头疼的一定是这两…](https://x.com/lovlace77788191/status/2119308942094303358) — 做自媒体、写公众号/X/小红书、或者拍短视频的朋友，最头疼的一定是这两件事： 1. 短视频前 3 秒留不住人，口播脚本像念说明书，完播率惨… · [详情](../items/x-6.md) 𝕏
+- [做视频博主的第一原则就是](https://x.com/kongge_space/status/2097951556536557877) — 做视频博主的第一原则就是 把输出视频当做第一要务，也就是把任何动作都当成视频脚本 详细展开下这个方法，就是比如我现在发的这个动态，比如我操… · [详情](../items/x-36557877.md) 𝕏
+- [WorkBuddy的一些隐藏功能，有点强，今晚调试了一个AI模特换装的…](https://x.com/CoderWanFeng/status/2124652095395758112) — WorkBuddy的一些隐藏功能，有点强，今晚调试了一个AI模特换装的skill。完全不用额外接视频、图片大模型就能用，纯花积分，背后是W… · [详情](../items/workbuddy-ai-46.md) 𝕏
+- [WorkBuddy 卖 Skill 这种骚操作是腾讯哪个大神想出来的？…](https://x.com/Jevik_AI/status/2115598298535063947) — WorkBuddy 卖 Skill 这种骚操作是腾讯哪个大神想出来的？这种低级的商业行为也就是一些野路子的自媒体和网创人干的事，他们居然还… · [详情](../items/workbuddy-skill-78.md) 𝕏
+- [踩了几次坑以后，我用 WorkBuddy + ima 搭了个材料写作知识库](https://x.com/XLinhaoAI/status/2077426452321230852) — 踩了几次坑以后，我用 WorkBuddy + ima 搭了个材料写作知识库 · [详情](../items/workbuddy-ima-6.md) 𝕏
+- [AI变现，睡觉也能赚钱？WorkBuddy技能也能卖钱了](https://x.com/juicebro888/status/2114530594168377484) — AI变现，睡觉也能赚钱？WorkBuddy技能也能卖钱了 · [详情](../items/ai-workbuddy-22.md) 𝕏
+- [核心不在WorkBuddy，而在于你这朋友他能找到愿意支付2万定制sk…](https://x.com/zjp1997720/status/2072598927585817007) — 核心不在WorkBuddy，而在于你这朋友他能找到愿意支付2万定制skill的老板，之前有电商的人找我定制一个拆解KOC带货视频脚本的sk… · [详情](../items/workbuddy-2-sk.md) 𝕏
+- [🎬 用 WorkBuddy 一句话就能生成视频！](https://x.com/yu20341365/status/2082116056542568712) — 🎬 用 WorkBuddy 一句话就能生成视频！ 像「把全球 GDP 排名做成 45 秒动态赛跑视频」这种需求，它不是堆特效剪辑，而是用代… · [详情](../items/workbuddy-447.md) 𝕏
+- [聪明人是极少数，很多人赚钱真的只靠信息差，工具使用的好真是改写生产效率…](https://x.com/8964tyrant/status/2120748653497536780) — 聪明人是极少数，很多人赚钱真的只靠信息差，工具使用的好真是改写生产效率，我误打误撞看了视频进了一个AI工具写小说的群，觉得他们卖课很贵不想… · [详情](../items/x-97536780.md) 𝕏
+- [AI 剪视频大盘点！HyperFrames/Remotion/Chatcut 哪个适合普通人搞自媒体？](https://x.com/Yuutofang45/status/2076371691744395352) — HyperFrames、Remotion 和 ChatCut 最近被自媒体博主宣传得神乎其神，号称“颠覆行业、干掉传统剪辑师”。 互联网用… · [详情](../items/ai-hyperframes-remotion-chatcut.md) 𝕏
+- [把 WorkBuddy 接入公众号，一个指令自动写稿，效率爆表](https://x.com/Ur3CSl5o1LP7xu7/status/2076551938997678398) — 把 WorkBuddy 接入公众号，一个指令自动写稿，效率爆表 · [详情](../items/workbuddy-450.md) 𝕏
+- [Codex 剪辑第三弹：2 条视频接下近四位数商单，知识类视频剪辑方法全公开](https://x.com/Appleqzno/status/2091775025250803988) — 熟悉的朋友应该都知道最近在更新视频，并且数据还不错。某音 2 条视频开通精选计划，某书 2 条视频接下了近四位数商单。目前两个账号都只发了… · [详情](../items/codex-2-2.md) 𝕏
+- [在 WorkBuddy 上做技能，再用抖音把它卖出去。](https://x.com/baidashi996/status/2117083375790100586) — 在 WorkBuddy 上做技能，再用抖音把它卖出去。 · [详情](../items/workbuddy-460.md) 𝕏
+- [从收藏夹吃灰到知识库沉淀：用 Skill 把音视频转成文字 ](https://x.com/yulin0211/status/2122685829680443652) — Hello，大家好，我是鱼鳞～ 今天想和大家分享一个我自己做的、日常用得比较多的 Skill：media-transcriber。 这个 … · [详情](../items/skill-43.md) 𝕏
+- [Workbuddy也能自动运营视频号/小红书/X账号了](https://x.com/wwwangmeishijie/status/2124051419531817108) — Workbuddy也能自动运营视频号/小红书/X账号了 · [详情](../items/workbuddy-x.md) 𝕏
+- [那些天天发长文搞啥视频生成skill的，我就不明白了，明明一个豆包几句…](https://x.com/ZAbens200080378/status/2119992354300174497) — 那些天天发长文搞啥视频生成skill的，我就不明白了，明明一个豆包几句话就能解决的问题，用啥skill？不光豆包，我拿workbuddy、… · [详情](../items/skill-44.md) 𝕏
+- [公众号排版一直都是个费时费力的体力活。不过，最近发现了这个排版 Ski…](https://x.com/afeiNick/status/2074833089411362933) — 公众号排版一直都是个费时费力的体力活。不过，最近发现了这个排版 Skill后，我就把排版工作直接交个ai了。 你只需要把它接入 Codex… · [详情](../items/ski.md) 𝕏
+- [用 WorkBuddy 制作的漫画公众号文章，说实话，最近这几周一直在…](https://x.com/KengGuangLong/status/2091731499339145337) — 用 WorkBuddy 制作的漫画公众号文章，说实话，最近这几周一直在用 WorkBuddy ，对于普通用户来讲，我只说四个字：够用、好用… · [详情](../items/workbuddy-467.md) 𝕏
+- [98.57%的抖音书博主对DeepSeek Harness的改造拢共分…](https://x.com/Otellovan/status/2088955547823608156) — 98.57%的抖音书博主对DeepSeek Harness的改造拢共分三步，首先让AI打包成Windows程序，然后把背景换成二次元少女或… · [详情](../items/98-57-deepseek-harness.md) 𝕏
+- [LibTV × WorkBuddy ，正式打通！](https://x.com/AbleGPT/status/2114668736817082450) — LibTV × WorkBuddy ，正式打通！ 只需两步，在 WorkBuddy 中直接调用 LibTV 的专业创作工具、导演级 Ski… · [详情](../items/libtv-workbuddy.md) 𝕏
+- [🔥AI应用日报（2026-10-30）](https://x.com/leirenwangz/status/2116180775939059980) — 🔥AI应用日报（2026-10-30） 8G 显存的旧电脑，30 秒出一张 AI 图：三晚搭出本地生图站 简介：一台平时只用来刷抖音的电脑… · [详情](../items/ai-2026-10-30.md) 𝕏
+- [WorkBuddy 现在也能一句话出图、出视频了 👀](https://hiapi.ai/zh/agents/mcp) — WorkBuddy 现在也能一句话出图、出视频了 👀 接上 HiAPI MCP，在 WorkBuddy 里说一句，图和视频直接回到对话。 … · [详情](../items/workbuddy-476.md) 𝕏
+- [workbuddy选了大模型GLM-5.2写了一篇公众号，还不带配图，…](https://x.com/forrestbit/status/2078316873683451962) — workbuddy选了大模型GLM-5.2写了一篇公众号，还不带配图，耗费积分126.07，按照专业包58元2000积分算，这篇公众号3.… · [详情](../items/workbuddy-glm-5-2.md) 𝕏
+- [大多数人用 WorkBuddy 写文案，会用的人已经让它开始“干活”了。](https://x.com/yiyi222777/status/2101347401286156350) — 大多数人用 WorkBuddy 写文案，会用的人已经让它开始“干活”了。 10 个视觉自动化玩法，建议直接收藏： 一句话 → 产品宣传海报… · [详情](../items/workbuddy-477.md) 𝕏
+- [Claude Code 我彻底停了。](https://x.com/zycbat888/status/2124219795348533413) — Claude Code 我彻底停了。 改用 WorkBuddy 跑便宜模型。 外面天天在吹什么爆款 Skill 榜单。 我看了一圈真是窝火… · [详情](../items/claude-code-2.md) 𝕏
+- [有朋友问我说](https://x.com/kanvis_chen/status/2121494424895295887) — 有朋友问我说 抓取公众号文章的话 ，用 codex 不行，但用 grokbot 就可以 对的，现在codex限制很多的，workbuddy… · [详情](../items/x-95295887.md) 𝕏
+- [感觉现在腾讯的 Workbuddy 做得蛮好的，Agent 能力大幅度…](https://x.com/baimuxicici/status/2124340670823281032) — 感觉现在腾讯的 Workbuddy 做得蛮好的，Agent 能力大幅度提升。感觉很多现有的产品不足（微信公众号文章的ai排版、微信公众号文… · [详情](../items/workbuddy-agent-16.md) 𝕏
+- [ai真的是目前普通人能触摸到的风口😃](https://x.com/Axlkkkiioo/status/2104456398419775592) — ai真的是目前普通人能触摸到的风口😃 我这两个客户一个做ai漫剧手下一千多个学员 一个教人用workbuddy直播几百个人看，课时一人收几… · [详情](../items/ai-181.md) 𝕏
+- [一个可以被 AI Agent/Codex/Claude Code/Wo…](https://x.com/pingzongl/status/2100928890302558215) — 一个可以被 AI Agent/Codex/Claude Code/WorkBuddy 等读取和调用的 Skill 产品来设计， Skill… · [详情](../items/ai-agent-codex-claude-code-wo.md) 𝕏
+- [豆包不发威，你当我是 Gemini ?](https://x.com/zjp1997720/status/2092239111222702394) — 豆包不发威，你当我是 Gemini ? 虽然我因为报价过高错过了豆包工作的商单 但看了今晚的发布直播，感觉加上豆包的模型生态和飞书生态，整… · [详情](../items/gemini.md) 𝕏
+- [内置各种视频Skill，国产Agent也能接，豆包、Workbuddy…](https://x.com/ai_bange/status/2115636733056541128) — 内置各种视频Skill，国产Agent也能接，豆包、Workbuddy都能用，不绑定特定大模型这一点很加分。万圣节活动再叠加不限量模型，时… · [详情](../items/skill-agent-workbuddy.md) 𝕏
+- [Workbuddy 必装的skill：](https://x.com/onurgl70/status/2115356932781363474) — Workbuddy 必装的skill： 1.Find Skills：根据需求从技能库挑选适配技能 2.Self Improving:AI … · [详情](../items/workbuddy-skill-89.md) 𝕏
+- [WorkBuddy写作陪跑营3.0-更新：Ai智能体创建写作Skill…](https://x.com/jglcn1991/status/2083467103022027013) — WorkBuddy写作陪跑营3.0-更新：Ai智能体创建写作Skill×WorkBuddy×人工手写模式×去除AI痕迹×头条公众号百家号 … · [详情](../items/workbuddy-3-0-ai-skill.md) 𝕏
+- [豆包太强了……](https://x.com/Effyy297/status/2099877978167521446) — 豆包太强了…… 同样的分析博主内容框架任务 codex 装 skill 半天爬不到信息 workbuddy小红书能爬到，就是费 Token… · [详情](../items/x-67521446.md) 𝕏
+- [去年写过一个插件：自动抓公众号文章，再调 AI 帮我总结成简报。](https://x.com/macrochen9/status/2119467856077488256) — 去年写过一个插件：自动抓公众号文章，再调 AI 帮我总结成简报。 但微信太封闭了。每篇文章都得我自己手动点开，再丢进 Chrome 才能完… · [详情](../items/ai-183.md) 𝕏
+- [Workbuddy 干活，我感觉要给它非常明确的指令，它的理解能力似乎…](https://x.com/xudaoai/status/2103083698971357473) — Workbuddy 干活，我感觉要给它非常明确的指令，它的理解能力似乎挺弱的。 我把公众号的整套流程从 ChatGPT 复制到了 Work… · [详情](../items/workbuddy-507.md) 𝕏
+- [做 AI 落地的在校生](https://x.com/LI_SHI_CHANG/status/2119319284702756963) — 做 AI 落地的在校生 目前在跑三条线： 1. 自建 AI 模型中转服务 2. AI 自动化剪辑流程，已对接两家电商公司，每天稳定产出视频… · [详情](../items/ai-184.md) 𝕏
+- [干了一晚保健品的GEO文章写作](https://x.com/hirokicha/status/2087586981023019395) — 干了一晚保健品的GEO文章写作 同样的提示词 Chatgpt5.6sol 写出来逻辑性强但缺乏人味而且表达基本都是不太符合国内的阅读风格 … · [详情](../items/geo.md) 𝕏
+- [用 WorkBuddy 两小时搭了五个插件，一分钱没花。](https://x.com/JasonHo2026/status/2112027803705295223) — 用 WorkBuddy 两小时搭了五个插件，一分钱没花。 Copy 找对标扒爆款，Ops 管人设、选题、排期，PAV 配音字幕动画一键出片… · [详情](../items/workbuddy-512.md) 𝕏
+- [19块钱就能把你的提示词卖出去，真的。](https://x.com/zhuxi198710/status/2114175116619763733) — 19块钱就能把你的提示词卖出去，真的。 腾讯WorkBuddy开放技能变现：提示词打包卖，19元一个，诉讼费测算29元不限次，beta只抽… · [详情](../items/19-2.md) 𝕏
+- [这是我第一次订阅gpt plus以及codex，我之前使用过codeb…](https://x.com/yongfool/status/2077353973670125829) — 这是我第一次订阅gpt plus以及codex，我之前使用过codebuddy和workbuddy，我不得不说codex还是太强大了。界面… · [详情](../items/gpt-plus-codex-codeb.md) 𝕏
+- [AI 快讯｜腾讯今天把元宝搜索通过腾讯云开放给外部开发者，Skill、…](https://x.com/shaoxiao_si/status/2112509011950236079) — AI 快讯｜腾讯今天把元宝搜索通过腾讯云开放给外部开发者，Skill、MCP、API 三种接法都有，每月 2000 次免费调用。这套搜索原… · [详情](../items/ai-skill-11.md) 𝕏
+- [我真是服了 workbuddy 了，是怎么让这些 skill 过审的。](https://x.com/Jennifer_yoyoyo/status/2094005273468006475) — 我真是服了 workbuddy 了，是怎么让这些 skill 过审的。 用一个小红书拆解视频的 skill，给出的 HTML 直接提示让开… · [详情](../items/workbuddy-skill-91.md) 𝕏
+- [拆解一下这个博主怎么做的 视频 很简单 就是图片加上自己的克隆语音讲解…](https://x.com/yteTrace/status/2110347521440751738) — 拆解一下这个博主怎么做的 视频 很简单 就是图片加上自己的克隆语音讲解恐怖故事 1 首先可以用一些克隆语音软件然后克隆自己的声音 2 其次… · [详情](../items/x-40751738.md) 𝕏
+- [Workbuddy：你是专业的视频复刻大师，现要复刻司马光砸缸救小孩的…](https://x.com/coolxm/status/2118271628866130065) — Workbuddy：你是专业的视频复刻大师，现要复刻司马光砸缸救小孩的监控视频，30秒，横屏，画面黑白，低清，有颗粒感，有简短的对话。拍摄… · [详情](../items/workbuddy-525.md) 𝕏
+- [WorkBuddy 混元限免只到 11 月 30 日前，不是无限用。每…](https://x.com/I0Gla/status/2124801894883405871) — WorkBuddy 混元限免只到 11 月 30 日前，不是无限用。每天有免费额度，用完会扣积分。先别拿去画图做视频，按这几步把额度用在写… · [详情](../items/workbuddy-11-30.md) 𝕏
+- [第一次用workbuddy写代码，混元大模型居然能生图生视频但没有视觉…](https://x.com/cecechen357966/status/2084807022005112954) — 第一次用workbuddy写代码，混元大模型居然能生图生视频但没有视觉能力？而且不能创建子代理，他创建了一个任务列表，然后不按顺序随机完成… · [详情](../items/workbuddy-540.md) 𝕏
+- [一个AI自媒体的自述](https://x.com/liuzhe20889/status/2088631482470527254) — 一个AI自媒体的自述 嗨朋友们，我是龙骧 过去这一个月，我在公众号发了不少文章，现在也有几百个关注者的AI自媒体，目前热火朝天的做Work… · [详情](../items/ai-206.md) 𝕏
+- [其实挺羡慕那些过了创作者门槛的大佬。](https://x.com/XiaotangN25419/status/2125988462277083392) — 其实挺羡慕那些过了创作者门槛的大佬。 我之前还想着，如果自己一个月就能过门槛，就把自己用 AI 锻造帖子的经验提炼成一个“一个月速通 X … · [详情](../items/x-77083392.md) 𝕏
+- [抖音收藏夹里，一堆视频在吃灰。](https://x.com/guawuchang2000/status/2087847537546060085) — 抖音收藏夹里，一堆视频在吃灰。 没时间看，也没耐心看。 以前只能把链接扔给AI，让它帮我通俗解释。 现在我计划直接做一个Skill——抖音… · [详情](../items/x-46060085.md) 𝕏
+- [trae cn真的是拉完了，做一个remotion视频，也就三分钟左右…](https://x.com/johnsmish45dq/status/2125049481318261246) — trae cn真的是拉完了，做一个remotion视频，也就三分钟左右，跑了一个晚上还没有做出来，浪费了400积分。咱就说视频不行，那你写… · [详情](../items/trae-cn-remotion.md) 𝕏
+- [@rwayne 有一说一，如果是纯国内用户，WorkBuddy是真的不…](https://x.com/zhouluobo/status/2068331557283303583) — @rwayne 有一说一，如果是纯国内用户，WorkBuddy是真的不错，无论是日常工作还是写代码自动化，都能拿得出手。 我最近搞了一个监… · [详情](../items/rwayne-workbuddy.md) 𝕏
+- [第三个skill fashioncut，秀场切片，这周产量不错，越来越…](https://x.com/lincolnstark5/status/2090807211895427101) — 第三个skill fashioncut，秀场切片，这周产量不错，越来越熟练了....没办法，又老又笨的渣码老登，慢慢练呗... 这个在wo… · [详情](../items/skill-fashioncut.md) 𝕏
+- [我怀疑很多人还没用上，](https://x.com/juicebro888/status/2114895756822040698) — 我怀疑很多人还没用上， 免费的「果汁哥公众号排版大师」。 就在 WorkBuddy， 选择「专家」，搜索「果汁哥」。 写公众号的朋友可以试… · [详情](../items/x-22040698.md) 𝕏
+- ["帮一个 8万粉的旅游博主装 Codex，我以为 10 分钟搞定，结果…](https://x.com/vill1y/status/2080342440654041120) — "帮一个 8万粉的旅游博主装 Codex，我以为 10 分钟搞定，结果花了 4 小时。她连 ToDesk 装的都是盗版。" 刷到 @Yur… · [详情](../items/8-codex-10.md) 𝕏
+- [上周我做的一条 AI 视频，单条播放过了万。](https://x.com/liuzhe20889/status/2085360283376341320) — 上周我做的一条 AI 视频，单条播放过了万。 把它做出来，我用了三样东西：一个声音克隆工具、一套动效模板、一条自己写的文案。没有真人出镜，… · [详情](../items/ai-219.md) 𝕏
+- [workbuddy确实很好用](https://x.com/bgmup99/status/2104186650050060686) — workbuddy确实很好用 但是我使用同样的skill 在codex、antigravity、豆包、openclaw都获得了不错的成品d… · [详情](../items/workbuddy-593.md) 𝕏
+- [如果有很多很多抖音账户的，可以考虑用我的这个小工具哈，代运营，产业上下…](https://x.com/EastCoder2099/status/2119597349676949991) — 如果有很多很多抖音账户的，可以考虑用我的这个小工具哈，代运营，产业上下游管理的，都可以。能发视频，图文，能评论，提供了技能，让codex … · [详情](../items/x-76949991.md) 𝕏
+- [竖屏动画成片全程AI自动跑，连剪映都没打开。WorkBuddy装Hyp…](https://x.com/BiyangY57986/status/2117447199047221458) — 竖屏动画成片全程AI自动跑，连剪映都没打开。WorkBuddy装Hyper Frames技能：丢进文案或想法，自动拆分镜排版写动效，20分… · [详情](../items/ai-workbuddy-hyp.md) 𝕏
+- [看到很多财经自媒体开始用Workbuddy了，也愿意开始付费了，就感到…](https://x.com/Aiystansonia/status/2117479809374888375) — 看到很多财经自媒体开始用Workbuddy了，也愿意开始付费了，就感到好奇，之前难道没用吗 我也看到现在开始做做Skill了，感觉这是个一… · [详情](../items/workbuddy-599.md) 𝕏
+- [我在用codex、workbuddy、Claude，问它们怎么做视频图…](https://x.com/MioriLin/status/2116011053373079915) — 冷知识： 我在用codex、workbuddy、Claude，问它们怎么做视频图片，搭建网站，接入skill； 你在用ds、豆包，问它们：… · [详情](../items/codex-workbuddy-claude.md) 𝕏
+- [workbuddy太强了，小红书文案随便做，以前写一个文案，不知道则么…](https://x.com/ming5632xj/status/2118762990099181678) — workbuddy太强了，小红书文案随便做，以前写一个文案，不知道则么写，AI提示几遍都不对，现在只要用上这个skill，描述一下，你要一… · [详情](../items/workbuddy-603.md) 𝕏
+- [让文字开口说话：从0-1实现语音合成Skill｜AI时代新能力｜AI实…](https://youtu.be/k2mRzDplZvU) — 让文字开口说话：从0-1实现语音合成Skill｜AI时代新能力｜AI实战｜AI基础实战 🎬 YouTube 视频： 📚 实战资料： #co… · [详情](../items/0-1-skill-ai-ai.md) 𝕏
+- [好家伙，跟真的一样，我还摆弄发型呢，赶紧冲吧，我了解到很多创业者还在死…](https://x.com/wdw020328/status/2102723779130720758) — 好家伙，跟真的一样，我还摆弄发型呢，赶紧冲吧，我了解到很多创业者还在死磕技术呢，现在是全民自媒体时代，胡楚靓一个视频给workbuddy干… · [详情](../items/x-30720758.md) 𝕏
+- [最近也在尝试用workbuddy 写公众号，之前搞活动领了很多积分](https://x.com/zerowq_eth/status/2073021339007635642) — 最近也在尝试用workbuddy 写公众号，之前搞活动领了很多积分 现在正是到了上战场的时候了 workbuddy 上面有很多skill … · [详情](../items/workbuddy-614.md) 𝕏
+- [用 Codex、WorkBuddy 实现自己的第一个 Skill：AI…](https://x.com/laohanlab/status/2109677044510654542) — 用 Codex、WorkBuddy 实现自己的第一个 Skill：AI 读书助手 📖 🎬 YouTube 视频： 📚 实战资料： #AI … · [详情](../items/codex-workbuddy-skill-ai.md) 𝕏
+- [ffmpeg-skill 本地剪视频](https://x.com/linyi64965449/status/2122425996469264409) — 杀疯了！ ffmpeg-skill 本地剪视频 AI编程助手直接出片 让claude code, cursor, codex, workb… · [详情](../items/ffmpeg-skill-2.md) 𝕏
+- [梁子又勾引我，刚转到workbuddy就来这处。你们有没有感觉dsh用…](https://x.com/zhaofan201/status/2117416782998937814) — 梁子又勾引我，刚转到workbuddy就来这处。你们有没有感觉dsh用ds官方api，token花的特别快。我就中等强度测试一些代码写视频… · [详情](../items/workbuddy-dsh.md) 𝕏
+- [测试了几个AI视频出分镜的方式，发现用@TuyetloanP81840…](https://x.com/liangsi_x/status/2121332476761235760) — 测试了几个AI视频出分镜的方式，发现用@TuyetloanP81840的提示词+WorkBuddy调用LibTV的效果很有创意。直接用他的… · [详情](../items/ai-tuyetloanp81840.md) 𝕏
+- [给大家一个workbuddy的小技巧，不是特别依赖本地的项目可以在网页…](https://x.com/li_dongqia41191/status/2119785249643307171) — 给大家一个workbuddy的小技巧，不是特别依赖本地的项目可以在网页版制作，比如剪辑或者查资料制作3d建模等等，非常的快！我这个三十秒的… · [详情](../items/workbuddy-643.md) 𝕏
+- [冷知识：workbuddy云电脑4核8G，256G硬盘。而且免费！不需…](https://x.com/samdychan/status/2108248247265595499) — 冷知识：workbuddy云电脑4核8G，256G硬盘。而且免费！不需要订阅 试了下可以安装软件，比如ffmpeg，然后处理视频 别浪费了… · [详情](../items/workbuddy-4-8g-256g.md) 𝕏
+- [用豆包或者workbuddy + remotion这样的skills，…](https://x.com/maple_cq/status/2114985391669612688) — 用豆包或者workbuddy + remotion这样的skills，做各种演示视频真的不要太轻松 不需要剪辑，也不用视频模型。 · [详情](../items/workbuddy-remotion-skills.md) 𝕏

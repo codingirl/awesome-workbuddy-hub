@@ -17,10 +17,6 @@ Grok 4.6快的飞起，也非常强 那能不能在WorkBuddy里调用Grok 4.6呢
 - 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
 - ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HPkJEObXEAA0lCK.jpg)
-
 ## 所有来源
 
 - X · [AI产品黄叔 @PMbackttfuture](https://x.com/PMbackttfuture/status/2087709888994587104) · 2026-08-13 · 12 赞 / 2 转 / 10425 浏览

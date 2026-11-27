@@ -12,6 +12,10 @@
 
 本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
+X 上相关分享（节选）：
+
+> 用确定性算法穷举门店菜单与全部可用优惠券的合规组合，算出总价最低的点餐方案。 这个仓库是麦当劳程序员创意开发大赛的参赛作品，一个 WorkBuddy Agent Skill。
+
 ## 使用/获取
 
 - 链接：<https://github.com/hujjun/mcd-saver-strategist>
@@ -20,6 +24,7 @@
 
 ## 所有来源
 
+- X · [Geek Lite @QingQ77](https://x.com/QingQ77/status/2111317781681487910) · 2026-10-17 · 6 赞 / 1305 浏览
 - GitHub · [hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist) · 许可：MIT · stars 1116
 
 ---

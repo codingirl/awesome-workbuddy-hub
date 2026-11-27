@@ -12,10 +12,6 @@ A WorkBuddy-style desktop workspace powered by the DSH plugin ecosystem. WorkDSH
 
 本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
-X 上相关分享（节选）：
-
-> WorkDSH: watch AI build your slides, then edit them yourself. Built on DeepSeek Harness, with native PPT editing, editable charts, skills and experts. Early open-source preview. Thanks to the community and WorkBuddy for inspiration!
-
 ## 使用/获取
 
 - 链接：<https://github.com/techflag/workdsh>
@@ -24,7 +20,6 @@ X 上相关分享（节选）：
 
 ## 所有来源
 
-- X · [workdsh @attechflag](https://x.com/attechflag/status/2098842960511238425) · 2026-09-12 · 0 赞 / 51 浏览
 - GitHub · [techflag/workdsh](https://github.com/techflag/workdsh) · 许可：MIT · stars 346
 
 ---

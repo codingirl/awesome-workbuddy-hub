@@ -15,10 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/amplify_video_thumb/2094447162910253056/img/tS9R6MBIFpzWwNIe.jpg)
-
 ## 所有来源
 
 - X · [AYi @AYi_AInotes](https://x.com/AYi_AInotes/status/2094450036629246132) · 2026-08-31 · 396 赞 / 89 转 / 73598 浏览

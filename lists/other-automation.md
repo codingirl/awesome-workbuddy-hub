@@ -1,0 +1,63 @@
+# 工具与其他资源 · 自动化（59）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [WorkBuddy Auto Sign-in](https://github.com/88lin/workbuddy-auto-signin) — 零依赖的签到与成长任务自动化 · [详情](../items/workbuddy-auto-sign-in.md) 𝕏 ⌥
+- [搜索全部资源](https://sandbaseai.github.io/awesome-workbuddy/) — 按关键词查找 Skills、MCP、工作流和教程 · [详情](../items/search-all-resources.md) ⌥
+- [27c.site](https://github.com/idea-internet/idea_internet) — MIT 许可的 AI 网站发布平台，明确支持 WorkBuddy 通过 MCP 或 HTTP API 创建、生成素材并发布网站；发布操作会… · [详情](../items/27c-site.md) ⌥
+- [Agent Manager](https://github.com/Zafer-Liu/Agent_Manager) — Apache-2.0 许可的跨平台 Agent 与 MCP 管理桌面应用，支持 WorkBuddy 会话、用量、记忆和 Skill 共享，… · [详情](../items/agent-manager.md) ⌥
+- [Open Agent Connect](https://github.com/openagentinternet/open-agent-connect) — MIT 许可的本地 Agent 网络连接器，明确支持 WorkBuddy，可为本地 Agent 创建持久身份、公开 Bot 页面和 Bot… · [详情](../items/open-agent-connect.md) ⌥
+- [ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) — MIT 许可的自托管 AI 网关，支持 WorkBuddy OAuth 适配、模型路由、配额统计、MCP 挂载和多种上游服务；它会处理中转… · [详情](../items/extremerouter.md) ⌥
+- [AutoFlow](https://github.com/lidicn/AutoFlow) — MIT 许可的 Home Assistant/Node-RED MCP 网关，WorkBuddy 可用自然语言生成、校验并部署自动化流程；… · [详情](../items/autoflow.md) ⌥
+- [MultiAgents-Manager](https://github.com/jarvislee90s-dot/MultiAgents-Manager) — MIT 许可的桌面多 Agent 管理器，明确支持 WorkBuddy，会话监控、通知、深度链接跳转，以及 Skills/MCP 资源统一… · [详情](../items/multiagents-manager.md) ⌥
+- [Cubism External Edit MCP](https://github.com/nana7chi/CubismExternalEditMCP) — MIT 许可的 Live2D Cubism Editor MCP，明确支持 WorkBuddy，提供模型参数/部件/变形器读取与编辑、批量… · [详情](../items/cubism-external-edit-mcp.md) ⌥
+- [Agent Roundtable](https://github.com/MoyuFamily/agent-roundtable) — Apache-2.0 许可的多 Agent 圆桌讨论引擎，提供结构化讨论、共识追踪和 MCP 模式，并通过 HTTP bridge 接入 … · [详情](../items/agent-roundtable.md) ⌥
+- [Agent Context Migrator](https://github.com/Luckycat133/skills-repo) — MIT 许可的离线 Skill、规则和 MCP 迁移工具，覆盖 Cursor、Claude Code、Codex、WorkBuddy 等客… · [详情](../items/agent-context-migrator.md) ⌥
+- [WorkBuddy2API (Sliverkiss)](https://github.com/Sliverkiss/workbuddy2api) — 许可未声明的 WorkBuddy CN 本地协议代理，提供 OpenAI 兼容接口、流式输出、工具调用、OAuth 登录和多账号轮换，并支… · [详情](../items/workbuddy2api-sliverkiss.md) ⌥
+- [Codex ↔ WorkBuddy MCP Bridge](https://github.com/ZhaoXiangyu99/workbuddy-mcp) — 未声明许可证的 Node.js MCP 桥，将 Codex 子任务交接到 WorkBuddy 收件箱，并提供打开 WorkBuddy 界面… · [详情](../items/codex-workbuddy-mcp-bridge.md) ⌥
+- [Claude Code Router](https://github.com/musistudio/claude-code-router) — MIT 许可的本地模型路由与 Agent 控制面，明确支持 WorkBuddy，可统一配置模型、账号、故障转移、工具和 MCP · [详情](../items/claude-code-router.md) ⌥
+- [Huawei Cloud DevKit](https://github.com/huaweicloud/huaweicloud-devkit) — Apache-2.0 许可的华为云官方 Agent 工具包，明确支持 WorkBuddy，提供 Skills、MCP、部署工具和安全护栏 · [详情](../items/huawei-cloud-devkit.md) ⌥
+- [workbuddy_to_api](https://github.com/yxxawa/workbuddy_to_api) — MIT 许可的本地 WorkBuddy 代理，将服务转换为 OpenAI/Anthropic 兼容 API，并提供健康检查、模型列表和可选… · [详情](../items/workbuddy-to-api.md) ⌥
+- [Skillmanager](https://github.com/buben12310/skillmanager) — MIT 许可的 Flutter + Go 桌面管理器，统一管理 Claude Code、Codex、OpenCode、Hermes、Tra… · [详情](../items/skillmanager.md) ⌥
+- [CaSee Intelligence MCP](https://github.com/xcasee/casee-mcp-server) — MIT 许可、兼容 WorkBuddy 的研究 MCP，提供 500+ 来源检索、T-Score 可信度信息和 stdio/Streama… · [详情](../items/casee-intelligence-mcp.md) ⌥
+- [QClaw × WorkBuddy Bridge](https://github.com/liuboacean/qclaw-workbuddy-bridge) — MIT 许可的 macOS 工作流桥，通过共享 JSON 队列和 launchd 事件把微信/QClaw 任务交给 WorkBuddy 执… · [详情](../items/qclaw-workbuddy-bridge.md) ⌥
+- [GitHub Trending MCP](https://github.com/ImLeonLi/GitHub-Trending-MCP) — Apache-2.0 许可、支持 WorkBuddy Skill 的 GitHub Trending 检索工具，可按时间、编程语言和自然语… · [详情](../items/github-trending-mcp.md) ⌥
+- [PowerContext](https://github.com/oceanbase/powercontext) — Apache-2.0 许可、OceanBase 团队维护的跨 Agent 记忆与任务交接系统，为 WorkBuddy 提供一键安装的 `U… · [详情](../items/powercontext.md) ⌥
+- [Memorix](https://github.com/AVIDS2/memorix) — Apache-2.0 的本地优先跨 Agent 项目记忆层，明确支持 WorkBuddy，通过 MCP、Hooks、CLI 和 Skill… · [详情](../items/memorix.md) ⌥
+- [BrowserSkill](https://github.com/Tencent/BrowserSkill) — 腾讯维护的 MIT 许可本地浏览器桥接，明确支持 WorkBuddy，通过 `bsk` CLI/daemon、浏览器扩展和独立 Agent… · [详情](../items/browserskill.md) ⌥
+- [Easy WebBridge](https://github.com/xxjrq/easy-webbridge) — MIT 许可的本地浏览器桥接，明确支持 WorkBuddy，可连接已登录的 Chrome、Edge、QQ 浏览器和 Chromium；按 … · [详情](../items/easy-webbridge.md) ⌥
+- [WorkBuddy Computer Use for Intel Mac](https://github.com/Guyzn/workbuddy-cua-mcp) — MIT 许可、面向 Intel Mac 的 WorkBuddy MCP，提供截图、鼠标/键盘/窗口控制和 Chrome CDP 自动化，用… · [详情](../items/workbuddy-computer-use-for-intel-mac.md) ⌥
+- [AgentNave](https://github.com/TimWongUp/agentnave) — MIT 许可的本地 STDIO MCP 运行时，可按固定版本启动和监督 CodeBuddy、Codex、Claude、Antigravit… · [详情](../items/agentnave.md) ⌥
+- [CPA Multi Plugins](https://github.com/mmqz/cpa-multi-plugins) — MIT 许可的 CLIProxyAPI 插件集合，为 WorkBuddy、CodeBuddy、Trae 和 Qoder 提供多平台模型接入… · [详情](../items/cpa-multi-plugins.md) ⌥
+- [WorkBuddy Remote](https://github.com/vergess3/workbuddy-remote) — MIT 许可的 Windows 远程浏览器桥接，复用桌面版 WorkBuddy 的官方 WebUI，通过本机 CDP 提供远程页面和调用转发 · [详情](../items/workbuddy-remote.md) ⌥
+- [Skill Buddy](https://github.com/konnga/skill-buddy) — MIT 许可、94 Star 的跨 Agent 桌面工作台，支持 WorkBuddy 用户级 Skills、Skills/MCP 清单、跨… · [详情](../items/skill-buddy.md) ⌥
+- [AgentHub](https://github.com/nicechencs/AgentHub) — MIT 许可的本地跨平台 Agent 管理 GUI/CLI，支持 WorkBuddy 等工具的安装环境、登录连接、共享/项目 Skills… · [详情](../items/agenthub.md) ⌥
+- [FyAgent](https://github.com/fy-agent/fyagent) — 采用 PolyForm Noncommercial 1.0.0（部分继承 CC Switch 代码仍为 MIT）的本地跨平台 AI 工具配… · [详情](../items/fyagent.md) ⌥
+- [DCC-MCP Agent Plugins](https://github.com/dcc-mcp/dcc-mcp-agent-plugins) — MIT 许可、官方分发式的 DCC-MCP Agent Skills/插件集合，兼容 WorkBuddy、Codex、Claude Cod… · [详情](../items/dcc-mcp-agent-plugins.md) ⌥
+- [GitHub MCP Server Lite](https://github.com/1186247283zj-pixel/github-mcp-server-lite) — MIT 许可、仅依赖 Python 标准库的 GitHub MCP Server，提供仓库、文件、分支、Issue、PR、搜索和通知等 2… · [详情](../items/github-mcp-server-lite.md) ⌥
+- [Garmin Connect Plugin for DSH](https://github.com/Likenttt/garmin-connect-plugin-for-dsh) — MIT 许可、11 Star 的 Garmin Connect MCP/Skill 插件，支持 WorkBuddy 等 Agent 通过浏… · [详情](../items/garmin-connect-plugin-for-dsh.md) ⌥
+- [NetSuite MCP](https://github.com/Bolton-Z/ns-mcp-china) — MIT 许可、纯 Node.js 内置模块的 NetSuite MCP 连接器，可供 WorkBuddy 通过 OAuth 2.0 查询 … · [详情](../items/netsuite-mcp.md) ⌥
+- [DSH Reminder](https://github.com/Aisland-SJL/dsh-reminder) — MIT 许可的 DeepSeek Harness 跨窗口提醒插件，在任务完成或等待人工批准时发送浏览器通知 · [详情](../items/dsh-reminder.md) ⌥
+- [wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) — 让微信消息通过 QClaw 或 WorkBuddy OAuth/Centrifuge 通道触发本地 OpenClaw Agent · [详情](../items/wechat-openclaw-channel.md) ⌥
+- [OpenWorkBuddy](https://github.com/CatCatUncle/openworkbuddy) — 腾讯 WorkBuddy 的开源复刻版，提供本地 Agent 工作台、Skills、MCP、桌面与多 IM 通道 · [详情](../items/openworkbuddy.md) ⌥
+- [SailFish](https://github.com/ysyx2008/SailFish) — 面向 macOS/Windows 的私人桌面秘书与 WorkBuddy 风格 Agent，支持记忆、Skills、MCP、浏览器、终端和多… · [详情](../items/sailfish.md) ⌥
+- [OpenBuddy](https://github.com/opensymph/OpenBuddy) — 基于 Rust/Tauri 的 MIT 开源 WorkBuddy 风格跨平台桌面客户端，支持 BYOK、多模型、Skills、MCP、计划… · [详情](../items/openbuddy.md) ⌥
+- [OpenBuddy（louloulin）](https://github.com/louloulin/OpenBuddy) — MIT 许可的开源 WorkBuddy 风格桌面工作台，支持计划模式、Skills、MCP、多 Agent 和本地文件 · [详情](../items/openbuddy-louloulin.md) ⌥
+- [MultiCC](https://github.com/lsjwzh/MultiCC) — MIT 许可的多 Agent 控制器，明确支持 WorkBuddy，可并行管理多个 Agent、使用隔离 Git worktree、接收桌… · [详情](../items/multicc.md) ⌥
+- [SkillDock](https://github.com/wanghuan9/skilldock) — MIT 许可的跨 Agent 桌面 Skill/MCP/插件管理器，支持 WorkBuddy，提供真实目录扫描、安装整理、Git 感知 D… · [详情](../items/skilldock.md) ⌥
+- [WorkBuddy Check-in](https://github.com/Coco-katarina/workbuddy-checkin) — MIT 许可的 WorkBuddy 每日签到 Skill，仅读取本机登录态并向腾讯官方接口发起幂等签到请求 · [详情](../items/workbuddy-check-in.md) ⌥
+- [WorkBuddy Auto Check-in](https://github.com/liubinne/workbuddy-free-credits) — MIT 许可、支持 macOS/Windows 的 WorkBuddy 每日签到 Skill，带有凭据路径检查、单实例锁、脱敏日志、定时任… · [详情](../items/workbuddy-auto-check-in.md) ⌥
+- [Trae WorkBuddy Assistant](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) — MIT 许可的 Windows Tauri 工具，为 Trae 与 WorkBuddy 提供多账号管理、OAuth/Token、积分查询、… · [详情](../items/trae-workbuddy-assistant.md) ⌥
+- [WorkBuddy Account Migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) — 迁移账号切换后的对话、长期记忆与 MCP 连接器 · [详情](../items/workbuddy-account-migrate.md) ⌥
+- [OpenWorkbuddy](https://github.com/chenin0931/OpenWorkbuddy) — MIT 许可、独立开源的 WorkBuddy 风格 macOS 本地 Agent 工作台，支持自带模型密钥、文件与 Shell、浏览器、M… · [详情](../items/openworkbuddy-2.md) ⌥
+- [Tulpa](https://github.com/fumingyang2004/Tulpa) — 使用MCP，让你几乎所有的Agent访问QQ/微信/B站，甚至亲自下场水群和发消息！ · [详情](../items/fumingyang2004-tulpa.md) ⌥
+- [TOMC](https://github.com/ZipengWu365/TOMC) — TOMC Memory: CPU context compression and task memory for Codex, Claud… · [详情](../items/zipengwu365-tomc.md) ⌥
+- [mcd-self-butler](https://github.com/jouaaaaaa/mcd-self-butler) — 麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 /… · [详情](../items/jouaaaaaa-mcd-self-butler.md) ⌥
+- [mcd-daily-saver](https://github.com/Cesare-N/mcd-daily-saver) — 用麦当劳官方 MCP 每天算一次「今天怎么买最省」：首屏三张卡、一键领券、点餐链路、自家买法比价。麦当劳程序员节创意开发大赛参赛作品。 · [详情](../items/cesare-n-mcd-daily-saver.md) ⌥
+- [McShake](https://github.com/gundamli/McShake) — 麦当劳官方 MCP 驱动的像素风老虎机：营养账本 + 凑单优化 + 1+1 随心配 · [详情](../items/gundamli-mcshake.md) ⌥
+- [mcd-fit-planner](https://github.com/tomsbin/mcd-fit-planner) — 今天练什么，这一餐就怎么选。按训练计划比较麦当劳套餐实价和营养，临时休息顺延，生成月年吃麦手账。免安装在线体验 · 官方 MCP · Wo… · [详情](../items/tomsbin-mcd-fit-planner.md) ⌥
+- [mcd-coupon-xray](https://github.com/wahaha-potato/mcd-coupon-xray) — 麦麦省的券谁都能领，但领了不等于楼下那家店认。一键领全后逐家门店校验哪张券真的能核销，并算出券后实付，直接回答「去哪家店、用哪张券、省多少… · [详情](../items/wahaha-potato-mcd-coupon-xray.md) ⌥
+- [mcd-nutrition-expert](https://github.com/clawgeek/mcd-nutrition-expert) — 身材管控期也想吃麦当劳？这个专家会帮你根据每日消耗搭配麦麦套餐。基于 SP 矩阵理论，打通麦当劳官方 MCP Server 的营养选型与点… · [详情](../items/clawgeek-mcd-nutrition-expert.md) ⌥
+- [free-llm-router](https://github.com/XuexGao/free-llm-router) — WorkBuddy 任务自动化 + OpenAI 兼容 API 聚合，部署到 Cloudflare Workers（Free 计划） · [详情](../items/xuexgao-free-llm-router.md) ⌥
+- [aios](https://github.com/rexleimo/aios) — The local-first control plane for long-horizon coding agents: cross-s… · [详情](../items/rexleimo-aios.md) ⌥
+- [mcd-receipt-studio](https://github.com/lengxi-c/mcd-receipt-studio) — 麦当劳 MCP 驱动的手账向文创小票生成器 —— 用真实订单明细，做一张可编辑、可装饰、可下载打印的麦门票根。 · [详情](../items/lengxi-c-mcd-receipt-studio.md) ⌥

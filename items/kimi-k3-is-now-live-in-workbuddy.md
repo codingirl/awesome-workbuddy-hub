@@ -1,6 +1,6 @@
 # Kimi K3 is now live in WorkBuddy.
 
-> 类型：技能（Skills） ｜ 分类：办公文档 ｜ 标签：办公文档
+> 类型：知识点与使用技巧 ｜ 分类：官方动态 ｜ 标签：官方动态
 
 ## 简介
 
@@ -14,12 +14,6 @@ Kimi K3 is now live in WorkBuddy. Built for complex, long-horizon tas…
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HNwxj92aQAABH8_.jpg)
 
 ## 所有来源
 

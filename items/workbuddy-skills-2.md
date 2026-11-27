@@ -1,6 +1,6 @@
 # 我最后在提醒你一次，这里有钱赚！workbuddy skills一定要…
 
-> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
+> 类型：知识点与使用技巧 ｜ 分类：学习教程 ｜ 标签：学习教程
 
 ## 简介
 
@@ -14,11 +14,6 @@
 
 ## 使用/获取
 
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HWhmf5vaAAAitmJ.jpg)
-![](https://pbs.twimg.com/media/HWhnQIPagAAw7cw.jpg)
 
 ## 所有来源
 

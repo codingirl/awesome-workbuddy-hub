@@ -1,23 +1,23 @@
-# WorkBuddy必装skills清单
+# 当你发现豆包和 workbuddy 都可以低成本推广你的 skills…
 
-> 类型：技能（Skills） ｜ 分类：效率 ｜ 标签：效率
+> 类型：知识点与使用技巧 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
-WorkBuddy必装skills清单
+当你发现豆包和 workbuddy 都可以低成本推广你的 skills 的时候，你该选谁呢 找他们两边要商单，谁给钱多就选谁😂 拿到钱之后…
 
 ## 详情
 
-本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
+以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
+
+> 当你发现豆包和 workbuddy 都可以低成本推广你的 skills 的时候，你该选谁呢 找他们两边要商单，谁给钱多就选谁😂 拿到钱之后，再把钱分给其他小 KOL，让他们再推我的 skills 一笔钱，过三次手
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 
-- X · [zhouluobo @zhouluobo](https://x.com/zhouluobo/status/2082771185184715024) · 2026-07-30 · 25 赞 / 1 转 / 12339 浏览
+- X · [dontbesilent @dontbesilent](https://x.com/dontbesilent/status/2077651569617863134) · 2026-07-16 · 49 赞 / 1 转 / 10193 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

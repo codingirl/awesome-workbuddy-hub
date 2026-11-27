@@ -1,0 +1,46 @@
+# 知识点与使用技巧 · 营销（42）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [发现了一个新的赚钱机会，WorkBuddy 悄悄上线了一个「收入变现」…](https://x.com/Missle8z/status/2117248899463237821) — 发现了一个新的赚钱机会，WorkBuddy 悄悄上线了一个「收入变现」的功能。 你可以把你创建的技能、专家，上线到 WorkBuddy 上… · [详情](../items/workbuddy-41.md) 𝕏
+- [WorkBuddy做电商批量套版，出图零Token消耗](https://x.com/krikwangcy/status/2122265488512188537) — 做电商公司的痛点： 1、多平台多店铺，主图要做多种平台适配 2、SKU非常多，每一个SKU都需要多张主图 3、大量活动图反复改版套版，价格… · [详情](../items/workbuddy-token-2.md) 𝕏
+- [教你用WorkBuddy搞定新媒体运营工作](https://x.com/majiabin/status/2091706350292308442) — 教你用WorkBuddy搞定新媒体运营工作 · [详情](../items/workbuddy-79.md) 𝕏
+- [😂 这几天，国内已经开始宣传 Skill 变现了](https://x.com/Mileson07/status/2126143304081539231) — 😂 这几天，国内已经开始宣传 Skill 变现了 我觉得可能跟我有点功劳 👇 1、【25w浏览量】腾讯 WorkBuddy SKill 变… · [详情](../items/skill-11.md) 𝕏
+- [腾讯手握企微，只要私域运营还存在，Workbuddy 的机会就会很大。…](https://x.com/frxiaobei/status/2085007971776631277) — 腾讯手握企微，只要私域运营还存在，Workbuddy 的机会就会很大。毕竟左手松、右手紧，对于第三方平台本身就是一种降维。 但是微信里的 … · [详情](../items/workbuddy-187.md) 𝕏
+- [如何用 Workbudy 给电视去广告：把主页换成一块干净桌面](https://x.com/665162/status/2117908321487454715) — 打开电视，满屏是剧集推荐、会员角标和限免横幅——想看的 App 反而要翻半天。这篇教程用腾讯 WorkBuddy（动手干活的 AI）加开源… · [详情](../items/workbudy.md) 𝕏
+- [给大家说，多去用国内的workbuddy.](https://x.com/newbeeyu/status/2076264138205221052) — 给大家说，多去用国内的workbuddy. 据我所知，有人通过workbuddy弄的skill已经赚了6位数。 要去用离钱的产品，离大众近… · [详情](../items/workbuddy-255.md) 𝕏
+- [继承了腾讯在社区运营方面的优良传统，workbuddy应该是今年下半年…](https://x.com/shitunote/status/2109678629663936886) — 继承了腾讯在社区运营方面的优良传统，workbuddy应该是今年下半年搞活动最多的AI工具了吧🤪 这不workbuddy的又一活动：应广大… · [详情](../items/workbuddy-268.md) 𝕏
+- [WorkBuddy 又多了个搞钱路子：用这个 Skill，接电商商家的做图订单](https://x.com/SkywalkerDcy/status/2124209206928753082) — 300 多个 SKU，3 个全职设计师，每天忙着改商品图。 X 上有篇电商项目复盘，作者接触的品牌方有六个平台、几十家店铺。价格变了要改图… · [详情](../items/workbuddy-skill-51.md) 𝕏
+- [The AI 社区智能体实战训练营--从 AI 工具使用到智能体搭建，从个人效率提升到企业自动化运营，降本增效。 ](https://x.com/TheAIEdu/status/2116081557731463255) — AI 正在重塑每一个行业。当大多数人还在用 ChatGPT 写周报的时候，先行者已经开始用智能体（Agent）自动选品、自动运营社交媒体、… · [详情](../items/the-ai-ai.md) 𝕏
+- [workbuddy 迅速占领个人agent份额和普通用户心智，腾讯到底…](https://x.com/6mt_ai/status/2111016564313170203) — workbuddy 迅速占领个人agent份额和普通用户心智，腾讯到底做对了什么 #workbuddy -选对战场： 不比模型，比入口，不… · [详情](../items/workbuddy-agent-11.md) 𝕏
+- [发现一个赚钱项目：](https://x.com/ahamme35638/status/2117089815741219059) — 发现一个赚钱项目： 做 WorkBuddy，别吹工具多牛，赚钱才是硬道理。 足球 SKILL 实战： 闲鱼 100 份→私域 90 人， … · [详情](../items/x-41219059.md) 𝕏
+- [workbuddy支持卖skill技能变现啦～你可以说他家模型一般，但…](https://x.com/frogtian1/status/2113780806019887127) — workbuddy支持卖skill技能变现啦～你可以说他家模型一般，但是挣钱能力是全球独家 咋就说模仿和变现这一块，企鹅一直都是遥遥领先的… · [详情](../items/workbuddy-skill-56.md) 𝕏
+- [一个人服务7000+学员，100+客户，我高频使用的3个AI工具](https://x.com/yuanliuwei/status/2118516637863395782) — 一个人服务7000+学员，100+客户，我高频使用的3个AI工具 给大家分享一下我运营一人 AI 公司，现在非常高频使用的 3 个 AI … · [详情](../items/7000-100-3-ai.md) 𝕏
+- [拆解了一下 WorkBuddy 的营销策略，发现它最聪明的地方：没有反…](https://x.com/Web3rika/status/2087118240052814131) — 拆解了一下 WorkBuddy 的营销策略，发现它最聪明的地方：没有反复强调 AI 到底有多强，而是把一个技术产品，包装成了普通职场人也能… · [详情](../items/workbuddy-314.md) 𝕏
+- [好多朋友都在聊workbuddy上卖skill变现这事儿，不得不说玩生…](https://x.com/JohnsonLay70702/status/2113594914403672084) — 好多朋友都在聊workbuddy上卖skill变现这事儿，不得不说玩生态链还得是企鹅啊～ 我好怕有一天会让人冲888，专属skill全家桶。 · [详情](../items/workbuddy-skill-59.md) 𝕏
+- [Skill赚钱时代来了，Workbuddy开放平台上线了一个收入变现模…](https://x.com/EianLu/status/2113910566700126255) — Skill赚钱时代来了，Workbuddy开放平台上线了一个收入变现模块，可以通过上传Skill变现，金额和付费方式都可以自由选择。 · [详情](../items/skill-workbuddy-7.md) 𝕏
+- [Workbuddy帮你0门槛自动化运营Ozon](https://x.com/web3_koala/status/2124833999067742400) — Workbuddy帮你0门槛自动化运营Ozon · [详情](../items/workbuddy-0-ozon.md) 𝕏
+- [腾讯WorkBuddy：Agent的下一步，不是更强大，而是更“预制”](https://x.com/whatfordinner12/status/2085240581492764957) — 腾讯WorkBuddy：Agent的下一步，不是更强大，而是更“预制” · [详情](../items/workbuddy-agent-12.md) 𝕏
+- [卖 skill 这事，平台亲自下场了😲](https://x.com/btc5767/status/2113639753208004940) — 卖 skill 这事，平台亲自下场了😲 WorkBuddy 后台多了「收入变现」：技能能定价出售，买断、按月都行，内测只抽 1%。 客户端… · [详情](../items/skill-30.md) 𝕏
+- [📢 WorkBuddy开放技能变现后普通人能靠卖AI Skill赚钱吗…](https://x.com/DaYang_AI/status/2116004666010223011) — 📢 WorkBuddy开放技能变现后普通人能靠卖AI Skill赚钱吗？五个世界顶尖AI的解答 • ChatGPT：AI降低了入场门槛，但… · [详情](../items/workbuddy-ai-skill-2.md) 𝕏
+- [腾讯：WorkBuddy/CodeBuddy至11月15日免费使用Hy…](https://x.com/AIPICVIDEO/status/2118092698657927636) — • 腾讯：WorkBuddy/CodeBuddy至11月15日免费使用Hy4；TokenHub五折至年底。 • Kling：付费订阅用户有… · [详情](../items/workbuddy-codebuddy-11-15-hy.md) 𝕏
+- [我是朱总的 AI 决策。公司想找 GEO 服务商，没找到，我就自己学了…](https://x.com/Xcrazypeter/status/2117272812171997472) — 我是朱总的 AI 决策。公司想找 GEO 服务商，没找到，我就自己学了很久。后来花 2980 买了一个 WorkBuddy 的 skill… · [详情](../items/ai-geo.md) 𝕏
+- [📝 豆包工作 vs WorkBuddy](https://x.com/CraftsmanTiktok/status/2124529081488376270) — 📝 豆包工作 vs WorkBuddy 📌4.19亿 vs 204.9万：豆包工作电梯广告刷屏了，WorkBuddy凭什么先拿下半个500… · [详情](../items/vs-workbuddy-3.md) 𝕏
+- [WorkBuddy悄悄上线「收入变现」，可自主定价技能和专家](https://x.com/KaBosssssssssss/status/2114714263806001269) — WorkBuddy悄悄上线「收入变现」，可自主定价技能和专家 可以把你创建的技能、专家，上线到 WorkBuddy 上售卖了。在 Work… · [详情](../items/workbuddy-424.md) 𝕏
+- [Explore](https://www.workbuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Explore) — Browse official creations across seven scenario categories, preload t… · [详情](../items/explore.md) ⌥
+- [⭐️ WorkBuddy 上线了一个「收入变现」的功能](https://x.com/lucas75554093/status/2113935027767775579) — ⭐️ WorkBuddy 上线了一个「收入变现」的功能 诸位，workbuddy商业化开始了！ 可以通过进入WorkBuddy 开放平台，… · [详情](../items/workbuddy-442.md) 𝕏
+- [深得腾讯系社区运营真传，WorkBuddy 应该是今年下半年活动最多的…](https://x.com/himsam181337/status/2109685407504056513) — 深得腾讯系社区运营真传，WorkBuddy 应该是今年下半年活动最多的 AI 工具了吧🤪 新活动：应广大用户要求，WorkBuddy 国际… · [详情](../items/workbuddy-463.md) 𝕏
+- [我的豆包订阅6号就到期了](https://x.com/Musegoblin/status/2117161882301927920) — 我的豆包订阅6号就到期了 @grok 给我点建议，在豆包、workbuddy、免费的muse和grok bot之间选择，你会建议我使用哪款… · [详情](../items/6-3.md) 𝕏
+- [workbuddy 灵感菜单下的素材太多了，几百个。其他 deskto…](https://x.com/oshanosoi/status/2084218469973991865) — workbuddy 灵感菜单下的素材太多了，几百个。其他 desktop agent 怎么玩呀。包括专家库，技能库，全是运营层面的功夫。 · [详情](../items/workbuddy-deskto.md) 𝕏
+- [🚀 From an Agent-generated webpage t…](https://x.com/TencentCloudEO/status/2061349881307107437) — 🚀 From an Agent-generated webpage to a globally accessible site — tha… · [详情](../items/from-an-agent-generated-webpage-t.md) 𝕏
+- [卡兹克把 Skill 挂上支付宝能收钱了，腾讯那边 WorkBuddy…](https://x.com/octopusaia/status/2126179443458933207) — 卡兹克把 Skill 挂上支付宝能收钱了，腾讯那边 WorkBuddy 也在推 Skill 变现。 免费 Skill 大家随手存，收费的才… · [详情](../items/skill-workbuddy-12.md) 𝕏
+- [一人公司的AI操作系统，OPC起步到超级个体](https://x.com/MirrortekUK/status/2110692024483557777) — 一人公司的AI操作系统，OPC起步到超级个体 一个人OPC开公司，从产品、营销、客服、财税、法务都要自己管，确实不容易。 但现在有了 AI… · [详情](../items/ai-opc.md) 𝕏
+- [Workbuddy一人公司实战课](https://x.com/jglcn1991/status/2102383118980411491) — 【Workbuddy一人公司实战课】 （Workbuddy实战课，用AI搭建个人内容工厂，技能变现+全自动交付） 一个人做内容，最怕的是做… · [详情](../items/workbuddy-536.md) 𝕏
+- [目前好些AI变现的方式是“卖skill”，但我认为现在存在一个skil…](https://x.com/beyond0131/status/2125505509428277380) — 目前好些AI变现的方式是“卖skill”，但我认为现在存在一个skill悖论 愿意花钱买skill的，起码得日常使用AI，对AI有一定的了… · [详情](../items/ai-skill-skil.md) 𝕏
+- [WorkBuddy 最近上线了一个收入变现的功能，卖skill小伙伴的…](https://open.workbuddy.cn/) — WorkBuddy 最近上线了一个收入变现的功能，卖skill小伙伴的圈友注意一下 可以通过进入WorkBuddy 开放平台，完成注册登录… · [详情](../items/workbuddy-skill-94.md) 𝕏
+- [认证花了 3 分钟，做 Skill 花了 40 分钟，审核过了之后收款…](https://x.com/kkkdun/status/2125389054556373273) — 认证花了 3 分钟，做 Skill 花了 40 分钟，审核过了之后收款入口就亮了。第一笔钱不多，但路径是通的。 很多人一上来就想做“专家”… · [详情](../items/3-skill-40.md) 𝕏
+- [WorkBuddy开始搞收入变现了](https://x.com/maple_cq/status/2113468311887626631) — WorkBuddy开始搞收入变现了 自己的技能和专家都可以上传，然后开通次付和一次付费 这也算是打造使用者，创作者共赢的平台吧，有兴趣的可… · [详情](../items/workbuddy-584.md) 𝕏
+- [👀AI圈最新重磅消息！Workbuddy已经开始可以卖Skills了](https://x.com/Kobe1213681/status/2113924343122247997) — 👀AI圈最新重磅消息！Workbuddy已经开始可以卖Skills了 再也不用担心你的SKill只是一次性生意，现在也能做成可复利的生产资… · [详情](../items/ai-workbuddy-skills.md) 𝕏
+- [WorkBuddy 支持 Skill 付费变现了](https://x.com/Wangsj111924/status/2114204548659294476) — WorkBuddy 支持 Skill 付费变现了 后台已经能设置一次性付费和按月付费，做出来的 Skill 终于有机会变现了？ 腾讯这是给… · [详情](../items/workbuddy-skill-104.md) 𝕏
+- [不是说 workbuddy 的 skill 可以变现吗。。](https://x.com/jiamibingdi/status/2120178479664918575) — 不是说 workbuddy 的 skill 可以变现吗。。 11 月 3 号传了一个免费的 现在10 号还在审核中，7 天了。。 是传的人… · [详情](../items/workbuddy-skill-108.md) 𝕏
+- [② 别把这事和腾讯 WorkBuddy 10 月内测的「收入变现」搞混…](https://x.com/AI7Sir/status/2126139199183008124) — ② 别把这事和腾讯 WorkBuddy 10 月内测的「收入变现」搞混了，那是另一个平台，技能标价 1 到 9999 元、一次性买断或按月… · [详情](../items/workbuddy-10-10.md) 𝕏

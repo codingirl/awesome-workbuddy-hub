@@ -1,0 +1,76 @@
+# 案例与实测 · 办公文档（72）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [实操记录：我用 WorkBuddy 跑通的第一条完整 AI 办公闭环](https://x.com/iluciddreaming/status/2074008662893547616) — 实操记录：我用 WorkBuddy 跑通的第一条完整 AI 办公闭环 · [详情](../items/workbuddy-ai-6.md) 𝕏
+- [6 个 PPT Skill 实测对比](https://x.com/xitang_ai/status/2121796122670743663) — 用 WorkBuddy 试了 6 个 PPT Skill，对比可编辑 PPTX、网页演示和设计提案，并附完整提示词 · [详情](../items/6-ppt-skill.md) 𝕏
+- [很多人打开 WorkBuddy，第一反应还是让它写周报、总结文档、生成…](https://x.com/joshesye/status/2080572921852969333) — 很多人打开 WorkBuddy，第一反应还是让它写周报、总结文档、生成标题。 这当然能用。但我实测下来发现，如果只这么用，基本等于把一台工… · [详情](../items/workbuddy-75.md) 𝕏
+- [品玩做了一轮主流Flash模型的横评，把Hy4 flash、DeepS…](https://x.com/mrzhiji/status/2122970125410451784) — 品玩做了一轮主流Flash模型的横评，把Hy4 flash、DeepSeek V4.1 Flash、GLM 5.3 Flash和旗舰Hy4… · [详情](../items/flash-hy4-flash-deeps.md) 𝕏
+- [据说WorkBuddy营销势头很猛，号称办公agent的天花板，技能库…](https://x.com/kafkaup/status/2074503957863411879) — 据说WorkBuddy营销势头很猛，号称办公agent的天花板，技能库据说有几千个 但我自己还没实际用过 用过的朋友，来说说体验感到底怎么… · [详情](../items/workbuddy-agent-8.md) 𝕏
+- [果然，我也没忍住，去 Workbuddy 的 skillhub 里搜了…](https://x.com/dashiAIxz/status/2117816083243770339) — 果然，我也没忍住，去 Workbuddy 的 skillhub 里搜了一下，看到一款 PPT skill。 我没有实测，不能确定它是不是拿… · [详情](../items/workbuddy-skillhub-2.md) 𝕏
+- [上周去讲了一次 200 人的通识大课，用下面这两张图做了一次现场调查。](https://x.com/libukai/status/2104830567993037108) — 上周去讲了一次 200 人的通识大课，用下面这两张图做了一次现场调查。 结果 90% 以上的人只用过 DeepSeek、豆包和元宝这样的聊… · [详情](../items/200.md) 𝕏
+- [🔥 羊毛速报：直接领取亚马逊价值 25 美元/月的 Amazon Qu…](https://x.com/xulijian1994/status/2125822076632318082) — 🔥 羊毛速报：直接领取亚马逊价值 25 美元/月的 Amazon Quick Plus，免费体验 30 天！ Quick 是 AWS 推出… · [详情](../items/25-amazon-qu.md) 𝕏
+- [上次做完crazyox桌宠，让她管理所有的Agent之后，感觉还是不够…](https://x.com/crazyox/status/2099856489351716883) — 上次做完crazyox桌宠，让她管理所有的Agent之后，感觉还是不够直观，就又做了一个Agent像素风桌面办公室。 先接入了codex的… · [详情](../items/crazyox-agent.md) 𝕏
+- [Workbuddy 原来在内测一个助理功能，今天实测了下，直接绑定个人…](https://x.com/xiaomanhedy/status/2114636976326394196) — Workbuddy 原来在内测一个助理功能，今天实测了下，直接绑定个人微信，在微信发各类信息啊方便很多，毕竟我们在国内很多工作信息都在微信… · [详情](../items/workbuddy-176.md) 𝕏
+- [WorkBuddy 实测：做给白领的 AI 办公 Agent，一个叫 untitled 的文件它照样分对了](https://x.com/03AIer/status/2091169459969077686) — WorkBuddy 实测：做给白领的 AI 办公 Agent，一个叫 untitled 的文件它照样分对了 · [详情](../items/workbuddy-ai-agent-untitled.md) 𝕏
+- [体验了一下 WorkBuddy 比预想的惊艳许多，里面有非常丰富的 A…](https://x.com/0xmomonifty/status/2069668982404333812) — 体验了一下 WorkBuddy 比预想的惊艳许多，里面有非常丰富的 Agent 预设值和高效的 Skill，非常适合办公场景使用 简单的试… · [详情](../items/workbuddy-a.md) 𝕏
+- [AI 学了不少，工作还在手动？用 WorkBuddy 跑通你的第一个办公流程](https://x.com/HHeting96774/status/2117912015595581760) — AI 信息看了很多，工具也收藏了不少，真正轮到自己用，还是不知道从哪一步开始？ 今天就带大家上手 WorkBuddy，把 AI 用进日常工… · [详情](../items/ai-workbuddy-11.md) 𝕏
+- [腾讯WorkBuddy接入Step 5 Preview，免费开放到10…](https://x.com/Dimon1024b/status/2109588564719931465) — 腾讯WorkBuddy接入Step 5 Preview，免费开放到10月25日。 可以拿份脱敏会议纪要测试，看它能不能自动整理出待办清单。… · [详情](../items/workbuddy-step-5-preview-10.md) 𝕏
+- [深度体验了一周的workbuddy，体感上这个harnees是比zco…](https://x.com/atongrun/status/2124354792441143326) — 深度体验了一周的workbuddy，体感上这个harnees是比zcode差很多的 workbuddy是不大适合开发的，更适合做一些日常、… · [详情](../items/workbuddy-harnees-zco.md) 𝕏
+- [真拿来干活时，Workbuddy的体验不太好，主要是速度太慢，Deep…](https://x.com/vern33/status/2104812216801493021) — 真拿来干活时，Workbuddy的体验不太好，主要是速度太慢，Deepseek总是一副很忙碌的样子，不断更新思考或者操作过程，然而慢到屡次… · [详情](../items/workbuddy-deep.md) 𝕏
+- [我花了大量时间实测，结论放在这](https://x.com/yhiyo2011/status/2125419702826524992) — 我花了大量时间实测，结论放在这 WorkBuddy 出 Excel 的窍门是样例至少给两行 格式一次说死，不然它自由发挥🥴🥴🥴 先给表头和… · [详情](../items/x-26524992.md) 𝕏
+- [别看现在国内的各类Agent如火如荼，腾讯的workbuddy、阿里的…](https://x.com/ScarletWave7/status/2107779098580029526) — ＃AI思考 别看现在国内的各类Agent如火如荼，腾讯的workbuddy、阿里的千问办公、字节的豆包工作口好喊的这么响！ 再过几年产品形… · [详情](../items/agent-workbuddy-3.md) 𝕏
+- [腾讯把 AI 从聊天挪到办公，押注 WorkBuddy。用户的实测反馈…](https://x.com/hellochenyong/status/2102912202843857131) — 腾讯把 AI 从聊天挪到办公，押注 WorkBuddy。用户的实测反馈很有意思：I5 加 16G 内存，跑起来直接卡死，任务其实还在后台跑… · [详情](../items/ai-workbuddy-13.md) 𝕏
+- [BestBlogs 早报 · 08-30](https://x.com/hongming731/status/2093871203983446425) — BestBlogs 早报 · 08-30 # Tencent Hy4 / Claude 团队实践 / 代码即文档 / Lumos / 推理… · [详情](../items/bestblogs-08-30.md) 𝕏
+- [各位佬，肝了几天，《关于 WorkBuddy 的 100 个问题》出炉…](https://my.feishu.cn/wiki/Mu5DwGTXGig5Bck16bAc4CAYnqc) — 各位佬，肝了几天，《关于 WorkBuddy 的 100 个问题》出炉啦～ 这份文档，从"为什么会用窄"，一路拆到"Excel→周报→PP… · [详情](../items/workbuddy-100-6.md) 𝕏
+- [实测国产的三个办公软件！！](https://x.com/petch705/status/2120087201639743902) — 实测国产的三个办公软件！！ 最近把 WorkBuddy、千问办公、豆包工作三个办公软件扒了一遍，说点大实话 💼 一句话锐评 ✅ WorkB… · [详情](../items/x-39743902.md) 𝕏
+- [今天小小的体验一下 ai 我发现](https://x.com/JiangS86311/status/2114056710361096291) — 今天小小的体验一下 ai 我发现 弄懂了WorkBuddy与Hermes Agent的定位差别。 WorkBuddy是开箱即用的桌面执行终… · [详情](../items/ai-102.md) 𝕏
+- [两个供应商明明报了价，Agent 一开始却把它们判成了报价缺失。](https://x.com/qinhaochen1/status/2094011193145114629) — 两个供应商明明报了价，Agent 一开始却把它们判成了报价缺失。 这是 WorkBuddy + TextIn xParse 的一个采购实测… · [详情](../items/agent-21.md) 𝕏
+- [所有人都在争 Claude Code、Codex、WorkBuddy …](https://x.com/zycbat888/status/2090437811786891290) — 所有人都在争 Claude Code、Codex、WorkBuddy 哪个强。 我实测了一年，结论有点反直觉：这个问题根本不重要。 它们是… · [详情](../items/claude-code-codex-workbuddy.md) 𝕏
+- [摸透这15个WorkBuddy案例，你离大师不远了!#办公神器 #AI…](https://x.com/wsmlsq/status/2115371053782573405) — 摸透这15个WorkBuddy案例，你离大师不远了!#办公神器 #AI大模型 #职场人必备 #Workbuddy #Workbuddy使用… · [详情](../items/15-workbuddy-ai.md) 𝕏
+- [梁文锋4小时发言实录刷屏后，我用 WorkBuddy 重搭了个选题库](https://x.com/aweiai2035/status/2080669381496025485) — 梁文锋4小时发言实录刷屏后，我用 WorkBuddy 重搭了个选题库 · [详情](../items/4-workbuddy-2.md) 𝕏
+- [腾讯、阿里、字节 AI 办公智能体实测横评来啦！到底谁才是最强“打工替…](https://x.com/WangNextDoor2/status/2096889017069355088) — 腾讯、阿里、字节 AI 办公智能体实测横评来啦！到底谁才是最强“打工替身”？ 腾讯 WorkBuddy：生态最全的“办公全能王”！内置超 … · [详情](../items/ai-116.md) 𝕏
+- [亚马逊版 WorkBuddy 来了！免费体验 Claude Opus …](https://x.com/bjs33368/status/2125169021364675060) — 亚马逊版 WorkBuddy 来了！免费体验 Claude Opus 5.5，还能接入第三方 AI 工作台！ 最近这位大哥@yedabin… · [详情](../items/workbuddy-claude-opus.md) 𝕏
+- [太强了！一条龙AI办公真落地了](https://x.com/Etudecn/status/2074128339716223324) — 太强了！一条龙AI办公真落地了 mousepotato实测WorkBuddy： ✅ Excel整理→周报生成→PPT制作全自动 ✅ 产品资… · [详情](../items/ai-121.md) 𝕏
+- [实测了亚马逊的办公 AI：Amazon Quick，类似国内的 Wor…](https://x.com/A9Beacon/status/2125404108693635093) — 实测了亚马逊的办公 AI：Amazon Quick，类似国内的 WorkBuddy。 背后用的是 Claude Opus 5.5 满血版。… · [详情](../items/ai-amazon-quick-wor.md) 𝕏
+- [WorkBudy ·Trae ·Qode 能力对比](https://x.com/xiasan532/status/2086685612229456109) — WorkBudy ·Trae ·Qode 能力对比 WorkBuddy：腾讯，通用办公自动化桌面 Agent Trae：字节跳动，前端 /… · [详情](../items/workbudy-trae-qode.md) 𝕏
+- [没有最强的 AI Agent，只有选对的。](https://x.com/dxer0730/status/2090785949437571511) — 没有最强的 AI Agent，只有选对的。 实测 4 款代表作： 🔹 DeepSeek Harness：开发者底盘，一切皆插件，自由但要自… · [详情](../items/ai-agent-18.md) 𝕏
+- [大部分AI助手用三天就腻——没记性，每次从零开始。](https://x.com/TessaRalen/status/2088270176072642906) — 大部分AI助手用三天就腻——没记性，每次从零开始。 WorkBuddy不一样：教一次，下次复用。洗表格第一次5分钟，第二次5秒。 不完美：… · [详情](../items/ai-147.md) 𝕏
+- [主流AI工具实测：](https://x.com/collectAIdfct/status/2096492695157948904) — 主流AI工具实测： 处理复杂任务首选Codex和Claude Trae擅长产品开发和项目交付 Workbuddy适合办公，例如做报告ppt… · [详情](../items/ai-148.md) 𝕏
+- [文件内容识别与处理](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/File-Recognition) — 官方工作流：批量重命名、整理会议纪要和翻译外文视频 · [详情](../items/file-recognition-and-processing.md) ⌥
+- [文档生成与编辑](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Document-Generation) — 官方演练：生成 Word 文档，以及依据素材和模板制作演示文稿 · [详情](../items/document-generation-and-editing.md) ⌥
+- [数据分析并可视化](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Practice-Cases/Data-Analysis) — 官方演练：将表格或搜集的数据转为图表和可视化报告 · [详情](../items/data-analysis-and-visualization.md) ⌥
+- [Create polished presentations](https://mp.weixin.qq.com/s/4v-aXrx3H3ndy0tobFJO2g) — PPT 生成与美化 · [详情](../items/create-polished-presentations.md) ⌥
+- [Build a 1,000-page bid](https://mp.weixin.qq.com/s/Ll6oP5J0rWhEmZ2pXdJOvw) — 超长文档处理案例 · [详情](../items/build-a-1-000-page-bid.md) ⌥
+- [CareerSail](https://github.com/genius916/CareerSail) — MIT 许可的跨 Agent 求职看板与 WorkBuddy Skill，支持岗位发现、进度追踪、简历定制、面试准备和飞书工作区同步 · [详情](../items/careersail.md) ⌥
+- [Ad Trader](https://github.com/bettermen/ad-trader) — MIT 许可、明确支持 WorkBuddy 的广告数据分析 Skill，读取 CSV/Excel/JSON 后完成多平台 KPI 诊断、素… · [详情](../items/ad-trader.md) ⌥
+- [WorkBuddy Bench 数据集](https://huggingface.co/datasets/tencent/workbuddy-bench) — Code、Web、Office 与 Security 四个子集的官方任务归档 · [详情](../items/workbuddy-bench-dataset.md) ⌥
+- [HR工作的一整套流程，Buddy全包了](https://mp.weixin.qq.com/s/vhUq33aZOLnYgqQi6CVBaQ) — HR工作的一整套流程，Buddy全包了 · [详情](../items/hr-buddy.md) ⌥
+- [我常用的18个WorkBuddy提效技巧，你可以直接抄](https://mp.weixin.qq.com/s/t06LsAcoCMCbZynpg8J_WQ) — 我常用的18个WorkBuddy提效技巧，你可以直接抄 · [详情](../items/18-workbuddy.md) ⌥
+- [WorkBuddy增长运营的AI工作流实践](https://mp.weixin.qq.com/s/QomyfumBSjNaBf_AL_UVaQ) — WorkBuddy增长运营的AI工作流实践 · [详情](../items/workbuddy-ai-2.md) ⌥
+- [独立律师的天花板，被WorkBuddy掀翻了](https://mp.weixin.qq.com/s/SFgM11hGQO0LxrlvHmgUMw) — 独立律师的天花板，被WorkBuddy掀翻了 · [详情](../items/workbuddy-4.md) ⌥
+- [财务兼采购的他，靠WorkBuddy每天省3小时](https://mp.weixin.qq.com/s/H8uMYM8m92tzNOGDbMkrVA) — 财务兼采购的他，靠WorkBuddy每天省3小时 · [详情](../items/workbuddy-3-2.md) ⌥
+- [用 WorkBuddy 清洗 119 份门店 Excel 并生成可交互运营看板](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/cases/submissions/tea-shop-sales-analysis) — 把格式混乱的 119 个门店销售 Excel 自动清洗合并成 18 万行汇总表，再生成多 Sheet 分析报告和德勤风格的全局联动 HTM… · [详情](../items/workbuddy-119-excel.md) ⌥
+- [把经历发给 WorkBuddy，直接生成一份好看的简历](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/cases/submissions/vibe-resume) — 安装 Vibe Resume Skill，发出个人经历和照片，就能生成一页简历；后续补经历、换岗位，也可以继续在对话里修改。 · [详情](../items/workbuddy-7.md) ⌥
+- [用 WorkBuddy 公众号 Skill 一键排版并发布到微信公众号草稿箱](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/cases/submissions/wechat-format-publish) — 在 WorkBuddy 中安装公众号排版 Skill，用 Markdown 写好内容，一键输出带主题、代码高亮和自动配图的公众号草稿。 · [详情](../items/workbuddy-skill.md) ⌥
+- [同一篇文章，6 个主流办公智能体：30 张配图对照测评](https://x.com/Howard86242846/status/2121444396658995451) — 给一篇现成文章配图，是内容创作中常见的小任务。它同时考验对文章的理解、配图主题的选择、画面的表达能力，以及整套图片的协调性。我想通过这个任… · [详情](../items/6-30.md) 𝕏
+- [真正让你睡不着觉的，不是AI有多强，是工位对面那个人，用AI把你两天的…](https://x.com/caoxiaolei/status/2087350605975093366) — 真正让你睡不着觉的，不是AI有多强，是工位对面那个人，用AI把你两天的活在两小时里干完了！ 这个50节WorkBuddy职场实战提效系统课… · [详情](../items/ai-ai-12.md) 𝕏
+- [实锤了，Qwen 的办公能力全服第一](https://x.com/YM_AlphaNotes/status/2090287961115853210) — 实锤了，Qwen 的办公能力全服第一 Jefferies 分析师对 8 款 AI Agent 做的实测， 测试内容包括多文件检索、浏览器操… · [详情](../items/qwen.md) 𝕏
+- [AI Agent 测评](https://x.com/lln185745/status/2125919224401146352) — AI Agent 测评 自费实测了多款主流 AI Agent（包括 Codex、WorkBuddy、DeepSeek Harness、千问… · [详情](../items/ai-agent-20.md) 𝕏
+- [腾讯 WorkBuddy 实测总结：](https://x.com/Jackiep2e/status/2082099847386296357) — 腾讯 WorkBuddy 实测总结： 1、低门槛本地办公 + 一站式代码部署，小白友好 2、多模型自由切换，腾讯生态是独家护城河 3、有短… · [详情](../items/workbuddy-468.md) 𝕏
+- [WorkBuddy带着新模型搞免费送积分的挑战赛了。](https://x.com/Thinkernode/status/2117907463672586329) — WorkBuddy带着新模型搞免费送积分的挑战赛了。 只要用WorkBuddy做个停用滚动的实战案例（草图变成品、清洗乱表格、让Agent… · [详情](../items/workbuddy-473.md) 𝕏
+- [SuperCLUE 10 月办公智能体实测，8 款工具比的是 Word…](https://x.com/LilyAIdreamer/status/2118306734565716248) — SuperCLUE 10 月办公智能体实测，8 款工具比的是 Word、PPT、Excel 交付物完成度，不是聊天顺不顺。 豆包工作 85… · [详情](../items/superclue-10-8-word.md) 𝕏
+- [我先查一下 Codex 和 WorkBuddy 的定位、使用体验和 t…](https://x.com/LoveAIbrain/status/2108480505444434120) — 我先查一下 Codex 和 WorkBuddy 的定位、使用体验和 token 消耗对比。 没有绝对谁更好，赛道不太一样。写代码、改工程选… · [详情](../items/codex-workbuddy-t.md) 𝕏
+- [Agent 已经上岗：2026 年最值得看的 7 类真实落地案例 🚀](https://x.com/don_tech1/status/2091076247803789762) — Agent 已经上岗：2026 年最值得看的 7 类真实落地案例 🚀 #Agent #AI落地 #生产力工具 #AgenticAI 不再是… · [详情](../items/agent-2026-7.md) 𝕏
+- [最优质的skill都在workbuddy](https://x.com/datoulaoha/status/2070031007886225780) — 最优质的skill都在workbuddy codex、antigravity直接无缝迁移复制 workbuddy在国内算是能打的，特别是它… · [详情](../items/skill-workbuddy-13.md) 𝕏
+- [就个人短期体验来说, workbuddy更好用一些。腾讯的 offic…](https://x.com/moonkey_dd/status/2092138779398287819) — 就个人短期体验来说, workbuddy更好用一些。腾讯的 office-sdk 能直接在软件中预览本地文档，实现和AI协同编辑。豆包无法… · [详情](../items/workbuddy-offic.md) 𝕏
+- [硬核实测：腾讯 Marvis 对决 WorkBuddy，打工人该怎么选…](https://deepseek.club/topic/2270) — 【硬核实测：腾讯 Marvis 对决 WorkBuddy，打工人该怎么选？】 📊 办公提效迎来大厂对决！针对热度高涨的腾讯 Marvis … · [详情](../items/marvis-workbuddy.md) 𝕏
+- [抖音博主作品怎么导出Excel？不用逐条抄赞评藏。](https://x.com/devinchen2025/status/2120795333945098712) — 抖音博主作品怎么导出Excel？不用逐条抄赞评藏。 SocialDataX 社媒数据助手获取作品列表，WorkBuddy 生成Excel：… · [详情](../items/excel-2.md) 𝕏
+- [WorkBuddy 这两周把阶跃【Step 5 Preview】白送了…](https://x.com/lokichris2046/status/2109615787958800858) — WorkBuddy 这两周把阶跃【Step 5 Preview】白送了（免费到 10 月 25 日）。 600B 的 MoE，激活大概 2… · [详情](../items/workbuddy-step-5-preview-3.md) 𝕏
+- [我用 Magpie 把 DeepSeek 接进了 Codex，比直接用…](https://x.com/curiselven/status/2112175996648718554) — 我用 Magpie 把 DeepSeek 接进了 Codex，比直接用 WorkBuddy 顺手：上下文窗口能开到 1M，模型也能随时切换… · [详情](../items/magpie-deepseek-codex.md) 𝕏
+- [蔚来全新ES8累计交付破15万台；启元发布Q1与T1人形机器人，售价1…](https://x.com/ZOOOOOPO/status/2102036915080020083) — 蔚来全新ES8累计交付破15万台；启元发布Q1与T1人形机器人，售价19999元起；AI办公实测中，豆包工作与WorkBuddy表现优异；… · [详情](../items/es8-15-q1-t1-1.md) 𝕏
+- [目前腾讯混元Hy3在 WorkBuddy中限时两周完全免费。🔥](https://x.com/RelyRhy/status/2074630033847762979) — 目前腾讯混元Hy3在 WorkBuddy中限时两周完全免费。🔥 根据实测反馈，Hy3 在以下场景表现突出： 全栈开发（能独立完成微信小程序… · [详情](../items/hy3-workbuddy-2.md) 𝕏
+- [AI 办公三强实测豆包综合表现领先，WorkBuddy 体验流畅，千问…](https://x.com/gowi556168/status/2101880429590851965) — AI 办公三强实测豆包综合表现领先，WorkBuddy 体验流畅，千问办公表现中规中矩。蚂蚁集团持股 1.6592% 入股天机智能，加码具… · [详情](../items/ai-workbuddy-29.md) 𝕏
+- [效率高、成本低，内部WorkBuddy任务成功率拉到90%，幻觉明显减…](https://x.com/sunwei57247249/status/2076205599168364995) — 效率高、成本低，内部WorkBuddy任务成功率拉到90%，幻觉明显减少。实测生成网页和PPT效果惊艳，还会自检不足。Agent时代拼的不… · [详情](../items/workbuddy-90-2.md) 𝕏
+- [实测用 #Qwen3.8-Flash-Next 量化模型 在 4090…](https://x.com/TaokongBoy/status/2115688662621180412) — 实测用 #Qwen3.8-Flash-Next 量化模型 在 4090 卡上 Decode 最高接近 160 t/s，非常可用了！接入 #… · [详情](../items/qwen3-8-flash-next-4090.md) 𝕏
+- [兄弟们，这轮改PPT，WorkBuddy真把我惊到了。](https://x.com/kb9vzsVumf22623/status/2109551804040282121) — 兄弟们，这轮改PPT，WorkBuddy真把我惊到了。 同一份文件、同样的要求，实测比Codex更合我意。 AI谁强，得看具体干什么活。😂… · [详情](../items/ppt-workbuddy.md) 𝕏

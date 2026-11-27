@@ -1,0 +1,45 @@
+# 工作流 · 内容创作（41）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [WorkBuddy 接入公众号：自动写爆款文章工作流](https://x.com/Eejoylove/status/2073009044139528364) — 把 WorkBuddy 接入微信公众号，自动化选题与撰写的工作流 · [详情](../items/workbuddy-17.md) 𝕏
+- [自动抓取知乎热榜选题工作流](https://x.com/Yunn260414/status/2084975374853964017) — 用 WorkBuddy 自动抓取知乎热榜，一键完成自媒体选题挖掘 · [详情](../items/x-53964017.md) 𝕏
+- [一觉醒来，我电脑上的workbuddy已经给我做了2支时长各为4分多钟…](https://x.com/PixelAigc/status/2101198836630995375) — 一觉醒来，我电脑上的workbuddy已经给我做了2支时长各为4分多钟的AI视频。 请看《历史对话合集》第六集《三国纵横篇》的制作工作流，… · [详情](../items/workbuddy-2-4.md) 𝕏
+- [分享一套抖音起号工作流，不需要真人拍摄，一条命令直接低成本复刻真人带货…](https://x.com/cnyzgkc/status/2100522597595443483) — 分享一套抖音起号工作流，不需要真人拍摄，一条命令直接低成本复刻真人带货视频~ 非常适合批量生产解说视频，建议收藏，直接拿去抖音带货起号，库… · [详情](../items/x-95443483.md) 𝕏
+- [讲 workbuddy 和 agent的视频，本地数字人工作流一句话直…](https://x.com/ai_xiaomu/status/2121221340263064050) — 讲 workbuddy 和 agent的视频，本地数字人工作流一句话直出。 不过小红书被封了，视频号限流了，没有号发tmd🤣 · [详情](../items/workbuddy-agent-4.md) 𝕏
+- [AI 资料合集（持续更新）：](https://x.com/Vincent_AINotes/status/2077391265155752407) — AI 资料合集（持续更新）： 全自动 AI 短视频工厂、n8n 工作流、Seedance 2.0 短剧与短视频创作、AI 萌宠科普 IP、… · [详情](../items/ai-24.md) 𝕏
+- [WorkBuddy + ComfyUI + MiniMax H3。](https://x.com/CryY666666/status/2121448597652955142) — WorkBuddy + ComfyUI + MiniMax H3。 WorkBuddy 负责剧本、分镜、提示词和任务调度。 ComfyUI… · [详情](../items/workbuddy-comfyui-minimax-h3.md) 𝕏
+- [分享一下我自己目前常用的 AI 工具和工作流：](https://x.com/Eejoylove/status/2123215875922960638) — 分享一下我自己目前常用的 AI 工具和工作流： 长文创作：Cordex 用得最久，积累了大量对话和个人偏好，最了解我的表达方式。 短文润色… · [详情](../items/ai-27.md) 𝕏
+- [认识了一个搞跨境电商的老板，他要花上千万找 fde 给他公司业务提效，…](https://x.com/ai_xiaomu/status/2089149229147312628) — 认识了一个搞跨境电商的老板，他要花上千万找 fde 给他公司业务提效，聊了一会我说你这个活我干不了，业务理解成本太大。 我给他推荐了跨境领… · [详情](../items/fde.md) 𝕏
+- [本地部署的H3生成25秒对话](https://x.com/PixelAigc/status/2103281586267701612) — 太真实了！ 本地部署的H3生成25秒对话 非常真实复刻经典电影情节 提示词由workbuddy 生成提交给H3执行 工作流和agent 的… · [详情](../items/h3-25.md) 𝕏
+- [workbuddy还挺好用的，主要他免费呀现在](https://x.com/Jasper_Wei1/status/2081344012175417793) — workbuddy还挺好用的，主要他免费呀现在 今天尝试把直播切片的工作流用workbuddy来做 因为整个工作流更多的是用本地模型whi… · [详情](../items/workbuddy-167.md) 𝕏
+- [2026 年就别在AI 聊天框里复制粘贴了？](https://x.com/JinJingx8/status/2113893293436338556) — 2026 年就别在AI 聊天框里复制粘贴了？ 换成 Agent 工作流： 工作日常用 WorkBuddy搞定 搞副业写网站编游戏做视频用 … · [详情](../items/2026-ai-2.md) 𝕏
+- [我让 WorkBuddy 接管了 ComfyUI：从满屏节点，到一句话生成图片和视频](https://x.com/WuBuKongAi/status/2115803146849255586) — 玩过 ComfyUI 的朋友，应该都经历过被节点和连线折磨的日子。 第一次打开 ComfyUI，看到屏幕上密密麻麻的方框和五颜六色的连线，… · [详情](../items/workbuddy-comfyui.md) 𝕏
+- [一个Skill，让Agent搞定TK爆款复刻](https://x.com/doudouniuto/status/2119645733964087748) — 一个Skill，让Agent搞定TK爆款复刻 clipcat面向 Codex、Claude Code、workbuddy、豆包工作等 Ag… · [详情](../items/skill-agent-tk.md) 𝕏
+- [为什么跨境电商人开始用WorkBuddy做TikTok带货视频？](https://x.com/doudouniuto/status/2117112151613841587) — 为什么跨境电商人开始用WorkBuddy做TikTok带货视频？ 2分钟讲清WorkBuddy＋Clipcat的TikTok带货工作流！ … · [详情](../items/workbuddy-tiktok.md) 𝕏
+- [西堂这篇把「临时要海报又要短片」这件事，拆成了一条能复用的流水线。](https://x.com/ChrisHKAI/status/2110264343002853542) — 西堂这篇把「临时要海报又要短片」这件事，拆成了一条能复用的流水线。 工具是 WorkBuddy 接 TapNow： 方案和需求留在对话里，… · [详情](../items/x-02853542.md) 𝕏
+- [腾讯这波 WorkBuddy 接入公众号，意义不只是“自动写文章”这么…](https://x.com/Etudecn/status/2073227724379058245) — 腾讯这波 WorkBuddy 接入公众号，意义不只是“自动写文章”这么简单。 真正关键的是：它把 Agent 工作流塞进了中文互联网最成熟… · [详情](../items/workbuddy-298.md) 𝕏
+- [第二个视频剪出来了](https://x.com/Jack_FluxAI/status/2074080681890828770) — 第二个视频剪出来了 分享一下工作流： 文案，分镜文案：Chatgpt 生成修改用时五min 分镜图片，封面生成：Workbuddy 生成4… · [详情](../items/x-90828770.md) 𝕏
+- [最近了解到三套实用AI工具组合，准备抽时间试试：](https://x.com/VipLucky168/status/2079169729865171287) — 最近了解到三套实用AI工具组合，准备抽时间试试： 1. AI热点内容流水线 WorkBuddy + Web Search + Agent … · [详情](../items/ai-111.md) 𝕏
+- [我用WorkBuddy搭了条公众号全自动流水线：一篇文章从0到发布只需一杯咖啡的时间](https://x.com/Stanleysobest/status/2085194131354325166) — 我用WorkBuddy搭了条公众号全自动流水线：一篇文章从0到发布只需一杯咖啡的时间 · [详情](../items/workbuddy-0.md) 𝕏
+- [引用@antony615x 发的图片，](https://x.com/A47035923/status/2113208268382445993) — 引用@antony615x 发的图片， 本地部署MiniMax_H3图生视频官方工作流， 电脑配置3090显存24G，内存32G, 提示词… · [详情](../items/antony615x.md) 𝕏
+- [搭建的公众号写作流水线跑起来了，aihot 和 grokbox 去做选…](https://x.com/atongrun/status/2124155574506139966) — 搭建的公众号写作流水线跑起来了，aihot 和 grokbox 去做选题雷达，选题上传我的工作台让我决策 决策完选题后，workbuddy… · [详情](../items/aihot-grokbox.md) 𝕏
+- [现在每天干活、学习，根本离不开AI，离不开Codex。](https://x.com/xiaoluv12o/status/2077944820279173209) — 现在每天干活、学习，根本离不开AI，离不开Codex。 每天打开就是Codex、Obsidian或者是Workbuddy，然后谷歌浏览器，… · [详情](../items/ai-codex.md) 𝕏
+- [想把「想法」直接变成一条带画面的视频？这套全本地流水线已经跑通：出图用…](https://x.com/qinghaiwu9527/status/2109963326109413395) — 想把「想法」直接变成一条带画面的视频？这套全本地流水线已经跑通：出图用本地 ComfyUI 里的 Qwen-Image 2.1，出视频交给… · [详情](../items/x-09413395.md) 𝕏
+- [前阵子把家里的剩余电子垃圾整理了一下，拼出一台机做服务器。HermeA…](https://x.com/Flying468/status/2083101328553976062) — 前阵子把家里的剩余电子垃圾整理了一下，拼出一台机做服务器。HermeAgent、openclaw、搬瓦工、workbuddy、智谱、都搞了… · [详情](../items/hermea.md) 𝕏
+- [从 Codex 到 WorkBuddy，AI 正在从“聊天工具”变成“…](https://warpnav.com/codex-workbuddy-skill-workflow) — 从 Codex 到 WorkBuddy，AI 正在从“聊天工具”变成“工作流执行系统”。 #Codex #WorkBuddy #Skill… · [详情](../items/codex-workbuddy-ai-2.md) 𝕏
+- [记录今日三个正反馈：](https://x.com/zhuolinnn/status/2085267304594489416) — 记录今日三个正反馈： 1、一笔ai上的小合作，朋友提供算力来支持我做我想干的事情，每周进展和他同步一下就好。 2、完成两个在workbud… · [详情](../items/x-94489416.md) 𝕏
+- [Instabox 捡来的机器如何使用？](https://x.com/xchatgcp/status/2117917908856873448) — Instabox 捡来的机器如何使用？ 我是这样操作的 1、muse对接newapi 2、自制视频的程序自动对接newapi 调用 mus… · [详情](../items/instabox.md) 𝕏
+- [昨天看了 @Eejoylove小姐姐把WorkBuddy接入公众号，自…](https://x.com/Sunkeke_AI/status/2073319228208484422) — 昨天看了 @Eejoylove小姐姐把WorkBuddy接入公众号，自动写爆款工作流的文章，今天就拿来复刻了一下，确实很惊艳，写个标题就直… · [详情](../items/eejoylove-workbuddy.md) 𝕏
+- [一个 95 后保险从业者的 WorkBuddy 全套工作流，值得看看，…](https://x.com/cxjwin/status/2101566240020132001) — 一个 95 后保险从业者的 WorkBuddy 全套工作流，值得看看，里面有几个做法能直接抄。 他本是编剧转行，入行不久进了高绩效行列。起… · [详情](../items/95-workbuddy.md) 𝕏
+- [3 个自动化工作流，从选题到复盘、从文件整理到网页看板、从 AI 选品…](https://x.com/dongge_AI/status/2122675309720097015) — 3 个自动化工作流，从选题到复盘、从文件整理到网页看板、从 AI 选品到违禁词审议，拆开讲给你看。 连续 6 天，每晚 19:00—21:… · [详情](../items/3-ai-3.md) 𝕏
+- [刚投身自媒体副业](https://x.com/Jerry00372/status/2118369179359457416) — 刚投身自媒体副业 X也不着急开蓝v 公众号是交给workbuddy的 视频号是交给Muse的 再研究研究用claude搭主业自动化工作流 … · [详情](../items/x-59457416.md) 𝕏
+- [在workbuddy @WorkBuddy_AI 上自动化做视频的效果](https://x.com/zhuolinnn/status/2085255982389584115) — 在workbuddy @WorkBuddy_AI 上自动化做视频的效果 工作流： 复刻博主的文案——调用skill——等着就好了 今日借势… · [详情](../items/workbuddy-workbuddy-ai-3.md) 𝕏
+- [WorkBuddy对我而言已经很牛了，很能打。](https://x.com/songdesheng1231/status/2094366473057894562) — WorkBuddy对我而言已经很牛了，很能打。 终于实现图书带货自由了。 我用2天时间做了一个工作流，提取对标视频文案，二创文案，配音生成… · [详情](../items/workbuddy-478.md) 𝕏
+- [40 条 AI 美女视频，70.2 万粉。](https://x.com/qianqiongge/status/2092866513913143401) — 40 条 AI 美女视频，70.2 万粉。 我把这类微动作视频拆成了一套可以批量运行的工作流，还做成了免费的 Codex 和 WorkBu… · [详情](../items/40-ai-70-2.md) 𝕏
+- [WorkBuddy定制Skill完整工作流｜处理AI视频，弱化AIGC…](https://x.com/pRGe720m3e/status/2101580589489181156) — WorkBuddy定制Skill完整工作流｜处理AI视频，弱化AIGC特征 自研WorkBuddy Skill，用于AI生成视频后期处理。… · [详情](../items/workbuddy-skill-ai-aigc.md) 𝕏
+- [实测用 WorkBuddy 免费的混元 Hy4 搓了一套全自动音视频管线](https://x.com/ondlnnt/status/2119747960367919361) — 实测用 WorkBuddy 免费的混元 Hy4 搓了一套全自动音视频管线 零素材，纯代码逐帧生成了一段 30s 的 PS1 怀旧像素列车雨… · [详情](../items/workbuddy-hy4-10.md) 𝕏
+- [最近越来越明显感受到：](https://x.com/Chen19900529/status/2085719574344036795) — 最近越来越明显感受到： AI 正在慢慢变成我的工作伙伴。 当 WorkBuddy 学会操作微信公众号后， 一些重复工作终于可以交给它。 节… · [详情](../items/x-44036795.md) 𝕏
+- [@hypit 还是太强了](https://x.com/Felixwwj/status/2100376908064276545) — @hypit 还是太强了 一句话换人复刻视频 codex 到期了 用的是 WorkBuddy 接的 wan3.0 生的视频 大家有便宜点 … · [详情](../items/hypit-2.md) 𝕏
+- [从选题到成片：我用 WorkBuddy 搭了一条内容流水线](https://x.com/HE611luck/status/2122120153634889955) — # 从选题到成片：我用 WorkBuddy 搭了一条内容流水线 &gt; 一句话总结：以前一篇文章磨两天，现在从选题到拆条成短视频脚本，一… · [详情](../items/workbuddy-582.md) 𝕏
+- [来交作业了 换人复刻视频](https://x.com/Felixwwj/status/2100376022739034536) — 来交作业了 换人复刻视频 codex 到期了 用的是 WorkBuddy 接的 wan3.0 省的视频 大家有便宜点 seedance 和… · [详情](../items/x-39034536.md) 𝕏

@@ -1,0 +1,63 @@
+# 工具与其他资源 · 开发（59）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [teamai-cli：用 Git 分发团队共享的 AI 技能与规则](https://x.com/aigclink/status/2089996669186462041) — 腾讯开源，让使用不同 AI 编程工具的团队通过 Git 共享技能、规则、文档 · [详情](../items/teamai-cli-git-ai.md) 𝕏
+- [Tencent Cloud developer articles](https://cloud.tencent.com/developer/search/article-WorkBuddy) — 社区技术文章检索入口 · [详情](../items/tencent-cloud-developer-articles.md) ⌥
+- [mnemon](https://github.com/mnemon-dev/mnemon) — Apache-2.0 许可的本地优先跨会话记忆工具，提供 `mnemon setup --target workbuddy --yes`，… · [详情](../items/mnemon.md) ⌥
+- [LidKeeper](https://github.com/Luchioxy/LidKeeper) — MIT 许可的本地防休眠工具，支持 Claude Code、Codex 和 WorkBuddy 运行时保持电脑唤醒；安装脚本会修改系统电源… · [详情](../items/lidkeeper.md) ⌥
+- [Codex App Transfer](https://github.com/Cmochance/codex-app-transfer) — MIT 许可的本地桌面网关，将 Codex CLI 的 Responses API 转换为 Chat Completions，内置 Wor… · [详情](../items/codex-app-transfer.md) ⌥
+- [DSH Cost Meter](https://github.com/Han-1413141/dsh-cost-meter) — MIT 许可的 DeepSeek Harness 会话费用统计插件，可通过 CLIProxyAPI 观测 WorkBuddy 插件积分、模… · [详情](../items/dsh-cost-meter.md) ⌥
+- [Vibe Service Guardian](https://github.com/keith-yan/vibe-service-guardian) — MIT 许可的本机服务溯源、AI 运行健康和开放权重模型容量诊断工具，明确识别 WorkBuddy/CodeBuddy 进程；默认只监听回… · [详情](../items/vibe-service-guardian.md) ⌥
+- [Tencent WorkBuddy SDK](https://github.com/BlueSkyXN/tencent-workbuddy-sdk) — GPL-3.0 许可的非官方 CodeBuddy/WorkBuddy 企业 OpenAPI 多语言客户端，覆盖 Skills、模型、成员和… · [详情](../items/tencent-workbuddy-sdk.md) ⌥
+- [Skill Sync](https://github.com/lirt1231/skill-sync) — MIT 许可的跨设备、跨 Agent Skill 同步工具，明确支持 WorkBuddy，通过本地管理源和私有 Git 仓库同步用户选定的… · [详情](../items/skill-sync.md) ⌥
+- [collab-cli](https://github.com/yinsang0910-star/collab-cli) — MIT 许可、支持 WorkBuddy 的跨 Agent 协作 CLI，通过局域网发现和同步共享任务、记忆、收件箱与审查结果；支持 Age… · [详情](../items/collab-cli.md) ⌥
+- [SkillDeck](https://github.com/crossoverJie/SkillDeck) — MIT 许可的开源 macOS Skill 管理器，明确支持 WorkBuddy/CodeBuddy，可从 GitHub 或本地目录导入、… · [详情](../items/skilldeck.md) ⌥
+- [workbuddy-api（simplast）](https://github.com/simplast/workbuddy-api) — MIT 许可的轻量 Node.js 18+ 本地代理，将 CodeBuddy/WorkBuddy 接入 OpenAI 兼容客户端和 Ver… · [详情](../items/workbuddy-api-simplast.md) ⌥
+- [WorkBuddy2API (hawklithm)](https://github.com/hawklithm/workbuddy2api) — MIT 许可、测试覆盖较完整的本地协议兼容代理，将 WorkBuddy/CodeBuddy 接口转换为 OpenAI、Anthropic … · [详情](../items/workbuddy2api-hawklithm.md) ⌥
+- [Memmy Agent](https://github.com/MemTensor/memmy-agent) — MIT 许可的本地优先跨 Agent 记忆与助手运行时，明确支持 WorkBuddy，可运行本地 Memory Service，并通过 W… · [详情](../items/memmy-agent.md) ⌥
+- [Maestro](https://github.com/joosure/Maestro) — AGPL-3.0 的真实项目任务编排平台，支持将 Linear/TAPD 任务连接到 GitHub/CNB 和 Codex、Claude … · [详情](../items/maestro.md) ⌥
+- [WorkIsland](https://github.com/qianzhu18/workisland) — Apache-2.0 许可、面向 macOS Apple Silicon 的本地 Agent 状态与注意力路由器，原生支持 WorkBud… · [详情](../items/workisland.md) ⌥
+- [WorkBuddy OpenAPI PHP SDK](https://github.com/JaguarJack/workbuddy-openapi) — MIT 许可的第三方 PHP 8.1+ SDK，封装官方 WorkBuddy OpenAPI 的 OAuth、用户资料与手机号验证、本地助… · [详情](../items/workbuddy-openapi-php-sdk.md) ⌥
+- [DSH Subagent CodeBuddy](https://github.com/flg1217/dsh-subagent-codebuddy) — MIT 许可的 DeepSeek Harness 插件，将 CodeBuddy CLI 注册为可并行、可续聊的子代理并翻译工具步骤 · [详情](../items/dsh-subagent-codebuddy.md) ⌥
+- [AgentSessionQuery](https://github.com/iuuunlyk/AgentSessionQuery) — MIT 许可、基于 PowerShell 7 的本地会话查询工具，以统一命令检索 Codex、Claude Code 与 WorkBudd… · [详情](../items/agentsessionquery.md) ⌥
+- [DSH Agent Preset Recommender](https://github.com/LeemanCheung/dsh-agent-preset-recommender) — MIT 许可的 DeepSeek Harness Host 插件，以有界方式汇总本地 Codex、Claude Code 和 WorkBu… · [详情](../items/dsh-agent-preset-recommender.md) ⌥
+- [AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) — MIT 许可的 VS Code 扩展，可在 CodeBuddy、Cursor、Trae、Antigravity、Qoder、Windsur… · [详情](../items/agentskillsmanager.md) ⌥
+- [CLI2API](https://github.com/caigee-cmd/cli2api) — MIT 许可的自托管本地网关，将 WorkBuddy（及 Qoder/Trae）登录态转换为 OpenAI/Anthropic 兼容接口，… · [详情](../items/cli2api.md) ⌥
+- [WorkBuddy2API](https://github.com/ShouZhuo0413/codebuddy2api) — MIT 许可的本地协议转换器，将已登录的 WorkBuddy/CodeBuddy 会话转为 OpenAI、Responses 和 Anth… · [详情](../items/workbuddy2api.md) ⌥
+- [CodeBuddy2OpenAI](https://github.com/HanHan666666/codebuddy2openai) — MIT 许可的单文件本地协议转换器，将已登录的 CodeBuddy/WorkBuddy 会话包装为 OpenAI 兼容的 `/v1/cha… · [详情](../items/codebuddy2openai.md) ⌥
+- [CodeBuddy Statusline](https://github.com/runzhi/codebuddy-statusline) — MIT 许可、跨平台的 CodeBuddy Code 状态栏，显示上下文进度、Token、工具调用、费用、Credits、耗时与代码增删，… · [详情](../items/codebuddy-statusline.md) ⌥
+- [CodeBuddy Proxy](https://github.com/wnddd839/codebuddyapi-proxy) — BSD-3-Clause 的 Go 自托管协议网关，将 CodeBuddy OAuth/API 接入转换为 OpenAI 兼容接口，支持流… · [详情](../items/codebuddy-proxy.md) ⌥
+- [Buddy2api](https://github.com/wicm84266964/Buddy2api) — MIT 许可的本地多通道网关，将 WorkBuddy/CodeBuddy、QClaw、QwenWork 和 TraeWork 登录态分别接… · [详情](../items/buddy2api.md) ⌥
+- [WorkBuddy CLIProxy provider](https://github.com/lovingfish/workbuddy-cliproxy) — MIT 许可的 CLIProxyAPI 插件，将 CodeBuddy 模型接入 OpenAI/Anthropic 客户端并支持扫码登录与令… · [详情](../items/workbuddy-cliproxy-provider.md) ⌥
+- [CodeBuddy OpenAI Proxy (Jevil961)](https://github.com/Jevil961/codebuddy-openai-proxy) — MIT 许可的轻量 Python 服务，通过 OAuth2 或手动 Bearer Token 将 CodeBuddy CN 聊天接口转换为… · [详情](../items/codebuddy-openai-proxy-jevil961.md) ⌥
+- [WorkBuddy Expert Bridge](https://github.com/xiaojinlucky/workbuddy-expert-bridge) — MIT 许可的本地 Skill，让 Codex、Cursor、Claude Code、Grok 和 VS Code 等工具只读发现并推荐本… · [详情](../items/workbuddy-expert-bridge.md) ⌥
+- [Codex × WorkBuddy Token Monitor](https://github.com/tylerchen0123-sudo/CODEX-Inspection-Guidelines-for-Dosage) — MIT 许可、零第三方 Python 依赖的本地实时 Token 监控看板，读取 Codex 与 WorkBuddy 会话日志并通过 SS… · [详情](../items/codex-workbuddy-token-monitor.md) ⌥
+- [Tencent Meeting CLI](https://github.com/TencentCloud/tencentmeeting-cli) — 腾讯会议官方 CLI，可作为 Agent 的会议管理工具 · [详情](../items/tencent-meeting-cli.md) ⌥
+- [GitHub Accelerator](https://github.com/majiabin2020/github-accelerator) — MIT 许可的 WorkBuddy/Agent GitHub 访问诊断 Skill，先实测网络通道，再提供受限修改、备份和回滚脚本 · [详情](../items/github-accelerator.md) ⌥
+- [Task Passport](https://github.com/dongsheng123132/task-passport) — MIT 许可、兼容 WorkBuddy/Codex/Claude 等 Harness 的版本化任务交接协议，以已验证状态、事实、决策和下一… · [详情](../items/task-passport.md) ⌥
+- [DSH Agent Selector](https://github.com/jiang12345-code/dsh-agent-selector) — MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy 内置/自定义模型、Codex 或 Clau… · [详情](../items/dsh-agent-selector.md) ⌥
+- [DSH WorkBuddy Provider](https://github.com/Axiaohungry/dsh-llm-workbuddy) — 为 DeepSeek Harness 接入 WorkBuddy 中国区模型，支持 API Key 与网页登录令牌 · [详情](../items/dsh-workbuddy-provider.md) ⌥
+- [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio) — MIT 许可的桌面主题工具，明确支持 WorkBuddy/腾讯 CodeBuddy，可切换、恢复和诊断主题；它会注入或调整客户端渲染层，使… · [详情](../items/heige-codex-skin-studio.md) ⌥
+- [Golden Key OpenMontage for WorkBuddy](https://github.com/blazingcd/golden-key-openmontage-for-workbuddy) — AGPL-3.0 的 OpenMontage 社区适配版，提供 WorkBuddy Skill-first 调用、持久任务、离线边界、脱敏… · [详情](../items/golden-key-openmontage-for-workbuddy.md) ⌥
+- [WorkBuddy Theme Forge](https://github.com/JiangSiyu2006/workbuddy-theme-forge) — MIT 许可的 Windows WorkBuddy 第三方主题引擎，通过本机 CDP 注入可逆 CSS，不修改官方程序、资源或代码签名；默… · [详情](../items/workbuddy-theme-forge.md) ⌥
+- [Bough](https://github.com/DGPisces/bough) — MIT 许可的 macOS 菜单栏/刘海区 Agent 状态伴侣，将 CodeBuddy 和 WorkBuddy 等工具的等待确认、提问、… · [详情](../items/bough.md) ⌥
+- [LinkCode](https://github.com/arcboxlabs/linkcode) — 支持多种 coding agent 的开源桌面客户端 · [详情](../items/linkcode.md) ⌥
+- [CodeDrobe Desktop](https://github.com/CodeDrobe/desktop) — 支持 WorkBuddy 的开源主题管理器，可浏览、应用并随时恢复桌面主题 · [详情](../items/codedrobe-desktop.md) ⌥
+- [WorkBuddy Switch](https://github.com/changexbc/workbuddy-switch) — MIT 许可的跨平台 WorkBuddy/CodeBuddy 账号管理工具，支持 OAuth 登录、账号切换、会话备份/复制、积分与 To… · [详情](../items/workbuddy-switch.md) ⌥
+- [pojia-next](https://github.com/z91772524-ai/pojia-next) — 四个 AI 客户端的内置提示词一键替换：DSH / WorkBuddy / ZCode / Codex。双击即用、可自证、改前备份、一键还… · [详情](../items/z91772524-ai-pojia-next.md) ⌥
+- [RuiC-oc-ferry](https://github.com/HRuiCcc/RuiC-oc-ferry) — 把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口 · [详情](../items/hruiccc-ruic-oc-ferry.md) ⌥
+- [ow-bridge](https://github.com/louchi1984-coder/ow-bridge) — OW Bridge — 让 WorkBuddy 使用 OpenCode 免费模型。支持 macOS / Windows，自动发现模型、一键… · [详情](../items/louchi1984-coder-ow-bridge.md) ⌥
+- [Avalonia-Assistant](https://github.com/AIDotNet/Avalonia-Assistant) — Windows 桌面 AI 助理。Agent 循环用 pi.net 的 Pi.CodingAgent， 界面用 TKCode.Arc，交互… · [详情](../items/aidotnet-avalonia-assistant.md) ⌥
+- [beautiCode](https://github.com/starsstreaming/beautiCode) — 给 DeepSeek Harness 换壁纸：一张图、一部番剧、一段会下雨的窗景，塞进对话窗口背后。也支持 Codex、Cursor、豆包… · [详情](../items/starsstreaming-beauticode.md) ⌥
+- [cck](https://github.com/Btluo1/cck) — CCK 账号管理器 — 添加自定义账号，批量管理 AI 编程工具账号额度，一键启动客户端 · [详情](../items/btluo1-cck.md) ⌥
+- [AgentHub](https://github.com/iamvicliu/AgentHub) — 把 Claude Code、Codex、Cursor 等 10 种 AI Agent 的本地会话汇到一处，统一搜索、阅读和管理（macOS… · [详情](../items/iamvicliu-agenthub.md) ⌥
+- [workbuddy-to-dsh](https://github.com/Ianzhyh/workbuddy-to-dsh) — 把本机 WorkBuddy 桌面端已登录的模型（DeepSeek / GLM / Kimi / MiniMax 等）变成本地的 OpenA… · [详情](../items/ianzhyh-workbuddy-to-dsh.md) ⌥
+- [AnyBridge](https://github.com/soulvon/AnyBridge) — AnyBridge : 统一管理多个供应商，支持Devin、Windsurf、Cursor、Codex、Claude Code、Claud… · [详情](../items/soulvon-anybridge.md) ⌥
+- [ccb](https://github.com/Btluo1/ccb) — CCB · AI 编程助手一键配置 —— 把 Trae / Qoder / CodeBuddy / WorkBuddy / Cursor … · [详情](../items/btluo1-ccb.md) ⌥
+- [rotating-flower](https://github.com/dalaofei1154/rotating-flower) — A desk flower that moves with local Codex and WorkBuddy tasks. Open-s… · [详情](../items/dalaofei1154-rotating-flower.md) ⌥
+- [API-Console](https://github.com/zhangdailin/API-Console) — A Go-based multi-channel proxy that exposes Claude Messages style and… · [详情](../items/zhangdailin-api-console.md) ⌥
+- [workbuddy-api](https://github.com/sddvcm/workbuddy-api) — workbuddy-api · [详情](../items/sddvcm-workbuddy-api.md) ⌥
+- [Willow](https://github.com/hey-pu/Willow) — Willow (柳) · Windows Token 统计工具，查看 AI 编程用量、Token 消耗与费用估算。Open-source … · [详情](../items/hey-pu-willow.md) ⌥
+- [soulgent](https://github.com/Ericcc0321/soulgent) — Give your agents a soul. Soulgent turns every Claude Code, Codex and … · [详情](../items/ericcc0321-soulgent.md) ⌥
+- [linktokenview-docs](https://github.com/yinyuepingguo/linktokenview-docs) — LinkTokenView（联视未来）国产大模型 Token API 聚合平台，提供 OpenAI 兼容接口，统一调用 DeepSeek … · [详情](../items/yinyuepingguo-linktokenview-docs.md) ⌥

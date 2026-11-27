@@ -15,11 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HWhXiwfaMAAFbDI.jpg)
-![](https://pbs.twimg.com/media/HWhXlnNaMAAzejy.png)
-
 ## 所有来源
 
 - X · [阿天 @xtianc666](https://x.com/xtianc666/status/2119041727592112419) · 2026-11-07 · 10 赞 / 171 浏览

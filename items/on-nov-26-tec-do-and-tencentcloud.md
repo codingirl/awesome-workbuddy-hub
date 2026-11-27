@@ -15,14 +15,9 @@ On Nov 26, Tec-Do and @tencentcloud signed a strategic agreement to h…
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HYDpgVJbkAABfZ9.jpg)
-![](https://pbs.twimg.com/media/HYDpG0pbsAANFL7.jpg)
-
 ## 所有来源
 
-- X · [Tec-Do @Tec_do2](https://x.com/Tec_do2/status/2126127617795665958) · 2026-11-27 · 41 赞 / 3 转 / 42084 浏览
+- X · [Tec-Do @Tec_do2](https://x.com/Tec_do2/status/2126127617795665958) · 2026-11-27 · 51 赞 / 4 转 / 47803 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

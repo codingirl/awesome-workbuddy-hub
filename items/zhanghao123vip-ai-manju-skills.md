@@ -14,7 +14,7 @@
 
 X 上相关分享（节选）：
 
-> 🔥ai-manju-skills｜开源 AI 漫剧生产技能库 21 套题材模板，一句灵感就能生成企划、剧本、分镜、视频提示词、封面文案。轻量 SKILL.md，支持 Claude Code、WorkBuddy，适合批量做短剧漫剧。 Repo： #AIOpenSource #AI漫剧 #短剧创作 #AIGC
+> 必须给大家开源，我做的史上最全，AI漫剧全流程模板。可以获得策划方案、资产图提示词、分集剧本、分镜图与视频提示词，以及发布方案。适用于Claude，codex，workBuddy和deepseek ，欢迎各位大佬使用，喜欢的话打个小星星 github地址：
 
 ## 使用/获取
 
@@ -24,6 +24,7 @@ X 上相关分享（节选）：
 
 ## 所有来源
 
+- X · [梦老湿 Dream AI @jackzhang123vip](https://x.com/jackzhang123vip/status/2116729052421865727) · 2026-11-01 · 828 赞 / 125 转 / 110643 浏览
 - X · [ChinaAIDaily @ChinaAIDaily](https://x.com/ChinaAIDaily/status/2120424657602150444) · 2026-11-11 · 0 赞 / 126 浏览
 - GitHub · [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) · 许可：MIT · stars 1059
 

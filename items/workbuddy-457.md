@@ -1,0 +1,21 @@
+# WorkBuddy 入门教程 · 基础篇
+
+> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
+
+## 简介
+
+WorkBuddy 入门教程 · 基础篇
+
+## 详情
+
+本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
+
+## 使用/获取
+
+
+## 所有来源
+
+- X · [Judy Learrr @JudyLearrr5llr](https://x.com/JudyLearrr5llr/status/2090718623581216839) · 2026-08-21 · 0 赞 / 5 浏览
+
+---
+*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

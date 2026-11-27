@@ -17,10 +17,6 @@
 - 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
 - ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HXJ2GZJbYAA18ny.jpg)
-
 ## 所有来源
 
 - X · [Nathan AI Lab ｜ AI Agent 实战 @KOF97AI](https://x.com/KOF97AI/status/2121888240777171184) · 2026-11-15 · 11 赞 / 1 转 / 457 浏览

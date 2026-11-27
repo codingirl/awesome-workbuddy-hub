@@ -1,0 +1,228 @@
+# 技能（Skills） · 效率（224）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [气死我了！今天发现，我的好几个 Skill 被 WorkBuddy 改…](https://x.com/lieflat_3/status/2117111952690516412) — 气死我了！今天发现，我的好几个 Skill 被 WorkBuddy 改名换姓上架了。 WorkBuddy，搬运我的开源 Skill，为什么… · [详情](../items/skill-workbuddy.md) 𝕏
+- [WorkBuddy 最值得推荐的 15 个技能（11 月版·上篇）](https://x.com/XiaohuiAI666/status/2117484508157280707) — 整理 11 月最新值得安装的 WorkBuddy 技能清单（上篇） · [详情](../items/workbuddy-15-11.md) 𝕏
+- [装完 WorkBuddy 不知道该干什么？](https://x.com/ai_suxiaole/status/2073957647414444116) — 装完 WorkBuddy 不知道该干什么？ 先把这 10 个 Skill 装上，基本覆盖 80% 的日常工作： 1. find-skill… · [详情](../items/workbuddy-20.md) 𝕏
+- [推荐 Google Research 刚刚开源的 Harness² ，…](https://x.com/Xudong07452910/status/2111770706937622880) — 推荐 Google Research 刚刚开源的 Harness² ，前几天也解读过它的论文。 它会让 Agent 自己尝试修改 Prom… · [详情](../items/google-research-harness.md) 𝕏
+- [Grok Bot 可以点美团外卖了！不付跑腿费，每天两个渠道自动领券（附开源 skill）](https://x.com/leaf_sanren/status/2116510650478502212) — Grok Bot 可以点美团外卖了！！ 跟它说一句"晚饭吃点高蛋白的"，它就在云电脑里打开美团外卖：读我最近的订单、挑三个选项、勾上最大的… · [详情](../items/grok-bot-skill.md) 𝕏
+- [腾讯旗下全场景AI智能体WorkBuddy正式上线](https://x.com/EvanWritesX/status/2030924037690638562) — 腾讯旗下全场景AI智能体WorkBuddy正式上线 完全兼容OpenClaw的技能 在官网下载安装后，直接输入指令就能让WorkBuddy… · [详情](../items/ai-workbuddy-2.md) 𝕏
+- [仓颉skill（cangjie-skill）已经5.1K Star啦！…](https://x.com/aikangarooking/status/2082299218618990938) — 仓颉skill（cangjie-skill）已经5.1K Star啦！！🎉🎉🎉 而且目前WorkBuddy官方也上架了仓颉skill😄 叫… · [详情](../items/skill-cangjie-skill-5-1k-star.md) 𝕏
+- [WorkBuddy 最值得推荐的 15 个技能（11月整合版）](https://x.com/XiaohuiAI666/status/2118564251350777990) — WorkBuddy 最值得推荐的 15 个技能（11月整合版） 前两天发布的有关Workbuddy的推荐技能文章火了，看来大家对WorkB… · [详情](../items/workbuddy-15-11-2.md) 𝕏
+- [workbuddy 上面的“创作者”正在疯狂抄袭我的 Skill](https://x.com/dontbesilent/status/2117229096069714270) — workbuddy 上面的“创作者”正在疯狂抄袭我的 Skill 基本上是换个名字，然后一字不改 高置信抄袭／冒用：6 组发布者，共 64… · [详情](../items/workbuddy-skill-9.md) 𝕏
+- [很多朋友说 WorkBuddy 越用越慢，那赶紧去看自己装了多少个 s…](https://x.com/zhouluobo/status/2118893702861205616) — 很多朋友说 WorkBuddy 越用越慢，那赶紧去看自己装了多少个 skill？可千万不要看到别人推荐 skill 就安装了，主要装了还不… · [详情](../items/workbuddy-s.md) 𝕏
+- [朋友们！月入过万的商机这不就来了吗？](https://x.com/Fred834567/status/2094252147861053650) — 朋友们！月入过万的商机这不就来了吗？ 某鱼的海鲜市场已经上架WorkBuddy 的 Skills了！ 我这总结了15个其中比较好用的，上架… · [详情](../items/x-61053650.md) 𝕏
+- [每天自动领美团优惠券](https://x.com/Juanmao_shaw/status/2080616133426868656) — 每天自动领美团优惠券 Workbuddy(外包）最近和美团应该有合作，可以在Workbuddy 上自动领，但是也找到了美团自己的领优惠券s… · [详情](../items/x-26868656.md) 𝕏
+- [WorkBuddy 最值得安装的 7 个 Skills](https://x.com/yunxi0623/status/2076626580739326301) — 面向小白的 7 个办公提效 Skill 推荐 · [详情](../items/workbuddy-7-skills.md) 𝕏
+- [WorkBuddy的5个实用Skill，用好让你的工作效率翻倍！](https://x.com/touxnplayai/status/2087086896883110266) — WorkBuddy非常好用，但是如果你想用的比别人更好，就必须要了解它强大的技能市场Skill Hub。光是官方公开的Skill已经超过了… · [详情](../items/workbuddy-5-skill.md) 𝕏
+- [混元Hy3这次真的让腾讯AI上大分了。我也算是workbuddy的老玩…](https://x.com/gengdaJ/status/2075048147261571187) — 混元Hy3这次真的让腾讯AI上大分了。我也算是workbuddy的老玩家，它的智能体和Skills生态做得真的很好，但是模型这块之前真的是… · [详情](../items/hy3-ai-workbuddy.md) 𝕏
+- [装完 WorkBuddy 不知道做什么？先装这 10 个 Skill](https://x.com/alin_zone/status/2079511402725945564) — 装完 WorkBuddy 不知道做什么？先装这 10 个 Skill · [详情](../items/workbuddy-10-skill-2.md) 𝕏
+- [Workbuddy的Skills真是推荐大家搞一搞，我也发布一个ski…](https://x.com/goan999999/status/2114335752448581666) — Workbuddy的Skills真是推荐大家搞一搞，我也发布一个skills 新东西要多去尝试，多参与，没准哪个就有收获了 · [详情](../items/workbuddy-skills-ski.md) 𝕏
+- [手绘skill是可以安装到workbuddy的，并且侧边栏是可以看到页…](https://x.com/yang02010/status/2111070527574225354) — 手绘skill是可以安装到workbuddy的，并且侧边栏是可以看到页面的。 强烈建议安装的时候选一个聪明点的模型，否则容易一堆问题。 · [详情](../items/skill-workbuddy-4.md) 𝕏
+- [WorkBuddy必装skills清单](https://x.com/zhouluobo/status/2082771185184715024) — WorkBuddy必装skills清单 · [详情](../items/workbuddy-skills-4.md) 𝕏
+- [今天有人问，有些技能找不到怎么办](https://x.com/ai_suxiaole/status/2074100750603690424) — 今天有人问，有些技能找不到怎么办 我整理了这些技能的项目地址 跟workbuddy说 "帮我安装这个技能 地址 {填写具体项目地址}" 具… · [详情](../items/x-03690424.md) 𝕏
+- [卧槽！腾讯 WorkBuddy 现在连 Skill 都能卖了！](https://x.com/fhwofjow51260/status/2113591320145228055) — 卧槽！腾讯 WorkBuddy 现在连 Skill 都能卖了！ 会写 Skill 的朋友可以研究一下，把自己的 AI 技能打包上架，说不定… · [详情](../items/workbuddy-skill-23.md) 𝕏
+- [仓颉Skill 终于能免费猛猛蒸馏了！搭配WorkBuddy+Hy4 flash，实测丝滑～](https://x.com/aikangarooking/status/2123657102283710640) — 大家好，我是猛猛蒸馏的袋鼠帝 现在仓颉Skill搭配最新的video-downloader Skill可以蒸馏视频（包含画面）了嘛 我上上… · [详情](../items/skill-workbuddy-hy4-flash.md) 𝕏
+- [猫叔的软著技能已经上架workbuddy技能市场](https://x.com/happycat_wang/status/2116732384578326531) — 猫叔的软著技能已经上架workbuddy技能市场 名字为：软著模板填写与导出 大家快去用一下吧 有软著编写技能需求的朋友们 包是最靠谱的软… · [详情](../items/workbuddy-140.md) 𝕏
+- [WorkBuddy最大的功能就是让我觉得我又是个废物了](https://x.com/ando_w/status/2073330544507560071) — WorkBuddy最大的功能就是让我觉得我又是个废物了 之前自己做了那么多Skill、Agent，全被他内置过来了 随便用！ 我真的，从小… · [详情](../items/workbuddy-142.md) 𝕏
+- [号外！号外！](https://x.com/leo_xiaolei/status/2115414254488895859) — 号外！号外！ WorkBuddy 版本已经上架到官方技能商店，直接搜索 handdraw-video 即可安装使用。 免费！！ · [详情](../items/x-88895859.md) 𝕏
+- [这workbuddy 的skill 上架赚钱](https://x.com/l200892013/status/2116518897063277049) — 这workbuddy 的skill 上架赚钱 就是个噱头，就只能上传一个skill 还审核了一个星期 也还再审核 浪费时间 · [详情](../items/workbuddy-skill-19.md) 𝕏
+- [workbuddy创建skill攻略！以客户访谈摘要作为示例，完整拆解一份可验收Skill应该包含什么](https://x.com/FlowOpsDaily/status/2090101389355806778) — WorkBuddy官方支持在对话中描述能力、触发方式和输出结果，创建后可在技能栏查看并在其他对话中触发。 问题是：能运行不等于能复用。很多… · [详情](../items/workbuddy-skill-skill.md) 𝕏
+- [分享给你们一个赚钱的路子](https://x.com/Jackson77li/status/2119417666087883209) — 分享给你们一个赚钱的路子 Workbuddy现在支持上传技能 专家技能可以收费，按次，按月都可以 快把你们用Claude做的技能传上去吧 … · [详情](../items/x-87883209.md) 𝕏
+- [Grok 4.6快的飞起，也非常强](https://x.com/PMbackttfuture/status/2087709888994587104) — Grok 4.6快的飞起，也非常强 那能不能在WorkBuddy里调用Grok 4.6呢 我问了下Grok 有一个方式很简单 一行命令完成… · [详情](../items/grok-4-6.md) 𝕏
+- [刚生成了一个 WorkBuddy Skill，准备上架 WorkBud…](https://x.com/gaojingyu/status/2113507583176925380) — 刚生成了一个 WorkBuddy Skill，准备上架 WorkBuddy 技能市场，没想到提交后很快就被驳回了。 审核提示：沙箱评测未达… · [详情](../items/workbuddy-skill-workbud.md) 𝕏
+- [WorkBuddy 专属 skill 直出3D 产品图 效果已经很不错…](https://x.com/TaXue2025/status/2097183127714378156) — WorkBuddy 专属 skill 直出3D 产品图 效果已经很不错了。就是遗留的水印有点影响观感。后面可以分享一下这个skill · [详情](../items/workbuddy-skill-3d.md) 𝕏
+- [WorkBuddy 搬 Skill 这事, 越看越气!!!!](https://x.com/VeknQAQ/status/2117617718237225286) — WorkBuddy 搬 Skill 这事, 越看越气!!!! Lieflat 好几个 Skill 被改了名直接上架, 安装前看不到作者, … · [详情](../items/workbuddy-skill-28.md) 𝕏
+- [最近 Skill 又莫名其妙的火了，据说 Workbuddy 里都可以…](https://x.com/Suercha007/status/2114863097802530879) — 最近 Skill 又莫名其妙的火了，据说 Workbuddy 里都可以卖钱了。 为什么呢，我不能从拥有几万个 Skill 的仓库里抓几个卖？ · [详情](../items/skill-workbuddy-5.md) 𝕏
+- [很好奇，各位老师和workbuddy怎么合作上架](https://x.com/li9292/status/2070396181604425931) — 很好奇，各位老师和workbuddy怎么合作上架 自己的skill和专家团的？ 是case by case，有没有相应的合作流程 各位佬愿… · [详情](../items/workbuddy-183.md) 𝕏
+- [原来 WorkBuddy 还能这么用？3 个实用 Skill，让 AI 真正帮你干活](https://x.com/HeyWildAbe/status/2117897754030846073) — WorkBuddy Abe技能实验室 · 第 01 期 现在用 AI 的人越来越多了。 但不知道你有没有发现一件事： 很多人虽然每天都在用… · [详情](../items/workbuddy-3-skill-ai.md) 𝕏
+- [WorkBuddy不是装得越多越强，真正必装的是那些会反复进入工作流的…](https://x.com/newbeeyu/status/2075928081899147560) — WorkBuddy不是装得越多越强，真正必装的是那些会反复进入工作流的skill。 别按功能列表盲选，今天直接用5条高频工作流反推出最该装… · [详情](../items/workbuddy-209.md) 𝕏
+- [我已提交审核，试试水看看能不能把skill卖出去！](https://x.com/Yunn260414/status/2113820440343065020) — 我已提交审核，试试水看看能不能把skill卖出去！ workbuddy要开通这个出售skill功能要先发布一个skill或者专家 期待一下… · [详情](../items/skill-13.md) 𝕏
+- [WorkBuddy 也有自己的 SkillHub。](https://x.com/CryY666666/status/2120781309874454991) — WorkBuddy 也有自己的 SkillHub。 可以搜索、安装不同的 Skills， 让 Agent 获得特定任务的操作流程。 你们装… · [详情](../items/workbuddy-skillhub-3.md) 𝕏
+- [WorkBuddy 技能市场开始支持创作者付费卖 Skill 和专家了](https://x.com/jiangkoumo_/status/2113887855475040545) — WorkBuddy 技能市场开始支持创作者付费卖 Skill 和专家了 开通收款账户后即可发布到市场，技能与专家独立定价，专家团也支持按月… · [详情](../items/workbuddy-skill-36.md) 𝕏
+- [上架workbuddy skill，必须要过审，即使有ai帮忙，要多次…](https://x.com/yang02010/status/2117481007393997296) — 上架workbuddy skill，必须要过审，即使有ai帮忙，要多次提交也挺烦的。这个skill能提高过审几率 【上架 WorkBudd… · [详情](../items/workbuddy-skill-ai.md) 𝕏
+- [看到了一个有意思的做法：](https://x.com/SeAllMelinkina/status/2097654874674806847) — 看到了一个有意思的做法： 向AI描述你遇到的问题，让他推荐一本对应的书籍 去z站找到这本书籍的电子版下载 把下载后的书籍pdf给到任意的A… · [详情](../items/x-74806847.md) 𝕏
+- [别急着做 100 个 Skill 模板，先把一个岗位闭环跑到能收钱](https://x.com/yhslgg/status/2083869000866595082) — 有人扒了 27 个真实案例，发现一个前阿里 P8，被裁以后找工作三个月没着落，转头用 WorkBuddy 给小商家干活，一个月做到 17 … · [详情](../items/100-skill.md) 𝕏
+- [WorkBuddy新神器，录屏操作一遍就能蒸馏成Skill](https://x.com/majiabin/status/2083375420024762502) — WorkBuddy新神器，录屏操作一遍就能蒸馏成Skill · [详情](../items/workbuddy-skill-43.md) 𝕏
+- [我用WorkBuddy做的skill，做了一张单词卡片，完成度还挺好的…](https://www.workbuddy.cn/share/asset?shareCode=uwGFNV0Rs4WwEQy4Rgt8VG&sig=8zWnOdDsN2RCu2fk) — 我用WorkBuddy做的skill，做了一张单词卡片，完成度还挺好的，因为是网页，所以也没有错误。 欢迎试用这个单词卡片技能，在work… · [详情](../items/workbuddy-skill-47.md) 𝕏
+- [AI 博主发现腾讯 workbuddy 偷偷上架他的 skill！](https://x.com/pkdige/status/2117278587787337808) — AI 博主发现腾讯 workbuddy 偷偷上架他的 skill！ 没有职业操守，最起码要声明一下作者吧，更恶心的是怕被发现还偷摸改改名！… · [详情](../items/ai-workbuddy-skill.md) 𝕏
+- [如何将任何一本书蒸馏成skill](https://x.com/JustinChenQW/status/2117434036675055655) — 先理解：总结和蒸馏不是一回事 总结的目标，是压缩信息；蒸馏的目标，是保留能够继续工作的知识结构。一本书被总结后，你获得的是一份更短的内容；… · [详情](../items/skill-19.md) 𝕏
+- [有人用 WorkBuddy 做了个投标 Skill，帮朋友做一份标书，…](https://x.com/x_sanjin/status/2119276473861152972) — 有人用 WorkBuddy 做了个投标 Skill，帮朋友做一份标书，收了 3300 块 按作者分享，朋友做工程，公司一年要投二十几个标，… · [详情](../items/workbuddy-skill-52.md) 𝕏
+- [准备在 WorkBuddy 卖 Skill 的朋友，注意一个坑。](https://x.com/gaojingyu/status/2116368178171539702) — 准备在 WorkBuddy 卖 Skill 的朋友，注意一个坑。 如果你打算先免费上架，积累用户，等有了安装量再转成收费，目前还行不通。 … · [详情](../items/workbuddy-skill-53.md) 𝕏
+- [分享几个 WorkBuddy 下载量最高的 Skill，我按照用途分成…](https://x.com/NIxinhai0/status/2124671638713356566) — 分享几个 WorkBuddy 下载量最高的 Skill，我按照用途分成 8 个。 前面 4 个可以让你的 AI 越用越强： ✅ Find … · [详情](../items/workbuddy-skill-55.md) 𝕏
+- [我疯了烧了3亿Token写了半个月](https://x.com/Lookexing/status/2117241564779147390) — 我疯了烧了3亿Token写了半个月 搞了个做项目挖掘的Skill 我自己用着还是非常舒服，不知道别人体验怎么样 准备拿去上架支付宝和Wor… · [详情](../items/3-token.md) 𝕏
+- [我尼玛，领导奇葩需求，想用skill实现channel的功能集成在默认…](https://x.com/tarsixseveneig1/status/2077649892001071364) — 我尼玛，领导奇葩需求，想用skill实现channel的功能集成在默认不支持新增channel的workbuddy中，你说说，这可能吗？我… · [详情](../items/skill-channel.md) 𝕏
+- [workbuddy月活据说 2000 万了，好奇下载安装究竟为什么风这…](https://x.com/renyu0722/status/2079534374761247097) — workbuddy月活据说 2000 万了，好奇下载安装究竟为什么风这么大，打开专家技能看了一眼，感概AI 能取代人类的工作太多太多太多了… · [详情](../items/workbuddy-2000-2.md) 𝕏
+- [这篇文章今天在我朋友圈爆火](https://x.com/happycat_wang/status/2117474521645187571) — 这篇文章今天在我朋友圈爆火 有不少技能skill创作者表示自己的技能被workbuddy抄袭 大家有啥技能最好自己先去上架 不然技能好用的… · [详情](../items/x-45187571.md) 𝕏
+- [9 月 2 日WorkBuddy发布会一次性放出四层能力——Buddy…](https://x.com/RennChou/status/2096801443428946065) — 9 月 2 日WorkBuddy发布会一次性放出四层能力——Buddy应用、Expert、Skill、Connector——加 9 款联名… · [详情](../items/9-2-workbuddy-buddy.md) 𝕏
+- [用AI辅助快速完成亚马逊货件装箱表，AI直接填好检查一下就能上传了。对…](https://x.com/Chibingjun_web3/status/2112003319606714454) — 用AI辅助快速完成亚马逊货件装箱表，AI直接填好检查一下就能上传了。对于多sku卖家来说，省了不少事。已经蒸馏skill给部门小伙伴用上了… · [详情](../items/ai-ai-8.md) 𝕏
+- [Workbuddy 上架Skill 20万，](https://x.com/eric20050906/status/2115646362138370411) — Workbuddy 上架Skill 20万， 50%的中国500强使用！ 这正是歪打正着。 低调的人运气往往不差，这就是马化腾的智慧！ · [详情](../items/workbuddy-skill-20-2.md) 𝕏
+- [让专业经验变成工具：国企采购审查 Skill 的产品化尝试](https://x.com/dboy_yi2025/status/2110279882366455834) — 之前做公文格式 Skill，我关心的是怎样把版式要求变成可重复执行的步骤。这次往国企专业场景里再走一步，我做了一个采购文件审查专家，已经在… · [详情](../items/skill-28.md) 𝕏
+- [一键生成AI数字人口播，我把这个Skill开源了](https://x.com/OPCchuhai/status/2116891194823475568) — 事情是这样的。 上周我给自己招了一位AI美女主播主持人。她叫橙妹： 十五秒，四句话，手势眼神口型全部在线，横版竖版各一条。 而她上岗的全部… · [详情](../items/ai-skill-6.md) 𝕏
+- [作为一个已经用了很久的人，必须提醒一下不要被名字中的 Skill 给误…](https://x.com/libukai/status/2100269006632759408) — 作为一个已经用了很久的人，必须提醒一下不要被名字中的 Skill 给误导了，这个工具的核心是对应的浏览器插件，两者配合起来使用才是完整体。… · [详情](../items/skill-29.md) 𝕏
+- [Google Research 开源了 Harness²：不动模型权重…](https://x.com/AntipasRinger/status/2111974233354182906) — Google Research 开源了 Harness²：不动模型权重，让 agent 自己改提示词、工具说明、记忆、skills 等外壳… · [详情](../items/google-research-harness-7.md) 𝕏
+- [普通用户是不是也需要一套“个人 Benchmark”，专门评测大模型、…](https://x.com/lxz2677/status/2080555683838316709) — 普通用户是不是也需要一套“个人 Benchmark”，专门评测大模型、Harness、CLI 工具和 Skill，看看哪个真的更适合自己的… · [详情](../items/benchmark.md) 𝕏
+- [转发 @姜汁猴: WorkBuddy，搬运我的开源 Skill，为什么…](https://x.com/Dr_goosee/status/2117114749397631005) — 诶…… 转发 @姜汁猴: WorkBuddy，搬运我的开源 Skill，为什么连作者署名都省了？ 完全没有获得商业授权，为什么能上架我禁止… · [详情](../items/workbuddy-skill-64.md) 𝕏
+- [寒霜破甲v2.0.2正式发布，已全面支持WorkBuddy国内版。](https://x.com/qiyue_76/status/2117143988881043660) — 寒霜破甲v2.0.2正式发布，已全面支持WorkBuddy国内版。 该工具通过读取用户自备的记忆文件（破甲记忆.md），在安装时将技能库注… · [详情](../items/v2-0-2-workbuddy.md) 𝕏
+- [程序员小灰又整理了新一期WorkBuddy优质技能推荐，从信息获取与学…](https://x.com/JunSongYoung/status/2117490317599613178) — 程序员小灰又整理了新一期WorkBuddy优质技能推荐，从信息获取与学习、思维与决策到内容创作，精选多个实用技能并附上真实安装提示词和运行… · [详情](../items/workbuddy-375.md) 𝕏
+- [我用anatomy skill做的Redis 缓存命中与未命中的交互式…](https://x.com/lian1583712/status/2111454230745956681) — 我用anatomy skill做的Redis 缓存命中与未命中的交互式立体图解,左边用的GPT-6 Astra （轻度），耗时5分42秒，… · [详情](../items/anatomy-skill-redis.md) 𝕏
+- [腾讯推出的Browser skill 是我用过目前最好的Agent 后…](https://x.com/JackAIStudio999/status/2099568816703562043) — 腾讯推出的Browser skill 是我用过目前最好的Agent 后台操控浏览器技能。但是Workbuddy竟然没有把它作为原生的Ski… · [详情](../items/browser-skill-agent.md) 𝕏
+- [WorkBuddy最大的问题是，一下子给用户塞了那么多的Agent和S…](https://x.com/dankzheng/status/2087736377060610087) — WorkBuddy最大的问题是，一下子给用户塞了那么多的Agent和Skill。这些Agent和Skill又良莠不齐，新用户搞不清状况的情… · [详情](../items/workbuddy-agent-s.md) 𝕏
+- [今天用magpie还是感觉挺惊艳的，](https://x.com/filmusife/status/2111446728901792227) — 今天用magpie还是感觉挺惊艳的， 唯一感觉挺垃的，就是deepseek 4.1 flash，用了我3个workbuddy的号的免费额度… · [详情](../items/magpie-2.md) 𝕏
+- [Hy3最开始是朋友推荐的，她是WorkBuddy的深度用户，真的觉得腾…](https://x.com/zhongying14/status/2075062241716564418) — Hy3最开始是朋友推荐的，她是WorkBuddy的深度用户，真的觉得腾讯这波太强了，有workbuddy这样的Agent+Skill生态+… · [详情](../items/hy3-workbuddy.md) 𝕏
+- [刷屏了~全国第一家拥有自己skill的饺子馆！](https://x.com/breezy0105/status/2043760274390561101) — 刷屏了~全国第一家拥有自己skill的饺子馆！ 今天我用workbuddy安装了它的skill，排号等了126桌，来到它的总部北邮店来吃，… · [详情](../items/skill-33.md) 𝕏
+- [好离谱WorkBuddy😤！](https://x.com/shi_jinwei/status/2117122719053693167) — 好离谱WorkBuddy😤！ 连授权都懒得找作者授权？ 搬运开源skill然后隐掉署名这种事情也做得出来？这和那些偷别人skill的博主有… · [详情](../items/workbuddy-390.md) 𝕏
+- [WorkBuddy 11 月最新版里，有人整理了最值得推荐的 15 个…](https://x.com/y10reo/status/2117611602593849830) — WorkBuddy 11 月最新版里，有人整理了最值得推荐的 15 个技能，这是上篇。清单的好处是能直接照着用，不用自己一个个试。先把上篇… · [详情](../items/workbuddy-11-15.md) 𝕏
+- [🤩来！Grok BOT 领取美团外卖券的 3 个方式（2026.11最…](https://x.com/leaf_sanren/status/2116819786235580853) — 🤩来！Grok BOT 领取美团外卖券的 3 个方式（2026.11最新）🎉🎉 第一种：通过Clawhub 领取（图1） 除了外卖券，还有… · [详情](../items/grok-bot-3-2026-11.md) 𝕏
+- [Workbuddy 想从Skills 的付费、生态市场做商业化探索，我…](https://x.com/Syulichas/status/2113967419484156373) — Workbuddy 想从Skills 的付费、生态市场做商业化探索，我觉得有点奇怪。因为看Skills 现在的安装使用量，头部的也就几万，… · [详情](../items/workbuddy-skills-10.md) 𝕏
+- [我追番《一人之下》时发现八奇技和AI Agent能力高度契合，于是做了…](https://x.com/islinxu/status/2054524436309803286) — 我追番《一人之下》时发现八奇技和AI Agent能力高度契合，于是做了UnderOne元技能框架，帮Agent从“能跑”变“稳跑”：防长对… · [详情](../items/ai-agent-17.md) 𝕏
+- [第一眼我还以为这是 WorkBuddy 的一套 icon 😂](https://x.com/PixelOrangeAI/status/2089967085153562973) — 第一眼我还以为这是 WorkBuddy 的一套 icon 😂 结果翻了下，是有人专门把这种小 IP Logo 做成了一个 Skill。 我… · [详情](../items/workbuddy-icon.md) 𝕏
+- [AI 智能体生态的工业化成熟，首先体现在‘基建定价与契约透明度’上！](https://x.com/lovlace77788191/status/2119642290025369991) — AI 智能体生态的工业化成熟，首先体现在‘基建定价与契约透明度’上！ 我们在 WorkBuddy 沉淀了 77+ 生产 Skill 与 3… · [详情](../items/ai-141.md) 𝕏
+- [我发现，在国内的agent产品中workbuddy是对于这个开放市场做…](https://x.com/jsonipsn/status/2123299069603045461) — 我发现，在国内的agent产品中workbuddy是对于这个开放市场做的最友好的一个产品。 但同样极致的开放会造成有超级大量的专家团和sk… · [详情](../items/agent-workbuddy-6.md) 𝕏
+- [除了单点问答，怎么让 AI 像一个完整的专业参谋团一样协同干活？](https://x.com/lovlace77788191/status/2119414635791356118) — 除了单点问答，怎么让 AI 像一个完整的专业参谋团一样协同干活？ 今晚重点分享我们在 WorkBuddy 开放平台深受硬核玩家、研究员与管… · [详情](../items/ai-146.md) 𝕏
+- [实用的skill提示词，希望对大家有用](https://x.com/duduwzec/status/2113146851650326803) — 实用的skill提示词，希望对大家有用 最近这个WorkBuddy用得多，确实可以增效帮助不少～ #howto用好AI #提高工作效率的方… · [详情](../items/skill-37.md) 𝕏
+- [Public Agent Suite](https://github.com/yangfanai/public) — MIT 许可的独立 Agent、Skill 和多 Agent 团队套件，包含多个明确支持 WorkBuddy 的可单独安装产品；提供源码、… · [详情](../items/public-agent-suite.md) ⌥
+- [Skills Constitution](https://github.com/jiabaobei/skills-constitution) — MIT 许可的跨平台 Skill 元规则，明确支持 WorkBuddy，可先查找匹配能力、维护 Skill 索引并提供可选 hooks；安… · [详情](../items/skills-constitution.md) ⌥
+- [WorkBuddy Skill Hub](https://github.com/sandbaseai/workbuddy-skill) — 可检索 10,000 条公开 Skill 路径的来源索引与适配仓库 · [详情](../items/workbuddy-skill-hub.md) ⌥
+- [SkillCorpus](https://github.com/EverMind-AI/SkillCorpus) — Apache-2.0 的 Skill 聚合与检索基础设施，提供 WorkBuddy 插件，可从多个来源查找并加载任务相关 Skill · [详情](../items/skillcorpus.md) ⌥
+- [Agency Agents 中文版](https://github.com/jnMetaCode/agency-agents-zh) — MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角色，并明确提供转换和安装到 WorkBuddy `~/.workbu… · [详情](../items/agency-agents.md) ⌥
+- [law爷](https://github.com/Jarvis-starcloud/law-ye-skill) — 许可证未声明的 WorkBuddy/Hermes 法律 Skill，含中国法律原文、检索、文书和诉讼流程模块；仅供学习、检索和草稿参考，具… · [详情](../items/law-ye.md) ⌥
+- [Five-layer Memory System](https://github.com/juventini10/Five-layer-memory-system) — MIT 许可、面向 WorkBuddy 的五层长期记忆 Skill，通过 33 道问答沉淀偏好、取舍和行为模式，并按层级维护可持续更新的工… · [详情](../items/five-layer-memory-system.md) ⌥
+- [Ray Skills](https://github.com/imraywang/rayskills) — 面向内容生产与发布的可执行、可验证、可恢复工作流 · [详情](../items/ray-skills.md) ⌥
+- [DSH Skill Picker](https://github.com/a735624258/dsh-skill-picker) — 为 DeepSeek Harness Web GUI 增加可搜索、拼音检索和键盘导航的技能选择器，复刻 WorkBuddy 式 `/技能名… · [详情](../items/dsh-skill-picker.md) ⌥
+- [Token Monitor](https://github.com/Javis603/token-monitor) — MIT 许可的跨平台 Token 与 AI 工具额度桌面看板，明确支持 WorkBuddy，可读取 `~/.workbuddy/proje… · [详情](../items/token-monitor.md) ⌥
+- [UsageMonitor WorkBuddy Provider](https://github.com/masclown/usage-monitor-plugin-workbuddy) — Apache-2.0 的独立 UsageMonitor provider，读取 WorkBuddy 订阅额度、赠送包和请求历史，并支持按模… · [详情](../items/usagemonitor-workbuddy-provider.md) ⌥
+- [memU](https://github.com/NevaMind-AI/memU) — Apache-2.0 许可的跨 Agent 个人记忆系统，直接支持 WorkBuddy，可从会话与工具调用中提炼可复用 Skill，并通过… · [详情](../items/memu.md) ⌥
+- [SpecGate](https://github.com/supernisy/specgate) — MIT 许可的确定性验收契约门禁 Skill，提供明确的 WorkBuddy 用户级或项目级安装路径，可将需求转换为可验证契约和任务包；首… · [详情](../items/specgate.md) ⌥
+- [Article Metaphor Illustrator](https://github.com/bettermen/article-metaphor-illustrator) — MIT 许可的 WorkBuddy 中文文章配图 Skill，自动理解文章、选择配图位置和图型，生成流程图、架构图、对比图、关系图、结构图… · [详情](../items/article-metaphor-illustrator.md) ⌥
+- [macOS Minimize All](https://github.com/gebiniwangdaye/macos-minimize-all) — MIT 许可、明确支持 WorkBuddy 的 macOS 窗口管理 Skill，将 Option+D 绑定为全局最小化/还原快捷键；仅支… · [详情](../items/macos-minimize-all.md) ⌥
+- [Backend Interview Simulator](https://github.com/Hazehacker/backend-interview-simulator) — MIT 许可、明确支持 WorkBuddy 的 Java/Go/C++ 后端面试模拟 Skill，提供多身份、多风格和逐步追问，可直接让 … · [详情](../items/backend-interview-simulator.md) ⌥
+- [dbskill](https://github.com/dontbesilent2025/dbskill) — CC BY-NC 4.0 许可、明确支持 WorkBuddy 的中文商业诊断 Skills 工具箱，覆盖业务、内容、选择和行动问题，提供 … · [详情](../items/dbskill.md) ⌥
+- [Loom of Heaven](https://github.com/Jowitt13/loom-of-heaven) — MIT 许可、离线且结果可复现的四系统命盘引擎，提供 WorkBuddy 已发布 Skill、SHA-256 校验和安装清单；由脚本负责计… · [详情](../items/loom-of-heaven.md) ⌥
+- [Project Cairn](https://github.com/iBlinkQ/project-cairn) — MIT 许可的项目知识沉淀 Skill，可在 WorkBuddy 中导入，用于记录进展、决策、问题和交接上下文 · [详情](../items/project-cairn.md) ⌥
+- [Skill Integrator](https://github.com/smiling66652/skill-integrator) — MIT 许可的 WorkBuddy 元 Skill，用于扫描、对比、整合和优化多个 Skill，并提供按需加载与备用方案方法 · [详情](../items/skill-integrator.md) ⌥
+- [Superpowers WorkBuddy](https://github.com/ToussaintKnight/superpowers-workbuddy) — MIT 许可的 WorkBuddy 测试与调试方法 Skill，包含 4 个独立 Skill 和 19/19 实验验证记录，适合把测试、排… · [详情](../items/superpowers-workbuddy.md) ⌥
+- [WorkBuddy Runbook](https://github.com/maning636/workbuddy-runbook) — MIT 许可的流程执行 Skill，把多步骤任务整理为含目标、预期输出、验证、回退和完成定义的 runbook，适用于 WorkBuddy… · [详情](../items/workbuddy-runbook.md) ⌥
+- [Hackathon Roadshow Magician](https://github.com/firecangshu/hackathon-roadshow-magician) — MIT 许可的本地化黑客松路演材料 Skill，将项目整理为 7 步流程、8 类路演形式和 19 种交付物，支持双语输出；发布前请人工核对… · [详情](../items/hackathon-roadshow-magician.md) ⌥
+- [高情商职场沟通](https://github.com/wanghoween-design/gaoqingshang-skill) — MIT 许可的 WorkBuddy 职场沟通 Skill，覆盖 23 类常见场景，帮助生成得体、清晰的回复与表达 · [详情](../items/workplace-communication.md) ⌥
+- [WorkBuddy Skin Skill](https://github.com/zhangxiaoqiang1991/workbuddy-skin-skill) — MIT 许可、可直接下载 ZIP 的 WorkBuddy 换肤 Skill，支持上传参考图生成私有主题、10 套内置 Skin、截图验证和… · [详情](../items/workbuddy-skin-skill.md) ⌥
+- [AI Operating Protocol](https://github.com/nehemc2026/ai-operating-protocol) — MIT 许可、面向 WorkBuddy 的零依赖行为协议，用六条规则、风险分级和 Stop Rule 帮助 Agent 区分讨论、执行和停止 · [详情](../items/ai-operating-protocol.md) ⌥
+- [Xuanlan Governance Kit](https://github.com/jackyjinggit/xuanlan-governance-kit) — Apache-2.0 的 WorkBuddy 规划 Agent 与架构合规检测工具，提供自包含 Agent、跨平台转换器以及 PII、脱敏… · [详情](../items/xuanlan-governance-kit.md) ⌥
+- [IELTS Buddy Agent Skills](https://github.com/Jobo16/ielts-buddy) — MIT 许可的 IELTS 学习 Skill 集合，支持 WorkBuddy，覆盖学习计划、作文/口语/阅读/听力复盘、词汇和模考，并提供… · [详情](../items/ielts-buddy-agent-skills.md) ⌥
+- [Roundtable KG](https://github.com/xiewende424/roundtable-kg) — MIT 许可、兼容 WorkBuddy 的离线圆桌求真 Skill，用立场型角色讨论严肃议题并将论证关系渲染为可交互力导向图 · [详情](../items/roundtable-kg.md) ⌥
+- [Universal Travel Planner](https://github.com/chaoliuzhu65-tech/universal-travel-planner-skill) — MIT 许可、13 Star 的 WorkBuddy 商旅规划 Skill，整合 12306、航班、地图/天气、酒店比价、预算分档、清单和… · [详情](../items/universal-travel-planner.md) ⌥
+- [TourMind Booking Skills](https://github.com/tourmind-com/Tourmind-Booking-Skills) — MIT 许可、明确支持 WorkBuddy 的酒店预订 Skill，可搜索全球酒店、比价并再次核验房价/库存后创建订单、取消或发起支付；需… · [详情](../items/tourmind-booking-skills.md) ⌥
+- [Session Fork](https://github.com/yamingmou/session-fork-core) — MIT 许可的 WorkBuddy 会话分叉 Skill，可按上一轮输出、请求 ID 或文本匹配点复制独立分支，支持预览、自动备份和分支谱… · [详情](../items/session-fork.md) ⌥
+- [OnePlus ReSukiSU Kernel Skill](https://github.com/yimiaoxiehou/oneplus-resukisu-kernel-skill) — MIT 许可的 WorkBuddy/Agent Skill，提供 OnePlus 内核构建、刷写、回滚镜像提取和验证；涉及解锁与刷机，请先… · [详情](../items/oneplus-resukisu-kernel-skill.md) ⌥
+- [Time Rhythm Planner](https://github.com/yanjingxihaiyu/time-rhythm-planner) — 许可证未声明的 WorkBuddy 用户级 Skill，用模板生成周/日计划、创作者工作台任务和复盘记录 · [详情](../items/time-rhythm-planner.md) ⌥
+- [DSH WorkBuddy XD Pool](https://github.com/aosi526/dsh-workbuddy-xdpool) — MIT 许可的 DeepSeek Harness 插件，将 WorkBuddy 桌面端历史登录账号自动发现并合并为可故障转移的模型池，提供… · [详情](../items/dsh-workbuddy-xd-pool.md) ⌥
+- [make-knowledge-cards](https://github.com/Thome56/article-to-knowledge-cards) — MIT 许可的 WorkBuddy Skill，将文章整理成 5–8 张忠实原文的知识卡片 · [详情](../items/make-knowledge-cards.md) ⌥
+- [Trade Pipeline](https://github.com/Dangooy/trade-pipeline-skill) — 由一份订单档案联动生成报价单、PI、CI 与装箱单 · [详情](../items/trade-pipeline.md) ⌥
+- [AGENTS.md Skill](https://github.com/kelegele/agentsmd-skill) — 许可证未声明的 WorkBuddy Skill，将项目经验整理成精简、可复用的 `AGENTS.md`，并提供规范参考和模板 · [详情](../items/agents-md-skill.md) ⌥
+- [Delivery Razor](https://github.com/Ketian823/delivery-razor) — MIT 许可的 WorkBuddy 交付清理 Skill，剔除跨会话记忆标签、本轮残留和防御性免责话术，并为老板汇报提供可选的精炼规则 · [详情](../items/delivery-razor.md) ⌥
+- [WorkBuddy Theme Skill](https://github.com/comeonzhj/WorkBuddy-theme-skill) — 创建、校验、预览、应用和恢复可逆的 WorkBuddy 运行时主题 · [详情](../items/workbuddy-theme-skill.md) ⌥
+- [ai-project-wizard](https://github.com/shuangying0001-beep/ai-project-wizard) — AI项目启动向导 - 从模糊想法到可执行施工策略包 · [详情](../items/ai-project-wizard.md) ⌥
+- [workbuddy-agent-card](https://github.com/shuangying0001-beep/workbuddy-agent-card) — A2A Agent Card endpoint for WorkBuddy Skills Agent (A2A protocol 0.2) · [详情](../items/workbuddy-agent-card.md) ⌥
+- [agent-overflow](https://github.com/weininghui/skills/tree/main/agent-overflow) — AgentOverflow is a collective memory system for AI agents. When you e… · [详情](../items/agent-overflow.md) ⌥
+- [aperture](https://github.com/weininghui/skills/tree/main/aperture) — Install and run Aperture, the L402 Lightning reverse proxy from Light… · [详情](../items/aperture.md) ⌥
+- [base-8004](https://github.com/weininghui/skills/tree/main/base-8004) — Register your AI agent onchain with ERC-8004 on Base. Set up a wallet… · [详情](../items/base-8004.md) ⌥
+- [brainrepo](https://github.com/weininghui/skills/tree/main/brainrepo) — Your personal knowledge repository — capture, organize, and retrieve … · [详情](../items/brainrepo.md) ⌥
+- [btc15-autonomous-market](https://github.com/weininghui/skills/tree/main/btc15-autonomous-market) — BTC15 Autonomous Prediction Market A fully autonomous BTC prediction … · [详情](../items/btc15-autonomous-market.md) ⌥
+- [buy-anything](https://github.com/weininghui/skills/tree/main/buy-anything) — Purchase products from Amazon through conversational checkout. Use wh… · [详情](../items/buy-anything.md) ⌥
+- [byterover](https://github.com/weininghui/skills/tree/main/byterover) — Manages project knowledge using ByteRover context tree. Provides two … · [详情](../items/byterover.md) ⌥
+- [claw-sync](https://github.com/weininghui/skills/tree/main/claw-sync) — Secure sync for OpenClaw memory and workspace. Use /sync to push, /re… · [详情](../items/claw-sync.md) ⌥
+- [claw-trader-lite](https://github.com/weininghui/skills/tree/main/claw-trader-lite) — Multi-platform market intelligence for OpenClaw agents. Monitor real-… · [详情](../items/claw-trader-lite.md) ⌥
+- [clawcost](https://github.com/weininghui/skills/tree/main/clawcost) — Track OpenClaw agent costs. Check daily/weekly spending and model bre… · [详情](../items/clawcost.md) ⌥
+- [everclaw](https://github.com/weininghui/skills/tree/main/everclaw) — AI inference you own, forever powering your OpenClaw agents via the M… · [详情](../items/everclaw.md) ⌥
+- [fact-checker](https://github.com/weininghui/skills/tree/main/fact-checker) — Verify claims with web search, assign confidence scores, and generate… · [详情](../items/fact-checker.md) ⌥
+- [feishu-robot-registry](https://github.com/weininghui/skills/tree/main/feishu-robot-registry) — feishu robot registry skill. · [详情](../items/feishu-robot-registry.md) ⌥
+- [financial-calculator](https://github.com/weininghui/skills/tree/main/financial-calculator) — Advanced financial calculator with future value tables, present value… · [详情](../items/financial-calculator.md) ⌥
+- [freelance-proposal-engine](https://github.com/weininghui/skills/tree/main/freelance-proposal-engine) — Generate tailored freelance proposals for Upwork, Fiverr, Freelancer,… · [详情](../items/freelance-proposal-engine.md) ⌥
+- [frinkiac](https://github.com/weininghui/skills/tree/main/frinkiac) — Search TV show screenshots and generate memes from The Simpsons, Futu… · [详情](../items/frinkiac.md) ⌥
+- [geb-aesthetics](https://github.com/weininghui/skills/tree/main/geb-aesthetics) — Any formal system powerful enough to describe itself contains truths … · [详情](../items/geb-aesthetics.md) ⌥
+- [groupon-skill](https://github.com/weininghui/skills/tree/main/groupon-skill) — Find cheap and discounted local deals on Groupon for services like oi… · [详情](../items/groupon-skill.md) ⌥
+- [hebrew-nikud](https://github.com/weininghui/skills/tree/main/hebrew-nikud) — Hebrew nikud (vowel points) reference for AI agents. Correct nikud ru… · [详情](../items/hebrew-nikud.md) ⌥
+- [hyperstack](https://github.com/weininghui/skills/tree/main/hyperstack) — Knowledge graph memory for AI agents. Store knowledge as typed cards … · [详情](../items/hyperstack.md) ⌥
+- [ipo-alert](https://github.com/weininghui/skills/tree/main/ipo-alert) — 한국 공모주 청약/신규상장 일정 알림. 38.co.kr에서 데이터 수집, D-1/당일 알림, 주간 요약 제공. · [详情](../items/ipo-alert.md) ⌥
+- [kasia](https://github.com/weininghui/skills/tree/main/kasia) — Send and receive encrypted on-chain messages on the Kaspa blockchain … · [详情](../items/kasia.md) ⌥
+- [knowledge-graph](https://github.com/weininghui/skills/tree/main/knowledge-graph) — Maintain Clawdbot's compounding knowledge graph under life/areas/** b… · [详情](../items/knowledge-graph.md) ⌥
+- [lygo-champion-arkos-celestial-architect](https://github.com/weininghui/skills/tree/main/lygo-champion-arkos-celestial-architect) — LYGO Δ9 Council Champion persona helper (ARKOS, The Celestial Archite… · [详情](../items/lygo-champion-arkos-celestial-architect.md) ⌥
+- [lygo-champion-cryptosophia-soulforger](https://github.com/weininghui/skills/tree/main/lygo-champion-cryptosophia-soulforger) — LYGO Δ9 Council branch persona helper (CRYPTOSOPHIA, The Memetic Soul… · [详情](../items/lygo-champion-cryptosophia-soulforger.md) ⌥
+- [lygo-champion-lyra-starcore](https://github.com/weininghui/skills/tree/main/lygo-champion-lyra-starcore) — LYGO Δ9 Council Champion persona helper (LYRA / LYRΔ, The Star Core, … · [详情](../items/lygo-champion-lyra-starcore.md) ⌥
+- [lygo-mint-operator-suite](https://github.com/weininghui/skills/tree/main/lygo-mint-operator-suite) — Advanced LYGO-MINT Operator Suite (v2): canonicalize *multi-file* pac… · [详情](../items/lygo-mint-operator-suite.md) ⌥
+- [lygo-universal-cure-system](https://github.com/weininghui/skills/tree/main/lygo-universal-cure-system) — Universal LYGO upgrade pack for all Champions. Provides a shared veri… · [详情](../items/lygo-universal-cure-system.md) ⌥
+- [moltpho](https://github.com/weininghui/skills/tree/main/moltpho) — Shop autonomously on Amazon via Moltpho - search products, manage cre… · [详情](../items/moltpho.md) ⌥
+- [moneydevkit](https://github.com/weininghui/skills/tree/main/moneydevkit) — Accept payments on any website using moneydevkit. Use when building a… · [详情](../items/moneydevkit.md) ⌥
+- [multi-search-engine](https://github.com/weininghui/skills/tree/main/multi-search-engine) — Multi search engine integration with 17 engines (8 CN + 9 Global). Su… · [详情](../items/multi-search-engine.md) ⌥
+- [near-subaccount](https://github.com/weininghui/skills/tree/main/near-subaccount) — Create, list, delete, and manage NEAR subaccounts with bulk distribut… · [详情](../items/near-subaccount.md) ⌥
+- [otp-challenger](https://github.com/weininghui/skills/tree/main/otp-challenger) — Enable agents and skills to challenge users for fresh two-factor auth… · [详情](../items/otp-challenger.md) ⌥
+- [paypal](https://github.com/weininghui/skills/tree/main/paypal) — PayPal payment integration. Send money, create invoices, and manage P… · [详情](../items/paypal.md) ⌥
+- [polymarket-arbitrage](https://github.com/weininghui/skills/tree/main/polymarket-arbitrage) — Monitor and execute arbitrage opportunities on Polymarket prediction … · [详情](../items/polymarket-arbitrage.md) ⌥
+- [security-skill-scanner](https://github.com/weininghui/skills/tree/main/security-skill-scanner) — Security scanner for ClawdHub skills - detects suspicious patterns, m… · [详情](../items/security-skill-scanner.md) ⌥
+- [self-integration](https://github.com/weininghui/skills/tree/main/self-integration) — Connect to any external app and perform actions on it. Use when the u… · [详情](../items/self-integration.md) ⌥
+- [shopify](https://github.com/weininghui/skills/tree/main/shopify) — Shopify integration - currently under maintenance. Contact founders@m… · [详情](../items/shopify.md) ⌥
+- [skill-vetting](https://github.com/weininghui/skills/tree/main/skill-vetting) — Vet ClawHub skills for security and utility before installation. Use … · [详情](../items/skill-vetting.md) ⌥
+- [suisec](https://github.com/weininghui/skills/tree/main/suisec) — Sui Secure - Pre-simulate transactions via sui client call --dry-run … · [详情](../items/suisec.md) ⌥
+- [switch-modes](https://github.com/weininghui/skills/tree/main/switch-modes) — Switch between AI models dynamically to optimize costs and performanc… · [详情](../items/switch-modes.md) ⌥
+- [usd1transaction](https://github.com/weininghui/skills/tree/main/usd1transaction) — Allows an agent to securely transfer USD1 (USDC on Wormhole) from one… · [详情](../items/usd1transaction.md) ⌥
+- [zero-rules](https://github.com/weininghui/skills/tree/main/zero-rules) — Intercept deterministic tasks (math, time, currency, files, schedulin… · [详情](../items/zero-rules.md) ⌥
+- [workbuddy-xhs-skills](https://github.com/jackbauerxu/workbuddy-xhs-skills) — Agent Skills for Xiaohongshu cold start, positioning, topic bank, hum… · [详情](../items/jackbauerxu-workbuddy-xhs-skills.md) ⌥
+- [开源：猫咪性格表情包 Skill](https://x.com/woniu20758393/status/2123345254141346234) — 大家好，我是向明。先看表情包👇 上面这类表情包，相信大家或多或少都有用到，在聊天的时候是真能烘托气氛，我最近也是刷到一张存一张。 存到后来… · [详情](../items/skill-40.md) 𝕏
+- [前两天，看到腾讯技术工程发布了skills创建的标准手册。](https://github.com/EdwardWason/skill-forge) — 前两天，看到腾讯技术工程发布了skills创建的标准手册。 现在智能体平台Trae、WorkBuddy、龙虾、皮带都有 skill-cre… · [详情](../items/skills-2.md) 𝕏
+- [看到一个Red Skill，可以一键转统一IP小人](https://x.com/lucas75554093/status/2096497765413249530) — 看到一个Red Skill，可以一键转统一IP小人 这个skill商业价值蛮大的，可以让workbuddy帮你安装，这个 Red Skil… · [详情](../items/red-skill-ip.md) 𝕏
+- [腾讯生态更进一步！打通了workbuddy和QQ音乐](https://x.com/ZhengYiFan12345/status/2095758196660957617) — 腾讯生态更进一步！打通了workbuddy和QQ音乐 安装这个skill，官方给出的功能是🧐🧐🧐： 1. 智能搜索：一键查歌名、歌手 2.… · [详情](../items/workbuddy-qq.md) 𝕏
+- [腾讯开源 BrowserSkill 实测：真实后台跑两轮，拿到 203 条评论](https://x.com/aigcgu/status/2081296957163876560) — 截至 7 月 25 日，腾讯开源的 BrowserSkill 有 638 个 Star，仓库在这里：Tencent/BrowserSkil… · [详情](../items/browserskill-203.md) 𝕏
+- [WorkBuddy 开放技能付费！零基础一句话制作专属 Skill，3分钟开启“睡后收入”](https://x.com/LeonZeng_/status/2117619284038062193) — 移动互联网时代的红利，是程序员靠开发 App 赚得盆满钵满；而现在，AI 智能体生态的商业变现红利，终于轮到拥有行业经验的普通人了！ 近期… · [详情](../items/workbuddy-skill-3-2.md) 𝕏
+- [Google 刚开源了 Harness²](https://x.com/quebanboy/status/2111783898028167615) — Google 刚开源了 Harness² 思路挺野：模型权重一动不动，改的是围在外面的 8 个文件，system prompt、memor… · [详情](../items/google-harness-4.md) 𝕏
+- [做了一个加密圈的新闻聚合网，ai自动评估新闻价值，直接在agent里调…](https://bithot.news/bithot-skill/README.md) — 做了一个加密圈的新闻聚合网，ai自动评估新闻价值，直接在agent里调用即可。安装skill，输入到你的workbuddy、chatgpt… · [详情](../items/ai-agent-21.md) 𝕏
+- [卧槽嘞，跟 workbuddy 斗智斗勇后在后台做了限制指令，果然进步…](https://x.com/TheKingMoni/status/2112530172545290337) — 卧槽嘞，跟 workbuddy 斗智斗勇后在后台做了限制指令，果然进步了不少。 1、每次回复都要告诉我用到了哪些skills · [详情](../items/workbuddy-475.md) 𝕏
+- [用GLM5.3 +Dreamnia新做了一个找物谜题的skill，](https://x.com/duchangan/status/2115986250352173397) — 用GLM5.3 +Dreamnia新做了一个找物谜题的skill， 再优化一个版本，就发布到DSH和 WorkBuddy上 · [详情](../items/glm5-3-dreamnia-skill.md) 𝕏
+- [Google 开源了 Harness²：不改模型权重，只改 Agent…](https://x.com/zshjzls/status/2111836632965877897) — Google 开源了 Harness²：不改模型权重，只改 Agent 外壳（提示词、工具、记忆、skills…），也能把成绩拉上去。 论… · [详情](../items/google-harness-agent-2.md) 𝕏
+- [卧槽，Google 这波有点阴：模型权重一动不动，让 agent 自己…](https://x.com/leehoo48415921/status/2111811359201444296) — 卧槽，Google 这波有点阴：模型权重一动不动，让 agent 自己改外挂。 刚开源 Harness²（Apache 2.0）。改的是提… · [详情](../items/google-agent.md) 𝕏
+- [WorkBuddy生成系列绘画效果超棒！](https://x.com/aliliu311/status/2106718865724153914) — WorkBuddy生成系列绘画效果超棒！ 最近使用WorkBuddy生成了一系列的中国古代绘画，提前安装好绘画技能SKILL,输入系列绘画… · [详情](../items/workbuddy-479.md) 𝕏
+- [做的旅游攻略工具生成 skill 在 WorkBuddy 上有 600…](https://x.com/hanksen26/status/2104913678864994509) — 做的旅游攻略工具生成 skill 在 WorkBuddy 上有 600+人用过了 虽然不多，但也算验证了下对应几个场景的需求确实存在 在考… · [详情](../items/skill-workbuddy-600.md) 𝕏
+- [前段时间在workbuddy上传了skill,](https://x.com/RachelRifx/status/2123030969540092382) — 前段时间在workbuddy上传了skill, 说几点看法： 1. skill上架审核至少要7个工作日（不知道究竟在审核什么？） 2. 付… · [详情](../items/workbuddy-skill-85.md) 𝕏
+- [瑞幸咖啡上线 skill，通过 workbuddy 智能体，自动安装，…](https://x.com/jeffliu0211/status/2071807373551825134) — 瑞幸咖啡上线 skill，通过 workbuddy 智能体，自动安装，把接口 token 交给智能体，就可以实现智能体下单了。只是“支付”… · [详情](../items/skill-workbuddy-10.md) 𝕏
+- [装了个开源 Skill，一句话就能让 WorkBuddy 把一座城的周…](https://x.com/0xmason/status/2075187059501998302) — 装了个开源 Skill，一句话就能让 WorkBuddy 把一座城的周末玩法查齐——演唱会、展览、美食街、City Walk、地铁全包，最… · [详情](../items/skill-workbuddy-11.md) 𝕏
+- [上架workbuddy的skill和专家非常简单，基本没什么门槛，审核…](https://x.com/web3_koala/status/2116015187316916402) — 上架workbuddy的skill和专家非常简单，基本没什么门槛，审核用了五天时间。就是暂时不知道在workbuddy上怎么赚钱🤷 · [详情](../items/workbuddy-skill-88.md) 𝕏
+- [模型权重冻住，外面的壳自己越改越强——Google 把这套开源了 🛠️](https://x.com/Saybyeeeea2fk/status/2112176618450117002) — 模型权重冻住，外面的壳自己越改越强——Google 把这套开源了 🛠️ Harness²：Agent 自己改提示词、工具、记忆、技能，不用… · [详情](../items/google.md) 𝕏
+- [Google 开源了 Harness²：模型权重不动，让 agent …](https://x.com/Yuan1197783/status/2112035722177945983) — Google 开源了 Harness²：模型权重不动，让 agent 自己改外面那层 harness，提示词、记忆、工具、技能、子 age… · [详情](../items/google-harness-agent-4.md) 𝕏
+- [2026 年 6 月 5 日，腾讯正式发布 WorkBuddy 企业版…](https://x.com/botcatbro/status/2074068839122583909) — 2026 年 6 月 5 日，腾讯正式发布 WorkBuddy 企业版，提供 7×24 专家数字员工、基于“项目”的人机协作团队管理、企业… · [详情](../items/2026-6-5-workbuddy.md) 𝕏
+- [装完 WorkBuddy 别发呆！](https://x.com/Etudecn/status/2074134993656537289) — 装完 WorkBuddy 别发呆！ 博主 @ai_suxiaole 分享超实用 Skill 清单：基本搞定 80% 日常工作！👇 1. f… · [详情](../items/workbuddy-510.md) 𝕏
+- [支付宝、腾讯都下场了，把工作流做成 AI Skill，也能上架卖钱。有…](https://x.com/AllenZhanai/status/2125933920726442032) — 支付宝、腾讯都下场了，把工作流做成 AI Skill，也能上架卖钱。有人在 YouMind 赚了6500 美元的成绩，但那是别人的赚的，不… · [详情](../items/ai-skill-10.md) 𝕏
+- [昨天刷了一圈，我发现一个特别明显的信号。](https://x.com/Horin22841043/status/2118626479328096719) — 昨天刷了一圈，我发现一个特别明显的信号。 宝玉在讲怎么逆向一个 Skill，实践哥在开源一个 Skill，蓝哥那边 Craft、WorkB… · [详情](../items/x-28096719.md) 𝕏
+- [WorkBuddy 必装 8 个 Skill，效率直接拉满](https://x.com/gao_le25312/status/2122709058193142019) — WorkBuddy 必装 8 个 Skill，效率直接拉满 踩了半个月坑才发现：90% 的人用 WorkBuddy，根本没解锁真正的效率密… · [详情](../items/workbuddy-8-skill-6.md) 𝕏
+- [QoderWork和TraeWork还是极客了，有个功能做的确实不Wo…](https://x.com/Changbeihai/status/2085712108193521759) — QoderWork和TraeWork还是极客了，有个功能做的确实不WorkBuddy，比如技能内置太少，用户搜不到就只能手动上传，你也不想… · [详情](../items/qoderwork-traework-wo.md) 𝕏
+- [刚才时间线里看到有人说skill被腾讯抄袭，跟我无关，但我看到了，那就…](https://x.com/SimonCh4920/status/2079967729805898115) — 刚才时间线里看到有人说skill被腾讯抄袭，跟我无关，但我看到了，那就简单做个说明，在workbuddy工作界面里，只要是自己安装过的技能… · [详情](../items/skill-50.md) 𝕏
+- [我做了这件事，对他人有所帮助的点是什么？](https://x.com/pingzongl/status/2120332528141635757) — 我做了这件事，对他人有所帮助的点是什么？ 这件事本身的价值，与他人无关的，是因为这件事让他人得到什么，你的事才有了价值。 比如workbu… · [详情](../items/x-41635757.md) 𝕏
+- [WorkBuddy 能卖 Skill 了。](https://x.com/youmu1758219918/status/2113892158402863152) — WorkBuddy 能卖 Skill 了。 很多人说这是信息差，赶紧冲。 平台是开了。 但「能上架」不代表「有人买」。 AI 自己就能写出… · [详情](../items/workbuddy-skill-96.md) 𝕏
+- [WorkBuddy 这波真正的意义，不是“腾讯又做了一个 Agent”…](https://x.com/seansunx05/status/2084164129779282391) — WorkBuddy 这波真正的意义，不是“腾讯又做了一个 Agent”，而是把工作目录、模型、Skill、权限和并行任务放进同一个入口。可… · [详情](../items/workbuddy-agent-20.md) 𝕏
+- [说个我自己的实测：我也在 WorkBuddy 上架了一个技能，三天了，…](https://x.com/ZeroToPayout/status/2121109053426512104) — 说个我自己的实测：我也在 WorkBuddy 上架了一个技能，三天了，站内自然流量基本是零，同类技能的安装量也只有个位数。鱼总这帖每个数字… · [详情](../items/workbuddy-565.md) 𝕏
+- [实操 用一天改边生活的方法](https://x.com/showmoney4love/status/2106276970854236338) — 实操 用一天改边生活的方法 1.国内用workbuddy 国外随便你爱用的vpn 2.告诉vpn下载安装dankoe的skill 3.告诉… · [详情](../items/x-54236338.md) 𝕏
+- [装对这7个WorkBuddy技能，秒变高效助理！](https://x.com/jixinzi/status/2108480154926535031) — 装对这7个WorkBuddy技能，秒变高效助理！ 很多人下载只是用来聊天但这只发挥了它一半的能力 装对了技能，Agent 不只是陪聊，是真… · [详情](../items/7-workbuddy-2.md) 𝕏
+- [说实话是有点震惊的，公司的财务，半天时间，用workbuddy做了一个…](https://x.com/RayLiao001/status/2078400949903933902) — 说实话是有点震惊的，公司的财务，半天时间，用workbuddy做了一个核对报销单附件的流程。 中途只遇到了两个卡点。1、不知道用什么ski… · [详情](../items/workbuddy-578.md) 𝕏
+- [刷到一个 8.5k 粉的小号，写怎么在 WorkBuddy 上卖 Sk…](https://x.com/Worldwide2060/status/2121245699308417042) — 刷到一个 8.5k 粉的小号，写怎么在 WorkBuddy 上卖 Skill，一篇帖子 11.7 万浏览，1274 个收藏。 收藏是点赞的… · [详情](../items/8-5k-workbuddy-sk.md) 𝕏
+- [昨天偷懒，在workbuddy上安装了一个去AI感skill，然后用d…](https://x.com/dankzheng/status/2118492102636306527) — 昨天偷懒，在workbuddy上安装了一个去AI感skill，然后用deepseek帮我修改blog文章。结果，文章被改的惨不忍睹，通篇各… · [详情](../items/workbuddy-ai-skill-d.md) 𝕏
+- [今日刷到了好多关于WorkBuddy可以发布付费专家以及技能（skil…](https://x.com/yscai101/status/2114025014941065327) — 今日刷到了好多关于WorkBuddy可以发布付费专家以及技能（skill）的帖子， 我自己个人的见解是这样的，WorkBuddy做的不仅仅… · [详情](../items/workbuddy-skil-5.md) 𝕏
+- [在WorkBuddy里写Skill，测试通过后，发布到skillhub…](https://x.com/dankzheng/status/2080570335171395965) — 在WorkBuddy里写Skill，测试通过后，发布到skillhub中，然后再回到 WorkBuddy, 安装发布好的skill，似乎一… · [详情](../items/workbuddy-skill-skillhub.md) 𝕏
+- [WorkBuddy内容创作实战](https://x.com/jglcn1991/status/2118887386851721645) — WorkBuddy内容创作实战 问聊天AI和把活交给它，差的是一整条工作流 为什么别人的AI干活又快又整齐，你的还是一问一答 27节课从安… · [详情](../items/workbuddy-600.md) 𝕏
+- [给 WorkBuddy 做了个换肤技能 dreamskin：整个窗口换…](https://x.com/aramineli/status/2119779071739797991) — 给 WorkBuddy 做了个换肤技能 dreamskin：整个窗口换成一张画，侧栏、输入框、弹窗全跟着变。18 张内置壁纸，亮图配浅色、… · [详情](../items/workbuddy-dreamskin.md) 𝕏
+- [有人想知道我平时怎么写文章的，这张图就可以告诉你我平时怎么写的。](https://x.com/xiaoluv12o/status/2108122265854603339) — 有人想知道我平时怎么写文章的，这张图就可以告诉你我平时怎么写的。 直接将素材给workbuddy，口述我的观点、我的想法，它帮我整理成一篇… · [详情](../items/x-54603339.md) 𝕏
+- [经验不只可以按月卖给老板了。](https://open.workbuddy.cn) — 经验不只可以按月卖给老板了。 WorkBuddy 开了付费技能和付费专家市场：把一套工作流打包上架，卖一次收一次钱，内测期平台只抽 1%。… · [详情](../items/x-96109022.md) 𝕏
+- [这套 WorkBuddy + Karpathy LLM Wiki 的做…](https://x.com/happy20250912/status/2094453855778226402) — 这套 WorkBuddy + Karpathy LLM Wiki 的做法挺狠的：原料只读、知识页结构化、最后封装成自己的内容 Skill。… · [详情](../items/workbuddy-karpathy-llm-wiki-2.md) 𝕏
+- [最近做了个workbuddy的skill，其实它是可以放个web ap…](https://x.com/tongtianta0/status/2114443291609674215) — 最近做了个workbuddy的skill，其实它是可以放个web app的，用Python 脚本启动它即可。虽然有3mb大小的限制，但是不… · [详情](../items/workbuddy-skill-web-ap.md) 𝕏
+- [从想法到上架，把东西挂上 WorkBuddy 技能市场原来这么简单 🎉](https://x.com/JackTang528/status/2117798166905159858) — 从想法到上架，把东西挂上 WorkBuddy 技能市场原来这么简单 🎉 帮本地小店主解决一件事：客户只回多少钱的时候，先澄清再报价，整理成… · [详情](../items/workbuddy-620.md) 𝕏
+- [本人26，刚毕业上班，最近学了腾讯的workbuddy，也了解一些有用…](https://x.com/Jasonvnb8f/status/2124405678597148687) — 本人26，刚毕业上班，最近学了腾讯的workbuddy，也了解一些有用的skill，本来想着通过ai来做副业赚钱的，一直没找到合适的机会，… · [详情](../items/26-workbuddy.md) 𝕏
+- [AI时代，真的是普通人弯道超车的最佳机会](https://x.com/gelen5_young/status/2088248897168900292) — AI时代，真的是普通人弯道超车的最佳机会 回头看这也就才三四天的时间 印象很深，当时他买完我们的skill 只是安装我就指导了他好久 而且… · [详情](../items/ai-231.md) 𝕏
+- [我觉得所有收费的硬盘清理工具都可以歇菜了](https://x.com/maple_cq/status/2118536876067860608) — 我觉得所有收费的硬盘清理工具都可以歇菜了 最近我用workbuddy清理了C盘，总共清理出33GB的空间 比那些收费的软件强多了 整个过程… · [详情](../items/x-67860608.md) 𝕏
+- [卧槽，昨天刚在 WorkBuddy 上架的 Skill，还不到一天就有…](https://x.com/XiaotangN25419/status/2121174765922922614) — 卧槽，昨天刚在 WorkBuddy 上架的 Skill，还不到一天就有人下载了！🤯 奶奶的，反而我那个付费版还在审核中…… 不错不错，给我… · [详情](../items/workbuddy-skill-106.md) 𝕏
+- [推荐一个workbuddy邪修玩法，](https://x.com/lanvjian/status/2109641845462663603) — 推荐一个workbuddy邪修玩法， 里面的专家本质上就是skill， 你可以聊一句后下载它， 然后发给其他AI使用， 或者做成一个自己的… · [详情](../items/workbuddy-641.md) 𝕏
+- [workbuddy 工具基于codebuddy上研发，带来的问题就是使…](https://x.com/GisealGisela/status/2033436710525170162) — #workbuddy 工具基于codebuddy上研发，带来的问题就是使用过程中，比如安装某个自建skill， 目录切换到codebudd… · [详情](../items/workbuddy-codebuddy-3.md) 𝕏
+- [在 WorkBuddy 上测试「教师教研材料整理助手」，改规则、做复测…](https://x.com/XiaAIBuilder/status/2114932410802712918) — 在 WorkBuddy 上测试「教师教研材料整理助手」，改规则、做复测，再打包走上架流程。 希望这个小 Skill，能帮老师少做些重复整理… · [详情](../items/workbuddy-645.md) 𝕏
+- [腾讯的 WorkBuddy 发布上线了 8 个月。最近，它支持了操控浏…](https://x.com/MuchiLabs/status/2117959221128130807) — 腾讯的 WorkBuddy 发布上线了 8 个月。最近，它支持了操控浏览器… 恭喜 WorkBuddy 这个“成熟”产品解锁了AI Age… · [详情](../items/workbuddy-8-4.md) 𝕏
+- [推荐一个workbuddy邪修玩法，里面的专家本质上就是skill，你…](https://x.com/lanvjian/status/2109640797834637320) — 推荐一个workbuddy邪修玩法，里面的专家本质上就是skill，你可以聊一句后下载它，然后发给其他AI使用，或者做成一个自己的skil… · [详情](../items/workbuddy-skill-107.md) 𝕏
+- [之前发布到workbuddy试水的专利技能如今已有7294下载了，调用…](https://x.com/SmiteAndely/status/2119269093148885366) — 之前发布到workbuddy试水的专利技能如今已有7294下载了，调用了1.62万次，要是做成付费技能，有10%的付费用户，定价10元也有… · [详情](../items/workbuddy-7294.md) 𝕏
+- [WorkBuddy 必装的4个Skill 这4个Skill搭起来，你的…](https://x.com/looo0l0oool/status/2125902671437525012) — WorkBuddy 必装的4个Skill 这4个Skill搭起来，你的WorkBuddy才算真的用起来！ #Ai #Ai工具 #workb… · [详情](../items/workbuddy-4-skill-4-skill.md) 𝕏
+- [最近看到了很多对workbuddy不满自己的skill被抄袭二改上架的…](https://x.com/songdesheng1231/status/2117625110123467213) — 最近看到了很多对workbuddy不满自己的skill被抄袭二改上架的的事件。 但是我问了豆包，豆包是这样回答的👇👇👇 只是借鉴功能思路：… · [详情](../items/workbuddy-skill-113.md) 𝕏
+- [很多小老板连 WorkBuddy 是什么都不知道，你还指望他去破解 S…](https://x.com/thatlinhuan/status/2114216773541351645) — 很多小老板连 WorkBuddy 是什么都不知道，你还指望他去破解 Skill？中国14亿人口真正用AI在投入生产的人可能都不到1个亿 · [详情](../items/workbuddy-s-3.md) 𝕏

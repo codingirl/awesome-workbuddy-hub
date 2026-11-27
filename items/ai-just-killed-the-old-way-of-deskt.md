@@ -15,10 +15,6 @@ AI just killed the old way of desktop work Tencent WorkBuddy is a des…
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HJuqzF9aoAANkWK.png)
-
 ## 所有来源
 
 - X · [Abdul Shakoor @abxxai](https://x.com/abxxai/status/2061429052880323068) · 2026-06-01 · 60 赞 / 14 转 / 33314 浏览

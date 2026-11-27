@@ -17,10 +17,6 @@ WorkBuddy 写公众号神器！md2wechat 成功突破 2k 下载量，腾讯 Skil
 - 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
 - ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HMOLxX5bQAAg4_3.jpg)
-
 ## 所有来源
 
 - X · [极客杰尼 @seekjourney](https://x.com/seekjourney/status/2072654363357819286) · 2026-07-02 · 237 赞 / 50 转 / 16667 浏览

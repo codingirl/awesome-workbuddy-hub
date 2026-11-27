@@ -1,30 +1,23 @@
-# 看到一篇公众号文章说，自己在 workbuddy 发布了付费 Skill
+# Workbuddy 的 skill 可以收费，真是骗傻子的。
 
-> 类型：技能（Skills） ｜ 分类：内容创作 ｜ 标签：内容创作
+> 类型：知识点与使用技巧 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
-看到一篇公众号文章说，自己在 workbuddy 发布了付费 Skill 买了之后发现 Skill 在本地是明文存储的，结果 workbu…
+Workbuddy 的 skill 可以收费，真是骗傻子的。 因为 workbuddy 里面的 skill 全部都是明文存储，分分钟破解。…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 看到一篇公众号文章说，自己在 workbuddy 发布了付费 Skill 买了之后发现 Skill 在本地是明文存储的，结果 workbuddy 竟然还有按月续费的功能 作者说 workbuddy 太业余，按月续费根本无法实现，伤害了创作者辛辛苦苦做的 Skill 结果这个人做的 Skill
+> Workbuddy 的 skill 可以收费，真是骗傻子的。 因为 workbuddy 里面的 skill 全部都是明文存储，分分钟破解。 基本上一两个小时，就可以把 workbuddy 的所有 skill 全部扒下来。 skill 的商业模式不存在！
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HWqsX1jbkAAy7cT.jpg)
-![](https://pbs.twimg.com/media/HWqspFVa8AA0sMn.jpg)
 
 ## 所有来源
 
-- X · [dontbesilent @dontbesilent](https://x.com/dontbesilent/status/2119696964107526607) · 2026-11-09 · 174 赞 / 12 转 / 36876 浏览
+- X · [DinoDeer @xDinoDeer](https://x.com/xDinoDeer/status/2113664501384089776) · 2026-10-23 · 281 赞 / 11 转 / 80907 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

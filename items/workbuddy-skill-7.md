@@ -1,16 +1,16 @@
-# 腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。
+# 看到一篇公众号文章说，自己在 workbuddy 发布了付费 Skill
 
 > 类型：技能（Skills） ｜ 分类：内容创作 ｜ 标签：内容创作
 
 ## 简介
 
-腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。 现在的 Skill 绝大部分就是一个 Markdown 纯文本，里面写着…
+看到一篇公众号文章说，自己在 workbuddy 发布了付费 Skill 买了之后发现 Skill 在本地是明文存储的，结果 workbu…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 腾讯 WorkBuddy 和小红书都在推 Skill 技能市场。 现在的 Skill 绝大部分就是一个 Markdown 纯文本，里面写着提示词和调用规则。 纯文本没有任何防复制的手段。不管卖给谁，别人转手就能复制一份发出去，去闲鱼搜一搜，到处都是一块钱打包。 指望直接卖技能文件赚钱，很难跑通。
+> 看到一篇公众号文章说，自己在 workbuddy 发布了付费 Skill 买了之后发现 Skill 在本地是明文存储的，结果 workbuddy 竟然还有按月续费的功能 作者说 workbuddy 太业余，按月续费根本无法实现，伤害了创作者辛辛苦苦做的 Skill 结果这个人做的 Skill
 
 ## 使用/获取
 
@@ -19,7 +19,8 @@
 
 ## 所有来源
 
-- X · [陈大黄 @realchendahuang](https://x.com/realchendahuang/status/2114034181042762003) · 2026-10-24 · 159 赞 / 13 转 / 28814 浏览
+- X · [dontbesilent @dontbesilent](https://x.com/dontbesilent/status/2119696964107526607) · 2026-11-09 · 174 赞 / 12 转 / 36877 浏览
+- X · [dontbesilent @dontbesilent](https://x.com/dontbesilent/status/2119696680949854355) · 2026-11-09 · 1 赞 / 1 转 / 455 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

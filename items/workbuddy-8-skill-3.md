@@ -1,16 +1,16 @@
-# 必须装WorkBuddy 8个SKILL技能插件
+# WorkBuddy 8 个搞钱必装 Skill｜接单变现篇
 
-> 类型：技能（Skills） ｜ 分类：办公文档 ｜ 标签：办公文档
+> 类型：技能（Skills） ｜ 分类：内容创作 ｜ 标签：内容创作
 
 ## 简介
 
-必须装WorkBuddy 8个SKILL技能插件 - Web Search : 搜索摘要 - Agent Browser: 打开目标网页获…
+WorkBuddy 8 个搞钱必装 Skill｜接单变现篇 做代运营、接单、AI 服务的，可以直接抄作业。 我筛了 8 个真正能落地变现的…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 必须装WorkBuddy 8个SKILL技能插件 - Web Search : 搜索摘要 - Agent Browser: 打开目标网页获取数据, 截图 - xlsx/docx/pdf/pptx: 文档四件套 - local Wisper : 音频转写 - self improving: 学习偏好，不用重复要求 - Obsidian: 管理知识文档 - yt-dlp:视频下载 - front degisn:
+> WorkBuddy 8 个搞钱必装 Skill｜接单变现篇 做代运营、接单、AI 服务的，可以直接抄作业。 我筛了 8 个真正能落地变现的 Skill 每一个都能包装成标准化付费服务 1️⃣ xhs-ops｜小红书代运营 账号定位、爆款选题、文案仿写、数据复盘。 可以交付账号诊断、内容规划、起号方案。 2️⃣
 
 ## 使用/获取
 
@@ -19,7 +19,7 @@
 
 ## 所有来源
 
-- X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2072864151161249957) · 2026-07-03 · 29 赞 / 3 转 / 2819 浏览
+- X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2077766635679862955) · 2026-07-16 · 92 赞 / 28 转 / 8018 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

@@ -15,14 +15,9 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HJunq1RaAAAbIsb.jpg)
-![](https://pbs.twimg.com/media/HJuoBfNbIAAoQGz.jpg)
-
 ## 所有来源
 
-- X · [逸尘 @gengdaJ](https://x.com/gengdaJ/status/2061427044571861476) · 2026-06-01 · 1291 赞 / 258 转 / 315657 浏览
+- X · [逸尘 @gengdaJ](https://x.com/gengdaJ/status/2061427044571861476) · 2026-06-01 · 1291 赞 / 258 转 / 315658 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

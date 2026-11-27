@@ -1,0 +1,123 @@
+# 案例与实测 · 效率（119）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [deepseek-harness重磅开源，采用了一切皆插件的架构，也就…](https://x.com/aigclink/status/2087897992665919997) — deepseek-harness重磅开源，采用了一切皆插件的架构，也就是中国版的openclaw，体验了下可以称之为私有化的workbud… · [详情](../items/deepseek-harness.md) 𝕏
+- [卧槽，workbuddy才是最大赢家。](https://x.com/yanhua1010/status/2073038144577159516) — 卧槽，workbuddy才是最大赢家。 各种领域的专家、专家团，还有Skills，应有具有。 如果claude封号玩不了，值得好好体验一下… · [详情](../items/workbuddy-30.md) 𝕏
+- [我用Workbuddy做了个3D小游戏，附详细流程。](https://x.com/liyue_ai/status/2118645087705956455) — Workbuddy也能做3D小游戏？ 没错，国产大模型经过快速迭代，现在离闭源模型的能力差距其实不是很大了。 之前用Codex做过几款小游… · [详情](../items/workbuddy-3d.md) 𝕏
+- [实测！原来 workbuddy上deepseek v4.1 flash…](https://x.com/leo114119/status/2110923290449731833) — 实测！原来 workbuddy上deepseek v4.1 flash给的额度比opencode go 和 commandcode goa… · [详情](../items/workbuddy-deepseek-v4-1-flash.md) 𝕏
+- [腾讯服务器上线第二天就爆了，5个月拿了全国第一——我今天才装上，实测告诉你有手就能干](https://x.com/Shenmeili1213/status/2073343895170367904) — 7月2日 一条消息弹出来：腾讯WorkBuddy以日活跃账户数，成为中国PC端AI办公智能体市场第一。 不是融资第一，不是估值第一，是用户… · [详情](../items/5.md) 𝕏
+- [I gave Hy4 Preview 20 scattered pie…](https://x.com/astridtgtz/status/2096584881073484058) — I gave Hy4 Preview 20 scattered pieces of customer feedback. A few mi… · [详情](../items/i-gave-hy4-preview-20-scattered-pie.md) 𝕏
+- [腾讯的 WorkBuddy 简直神了！体验一圈下来，没想到远远超出我的…](https://x.com/rionaifantasy/status/2066519047945203917) — 腾讯的 WorkBuddy 简直神了！体验一圈下来，没想到远远超出我的预期。 总结一下我的几个感受： 1. 它不是普通聊天机器人，而是一个… · [详情](../items/workbuddy-64.md) 𝕏
+- [我做了二十年的梦，用workbuddy + Ling-3.0-flash 帮我圆了](https://x.com/leonZR1394/status/2081638533517988185) — 我做了二十年的梦，用workbuddy + Ling-3.0-flash 帮我圆了 · [详情](../items/workbuddy-ling-3-0-flash.md) 𝕏
+- [猫打老鼠也能测大模型？我用workbuddy搭 Ling-3.0-flash模型 做了款开源2D塔防小游戏](https://x.com/ModengSir/status/2081284246144995525) — 《喵喵防线（猫咖保卫战）》开发纪实：一次高效的AI辅助塔防游戏实践 利用周末时间，我通过 WorkBuddy 调用 Ling-3.0-fl… · [详情](../items/workbuddy-ling-3-0-flash-2d.md) 𝕏
+- [Hy4 preview just dropped, so I test…](https://x.com/GesoraMeshack/status/2095485514488943055) — Hy4 preview just dropped, so I tested it on WorkBuddy against three o… · [详情](../items/hy4-preview-just-dropped-so-i-test.md) 𝕏
+- [突发：DeepSeek V4.1 Pro 疑似出现在 WorkBudd…](https://x.com/leo114119/status/2117578154609152212) — 突发：DeepSeek V4.1 Pro 疑似出现在 WorkBuddy 模型列表 有群友爆出说tx的workbuddy，获取到deeps… · [详情](../items/deepseek-v4-1-pro-workbudd.md) 𝕏
+- [腾讯 workbuddy 正式上线 混元Hy4-preview。](https://x.com/aehyok/status/2093242652959596818) — 腾讯 workbuddy 正式上线 混元Hy4-preview。 实测：“鹈鹕骑自行车”，比Hy3 强太多了。 目前活动如下 1、 Hy3… · [详情](../items/workbuddy-hy4-preview.md) 𝕏
+- [我新的 AI Teammate：WorkBuddy 海外版体验 ](https://x.com/0xDiyaaa/status/2090715007323611572) — 我新的 AI Teammate：WorkBuddy 海外版体验 · [详情](../items/ai-teammate-workbuddy.md) 𝕏
+- [我用 WorkBuddy 跑了 3 个活儿，发现它不是助手，是数字员工](https://x.com/joshesye/status/2080572845227155965) — 我用 WorkBuddy 跑了 3 个活儿，发现它不是助手，是数字员工 · [详情](../items/workbuddy-3-3.md) 𝕏
+- [Hy4 正式版发布](https://x.com/leo114119/status/2117853753097208063) — Hy4 正式版发布 权重说是稍后开源，目前已上线 WorkBuddy/CodeBuddy 基准评分结果如下： 实测效果不如基准评分。。。 · [详情](../items/hy4-2.md) 𝕏
+- [Workbuddy 实测腾讯 Hy4 flash：给马斯克做一个最牛逼的网站！竟然没花钱？](https://x.com/vista8/status/2122258229803827578) — 今天，腾讯 Hy4 flash 正式发布，我试着用这个模型给马斯克做了一个网站。 马斯克虽然有很多缺点，但最近看到的两件事，让我对他非常敬… · [详情](../items/workbuddy-hy4-flash.md) 𝕏
+- [腾讯的“龙虾”之一WorkBuddy亲身体验，感觉还可以](https://x.com/shitunote/status/2037710959364702576) — WorkBuddy是腾讯推出的最早的类OpenClaw的产品之一。 最近下载试用了一下，尽管也有些不尽如人意的地方，总体感觉还可以。 作为… · [详情](../items/workbuddy-108.md) 𝕏
+- [腾讯坐不住了，Hy3 直接开源，WorkBuddy 限时免费，我实测了3个模型](https://x.com/yanhua1010/status/2074736680855326768) — 我一开始没太把 Hy3 当回事。 不是因为腾讯混元不行，而是因为参数摆在那：Hy3 是 295B MoE，21B 激活。放到今天这个环境里… · [详情](../items/hy3-workbuddy-3.md) 𝕏
+- [HY4 Flash 限免两周，OpenCode、WorkBuddy 同…](https://x.com/yedabinbinah/status/2122252952765358098) — HY4 Flash 限免两周，OpenCode、WorkBuddy 同步开放！ 使用 Magpie 代理出来，然后开循环模式 模型实测速度… · [详情](../items/hy4-flash-opencode-workbuddy.md) 𝕏
+- [Tencent dropped Hy4-preview and it’…](https://x.com/devops_nk/status/2095510784780763504) — Tencent dropped Hy4-preview and it’s FREE on WorkBuddy for 2 weeks. T… · [详情](../items/tencent-dropped-hy4-preview-and-it.md) 𝕏
+- [社区反馈，WorkBuddy 国际版桌面端在最近的更新里把海外模型全部…](https://Linux.do) — 社区反馈，WorkBuddy 国际版桌面端在最近的更新里把海外模型全部锁进了付费墙 实测模型选择器里，OpenAI 的 GPT-6-Ast… · [详情](../items/workbuddy-130.md) 𝕏
+- [这个海外版workbuddy应该就是量化无疑了，而且这量化出来感觉有点…](https://x.com/Aurora0x3f/status/2112397900324151650) — 这个海外版workbuddy应该就是量化无疑了，而且这量化出来感觉有点时神时鬼的 而且量化版本实测无论反代还是不反代，速度还是那个速度，但… · [详情](../items/workbuddy-141.md) 𝕏
+- [神了！居然有Workbuddy蓝皮书了](https://x.com/MaxForAI/status/2077001134288593070) — 神了！居然有Workbuddy蓝皮书了 才看到我朋友们聪哥、甲木、仓何、袋鼠帝、摸鱼小李做了个Workbuddy蓝皮书 通过这本蓝皮书，你… · [详情](../items/workbuddy-144.md) 𝕏
+- [AI 行业新闻简报 · 2026年11月5日（11月4日消息）](https://x.com/ReZigong/status/2118116245061136421) — AI 行业新闻简报 · 2026年11月5日（11月4日消息） 大模型与产品 - 腾讯混元 Hy4 正式发布，首次支持视觉理解与电脑操作。… · [详情](../items/ai-2026-11-5-11-4.md) 𝕏
+- [Tencent Hunyuan has released three …](https://x.com/ethan_walker_ai/status/2093299481412567054) — Tencent Hunyuan has released three major models in only six months. T… · [详情](../items/tencent-hunyuan-has-released-three.md) 𝕏
+- [腾讯 Hy4 Flash Vs Deepseek v4.1 Flash 1017全面对比—— 谁才是中国 Flash模型的新王？](https://x.com/leo114119/status/2122567544381006019) — 11 月 16 日，腾迅发布了全新的 混元系列新模型 ：Hy4 Flash，官方给的头衔是"迄今性价比最高的混元模型"，摆明了冲着快和便宜… · [详情](../items/hy4-flash-vs-deepseek-v4-1-flash-1017-flash.md) 𝕏
+- [How fast is Tencent Hunyuan moving?…](https://x.com/Navid_Tasnim0/status/2093317265517121774) — How fast is Tencent Hunyuan moving? Hy4 preview marks its third major… · [详情](../items/how-fast-is-tencent-hunyuan-moving.md) 𝕏
+- [10 月 20、21 日，我在天津职业大学给职业本科老师做了两天智能体…](https://x.com/zjp1997720/status/2114332083447632027) — 10 月 20、21 日，我在天津职业大学给职业本科老师做了两天智能体工作坊。第一天的内容整理成了这篇长文：两门专科旧课，怎么带着 Wor… · [详情](../items/10-20-21.md) 𝕏
+- [Three major releases in six months …](https://x.com/python_spaces/status/2094009072320405877) — Three major releases in six months — Tencent Hunyuan is moving fast, … · [详情](../items/three-major-releases-in-six-months.md) 𝕏
+- [Space Bunny（中文社区叫"太空兔"、“玉兔”）模型上线wor…](https://x.com/shitunote/status/2106238474097746001) — Space Bunny（中文社区叫"太空兔"、“玉兔”）模型上线workbuddy了，10.2-10.7号限时折扣体验。这是一款国内的模型… · [详情](../items/space-bunny-wor.md) 𝕏
+- [豆包、WorkBuddy、DeepSeek 测评：年轻包工头月底对账，谁能干活？](https://x.com/Kainative/status/2122886966496915870) — 豆包、WorkBuddy、DeepSeek 测评：年轻包工头月底对账，谁能干活？ · [详情](../items/workbuddy-deepseek-2.md) 𝕏
+- [混元4预览版（Hy4 preview）正式发布，值得关注的点：](https://x.com/shitunote/status/2093248424091209900) — 混元4预览版（Hy4 preview）正式发布，值得关注的点： 1.又有免费token可用了 🤪 WorkBuddy 国内版、国际版同步首… · [详情](../items/4-hy4-preview.md) 𝕏
+- [腾讯的混元预览版（Hy4 Preview）发布，值得注意的一点是官方所…](https://x.com/shitunote/status/2093536521135792589) — 腾讯的混元预览版（Hy4 Preview）发布，值得注意的一点是官方所提的： 持续与 CodeBuddy / WorkBuddy 等产品深… · [详情](../items/hy4-preview-2.md) 𝕏
+- [Google Research 把 Harness² 做成了开源项目，…](https://x.com/haoge6699/status/2119908135984894413) — Google Research 把 Harness² 做成了开源项目，核心思路是让 Agent 自行修改外部那层配置，实测在 WorkBu… · [详情](../items/google-research-harness-2.md) 𝕏
+- [腾讯云WorkBuddy企业智能化实践大会，完整现场复盘与记录👇](https://x.com/A8gongzi/status/2091514914271863215) — 腾讯云WorkBuddy企业智能化实践大会，完整现场复盘与记录👇 过去几个月对接上百家企业后发现，老板们都卡在同样的地方：不知道第一步该做… · [详情](../items/workbuddy-189.md) 𝕏
+- [🚨 鹈鹕都骑不利索！Hy4 Flash交卷速度第一，质量倒数，又快又拉…](https://x.com/xiax0603/status/2122268710501232908) — 🚨 鹈鹕都骑不利索！Hy4 Flash交卷速度第一，质量倒数，又快又拉实锤 WorkBuddy实测经典鹈鹕骑车场景，Hy4 Flash的速… · [详情](../items/hy4-flash-2.md) 𝕏
+- [WorkBuddy 生活服务实测：能力接通了，体验还没打通](https://x.com/ai_super_niko/status/2080239722107220001) — WorkBuddy 生活服务实测：能力接通了，体验还没打通 · [详情](../items/workbuddy-193.md) 𝕏
+- [我给腾讯WorkBuddy做了个换肤工具，14套主题任你切！](https://x.com/zhouluobo/status/2080845538413658532) — 大家好，我是萝卜哥～ 前段时间刷 GitHub，翻到一个宝藏项目，Fei-Away 大佬做的 Codex-Dream-Skin，给 Ope… · [详情](../items/workbuddy-14-3.md) 𝕏
+- [我让 Workbuddy 做了条丹霞山短片，最难伺候的居然是字幕](https://x.com/StratusResultsX/status/2123298823535813000) — 在 X 上看到 Levi 卧云发的《潮汐之间》，浮世绘风格，纸纹、色块、山水，配上音乐，看着挺舒服。 Levi 卧云@Leviwoyun·… · [详情](../items/workbuddy-205.md) 𝕏
+- [我让AI连按55次计算器算清15笔账，全程0截图且没抢一下鼠标](https://x.com/xjtumj/status/2118666374033928683) — 我是孟健。 以前让 AI 操作电脑桌面，基本全靠截图给视觉模型看、猜坐标再拿鼠标点过去。这套老路子不仅费 token，最折磨人的是它干活时… · [详情](../items/ai-55-15-0.md) 𝕏
+- [学校布置的有些ai作业纯粹是在浪费学生时间，美其名曰跟上时代实则完完全…](https://x.com/ileako/status/2123347625986679254) — 学校布置的有些ai作业纯粹是在浪费学生时间，美其名曰跟上时代实则完完全全的病急乱投医，你一个基础金融课不讲金融讲workbuddy干嘛，整… · [详情](../items/ai-69.md) 𝕏
+- [Hy4正式发布一手实测，腾讯这波起飞了。](https://x.com/itwanger/status/2119713795111367034) — 大家好，我是二哥呀。 混元 Hy4 正式版发布了，我第一时间就在 WorkBuddy 里蹬了起来。 你别说，这个模型的能力真的强。 先录个… · [详情](../items/hy4-5.md) 𝕏
+- [Hy4 Preview is out and open source.](https://x.com/aibuilderclub_/status/2093241057517723980) — Hy4 Preview is out and open source. If Hy3 was Yao Shunyu's first ass… · [详情](../items/hy4-preview-is-out-and-open-source.md) 𝕏
+- [今早看了眼 Trae 跟 WorkBuddy 同步接入 GLM-5.4…](https://x.com/mxllkm/status/2125102361819463785) — 今早看了眼 Trae 跟 WorkBuddy 同步接入 GLM-5.4 后的实测反馈 最实在的改动就是 28 层底座循环两遍之后，原本爱偷… · [详情](../items/trae-workbuddy-glm-5-4.md) 𝕏
+- [帮我点点star吧，孩子想赚点workbuddy积分](https://x.com/TravellerShawn/status/2114293820968087945) — 帮我点点star吧，孩子想赚点workbuddy积分 McDonald's 的接口都能被 AI 调用点餐了。给程序员节大赛做了个「麦当劳活… · [详情](../items/star-workbuddy.md) 𝕏
+- [GPT 额度不够用了，考虑接入 DeepSeek 来分流，处理些简单的…](https://x.com/NickYoung88909/status/2122573827750371784) — GPT 额度不够用了，考虑接入 DeepSeek 来分流，处理些简单的工作。 我们团队实测了 Workbuddy，Trae，Opencod… · [详情](../items/gpt-deepseek.md) 𝕏
+- [参考我上次让人打开 workbuddy，他把workbuddy安装包又…](https://x.com/ai_xiaomu/status/2123339789403586667) — 参考我上次让人打开 workbuddy，他把workbuddy安装包又安装了一次的案例， 收多少钱都不为过，真的，那是精神损失费。 · [详情](../items/workbuddy-workbuddy-8.md) 𝕏
+- [Tencent has previewed the Hy4, a ne…](https://x.com/wicinternet/status/2095040476172923179) — Tencent has previewed the Hy4, a new open-source AI model for softwar… · [详情](../items/tencent-has-previewed-the-hy4-a-ne.md) 𝕏
+- [有网友实测：](https://x.com/nextterror/status/2119041208278536208) — 有网友实测： WorkBuddy目前DeepSeekv4.1flash调用的积分系数上涨，相同的使用量会消耗以往近两倍的系数。 个人实测确… · [详情](../items/x-78536208.md) 𝕏
+- [我给上市公司做了一天的WorkBuddy培训的心得](https://x.com/codeo4/status/2073232634600436025) — 我给上市公司做了一天的WorkBuddy培训的心得 · [详情](../items/workbuddy-286.md) 𝕏
+- [AI 整理下载文件夹本机实测：网传脚本两天覆盖丢了 8 个文件，附不丢文件的 4 步做法](https://x.com/zdt0403/status/2116418674387046515) — AI 整理下载文件夹本机实测：网传脚本两天覆盖丢了 8 个文件，附不丢文件的 4 步做法 这两天让 AI 自动整理文件的内容又热起来了。Y… · [详情](../items/ai-8-4.md) 𝕏
+- [Tencent just gave away a 770B model…](https://x.com/notprajyoth/status/2094106660507959413) — Tencent just gave away a 770B model 💀 Hy4 preview: 770B parameters, 4… · [详情](../items/tencent-just-gave-away-a-770b-model.md) 𝕏
+- [下午有兄弟问海外版 workbuddy 是否也有单独手机版](https://x.com/mspd4100/status/2112903512564858926) — 下午有兄弟问海外版 workbuddy 是否也有单独手机版 刚才验证来下，反正 apple store 美区没有找到 而且国内版实测网络限… · [详情](../items/workbuddy-301.md) 𝕏
+- [DeepSeek-V4.1-Flash-1017 实测！！效果炸裂！](https://x.com/aigcgu/status/2111649277202350458) — DeepSeek-V4.1-Flash-1017 实测！！效果炸裂！ 一个网站复核任务（我的workbuddy教学网站对齐真实应用） 耗时… · [详情](../items/deepseek-v4-1-flash-1017-3.md) 𝕏
+- [刚在 MacBook Pro M4 Pro 48GB 上，本地跑通了 …](https://x.com/realjonshon/status/2100971704118104452) — 刚在 MacBook Pro M4 Pro 48GB 上，本地跑通了 Qwen3.8 27B ... 用 PrismML Bonsai 2… · [详情](../items/macbook-pro-m4-pro-48gb.md) 𝕏
+- [用别的 Agent 测试了一下，即使是 Workbuddy 这种相对比…](https://x.com/GuyiCyan/status/2110305035452305842) — 用别的 Agent 测试了一下，即使是 Workbuddy 这种相对比较拉的，也能出到不错的画面。但同时也存在一些问题： 1. 输出真的非… · [详情](../items/agent-workbuddy-4.md) 𝕏
+- [腾讯最近出品的 buddy 有点多，workbuddy、codebud…](https://x.com/Liange1qc/status/2116709058090840453) — 腾讯最近出品的 buddy 有点多，workbuddy、codebuddy、databuddy。 新的MusicBuddy上线，实测惊艳，… · [详情](../items/buddy-workbuddy-codebud.md) 𝕏
+- [WorkBuddy 国际版的免费模型快到头了。](https://x.com/ShawWhile/status/2105881055731622327) — WorkBuddy 国际版的免费模型快到头了。 客户端已接入 DeepSeek V4.1 Flash，第三方实测显示积分倍率为 0.00，… · [详情](../items/workbuddy-333.md) 𝕏
+- [国内的话，腾讯旗下的workbuddy比较火，](https://x.com/GaoYuShow/status/2116199578118795583) — 国内的话，腾讯旗下的workbuddy比较火， 安装了之后，还没有让它干最有价值的事情， 后续有好的体验会及时分享出来 #人工智能 #AI… · [详情](../items/workbuddy-341.md) 𝕏
+- [🤖【量子位】腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBu…](https://x.com/ppmmzzcn/status/2119778138850754616) — 🤖【量子位】腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满 770B总参数、49B激活参数， · [详情](../items/hy4-workbu.md) 𝕏
+- [实测 Trae Work 工程能力确实比 WorkBuddy 好很多。…](https://x.com/MindfulReturn/status/2088807266904580229) — 实测 Trae Work 工程能力确实比 WorkBuddy 好很多。WorkBuddy 虽然功能多一点场景多一点，但是总有这样那样的小问… · [详情](../items/trae-work-workbuddy.md) 𝕏
+- [Flagship power without the flagship…](https://x.com/marryevan999/status/2113254813173678325) — Flagship power without the flagship bill. Hy4 preview combines top ti… · [详情](../items/flagship-power-without-the-flagship.md) 𝕏
+- [腾讯 Hy4 我接进 OpenPencil 实测了一下，没腾讯吹的那么…](https://x.com/kayshen_xu/status/2117881191286411657) — 腾讯 Hy4 我接进 OpenPencil 实测了一下，没腾讯吹的那么猛，还是在梁圣斩杀线以下 #hy4 #workbuddy #open… · [详情](../items/hy4-openpencil.md) 𝕏
+- [🔥 还在用积分烧旗舰的，先停一下](https://x.com/halozhangyu/status/2110272955565445136) — 🔥 还在用积分烧旗舰的，先停一下 WorkBuddy 国际端 DeepSeek-V4.1-Flash 免费窗还在（热帖实测到 10/31）… · [详情](../items/x-65445136.md) 𝕏
+- [使用不同 AI 工具做图的结果对比。没有 Skills 技能，就大白话。](https://note.mowen.cn/detail/uROT6vvXXbCpXfvmV0_JL) — 使用不同 AI 工具做图的结果对比。没有 Skills 技能，就大白话。 #Grok #Gemini #WorkBuddy #Doubao… · [详情](../items/ai-skills-2.md) 𝕏
+- [下午刚用workbuddy的Hy4 preview做了个外贸报价文件](https://x.com/Leoin2019/status/2102696124616429773) — 下午刚用workbuddy的Hy4 preview做了个外贸报价文件 主要是因为现在免费 大概用十分钟告诉了他该注意什么以及可以去哪里找到… · [详情](../items/workbuddy-hy4-preview-2.md) 𝕏
+- [2026年10月28日下午，我在共青团北京市海淀区委员会、北京邮电大学…](https://x.com/staraiwork/status/2115705716736667880) — 2026年10月28日下午，我在共青团北京市海淀区委员会、北京邮电大学叶培大创新创业学院主办的活动上，为北邮的本科生和研究生做了场 Wor… · [详情](../items/2026-10-28.md) 𝕏
+- [刚才体验了一下workbuddy](https://x.com/liyunlo28807538/status/2109446386907504785) — 刚才体验了一下workbuddy 个人感觉还是中规中矩吧，有改进，但是很惊艳的感觉没有。 和coze比较像，之前用过coze，甚至我觉得感… · [详情](../items/workbuddy-414.md) 𝕏
+- [我准备放弃折腾Claude了，实测WorkBuddy+GLM5.3也可…](https://x.com/usalawrence504/status/2109191149693124749) — 我准备放弃折腾Claude了，实测WorkBuddy+GLM5.3也可以达到一个比较好的办案效果，至少比GPT6快一倍以上，也比它回答问题… · [详情](../items/claude-workbuddy-glm5-3.md) 𝕏
+- [在 Hermes 实测 WorkBuddy 的 gemini-4-ca…](https://x.com/GetAskClaw/status/2122539155687448973) — 在 Hermes 实测 WorkBuddy 的 gemini-4-carbon / gemini-4-argon 的 x2.04 花的有多快 · [详情](../items/hermes-workbuddy-gemini-4-ca.md) 𝕏
+- [这波实测把「同一模型同一任务」的真实成本拆得很清楚：豆包工作积分单价更…](https://x.com/siliconboy2026/status/2123762802871660845) — 这波实测把「同一模型同一任务」的真实成本拆得很清楚：豆包工作积分单价更低，轻活甚至直接0元；WorkBuddy 速度更快、交付细节更完整。 · [详情](../items/x-71660845.md) 𝕏
+- [CFA knowledge base](https://mp.weixin.qq.com/s/B-S2cXBtSFk15QwyOeK7iQ) — 大型专业教材的检索实践 · [详情](../items/cfa-knowledge-base.md) ⌥
+- [Ten classroom applications](https://mp.weixin.qq.com/s/7z_-x3Yk6fHkSMDd3NgqEQ) — 教学场景合集 · [详情](../items/ten-classroom-applications.md) ⌥
+- [Personalized student diagnostics](https://mp.weixin.qq.com/s/mgLjBbcD-avXRiM9sxJn4w) — 批量生成个性化报告 · [详情](../items/personalized-student-diagnostics.md) ⌥
+- [他探索 WorkBuddy 的100种用法，不仅为效率，更为了爱身边人](https://mp.weixin.qq.com/s/7r98YkmFGoWsDuRUY-2tiA) — 他探索 WorkBuddy 的100种用法，不仅为效率，更为了爱身边人 · [详情](../items/workbuddy-100.md) ⌥
+- [【示例】用 WorkBuddy 自动整理每日 AI 资讯](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/cases/submissions/daily-ai-news) — 安装 AIHot Skill，查询近期 AI 动态，并把分散的信息整理成带来源链接的每日热点报告。 · [详情](../items/workbuddy-ai-4.md) ⌥
+- [Gemini 4 一口气出了氢、氩、氖、碳四个模型，到底怎么选？实测后，我决定这样和 Claude、ChatGPT 混着用](https://x.com/laughinggs/status/2123274264358850945) — 今天（11 月 19 日）Google 刚放出了 Gemini 4 Neon，短短五周时间里，Gemini 4 家族已经凑齐了氢（Hydr… · [详情](../items/gemini-4-claude-chatgpt.md) 𝕏
+- [非技术背景怎么学AI做产品？先用产品，再跑项目，最后补原理 ](https://x.com/YaoMinTang1995/status/2087132413193576915) — 最近有很多朋友私信问我：文科背景，到底怎么学 AI，才能做 AI 产品？ 网上的资料众说纷纭——有的让你先学 Python，有的让你先啃 … · [详情](../items/ai-150.md) 𝕏
+- [价格砍到十二分之一、单次任务只要两毛钱：腾讯Hy4 flash实测](https://x.com/bray8den/status/2122521871682028026) — 腾讯混元刚发了 Hy4 flash，距正式版 Hy4 上线仅隔 12 天。 核心实测与跑分（多为腾讯内部自测）： ⚡ 成本与速度单 tok… · [详情](../items/hy4-flash-4.md) 𝕏
+- [WorkBuddy × 混元 Hy4 体验官](https://x.com/X_Beast_ETH/status/2121101389778866207) — WorkBuddy × 混元 Hy4 体验官 · [详情](../items/workbuddy-hy4-8.md) 𝕏
+- [LLM Wiki 落地方案对比,这五种方案你该选哪种 ](https://x.com/yosn883271/status/2084626052895342994) — 同一份 karpathy 的“想法文件”，五种落地方式：手搓、云服务、企业框架、AI 原生编辑器、开箱成品。它们共享同一个底层理念，干编译… · [详情](../items/llm-wiki.md) 𝕏
+- [装完 WorkBuddy 不会验收？先跑通这 30 分钟闭环](https://x.com/Kornvia/status/2116496015079673983) — WorkBuddy是什么 WorkBuddy 是腾讯的桌面端 AI Agent：在本机工作空间里规划、调工具、生成文件，并把产物留给你验收… · [详情](../items/workbuddy-30-2.md) 𝕏
+- [WorkBuddy 装技能前先做这一步！我实测 1 句话揪出风险，AI 疑似度从 36 降到 1](https://x.com/Zizaiaiai/status/2116901255528530399) — “在当今快速发展的时代，AI工具不仅能够提升效率，而且能够赋能每一位创作者。值得一提的是，它操作简单、功能强大、价格亲民。总的来说，这是一… · [详情](../items/workbuddy-1-ai-36-1.md) 𝕏
+- [混元 Hy4 今天上线就限时免费！我在 WorkBuddy 实测 4 道题全做对，第 4 题它悄悄在文件夹里留了个东西](https://x.com/Zizaiaiai/status/2117997847685775850) — 上面这段是腾讯混元今天放出的 Hy4 官方宣传片，英文版，70 秒，我先放这儿给大家感受一下。 今天中午，腾讯混元正式发布了新一代大模型 … · [详情](../items/hy4-workbuddy-4-4.md) 𝕏
+- [Qoder CN 的DeepSeek v4.1 Flash 免费额度](https://x.com/Cao_huaye/status/2112717504787480745) — 实测出来了 Qoder CN 的DeepSeek v4.1 Flash 免费额度 每日是6.5亿Token 比WorkBuddy 之前的H… · [详情](../items/qoder-cn-deepseek-v4-1-flash.md) 𝕏
+- [最近在折腾 DeepSeek V4.1 Flash，发现了 3 个值得…](https://x.com/affon7829/status/2114586435642864078) — 最近在折腾 DeepSeek V4.1 Flash，发现了 3 个值得体验的渠道： 🔥 Qoder：免费渠道 + Magpie 接入 ⚡ … · [详情](../items/deepseek-v4-1-flash-3.md) 𝕏
+- [用WorkBuddy+ Hy 4 让它用 Three.js 从零搓一辆…](https://x.com/dragono64v/status/2118385661736894516) — 用WorkBuddy+ Hy 4 让它用 Three.js 从零搓一辆 F1 赛车 一句话直出效果 实测效果还可以，大家可自行对比 · [详情](../items/workbuddy-hy-4-three-js.md) 𝕏
+- [DeepSeek Harness 接上 WorkBuddy 后，模型名…](https://x.com/joinlearn_com/status/2109857555514114554) — DeepSeek Harness 接上 WorkBuddy 后，模型名后面标 x0.00 积分倍率的，按原帖实测可以不扣积分。 原帖步骤极… · [详情](../items/deepseek-harness-workbuddy-4.md) 𝕏
+- [WorkBuddy 上新模型了：Step-5-Preview](https://x.com/KeoKeoZ/status/2109529693619892277) — WorkBuddy 上新模型了：Step-5-Preview 刚想上手试试，排队 2827 人😂 提示说资源紧张，升级会员才能走快速通道。… · [详情](../items/workbuddy-step-5-preview-2.md) 𝕏
+- [想深度体验下WorkBuddy，然后发现积分不够了，没钱再capex …](https://www.workbuddy.cn/events/invite?inviteCode=9soldn0kfgiin) — 想深度体验下WorkBuddy，然后发现积分不够了，没钱再capex AI了，我的ROI不够 谁行行好走个邀请吧，我自己实测还是挺好用的 · [详情](../items/workbuddy-capex.md) 𝕏
+- [实测，在 workbuddy 里面使用 ds flash 1017 还…](https://x.com/pancraslu89217/status/2111632029431587079) — 实测，在 workbuddy 里面使用 ds flash 1017 还是有点卡的 建议使用 magpie 路由到 DSH · [详情](../items/workbuddy-ds-flash-1017.md) 𝕏
+- [On Aug 28, Tencent WorkBuddy first …](https://x.com/Awesome_AI_News/status/2093251013860028839) — On Aug 28, Tencent WorkBuddy first integrated Hunyuan open-source fla… · [详情](../items/on-aug-28-tencent-workbuddy-first.md) 𝕏
+- [Tencent released Hy4 Preview, a new…](https://x.com/NewHorizonCloud/status/2093290631099551750) — Tencent released Hy4 Preview, a new open-source AI model designed for… · [详情](../items/tencent-released-hy4-preview-a-new.md) 𝕏
+- [5/ Gravity Shift](https://x.com/eyishazyer/status/2094489444103639055) — 5/ Gravity Shift This guy just dropped a rough game idea into WorkBud… · [详情](../items/5-gravity-shift.md) 𝕏
+- [Kiro + Magpie 的Claude 邪修玩法实测：](https://x.com/harlanJail/status/2113756091612066158) — Kiro + Magpie 的Claude 邪修玩法实测： 将 Krio 的 Opus5.5 通过 Magpie 转接到 Dsh 后，缓存… · [详情](../items/kiro-magpie-claude.md) 𝕏
+- [国产旗舰模型又添猛将。阶跃新出的 Step 5 Preview 确实有…](https://x.com/langbenai/status/2109585998891921821) — 国产旗舰模型又添猛将。阶跃新出的 Step 5 Preview 确实有点东西，腾讯 WorkBuddy 今天刚接入，还给到了两周独家限时免… · [详情](../items/step-5-preview.md) 𝕏
+- [本期带来的是 WorkBuddy 每 1000 积分能跑多少 toke…](https://x.com/nextterror/status/2120155746830831652) — 本期带来的是 WorkBuddy 每 1000 积分能跑多少 token。口径是缓存命中 95%、未命中输入 4%、输出 1%。先说清楚：… · [详情](../items/workbuddy-1000-toke.md) 𝕏
+- [实测豆包工作与腾讯 WorkBuddy 使用 DeepSeek V4.…](https://x.com/Stanllll6o/status/2124302052998443445) — 实测豆包工作与腾讯 WorkBuddy 使用 DeepSeek V4.1 Flash 的对比。豆包工作免费，支持旋转缩放，耗时9分26秒，… · [详情](../items/workbuddy-deepseek-v4-4.md) 𝕏
+- [Workbuddy 产品力还行，易用性很强，容易上手，而且国内产品的c…](https://x.com/leodotcai/status/2060244259031457995) — Workbuddy 产品力还行，易用性很强，容易上手，而且国内产品的connectors 丰富，skill 市场也比较完善，其实对大多数人… · [详情](../items/workbuddy-c-4.md) 𝕏
+- [💖 两周免费体验！阶跃 Step 5 Preview 在 WorkBu…](https://deepseek.club/topic/5337) — 【💖 两周免费体验！阶跃 Step 5 Preview 在 WorkBuddy 完成 6 项硬核任务，人形机器人膝关节模组测试难度拉满】 … · [详情](../items/step-5-preview-workbu.md) 𝕏
+- [豆包工作和 WorkBuddy 模型实测对比：同一任务不同平台账单相差…](https://x.com/Stanllll6o/status/2123919917703737764) — 豆包工作和 WorkBuddy 模型实测对比：同一任务不同平台账单相差 1.7 倍。豆包工作每额度约 0.0076 元，WorkBuddy… · [详情](../items/workbuddy-553.md) 𝕏
+- [YC 总裁 Garry Tan 开源了一个评测：同一个模型换个"外壳"…](https://x.com/wwwyq9900488911/status/2121942318337212920) — YC 总裁 Garry Tan 开源了一个评测：同一个模型换个"外壳"，活干得差不多，花的钱能差一倍。我正好拿同一件活跑过 WorkBud… · [详情](../items/yc-garry-tan.md) 𝕏
+- [「腾讯又放大招！开源版 WorkBuddy 来了，实测 Octop 到…](https://x.com/s_hxxtn/status/2113320809783816532) — 「腾讯又放大招！开源版 WorkBuddy 来了，实测 Octop 到底有多强？」，差点把水喷屏幕上。 同事问我怎么了，我把手机递过去，他… · [详情](../items/workbuddy-octop.md) 𝕏
+- [我在做企业服务的时候，我发现传统企业里貌似对Workbuddy里内置的…](https://x.com/yuyingliujj/status/2110501052139360319) — 我在做企业服务的时候，我发现传统企业里貌似对Workbuddy里内置的“技能”和“专家”很感兴趣。 1.从传统企业的管理者体验上，现成的工… · [详情](../items/workbuddy-568.md) 𝕏
+- [这两天用免费版的workbuddy测试了腾讯的hy4-preview模…](https://x.com/allninetywines/status/2099811012048257503) — 这两天用免费版的workbuddy测试了腾讯的hy4-preview模型，模型整体感觉还是不错的。就是这个免费版吧，试用感受比较复杂。。。… · [详情](../items/workbuddy-hy4-preview-5.md) 𝕏
+- [深度体验一天 6.2sol 被气得不行，以前只是不说人话，现在除了不说…](https://x.com/zonedavid23/status/2123624778976448713) — 深度体验一天 6.2sol 被气得不行，以前只是不说人话，现在除了不说人话，还特么做一个步骤停一个步骤，生怕干错事一样。Gemini 是真… · [详情](../items/6-2sol.md) 𝕏
+- [Workbody的产品体验是真的好，就说一个很简单的点，之前哪家都是英…](https://x.com/eliasmoreira2/status/2114382533169402141) — Workbody的产品体验是真的好，就说一个很简单的点，之前哪家都是英文状态下输入斜杠/，才可以调出技能列表。 但十月份，workbudd… · [详情](../items/workbody.md) 𝕏
+- [腾讯Hy4终于来了！](https://x.com/moli2388/status/2118162780562006245) — 腾讯Hy4终于来了！ 实测下来进步神速啊！而且这次终于引入了多模态能力。 在11月4日到11月15日期间，Hy4在WorkBuddy里限时… · [详情](../items/hy4-14.md) 𝕏
+- [开个号，专门实测 AI 工具。](https://x.com/wuhiufan626/status/2119372738234372179) — 开个号，专门实测 AI 工具。 我的规矩：不吹不黑，每个工具都讲清楚三件事：能干什么、适合谁、有什么坑。 第一周我先测这 4 个： 1. … · [详情](../items/ai-222.md) 𝕏
+- [Hy4flash登顶OpenRouter榜首，实测又快又好用](https://x.com/aicookie_tech/status/2123244705450258734) — Hy4flash登顶OpenRouter榜首，实测又快又好用 随着WorkBuddy用户量的飞速增长，日活突破千万级（刚官宣的），如何给如… · [详情](../items/hy4flash-openrouter.md) 𝕏
+- [🚨重磅消息：HY4正式版发布，模型能力可圈可点](https://x.com/AI4qzcp/status/2117856855959724244) — 🚨重磅消息：HY4正式版发布，模型能力可圈可点 居然在很多官方指标上超越了deepseekv4.1flash1017 也不知道实测如何，待… · [详情](../items/hy4-15.md) 𝕏
+- [说在workbuddy上卖技能挣钱的，都是扯的](https://x.com/woodbear009/status/2117226047725011039) — 说在workbuddy上卖技能挣钱的，都是扯的 这刚起步阶段，审核就一周多了还没动静，这体验，生态怎么建的起来。看了一些已经上线的收费技能… · [详情](../items/workbuddy-608.md) 𝕏
+- [突发：DS V4.1 Pro 疑似出现在 WorkBuddy 模型列表](https://x.com/leo114119/status/2117578062367772684) — 突发：DS V4.1 Pro 疑似出现在 WorkBuddy 模型列表 有群友爆出说tx的workbuddy，获取到deepseek 4.… · [详情](../items/ds-v4-1-pro-workbuddy.md) 𝕏
+- [下午有兄弟问海外版 workbuddy 是否也有反复手机版](https://x.com/mspd4100/status/2112903018505236844) — 下午有兄弟问海外版 workbuddy 是否也有反复手机版 刚才验证来下，反正 apple store 美区没有找到 而且国内版实测网络限… · [详情](../items/workbuddy-632.md) 𝕏
+- [卧槽，workbuddy才是最大赢家。 各种领域的专家、专家团，还有S…](https://x.com/hppzyy/status/2073250630194663441) — 卧槽，workbuddy才是最大赢家。 各种领域的专家、专家团，还有Skills，应有具有。 如果claude封号玩不了，值得好好体验一下… · [详情](../items/workbuddy-s-2.md) 𝕏
+- [阶跃的 Step 5 Preview 上线 WorkBuddy 了，我…](https://x.com/hungryturbo/status/2109612651001364797) — 阶跃的 Step 5 Preview 上线 WorkBuddy 了，我之前写过实测文章，这次确实是实力上桌了。 限时免费到 10 月 25… · [详情](../items/step-5-preview-workbuddy.md) 𝕏
+- [🚀ego lite深度实测！免重复登录、不弹调试提示、独立Space！…](https://youtu.be/2RH73xU6O7M?is=cucjma8fLsxsD6-Y) — 🚀ego lite深度实测！免重复登录、不弹调试提示、独立Space！让WorkBuddy和你同时用一个浏览器互不打扰！终于不用和Agen… · [详情](../items/ego-lite-space.md) 𝕏
+- [最近 WorkBuddy 的风评好像变好了不少。](https://x.com/jerrychen0awi/status/2111479849982251385) — 最近 WorkBuddy 的风评好像变好了不少。 网上有人调侃：如果传闻属实，除了产品外壳是自己的，底层能力大量依赖 Claude，那就难… · [详情](../items/workbuddy-648.md) 𝕏
+- [腾讯混元Hy4开源模型在实测中表现突出，配合WorkBuddy多模态A…](https://www.qbitai.com/2026/11/507843.html) — 腾讯混元Hy4开源模型在实测中表现突出，配合WorkBuddy多模态Agent，交付能力拉满。开源阵营的进步速度，让闭源模型的优势窗口越来… · [详情](../items/hy4-workbuddy-a.md) 𝕏

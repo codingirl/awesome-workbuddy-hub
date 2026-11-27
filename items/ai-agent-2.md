@@ -1,28 +1,23 @@
-# 桌面端 AI Agent 我现在的御三家：
+# 几天前朋友说要恶补AI知识，还不知道啥是Agent。
 
-> 类型：工作流 ｜ 分类：办公文档 ｜ 标签：办公文档
+> 类型：教程与指南 ｜ 分类：办公文档 ｜ 标签：办公文档
 
 ## 简介
 
-桌面端 AI Agent 我现在的御三家： ChatGPT、Claude、WorkBuddy。 但 Skills 这一块，目前还是 Wor…
+几天前朋友说要恶补AI知识，还不知道啥是Agent。 当时我推荐他用Workbuddy... 他一直没开始用，因为办公用的是飞书。 现在好…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 桌面端 AI Agent 我现在的御三家： ChatGPT、Claude、WorkBuddy。 但 Skills 这一块，目前还是 WorkBuddy 完胜。 直接上截图👇 从 PPT、公众号写作、浏览器自动化、到电商详情页、游戏素材、视频拼接、Logo 生成……几乎全覆盖了。 真正做到了“一个 Agent 装进整个工作流”。
+> 几天前朋友说要恶补AI知识，还不知道啥是Agent。 当时我推荐他用Workbuddy... 他一直没开始用，因为办公用的是飞书。 现在好了，豆包工作 应该更适合他了。 我写这个教程，其实就是为了他这样处境的国内朋友，完全0基础，也可以不费力去学的。
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HPGk-6-bwAA7GEZ.png)
-![](https://pbs.twimg.com/media/HPGk-6-bQAAMSKP.png)
-
 ## 所有来源
 
-- X · [Yanhua @yanhua1010](https://x.com/yanhua1010/status/2085630681296810145) · 2026-08-07 · 22 赞 / 6 转 / 9614 浏览
+- X · [Adrian Punk @AdrianPunk115](https://x.com/AdrianPunk115/status/2092433808645894515) · 2026-08-26 · 84 赞 / 18 转 / 23803 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

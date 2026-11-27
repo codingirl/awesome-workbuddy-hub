@@ -1,29 +1,24 @@
-# Google 开源了 Harness²：模型权重不动，让 agent …
+# Google 开源 Harness²：不改权重，Agent 自己改工作…
 
-> 类型：技能（Skills） ｜ 分类：效率 ｜ 标签：效率
+> 类型：提示词 ｜ 分类：开发 ｜ 标签：开发
 
 ## 简介
 
-Google 开源了 Harness²：模型权重不动，让 agent 自己改外面那层 harness，提示词、记忆、工具、技能、子 age…
+Google 开源 Harness²：不改权重，Agent 自己改工作台🛠️ 据官方论文，单步最高 +11.5 分（WorkBuddy） …
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> Google 开源了 Harness²：模型权重不动，让 agent 自己改外面那层 harness，提示词、记忆、工具、技能、子 agent 都能动。 每个任务先提两版改法，在同一任务上各跑一遍对比，再合成新版本，经验存进库里留给下个任务。 只改一轮，GLM-5 在 WorkBuddy-Bench 上从 64.2 涨到 75.7，多了 11.5 分。
+> Google 开源 Harness²：不改权重，Agent 自己改工作台🛠️ 据官方论文，单步最高 +11.5 分（WorkBuddy） 1）八件套：提示词、护栏、记忆、工具说明、子 Agent、skills、脚本、插件 2）两层递归：先改当前任务，再沉淀经验给下一题 3）本地 demo：uv + harness2-demo，不用 API key 也能跑（据 README）
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HU91SE6W8AAwEvh.jpg)
+- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
 
 ## 所有来源
 
-- X · [Yuan @Yuan1197783](https://x.com/Yuan1197783/status/2112035722177945983) · 2026-10-19 · 0 赞 / 18 浏览
+- X · [Heny｜AI 实战派 @HenyJone](https://x.com/HenyJone/status/2111681463254991036) · 2026-10-18 · 1 赞 / 255 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

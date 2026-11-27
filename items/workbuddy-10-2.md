@@ -15,13 +15,9 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HSanxMjbMAEdVDw.jpg)
-
 ## 所有来源
 
-- X · [govin.eth | G哥 @goan999999](https://x.com/goan999999/status/2100550749776413040) · 2026-09-17 · 545 赞 / 151 转 / 61924 浏览
+- X · [govin.eth | G哥 @goan999999](https://x.com/goan999999/status/2100550749776413040) · 2026-09-17 · 545 赞 / 151 转 / 61925 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

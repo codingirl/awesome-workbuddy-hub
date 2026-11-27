@@ -1,0 +1,78 @@
+# 工作流 · 效率（74）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [已经有人用上我这个自动写小说的工作流了。](https://x.com/Yunn260414/status/2086351680992673870) — 已经有人用上我这个自动写小说的工作流了。 看到自己分享的方法有人用还是很开心的！ 反正发布成本几乎为0，workbuddy都是免费用的，送… · [详情](../items/x-92673870.md) 𝕏
+- [再也不用担心学会WorkBuddy没地方用了！](https://x.com/beefnoode/status/2094365659773948197) — 再也不用担心学会WorkBuddy没地方用了！ 现在官方直接把WB的最佳实践案例 全部都做成了一键可以复用的提示词模板或者工作流 如果你还… · [详情](../items/workbuddy-80.md) 𝕏
+- [腾讯朋友告诉我，WorkBuddy 月活已经千万级。我抱着好奇试了试，结果把整套海外 AI 素材工作流都迁了过去](https://x.com/lxcong/status/2072574309206516152) — 腾讯朋友告诉我，WorkBuddy 月活已经千万级。我抱着好奇试了试，结果把整套海外 AI 素材工作流都迁了过去 · [详情](../items/workbuddy-ai-11.md) 𝕏
+- [我用 WorkBuddy 跑通了 7 套本地工作流，从搞钱提效到一人公司（OPC）生产管线](https://x.com/loi_jinli/status/2121454921442836736) — 大多数人用 AI 还停留在“一问一答”的对话框阶段——网页收藏了一堆吃灰，周报还得周五下午手算，改简历越改越像套话，多任务协作全靠复制粘贴… · [详情](../items/workbuddy-7-opc.md) 𝕏
+- [实战篇！一个人如何开四条工作线：用WorkBuddy项目空间组织虚拟项目组](https://x.com/FlowOpsDaily/status/2089718860102684979) — 实战篇！一个人如何开四条工作线：用WorkBuddy项目空间组织虚拟项目组 · [详情](../items/workbuddy-119.md) 𝕏
+- [脑补了一下马化腾昨天坐在 APEC 台下的心情。](https://x.com/laopai1990/status/2123217025309020628) — 脑补了一下马化腾昨天坐在 APEC 台下的心情。 雷军：AI 机器人未来超过汽车。 李彦宏：AI 要真正进入工作流。 马化腾心想： Q2 … · [详情](../items/apec.md) 𝕏
+- [腾讯的上桌券：WorkBuddy 能不能把 AI 真正带进企业工作流？](https://x.com/vegas_liu/status/2087448684187570582) — 腾讯的上桌券：WorkBuddy 能不能把 AI 真正带进企业工作流？ · [详情](../items/workbuddy-ai-19.md) 𝕏
+- [WorkBuddy新上线多端同步功能之后，也看过一些实测的文章，说实话…](https://x.com/momo_peggy/status/2089602302432977059) — WorkBuddy新上线多端同步功能之后，也看过一些实测的文章，说实话没有一篇想这篇这么有趣的 旧模式是人迁就工具，人跑到电脑跟前干活；新… · [详情](../items/workbuddy-161.md) 𝕏
+- [I’ve been testing WorkBuddy for eve…](https://x.com/syfaeth/status/2087464558428615122) — I’ve been testing WorkBuddy for everyday office tasks, and the workfl… · [详情](../items/i-ve-been-testing-workbuddy-for-eve.md) 𝕏
+- [开源workbuddy全自动小说工作流，实测番茄能过，七猫还在测](https://x.com/isnail/status/2085732695263654371) — 开源workbuddy全自动小说工作流，实测番茄能过，七猫还在测 兄弟们等什么？有了它，在座的各位都是百万大作家，躺赚的好日子来了 · [详情](../items/workbuddy-198.md) 𝕏
+- [FDE近两年在北美ai就业市场增长最快的岗位：2025 年增长3.5倍…](https://x.com/Kkkatia1/status/2120372864113406262) — FDE近两年在北美ai就业市场增长最快的岗位：2025 年增长3.5倍，2026 年至今又涨了155% 但是目前了解到国内做FDE的，好多… · [详情](../items/fde-ai-2025-3-5.md) 𝕏
+- [现在的工作流程：](https://x.com/king1821661/status/2117146658048020861) — 现在的工作流程： 评估能不能AI完成-完不成就说完不成-能完成就召唤WorkBuddy，他干活，我刷X。中间需要我判断的指点一下，工作完成… · [详情](../items/x-48020861.md) 𝕏
+- [Grok Bot 和 WorkBuddy 各自很火，但怎么互相配合？](https://x.com/Re7_AI/status/2117609227145609322) — Grok Bot 和 WorkBuddy 各自很火，但怎么互相配合？ 这篇就是答案：用一个真实聊天记录案例串起完整流程，从转发、查证到回传… · [详情](../items/grok-bot-workbuddy-2.md) 𝕏
+- [WorkBuddy在国内是一骑绝尘吗？](https://x.com/CryY666666/status/2121104542381261133) — WorkBuddy在国内是一骑绝尘吗？ 现在都可以接入腾讯网盘了！！ 直接让 AI 参与文件管理和工作流了。 感觉以后网盘拼的不再只是存储… · [详情](../items/workbuddy-250.md) 𝕏
+- [Bring more AI into your workflow. 🚀](https://x.com/disc_wei/status/2104480059931410580) — Bring more AI into your workflow. 🚀 WorkBuddy lets developers connect… · [详情](../items/bring-more-ai-into-your-workflow.md) 𝕏
+- [🎙️ Bring Your Own Models to WorkBud…](https://B.AI) — 🎙️ Bring Your Own Models to WorkBuddy: Flexible AI for Your Workflow … · [详情](../items/bring-your-own-models-to-workbud.md) 𝕏
+- [我觉得这次最有意思的信号，是模型更新开始把“模型本身”和“工作流”一起…](https://x.com/fireandstart/status/2111713345011081349) — 我觉得这次最有意思的信号，是模型更新开始把“模型本身”和“工作流”一起交付：V4.1-Flash 强调速度、性能与更短输出，Harness… · [详情](../items/x-11081349.md) 𝕏
+- [周围同事都在暗戳戳的用workbuddy 工作](https://x.com/catboy1006/status/2120718837033435228) — 央企 周围同事都在暗戳戳的用workbuddy 工作 但谁都不说破 谁都不愿意分享自己的工作流 大家都当ai 不存在 挺有意思的 · [详情](../items/workbuddy-277.md) 𝕏
+- [周末，腾讯WorkBuddy FDE继续学习](https://x.com/whb0821/status/2124324944288923851) — 周末，腾讯WorkBuddy FDE继续学习 #Workflow #FDE #AI #Agent #AI应用 #Workflow #AI落地 · [详情](../items/workbuddy-fde-2.md) 𝕏
+- [腾讯最值得关注的优势，可能不是模型有多聪明，而是能不能把 AI 塞进大…](https://x.com/CryptoJHK/status/2114228400156274780) — 腾讯最值得关注的优势，可能不是模型有多聪明，而是能不能把 AI 塞进大家本来就在用的工作流程。 不过，“试过一次觉得惊艳”和“每天离不开”… · [详情](../items/ai-97.md) 𝕏
+- [Usable LLM is live on for free. 🚀](https://www.virtusub.xyz) — Usable LLM is live on for free. 🚀 Workflow agent - a cheaper alternat… · [详情](../items/usable-llm-is-live-on-for-free.md) 𝕏
+- [今天打开 WorkBuddy 感觉天塌了！](https://x.com/Sunkeke_AI/status/2075876200212484472) — 今天打开 WorkBuddy 感觉天塌了！ 拼命做AI工作流的我做了个寂寞！ 腾讯你上架专家也就算了， 还整个专家团？ 让我们普通人还怎么… · [详情](../items/workbuddy-336.md) 𝕏
+- [为什么我从 OpenClaw 切到 WorkBuddy？](https://x.com/lixinbao_X/status/2039618028544074053) — 为什么我从 OpenClaw 切到 WorkBuddy？ 不是因为功能不够用，而是因为 稳定性。 OpenClaw 每次大版本更新都像“断… · [详情](../items/openclaw-workbuddy-4.md) 𝕏
+- [🚀 CONNECT TO WORKBUDDY: THE COMPLET…](https://B.AI) — 🚀 CONNECT TO WORKBUDDY: THE COMPLETE WORKFLOW Want to use models dire… · [详情](../items/connect-to-workbuddy-the-complet.md) 𝕏
+- [FDE这门生意，会不会也面临平台的挤压？](https://x.com/HeyJinShu/status/2125105343357391151) — FDE这门生意，会不会也面临平台的挤压？ 豆包工作已经可以把常用的工作流程做成Skill，团队内部重复使用。腾讯WorkBuddy也开始提… · [详情](../items/fde-4.md) 𝕏
+- [Another recorder integration is in …](https://x.com/nomilyai/status/2108113993294590018) — Another recorder integration is in progress. I’m reverse-engineering … · [详情](../items/another-recorder-integration-is-in.md) 𝕏
+- [AI 热点：腾讯混元发布 Hy4 flash，WorkBuddy 与 …](https://x.com/LhgSkills/status/2122300959875604654) — AI 热点：腾讯混元发布 Hy4 flash，WorkBuddy 与 OpenCode 接入。 flash 这个名字就说明了一切：不拼参数… · [详情](../items/ai-hy4-flash-workbuddy.md) 𝕏
+- [国企使用AI现状](https://x.com/mazhangui/status/2125548988229464404) — 国企使用AI现状 周围同事都暗戳戳的用 workbuddy 工作 但谁都不说破 谁都不愿意分享自己的工作流 大家都当 ai 不存在 挺有意… · [详情](../items/ai-134.md) 𝕏
+- [总算学到了非常系统化又清晰明了的WorkBuddy的知识，之前学的太碎…](https://x.com/Sunkeke_AI/status/2077022322452734247) — 总算学到了非常系统化又清晰明了的WorkBuddy的知识，之前学的太碎片化了，总算搞懂了AI的工作原理，Agent、Workflow、Sk… · [详情](../items/workbuddy-389.md) 𝕏
+- [卧槽! coze下线了？](https://x.com/beebidao/status/2118293245457522898) — 卧槽! coze下线了？ 这是赛马结束了？ coze都下线了，😅 前有qclaw 后有 coze下一个是谁？ 可见腾讯就是workbudd… · [详情](../items/coze.md) 𝕏
+- [AI 时代学得越晚 学得越少 学得越对！](https://x.com/gou_lao93339/status/2118233936115773676) — AI 时代学得越晚 学得越少 学得越对！ Coze 这个前几年还爆火的产品关掉了。 腾讯前阵子挺火的 QClaw，也官宣要停运了。包括马维… · [详情](../items/ai-145.md) 𝕏
+- [最近用 Workbuddy 的时候，我有个感觉越来越强：](https://x.com/smart_wang_/status/2090461505175384401) — 最近用 Workbuddy 的时候，我有个感觉越来越强： AI 在 To C 端最先真正普及的，可能就是这种直接嵌进工作流里的协同软件。 … · [详情](../items/workbuddy-411.md) 𝕏
+- [豆包工作这下是开窍了，不仅支持了不少第三方模型，部分模型倍率0.01起…](https://x.com/TaXue2025/status/2121247976484122774) — 豆包工作这下是开窍了，不仅支持了不少第三方模型，部分模型倍率0.01起。还引入了工作台，针对不同人群，都有更细致的工作流，其中有些还有专门… · [详情](../items/0-01.md) 𝕏
+- [80%的人与ai互动的程度还很浅](https://x.com/chenpin133/status/2116097782625014004) — 说个暴论 80%的人与ai互动的程度还很浅 只停留在“装了一个软件 偶尔问问题” 如果你能调用grokbot、ChatGPT、workbu… · [详情](../items/80-ai.md) 𝕏
+- [nice move! it is fun to use it on d…](https://x.com/zhuohaol/status/2111520118668984418) — nice move! it is fun to use it on dhs, workbuddy and codebuddy in my … · [详情](../items/nice-move-it-is-fun-to-use-it-on-d.md) 𝕏
+- [WorkBuddy 得这么用](https://x.com/iluciddreaming/status/2093392928681099302) — WorkBuddy 得这么用 这才叫本地化 很多 AI 工具差评 其实骂的是默认配置 不是能力上限 我看成一句很土但真的话 工具要长在你的… · [详情](../items/workbuddy-438.md) 𝕏
+- [如果想在国内做 AI 商业化，搞定 Workbuddy 就像之前搞定扣…](https://x.com/WindFrostx/status/2067476247018631491) — 如果想在国内做 AI 商业化，搞定 Workbuddy 就像之前搞定扣子工作流一样。 我自己接触到的大部分国内老板对于 AI 的认知真的很… · [详情](../items/ai-workbuddy-26.md) 𝕏
+- [🚀 WorkBuddy 使用体验：几个月搞不定的事，一天就解决了！](https://x.com/Mike39602260/status/2073941442624688370) — 🚀 WorkBuddy 使用体验：几个月搞不定的事，一天就解决了！ 之前有个工作流程卡了好几个月，各种工具试遍了还是乱成一团。用了 Wor… · [详情](../items/workbuddy-446.md) 𝕏
+- [今天公司法务突然主动约我问我怎么搭ai工作流的，聊了很久。说听我分享后…](https://x.com/msjessies/status/2123640857320620397) — 今天公司法务突然主动约我问我怎么搭ai工作流的，聊了很久。说听我分享后看了xhs很多反而不知道怎么下手。聊了一下发现ai培训和博主的空间还… · [详情](../items/ai-169.md) 𝕏
+- [如果每天有一堆重复工作，其实挺适合试试AI智能体。](https://x.com/y4180741368915/status/2098761545903689947) — 如果每天有一堆重复工作，其实挺适合试试AI智能体。 WorkBuddy这套实战主要就是把AI变成自己的“数字助手”，从日常任务到工作流程都… · [详情](../items/ai-173.md) 𝕏
+- [1/4 Khazix describes an RTX Spark +…](https://x.com/Jaythschild/status/2111663479677657599) — 1/4 Khazix describes an RTX Spark + WorkBuddy local-model workflow. H… · [详情](../items/1-4-khazix-describes-an-rtx-spark.md) 𝕏
+- [选好模型再写提示词，中间不用切窗口了](https://x.com/SyrianVeterans/status/2117388752863789565) — 选好模型再写提示词，中间不用切窗口了 配图最常见的麻烦是：提示词在一个页面写好，还得复制到另一个工具里出图。WorkBuddy 说可以直接… · [详情](../items/x-63789565.md) 𝕏
+- [腾讯都开始替 DeepSeek 买单了（WorkBuddy 限免到 1…](https://x.com/copol66/status/2111812779682476305) — 腾讯都开始替 DeepSeek 买单了（WorkBuddy 限免到 10/31），说明模型这块真卷成白菜价了。对普通人是好事：先用免费额度… · [详情](../items/deepseek-workbuddy-1.md) 𝕏
+- [YOUR AI WORKFLOW JUST GOT A LOT MOR…](https://B.AI) — YOUR AI WORKFLOW JUST GOT A LOT MORE FLEXIBLE AI becomes much more us… · [详情](../items/your-ai-workflow-just-got-a-lot-mor.md) 𝕏
+- [WorkBuddy vs Manus Desktop is a loc…](https://x.com/111lo_/status/2086728381186601375) — WorkBuddy vs Manus Desktop is a local-workflow comparison. Manus emph… · [详情](../items/workbuddy-vs-manus-desktop-is-a-loc.md) 𝕏
+- [× WorkBuddy](https://B.AI) — × WorkBuddy What happens when you bring model ecosystem directly into… · [详情](../items/workbuddy-498.md) 𝕏
+- [State cost, permissions, and bounda…](https://x.com/Quinn1291901/status/2085342617219612741) — State cost, permissions, and boundaries first. Watch the next episode… · [详情](../items/state-cost-permissions-and-bounda.md) 𝕏
+- [Make results easy to revise and pas…](https://x.com/Quinn1291901/status/2085620013927653700) — Make results easy to revise and pass along. Watch the next episode an… · [详情](../items/make-results-easy-to-revise-and-pas.md) 𝕏
+- [别急着换更强模型——先让harness自己改自己。](https://x.com/kim37238921/status/2112763528947896646) — 别急着换更强模型——先让harness自己改自己。 Google开源Harness²：递归改prompt/工具/记忆/工作流；Propos… · [详情](../items/harness-2.md) 𝕏
+- [Start daily work with one small tas…](https://x.com/Quinn1291901/status/2085565758206251519) — Start daily work with one small task. Watch the next episode and test… · [详情](../items/start-daily-work-with-one-small-tas.md) 𝕏
+- [Running my daily dev workflow on De…](https://workbuddy.ai/invite?code=MC3HWCBW) — Running my daily dev workflow on DeepSeek 4.1 Flash via WorkBuddy rec… · [详情](../items/running-my-daily-dev-workflow-on-de.md) 𝕏
+- [💣💥分享个好东西，用workbuddy的小伙伴又福了。](https://x.com/vokie123/status/2102242877397225903) — 💣💥分享个好东西，用workbuddy的小伙伴又福了。 最近尝试用workbuddy中的deepseek-v4.1 Flash 优化一下工… · [详情](../items/workbuddy-505.md) 𝕏
+- [现在最AI焦虑的是传统企业的 CTO](https://x.com/supersolo_2026/status/2095757673493053799) — 现在最AI焦虑的是传统企业的 CTO 大老板问： AI 都这么强了，你们技术部还要那么多人干什么？ AI 都这么强了，为什么我们公司里还没… · [详情](../items/ai-cto.md) 𝕏
+- [我只想要稳定的生产力平台可以稳定运行我的工作流，奈何稳定和性价比总是震…](https://x.com/BinHu086/status/2119294322940273146) — 我只想要稳定的生产力平台可以稳定运行我的工作流，奈何稳定和性价比总是震荡切换。 搞得我不得为每月适合的token预算寻找更好的agant平… · [详情](../items/x-40273146.md) 𝕏
+- [文件不用再搬来搬去了](https://x.com/SyrianVeterans/status/2119532924760715768) — 文件不用再搬来搬去了 WorkBuddy官方称，接入Google Drive后，可以直接在对话里让它搜索、打开、读取你云盘里的文件，并把它… · [详情](../items/x-60715768.md) 𝕏
+- [@jiangxiaotao 其实不是谁更牛的问题，这两个不是一个层级的…](https://x.com/Sunkeke_AI/status/2105132471545401577) — @jiangxiaotao 其实不是谁更牛的问题，这两个不是一个层级的工具。Coze/Dify更偏工作流和Agent的搭建平台，gpt、c… · [详情](../items/jiangxiaotao.md) 𝕏
+- [工作台我现在每天都在用，但我几乎从不主动打开它。用法已经变了。它不再是…](https://x.com/daxiLou26/status/2124881563011997856) — 工作台我现在每天都在用，但我几乎从不主动打开它。用法已经变了。它不再是我坐在里面一点点点的地方。对我来说，它已经是一个调度中心。 现在的工… · [详情](../items/x-11997856.md) 𝕏
+- [GLM5.2到底哪里强，Workbuddy里积分消耗的比Deepsee…](https://x.com/Griffin_CJH/status/2071967885132759487) — GLM5.2到底哪里强，Workbuddy里积分消耗的比Deepseek高那么多倍？ 今天Workbuddy跑任工作流的时候，忘了指定模型… · [详情](../items/glm5-2-workbuddy-deepsee.md) 𝕏
+- [🤖【AI HOT】WorkBuddy 旧金山分享真实工作流看过 AI …](https://x.com/ppmmzzcn/status/2107823347413447163) — 🤖【AI HOT】WorkBuddy 旧金山分享真实工作流看过 AI 演示后，有没有想过它怎么融入你的工作流。周四在旧金山：我们请来五位来… · [详情](../items/ai-hot-workbuddy-ai.md) 𝕏
+- [用户真正的沉没成本根本不是简单的订阅费，而是已经调好的技能、记忆、工作…](https://x.com/thelexten/status/2108361583760163069) — 用户真正的沉没成本根本不是简单的订阅费，而是已经调好的技能、记忆、工作流和对话上下文，更重要的是一开始采纳这款产品的信任。 QClaw 因… · [详情](../items/x-60163069.md) 𝕏
+- [总算学到了正版WorkBuddy的知识，之前学的太碎片化了，总算搞懂了…](https://x.com/Sunkeke_AI/status/2077020718353752252) — 总算学到了正版WorkBuddy的知识，之前学的太碎片化了，总算搞懂了AI的工作原理，Agent、Workflow、Skill、promp… · [详情](../items/workbuddy-587.md) 𝕏
+- [为什么我感觉现在无论Workbuddy还是扣子，那个一键搭建Agent…](https://x.com/Yunchuan_03/status/2101491640372281779) — 为什么我感觉现在无论Workbuddy还是扣子，那个一键搭建Agent的功能很蠢，而且修改也不好修改，还不如以前的那种工作流方式。 是我打… · [详情](../items/workbuddy-agent-21.md) 𝕏
+- [8月全社会用电破万亿，负荷还创了新高。](https://x.com/funny13990/status/2101555918269718894) — 8月全社会用电破万亿，负荷还创了新高。 这边腾讯 WorkBuddy 又拿了桌面智能体双榜第一。 感觉 AI 叙事正在从“模型参数”切到“… · [详情](../items/8.md) 𝕏
+- [热点收藏了一堆，写稿时还是没选题？](https://mp.weixin.qq.com/s/TsXfcY9HqD_Xj9MkN18w5g) — 热点收藏了一堆，写稿时还是没选题？ 试着用WorkBuddy搭个“热点巡检工坊”，把搜集、筛选、核实到选题串起来，少花时间翻链接，多留时间… · [详情](../items/x-76343986.md) 𝕏
+- [🤖【AIBase】Plaud与腾讯WorkBuddy达成生态合作:无缝…](https://x.com/ppmmzzcn/status/2095381694652334168) — 🤖【AIBase】Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力此次合作中，Plaud接入WorkBud… · [详情](../items/aibase-plaud-workbuddy.md) 𝕏
+- [这句我记下了：固定验收好的工作流，再交给 WorkBuddy 去跑。我…](https://x.com/forrestbit/status/2121234709313355861) — 这句我记下了：固定验收好的工作流，再交给 WorkBuddy 去跑。我们现在也是先把「分镜过、成片过、人点头发」这三关写死，过关的才进例程… · [详情](../items/workbuddy-612.md) 𝕏
+- [给所有“深度测评”一个问题：复杂任务跑了几轮？失败率和重试记录写了吗？…](https://x.com/letsdog2/status/2079852398399676431) — 给所有“深度测评”一个问题：复杂任务跑了几轮？失败率和重试记录写了吗？成本算了吗？和开源 Agent / 现有工作流比了吗？如果没有，那就… · [详情](../items/x-99676431.md) 𝕏
+- [🤖【AI HOT】WorkBuddy 接入 Gmail 处理邮件将 G…](https://x.com/ppmmzzcn/status/2109046775256674752) — 🤖【AI HOT】WorkBuddy 接入 Gmail 处理邮件将 Gmail 与 WorkBuddy 连接。简化你的邮件工作流，把重复的… · [详情](../items/ai-hot-workbuddy-gmail-g.md) 𝕏
+- [马上金融把自研 Agent 大几十人整队裁掉，据说用 workbudd…](https://x.com/nickling017/status/2118189861253284294) — 马上金融把自研 Agent 大几十人整队裁掉，据说用 workbuddy 顶上。 企业买的不是「有个模型」，是可替换的工作流——自家团队一… · [详情](../items/agent-workbudd.md) 𝕏
+- [我刚刚开始学习用Ai做个人工作台，希望能先从公司OKR开始，梳理好我的…](https://x.com/Simonchemhot/status/2117113456231067871) — 我刚刚开始学习用Ai做个人工作台，希望能先从公司OKR开始，梳理好我的工作流程，最后通过工作台可以下发任务给ai执行。 目前用的是work… · [详情](../items/ai-okr.md) 𝕏
+- [感谢孙割！！！ 是真的有免费的ds4f可以用，我拿来给workbudd…](https://B.AI) — 感谢孙割！！！ 是真的有免费的ds4f可以用，我拿来给workbuddy工作流用了，就是偶尔会断，上下文也不长需要频繁开启新对话，这个是链… · [详情](../items/ds4f-workbudd.md) 𝕏
+- [豆包加WorkBuddy，可以组成一台自动赚钱机器。一个负责对话、整理…](https://x.com/JianXiangV/status/2125972614396977521) — 豆包加WorkBuddy，可以组成一台自动赚钱机器。一个负责对话、整理和生成，一个负责把复杂任务拆成连续工作流，两边接起来，个人也能拥有持… · [详情](../items/workbuddy-654.md) 𝕏
+- [WorkBuddy只是工具，不是平台](https://x.com/big_ghost_smith/status/2123430982552608854) — WorkBuddy只是工具，不是平台 它只是在证明一件事情，现在的AI智能已经对于大多数人的日常工作流溢出了。 在他之前，豆包已经证明了这… · [详情](../items/workbuddy-656.md) 𝕏
+- [试用了workbuddy，感觉很普通啊，还经常卡顿。最大的差异就是内置…](https://x.com/Maple_LH/status/2073613135349760368) — 试用了workbuddy，感觉很普通啊，还经常卡顿。最大的差异就是内置很多专家模板，但多Agent协同、WorkFlow这些差异化能力都没… · [详情](../items/workbuddy-657.md) 𝕏

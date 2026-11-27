@@ -16,10 +16,6 @@ Dan yah ini hasil video dari prompt simple itu 👇 Gua bikin video tent…
 
 - 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/amplify_video_thumb/2120530713237929984/img/nUwPcoerw2TgTltD.jpg)
-
 ## 所有来源
 
 - X · [Bozzx. @bozzxyz](https://x.com/bozzxyz/status/2120531228625604765) · 2026-11-11 · 13 赞 / 1 转 / 2586 浏览

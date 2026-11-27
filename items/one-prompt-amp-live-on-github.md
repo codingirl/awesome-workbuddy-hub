@@ -1,6 +1,6 @@
 # One Prompt &amp; Live on GitHub.
 
-> 类型：提示词 ｜ 分类：设计 ｜ 标签：设计
+> 类型：知识点与使用技巧 ｜ 分类：官方动态 ｜ 标签：官方动态
 
 ## 简介
 
@@ -14,7 +14,6 @@ One Prompt &amp; Live on GitHub. I typed one prompt and never touched…
 
 ## 使用/获取
 
-- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
 
 ## 所有来源
 

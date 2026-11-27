@@ -17,13 +17,9 @@
 - 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
 - ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HQAttLcbwAA9IhR.jpg)
-
 ## 所有来源
 
-- X · [sida @s1dashu](https://x.com/s1dashu/status/2089720502483067016) · 2026-08-18 · 5331 赞 / 618 转 / 648139 浏览
+- X · [sida @s1dashu](https://x.com/s1dashu/status/2089720502483067016) · 2026-08-18 · 5331 赞 / 618 转 / 648140 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

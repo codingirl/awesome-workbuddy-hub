@@ -1,27 +1,23 @@
-# WC，昨天发的这篇WorkBuddy万字长文教程
+# WC，科研界的WorkBuddy终于来了！
 
-> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
+> 类型：知识点与使用技巧 ｜ 分类：设计 ｜ 标签：设计
 
 ## 简介
 
-WC，昨天发的这篇WorkBuddy万字长文教程 已经有超过 5 万人看过了！ 其中不少兄弟看完文章后开始真正实操、用WB了 自己的文章能…
+WC，科研界的WorkBuddy终于来了！ 有个做科研的朋友给我安利了 @PhAILabs 最新推出的 ScienceBuddy 他做科研…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> WC，昨天发的这篇WorkBuddy万字长文教程 已经有超过 5 万人看过了！ 其中不少兄弟看完文章后开始真正实操、用WB了 自己的文章能帮到大家，真的非常开心～ 所以，学 AI 的关键是要够用起来，在执行中学习 这一定是AI时代效率最高的学习方式！ 如果你也对Workbuddy感兴趣，看我的这篇教程就够了⬇️
+> WC，科研界的WorkBuddy终于来了！ 有个做科研的朋友给我安利了 @PhAILabs 最新推出的 ScienceBuddy 他做科研用过不少 AI Agent 但真正能把研究流程完整跑下来的其实不多 但 ScienceBuddy 真的不一样 它是一个真正围绕科研工作流设计的 AI Agent 我自己也去试了一下，让
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HQea4ZQaYAA5gvu.jpg)
-
 ## 所有来源
 
-- X · [来碗牛肉粉 @beefnoode](https://x.com/beefnoode/status/2091812118379315448) · 2026-08-24 · 102 赞 / 24 转 / 9113 浏览
+- X · [来碗牛肉粉 @beefnoode](https://x.com/beefnoode/status/2102783809955545304) · 2026-09-23 · 280 赞 / 53 转 / 53334 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

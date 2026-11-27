@@ -1,0 +1,146 @@
+# 技能（Skills） · 数据分析（142）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [腾讯刚开源的 BrowserSkill也太给力了啊！](https://x.com/xiangxiang103/status/2100783874347507947) — 腾讯刚开源的 BrowserSkill也太给力了啊！ 我用 WorkBuddy 实测了一遍。 装好以后，WorkBuddy 可以直接操作你… · [详情](../items/browserskill-2.md) 𝕏
+- [这篇关于 Workbuddy 技能的文章爆了，看来大家对于Workbu…](https://x.com/XiaohuiAI666/status/2088841107656565073) — 这篇关于 Workbuddy 技能的文章爆了，看来大家对于Workbuddy的学习热情非常高涨。 今天小灰额外给大家推荐两个好用的 Wor… · [详情](../items/workbuddy-workbu.md) 𝕏
+- [Obsidian Skill：提升知识库理解](https://x.com/alin_zone/status/2081716933259673810) — 配合 Obsidian Skill 让 WorkBuddy 更好地理解知识库 · [详情](../items/obsidian-skill.md) 𝕏
+- [刚用腾讯的workbuddy安装了微信读书skills，配置好了API…](https://x.com/shitunote/status/2062765398894768406) — 刚用腾讯的workbuddy安装了微信读书skills，配置好了API Key 然后调用微信读书skills查询了我的书架和昨天读的一本书… · [详情](../items/workbuddy-skills-api.md) 𝕏
+- [什么？workbuddy迭代也太快了吧](https://x.com/Sukiea1008/status/2082363060111687972) — 什么？workbuddy迭代也太快了吧 Skill技能库又新增了这么多，我以为你老实巴交 没想到你不仅网页上线部署这块有Vercel、Cl… · [详情](../items/workbuddy-157.md) 𝕏
+- [分享一个一手的 AI 变现数据：朋友刚在 WorkBuddy 跑通了付…](https://x.com/cheery9998/status/2109518921565139314) — 分享一个一手的 AI 变现数据：朋友刚在 WorkBuddy 跑通了付费 Skill 售卖，单价 19 元，后台实际入账 18.90 元，… · [详情](../items/ai-workbuddy-8.md) 𝕏
+- [WorkBuddy + Playwright + Lighthouse](https://x.com/CryY666666/status/2121989619025936428) — WorkBuddy + Playwright + Lighthouse 可以制作成一个每天自动检查网站的skill工作流 1.定时打开网站… · [详情](../items/workbuddy-playwright-lighthouse.md) 𝕏
+- [腾讯云开源了TeamAI，基于Git做团队AI协作。把Skill、规范…](https://x.com/iHowieWang/status/2108890404368109846) — 腾讯云开源了TeamAI，基于Git做团队AI协作。把Skill、规范、知识库统一放进仓库，评审更新后同步到各成员的Agent里，支持Wo… · [详情](../items/teamai-git-ai-skill.md) 𝕏
+- [WorkBuddy官方推荐，skillhub官方评分4.8 （运营工具…](https://x.com/Jeremyz7c/status/2122608236167901490) — WorkBuddy官方推荐，skillhub官方评分4.8 （运营工具类skill绝对头部第一梯队！！）「品牌私域高效转化方案Pro」今日… · [详情](../items/workbuddy-skillhub-4-8.md) 𝕏
+- [英伟达曾披露，在对31,132个Skill的分析中，26.1%存在漏洞…](https://x.com/touxnplayai/status/2104454650636439573) — 英伟达曾披露，在对31,132个Skill的分析中，26.1%存在漏洞，5.2%显示出潜在的恶意意图。 所以提醒大家，安装Skill之前，… · [详情](../items/31-132-skill-26-1.md) 𝕏
+- [微信读书的阅读数据终于能被AI高效利用了。](https://x.com/FinnTsai88/status/2077717381208477879) — 微信读书的阅读数据终于能被AI高效利用了。 教程详细讲解了如何通过官方Skill接入WorkBuddy，实现查询书架、阅读统计、个人划线与… · [详情](../items/ai-92.md) 𝕏
+- [1/ 🧵 一台电脑 7 个 AI，skills 怎么不打架？ 👇](https://x.com/yu_luo26312/status/2115650728194937083) — 1/ 🧵 一台电脑 7 个 AI，skills 怎么不打架？ 👇 我刚把 Claude Code、Cursor、Codex、CodeBud… · [详情](../items/1-7-ai-skills.md) 𝕏
+- [WorkBuddy 开放平台上线「收入变现」了！](https://open.workbuddy.cn) — WorkBuddy 开放平台上线「收入变现」了！ 现在个人也能把自己做的技能（Skill）和专家上架卖： 支持一次性买断 or 按月订阅 … · [详情](../items/workbuddy-368.md) 𝕏
+- [亚马逊竞品分析与品类选品工具使用分析](https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill) — 亚马逊竞品分析与品类选品工具使用分析 这个项目是什么？ 9 个技能，藏在 SKILLS/skills/ 下面（README 里写的 .cl… · [详情](../items/x-08480660.md) 𝕏
+- [看了一个数据统计说gpt全球plus账号才700万，意思是其实Ai普及…](https://x.com/fjsa380626/status/2099235904930107721) — 看了一个数据统计说gpt全球plus账号才700万，意思是其实Ai普及和使用率不到百分之一 国内的情况差不多结合我最近做了一个恋爱skil… · [详情](../items/gpt-plus-700-ai.md) 𝕏
+- [自从有了AI，写论文的速度明显变快了，但是自己也知道完全产出的是学术垃…](https://x.com/grubby0808/status/2108767057038946318) — 自从有了AI，写论文的速度明显变快了，但是自己也知道完全产出的是学术垃圾。但是分析数据的速度真是快呀！ 而且论文用自己做的 skill 去… · [详情](../items/ai-143.md) 𝕏
+- [这个skill可以帮你追到crush！](https://github.com/mountainwaterr/yuehui-tegong) — 这个skill可以帮你追到crush！ 这是什么？ 恋爱.skill 是一套AI可读的知识库 + 分析流程——安装后，任何支持 skill… · [详情](../items/skill-crush.md) 𝕏
+- [workbuddy 接滴答清单真的很爽，微信直接给助理发消息，自动把大…](https://x.com/AimFx06/status/2102421070125097318) — workbuddy 接滴答清单真的很爽，微信直接给助理发消息，自动把大任务拆成小任务，分析有哪些任务不容易启动，把预计时间，优先级，重要性… · [详情](../items/workbuddy-427.md) 𝕏
+- [SkillHub（Young1108）](https://github.com/Young1108/skillhub) — MIT 许可的 WorkBuddy Skill 合集，包含账号迁移、Wake 多 Agent 日报和 macOS 微信/企业微信本地数据工… · [详情](../items/skillhub-young1108.md) ⌥
+- [Ontology-Driven AI Data Management Skills](https://github.com/SuperChason/ontology-driven-ai-data-management-skills) — MIT 许可、支持 WorkBuddy 的 25 个企业本体与 AI 数据治理 Skill，提供 WorkBuddy ZIP 和安装脚本 · [详情](../items/ontology-driven-ai-data-management-skills.md) ⌥
+- [WorkBuddy Wiki](https://github.com/YuanYiZheXue/workbuddy-wiki) — Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本化 Schema、跨工作区同步、来源/概念… · [详情](../items/workbuddy-wiki.md) ⌥
+- [WorkBuddy Skill Groups](https://github.com/darker2016/workbuddy-skill-groups) — 含 MIT LICENSE 文件但 GitHub 未识别许可证的 39 个 WorkBuddy 专家团 Skill 包，覆盖投研、内容、工… · [详情](../items/workbuddy-skill-groups.md) ⌥
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) — MIT 许可的本地优先 Token 用量与成本看板，明确支持 WorkBuddy，通过 SessionEnd Hook 和本地项目日志统计… · [详情](../items/tokentracker.md) ⌥
+- [WorkBuddy Usage Status](https://github.com/clancy-feng/workbuddy-usage-status) — 将 WorkBuddy 本地用量生成离线、可审计的 Token/Credit、模型效率与错误分析看板 · [详情](../items/workbuddy-usage-status.md) ⌥
+- [Tokscale](https://github.com/junhoyeo/tokscale) — MIT 许可的高性能 Token 用量与成本分析 CLI/看板，明确支持 WorkBuddy，读取 `~/.workbuddy/proje… · [详情](../items/tokscale.md) ⌥
+- [Token Usage](https://github.com/YuLaiZ/token-usage) — MIT 许可的本地 Token 用量分析 CLI，明确支持 WorkBuddy，可按客户端、模型、提供方和项目生成报表；数据从本机客户端历… · [详情](../items/token-usage.md) ⌥
+- [Session Digger](https://github.com/taxueseek/session-digger) — ISC 许可的跨 Agent 会话检索与知识管理工具，原生解析 `~/.workbuddy/projects`，用 SQLite FTS … · [详情](../items/session-digger.md) ⌥
+- [观远 BI 马甲实战 Skill](https://github.com/maojiebc/majia-guanyuan) — MIT 许可的观远 BI 增强 Skill，README 明确标注 WorkBuddy 兼容，覆盖 ETL 治理、报错排查、自定义图表和数… · [详情](../items/majia-guanyuan-bi-skill.md) ⌥
+- [跟党走 Gendangzou Skill](https://github.com/MobiusQuant/Gendangzou-skill) — Apache-2.0 许可的可溯源 A 股板块研究 Skill，明确支持 WorkBuddy，覆盖政策、权威媒体、资金、公司和 ETF 关… · [详情](../items/gendangzou-skill.md) ⌥
+- [Team Orchestrator](https://github.com/genapohub/team-orchestrator) — MIT 许可、明确兼容 WorkBuddy 的团队调度 Skill，可按需编排产品、技术、设计、开发、测试、数据和运营角色，并在阶段节点保… · [详情](../items/team-orchestrator.md) ⌥
+- [Get 笔记 Skills](https://github.com/iswalle/getnote-cli) — MIT 许可的得到笔记 CLI 与五个领域 Skills，明确支持 WorkBuddy，可搜索、整理和读写知识库；需要得到笔记会员及 Op… · [详情](../items/get-note-skills.md) ⌥
+- [WorkBuddy Migrator](https://github.com/JanCong/workbuddy-migrator) — MIT 许可的本地 WorkBuddy 账号数据迁移工具，支持 doctor、清单和迁移流程，默认不复制密钥、Token 或 creden… · [详情](../items/workbuddy-migrator.md) ⌥
+- [Circuit Interactive Tutor](https://github.com/weblwh/circuit-interactive-tutor) — MIT 许可、明确支持 WorkBuddy 的电路分析互动学习 Skill，提供分步推导、公式解释、故障排查和可视化学习辅助 · [详情](../items/circuit-interactive-tutor.md) ⌥
+- [VisionBuddy](https://github.com/FanZhangnan/VisionBuddy) — MIT 许可的受控视觉 Skill，通过本机 WorkBuddy/CodeBuddy CLI 为 Codex 分析图片，默认使用带倍率检查… · [详情](../items/visionbuddy.md) ⌥
+- [Data AI Daily Brief](https://github.com/haiyangchenbj/data-ai-daily-brief-skill) — MIT 许可、明确支持 CodeBuddy/WorkBuddy 的行业情报日报 Skill，将指定行业的新闻、公司、技术和政策变化整理成结… · [详情](../items/data-ai-daily-brief.md) ⌥
+- [chief-YE WorkBuddy Skills](https://github.com/chief-YE/workbuddy-skills) — CC BY-NC 4.0 许可的 WorkBuddy Skill 合集，按 Tool、Study、Research 分类，包含方法论笔记等… · [详情](../items/chief-ye-workbuddy-skills.md) ⌥
+- [Macro Cycle Locator](https://github.com/twin-arc/macro-cycle-locator) — MIT 许可、明确支持 WorkBuddy 的宏观周期定位 Skill，结合六维评分、ETF 资金流校准、行业传导链和个股基本面核验；仅用… · [详情](../items/macro-cycle-locator.md) ⌥
+- [学霸笔记 Skill](https://github.com/Unclecheng-li/note-skill) — MIT 许可、明确支持 WorkBuddy 的单文件 HTML 笔记 Skill，将技术内容、漏洞分析或知识总结转换为手写笔记本风格的网页… · [详情](../items/note-skill.md) ⌥
+- [SkillLens](https://github.com/AndrewNgGirl/SkillLens) — MIT 许可的自托管 Skill 评测工具，提供规则评分、证据、Deep Review 和改进建议，并支持 WorkBuddy Agent… · [详情](../items/skilllens.md) ⌥
+- [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) — MIT 许可、明确支持 WorkBuddy 的升学与职业规划思维框架 Skill，覆盖高考志愿、考研和就业方向，可通过 `npx skil… · [详情](../items/zhang-xuefeng-skill.md) ⌥
+- [Bazi-Ziwei Skills](https://github.com/dzcmemory-web/bazi-ziwei-skills) — MIT 许可、兼容 WorkBuddy 的八字与紫微斗数 Skill，使用确定性本地算法排盘，提供三种分析模式、测试案例和可分享的 HTM… · [详情](../items/bazi-ziwei-skills.md) ⌥
+- [CSV Data Analyst](https://github.com/Errriclin/csv-data-analyst) — MIT 许可、明确面向 WorkBuddy 的多场景 CSV 分析 Skill，支持自然语言分析、图表、结构化结果和可审计产物清单，并提供… · [详情](../items/csv-data-analyst.md) ⌥
+- [TradeGit](https://github.com/rollingSirius/TradeGit) — MIT 许可、明确兼容 WorkBuddy 的本地交易日志 Skill，可记录交易理由、导入券商流水并按 FIFO 计算盈亏；数据保存在本… · [详情](../items/tradegit.md) ⌥
+- [Chanlun Engine](https://github.com/adsorgcn/chanlun-engine-skill) — MIT 许可、明确支持 WorkBuddy 的缠论分析 Skill，由确定性脚本计算分型、笔、线段、中枢和信号，结果可复核；仅作研究参考，… · [详情](../items/chanlun-engine.md) ⌥
+- [Zhengxi Views](https://github.com/lyra81604/zhengxi-views) — MIT 许可、明确支持 WorkBuddy 的基金经理观点与投研 Skill，基于公开原文、方法框架和基金数据提供可溯源问答、持仓对照与研… · [详情](../items/zhengxi-views.md) ⌥
+- [AI Weekly Report Skill](https://github.com/Elisabeth15501/ai-weekly) — MIT 许可的跨平台 WorkBuddy 新闻周报 Skill，使用纯 Python 和 RSS 生成可搜索、可筛选、支持暗色模式的单文件… · [详情](../items/ai-weekly-report-skill.md) ⌥
+- [A-share Short-term Stock Picker](https://github.com/lijq126/short-term-stock-picker) — MIT 许可的 WorkBuddy A 股短线与 ETF 研究 Skill，按实时行情、情绪和技术信号生成候选分析；仅作研究参考，不构成投… · [详情](../items/a-share-short-term-stock-picker.md) ⌥
+- [WorkBuddy Stock Research](https://github.com/julen22/workbuddy-stock-research) — MIT 许可的 WorkBuddy 个人投研仪表盘，支持 A 股、港股、美股、ETF 行情、AI 分析、持仓和本地复盘笔记；通过本地 No… · [详情](../items/workbuddy-stock-research.md) ⌥
+- [WorkBuddy Market Briefings](https://github.com/hongshuhai/hongshuhai-market-briefings) — MIT 许可的 WorkBuddy 大宗商品晨报与美股盘前日报工作流，包含 `SKILL.md`、数据脚本、HTML 示例和定时发送；仅作… · [详情](../items/workbuddy-market-briefings.md) ⌥
+- [Topic Pipeline](https://github.com/KKbaocai/topic-pipeline) — MIT 许可的 WorkBuddy 选题 Skill，结合多平台热点和知识库分析，支持主题聚焦、全局扫描与竞品对标 · [详情](../items/topic-pipeline.md) ⌥
+- [OpenMobius Skill](https://github.com/MobiusQuant/OpenMobius-skill) — Apache-2.0 许可、明确支持 WorkBuddy 的交易知识 Skill，提供可溯源的 ICT/SMC 知识卡、行情分析和图表生成… · [详情](../items/openmobius-skill.md) ⌥
+- [女娲 Skill](https://github.com/alchaincyf/nuwa-skill) — MIT 许可的跨 Agent 思维方式蒸馏 Skill，明确支持 WorkBuddy，可将公开材料整理成可复用的分析与表达框架 · [详情](../items/nuwa-skill.md) ⌥
+- [MVP Validator Skill](https://github.com/664991498-prog/mvp-validator-skill) — MIT 许可的 WorkBuddy 产品验证 Skill，覆盖需求分析、技术可行性、竞品研究、开源调研、分阶段投入计划和 ROI 预测；结… · [详情](../items/mvp-validator-skill.md) ⌥
+- [WeChat CLI](https://github.com/iithink88/wechat-cli) — 许可证未声明的 WorkBuddy 本地微信分析 Skill，可查询、搜索、导出和统计自己的聊天记录；数据默认不联网 · [详情](../items/wechat-cli.md) ⌥
+- [MiniWorkBuddy](https://github.com/joezxh/mini-workbuddy) — MIT 许可、受腾讯 WorkBuddy 启发的开源 AI 工作台，基于 AgentScope，提供多 Agent 团队、Skills、深… · [详情](../items/miniworkbuddy.md) ⌥
+- [Majia Huiyuan](https://github.com/maojiebc/majia-huiyuan) — MIT 许可的会员运营与数据体系 Skill，提供 WorkBuddy 单专家发布包、55 个模拟逻辑数据集、25 条 ETL、12 类角… · [详情](../items/majia-huiyuan.md) ⌥
+- [StatSoft CLI](https://github.com/medstatstar/statsoft-cli) — MIT 许可的跨平台统计软件接入 Skill，明确支持 WorkBuddy，可连接 R、Stata、SAS、SPSS、JMP、Matlab… · [详情](../items/statsoft-cli.md) ⌥
+- [Bazi Analysis Skill](https://github.com/maochengsun16-code/bazi-analysis-skill) — MIT 许可、明确支持 WorkBuddy 的八字分析 Skill，提供排盘、分析流程、知识库和校验清单；仅作传统文化参考，不用于医疗、法… · [详情](../items/bazi-analysis-skill.md) ⌥
+- [Reading Analysis](https://github.com/shenquan520/reading-analysis) — 许可证未声明的 WorkBuddy 英语阅读分析 Skill，提供 125 张方法卡，覆盖高考、四六级和考研阅读 · [详情](../items/reading-analysis.md) ⌥
+- [Portfolio Interview Coach](https://github.com/ddggkkcc/portfolio-interview-coach) — MIT 许可、明确支持 WorkBuddy 的面试训练 Skill，从公开面经和真实项目源码生成追问、回答与改进建议；可选每日抓取和邮件投… · [详情](../items/portfolio-interview-coach.md) ⌥
+- [Infoseek](https://github.com/GYINT/infoseek) — MIT 许可、兼容 WorkBuddy 的端到端研究 MCP/Skill，包含多源发现、四级抓取、四维评分、跨源矛盾检测、结构化报告和长期… · [详情](../items/infoseek.md) ⌥
+- [AI Finance Workbench](https://github.com/feng-liu-1994/workbuddy-finance-workbench) — MIT 许可、支持 WorkBuddy MCP App 的可视化财务工作台，提供 20 个模块、25 个带字段口径/小样本试跑/校验/人工… · [详情](../items/ai-finance-workbench.md) ⌥
+- [A-share Watch Copilot](https://github.com/WaterCMY/A-share-watch-copilot) — 面向 WorkBuddy 的 A 股/港股盯盘 Skill，提供持仓与基金 Schema、8 个自动化模板、报告及可选本地工作台 · [详情](../items/a-share-watch-copilot.md) ⌥
+- [DSH CodeBuddy Plugin](https://github.com/taikaikaikai-pixel/dsh-codebuddy-plugin) — MIT 许可的 DeepSeek Harness 插件，提供 18 个 CodeBuddy 模型、搜索/网页抓取、生图、OAuth/API… · [详情](../items/dsh-codebuddy-plugin.md) ⌥
+- [Kindle2WorkBuddy](https://github.com/MWang-TS/kindle2workbuddy) — MIT 许可、带 `SKILL.md` 的 Kindle 电子墨水 WorkBuddy Dashboard，将本地任务/会话信息渲染为图片… · [详情](../items/kindle2workbuddy.md) ⌥
+- [WorkBuddy China Legal Skills](https://github.com/MAXXXXXLI/workbuddy-cn-legal-skills) — Apache-2.0 许可、明确保留 Anthropic `Claude for Legal` 来源署名的 151 个中国法务 Skill… · [详情](../items/workbuddy-china-legal-skills.md) ⌥
+- [SeaTable Production](https://github.com/Darling5/seatable-production) — MIT 许可的 WorkBuddy 生产交付协同 Skill，覆盖立项、计划、采购、BOM/库存、发货、维修和分析 · [详情](../items/seatable-production.md) ⌥
+- [WorkBuddy App Builder Skill](https://github.com/sharptoolbox/WorkBuddy-AppBuilderSkill) — MIT 许可、明确面向 WorkBuddy 的本体驱动应用构建 Skill，从需求探索和人工确认开始，生成七模型领域定义、可运行业务应用、… · [详情](../items/workbuddy-app-builder-skill.md) ⌥
+- [ZhiGui Second Brain Skill](https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill) — 结合本地 MCP、规划数据和知识图谱的桌面第二大脑，支持 WorkBuddy · [详情](../items/zhigui-second-brain-skill.md) ⌥
+- [browser-fingerprint-pool](https://github.com/shuangying0001-beep/browser-fingerprint-pool) — 爬虫/自动化 防封指纹伪装（UA+分辨率池）：随机真实浏览器指纹（88+ UA、87 分辨率）降低风控识别。适合爬虫工程师、RPA 开发者… · [详情](../items/browser-fingerprint-pool.md) ⌥
+- [playwright-stealth](https://github.com/shuangying0001-beep/playwright-stealth) — Playwright 反检测环境配置（去 webdriver 痕迹）：随机 UA/时区/语言、去自动化标志、模拟 Canvas/WebRT… · [详情](../items/playwright-stealth.md) ⌥
+- [api-data-pipeline](https://github.com/shuangying0001-beep/api-data-pipeline) — api-data-pipeline orchestrator skill · [详情](../items/api-data-pipeline.md) ⌥
+- [field-aligner](https://github.com/shuangying0001-beep/field-aligner) — 中英文字段名对齐映射工具：把杂乱字段名（中/英/驼峰/下划线）映射到规范 key，支持别名与模糊匹配。适合对接第三方接口、ERP 字段整理… · [详情](../items/field-aligner.md) ⌥
+- [config-merge](https://github.com/shuangying0001-beep/config-merge) — 多环境配置合并校验工具（默认/系统/任务三层）：按优先级合并校验、自动修冲突、出 diff、可回滚。适合 dev/test/prod 多环… · [详情](../items/config-merge.md) ⌥
+- [unit-converter](https://github.com/shuangying0001-beep/unit-converter) — 电商/物流规格单位换算（kg·cm·V·W）：把5kg 30cm这类带单位文本解析换算成标准单位。适合电商运营、物流报价、BOM 整理。 · [详情](../items/unit-converter.md) ⌥
+- [price-analysis-expert](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/01-bidding-tender/price-analysis-expert) — 投标价格分析专家——三维价格核算（定额基准+中标公示+市场行情），目标是通过精准定价帮助用户中标后实现利润最大化。覆盖建筑工程、保险服务采… · [详情](../items/price-analysis-expert.md) ⌥
+- [展板统计表生成](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/02-document-processing/%E5%B1%95%E6%9D%BF%E7%BB%9F%E8%AE%A1%E8%A1%A8%E7%94%9F%E6%88%90) — 生成「藏青+米金」商务展板风格的统计表（序号/类目/数量/占比 + 合计行 + 说明框），输出高清 PNG 可直接插入标书/报告。当用户说… · [详情](../items/item-458fefd6.md) ⌥
+- [browser-act](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/03-browser-crawling/browser-act) — Browser automation CLI for AI agents. NEVER run browser-act commands … · [详情](../items/browser-act.md) ⌥
+- [browser-act-skill-forge](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/03-browser-crawling/browser-act-skill-forge) — Forges reusable Skill packages (SKILL.md + scripts) from website expl… · [详情](../items/browser-act-skill-forge.md) ⌥
+- [browser-use](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/03-browser-crawling/browser-use) — Automates browser interactions for web testing, form filling, screens… · [详情](../items/browser-use.md) ⌥
+- [scrapling-official](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/03-browser-crawling/scrapling-official) — 用 Scrapling 爬取网页数据——反爬绕过（含 Cloudflare Turnstile）、隐身无头浏览器、Spider 爬虫框架、… · [详情](../items/scrapling-official.md) ⌥
+- [cost-audit-ai](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/06-engineering-cost/shenji-audit-team__skillhub) — 工程造价审计AI助手——结算清（结算审核）、审计明（造价审计）、索赔通（索赔分析）、清单准（清单计价）、指标衡（指标分析）5 个角色 + … · [详情](../items/shenji-audit-team-skillhub.md) ⌥
+- [strategic-insight](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/07-agent-framework/strategic-insight) — 战略洞察生成器。基于财报分析生成3-5条核心战略洞察，重点关注零售业务相关高频词和组织架构变化，按优先级排序输出增长机会、风险预警和效率提… · [详情](../items/strategic-insight.md) ⌥
+- [hermes-agent-windows-setup](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/08-local-llm/hermes-agent-windows-setup) — 在 Windows 上安装并配置 NousResearch Hermes Agent（开源 Agent 运行时，github.com/No… · [详情](../items/hermes-agent-windows-setup.md) ⌥
+- [workbuddy-migration-repair](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/09-windows-ops/workbuddy-migration-repair) — 修复「换电脑迁移后 WorkBuddy 空间/工作区列表变空、空间里对话全空、自动化任务全失效」的事故，以及把迁移包「合并」进已有安装（去… · [详情](../items/workbuddy-migration-repair.md) ⌥
+- [wusun-cockpit](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/10-vertical-systems/wusun-cockpit) — 维护与迭代 wusun-auction 项目「商务销售全局驾驶舱」大屏（ECharts 数据看板）的专用技能。当用户要求修改驾驶舱的指标口… · [详情](../items/wusun-cockpit.md) ⌥
+- [admapix](https://github.com/weininghui/skills/tree/main/admapix) — AdMapix raw data layer for ad creatives, apps, rankings, downloads/re… · [详情](../items/admapix.md) ⌥
+- [aegis-audit](https://github.com/weininghui/skills/tree/main/aegis-audit) — Deep behavioral security audit for AI agent skills and MCP tools. Per… · [详情](../items/aegis-audit.md) ⌥
+- [alpha-finder](https://github.com/weininghui/skills/tree/main/alpha-finder) — Market Oracle for prediction market intelligence - Polymarket and Kal… · [详情](../items/alpha-finder.md) ⌥
+- [aviation-weather](https://github.com/weininghui/skills/tree/main/aviation-weather) — Fetch aviation weather data (METAR, TAF, PIREPs) from aviationweather… · [详情](../items/aviation-weather.md) ⌥
+- [bioskills](https://github.com/weininghui/skills/tree/main/bioskills) — Installs 425 bioinformatics skills covering sequence analysis, RNA-se… · [详情](../items/bioskills.md) ⌥
+- [browserless-agent](https://github.com/weininghui/skills/tree/main/browserless-agent) — Professional web automation with headless browser - navigate, scrape,… · [详情](../items/browserless-agent.md) ⌥
+- [capability-evolver](https://github.com/weininghui/skills/tree/main/capability-evolver) — A self-evolution engine for AI agents. Analyzes runtime history to id… · [详情](../items/capability-evolver.md) ⌥
+- [cls-certify](https://github.com/weininghui/skills/tree/main/cls-certify) — CocoLoop Safe (CLS) Skill 安全认证。对 Agent Skills 进行六维深度安全分析（静态代码、动态行为、依赖… · [详情](../items/cls-certify.md) ⌥
+- [commit-analyzer](https://github.com/weininghui/skills/tree/main/commit-analyzer) — Analyzes git commit patterns to monitor autonomous operation health. … · [详情](../items/commit-analyzer.md) ⌥
+- [competitor-analysis-report](https://github.com/weininghui/skills/tree/main/competitor-analysis-report) — Generate structured competitive analysis reports with feature compari… · [详情](../items/competitor-analysis-report.md) ⌥
+- [dashboard-manager2](https://github.com/weininghui/skills/tree/main/dashboard-manager2) — Gère les interactions avec le dashboard Jarvis. Ce skill permet de li… · [详情](../items/dashboard-manager2.md) ⌥
+- [finance-skill](https://github.com/weininghui/skills/tree/main/finance-skill) — Personal finance memory layer. Parse statements, store transactions, … · [详情](../items/finance-skill.md) ⌥
+- [financial-search-engine](https://github.com/weininghui/skills/tree/main/financial-search-engine) — 基于东方财富数据库，支持自然语言搜索全网最新公告、研报、财经新闻、交易所动态及官方政策等，覆盖全球市场标的，可用于热点捕捉、舆情监控、研报… · [详情](../items/financial-search-engine.md) ⌥
+- [flatnotes-tasksmd-github-audit](https://github.com/weininghui/skills/tree/main/flatnotes-tasksmd-github-audit) — Thoroughly audit Tasks.md + Flatnotes for drift and accuracy; use Git… · [详情](../items/flatnotes-tasksmd-github-audit.md) ⌥
+- [full-stack-feature](https://github.com/weininghui/skills/tree/main/full-stack-feature) — Meta-skill for orchestrating end-to-end feature development from pers… · [详情](../items/full-stack-feature.md) ⌥
+- [globepilot-ai-agent-2](https://github.com/weininghui/skills/tree/main/globepilot-ai-agent-2) — Powered by Teneo Protocol - A decentralized network of AI agents for … · [详情](../items/globepilot-ai-agent-2.md) ⌥
+- [hefestoai-auditor](https://github.com/weininghui/skills/tree/main/hefestoai-auditor) — AI-powered code analysis with HefestoAI. Run security audits, detect … · [详情](../items/hefestoai-auditor.md) ⌥
+- [life-control](https://github.com/weininghui/skills/tree/main/life-control) — Orchestrate the Life Control CLI skill for OpenClaw agent fleets: ini… · [详情](../items/life-control.md) ⌥
+- [meeting-notes](https://github.com/weininghui/skills/tree/main/meeting-notes) — Transform raw meeting notes, transcripts, or recordings into structur… · [详情](../items/meeting-notes.md) ⌥
+- [mintgarden](https://github.com/weininghui/skills/tree/main/mintgarden) — Browse, search, and analyze Chia NFTs via the MintGarden API. · [详情](../items/mintgarden.md) ⌥
+- [omnisearch](https://github.com/weininghui/skills/tree/main/omnisearch) — MANDATORY web search tool for current information, news, prices, fact… · [详情](../items/omnisearch.md) ⌥
+- [onchain](https://github.com/weininghui/skills/tree/main/onchain) — CLI for crypto portfolio tracking, market data, and CEX history. Use … · [详情](../items/onchain.md) ⌥
+- [playwright-mcp](https://github.com/weininghui/skills/tree/main/playwright-mcp) — Browser automation via Playwright MCP server. Navigate websites, clic… · [详情](../items/playwright-mcp.md) ⌥
+- [playwright-mcp-v2](https://github.com/weininghui/skills/tree/main/playwright-mcp-v2) — Browser automation via Playwright MCP server. Navigate websites, clic… · [详情](../items/playwright-mcp-v2.md) ⌥
+- [postgres-job-queue](https://github.com/weininghui/skills/tree/main/postgres-job-queue) — PostgreSQL-based job queue with priority scheduling, batch claiming, … · [详情](../items/postgres-job-queue.md) ⌥
+- [readme-generator](https://github.com/weininghui/skills/tree/main/readme-generator) — Auto-generate comprehensive README.md files by analyzing project stru… · [详情](../items/readme-generator.md) ⌥
+- [ridb-search](https://github.com/weininghui/skills/tree/main/ridb-search) — Search the Recreation Information Database (RIDB) for campgrounds and… · [详情](../items/ridb-search.md) ⌥
+- [serp-analysis](https://github.com/weininghui/skills/tree/main/serp-analysis) — Use when the user asks to \"analyze search results\", \"SERP analysis… · [详情](../items/serp-analysis.md) ⌥
+- [serper](https://github.com/weininghui/skills/tree/main/serper) — Professional search (news, places, maps, reviews, scholar, patents) a… · [详情](../items/serper.md) ⌥
+- [stock-watcher](https://github.com/weininghui/skills/tree/main/stock-watcher) — Manage and monitor a personal stock watchlist with support for adding… · [详情](../items/stock-watcher.md) ⌥
+- [strykr-qa-bot](https://github.com/weininghui/skills/tree/main/strykr-qa-bot) — AI-powered QA for Strykr trading platform. Pre-built tests for crypto… · [详情](../items/strykr-qa-bot.md) ⌥
+- [tencent-cloud-cos](https://github.com/weininghui/skills/tree/main/tencent-cloud-cos) — 腾讯云对象存储(COS)和数据万象(CI)集成 - 基于官方MCP服务器的Clawdbot技能 · [详情](../items/tencent-cloud-cos.md) ⌥
+- [tencentcloud-cos-skill](https://github.com/weininghui/skills/tree/main/tencentcloud-cos-skill) — 腾讯云对象存储(COS)和数据万象(CI)集成 - 基于官方MCP服务器的Clawdbot技能 · [详情](../items/tencentcloud-cos-skill.md) ⌥
+- [tiered-memory](https://github.com/weininghui/skills/tree/main/tiered-memory) — EvoClaw Tiered Memory Architecture v2.1.0 - LLM-powered three-tier me… · [详情](../items/tiered-memory.md) ⌥
+- [web-search-plus](https://github.com/weininghui/skills/tree/main/web-search-plus) — Unified search skill with Intelligent Auto-Routing. Uses multi-signal… · [详情](../items/web-search-plus.md) ⌥
+- [zettelkasten](https://github.com/weininghui/skills/tree/main/zettelkasten) — Zettelkasten - Card box note taking system with AI insights · [详情](../items/zettelkasten.md) ⌥
+- [SourceWeft](https://github.com/SourceWeft/SourceWeft) — Open-source, self-hostable alternative to ChatGPT and NotebookLM — ag… · [详情](../items/sourceweft-sourceweft.md) ⌥
+- [mcd-meal-mate](https://github.com/xanthichi/mcd-meal-mate) — M餐搭子：基于麦当劳 MCP 实时菜单与营养数据的智能搭餐 Skill｜在线演示已上线 · [详情](../items/xanthichi-mcd-meal-mate.md) ⌥
+- [weekend-city-trip](https://github.com/liangdabiao/weekend-city-trip) — workbuddy/ codex skill , 一个让 AI 帮你 5 分钟深度调研任意中国城市周末玩法的agent skill, 寻找… · [详情](../items/liangdabiao-weekend-city-trip.md) ⌥
+- [interview-master-skill](https://github.com/chen3tu/interview-master-skill) — 跨 Agent、多语言面试准备 Skill | Codex · WorkBuddy · Claude | JD analysis, tai… · [详情](../items/chen3tu-interview-master-skill.md) ⌥
+- [token-dashboard](https://github.com/fuyi-git/token-dashboard) — WorkBuddy Token 消耗看板 Skill：扫描本机会话日志，生成单文件离线 HTML 看板 · [详情](../items/fuyi-git-token-dashboard.md) ⌥
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — AI Agent Skill for product discovery, requirements engineering, PRDs,… · [详情](../items/franklinxkk-ai-delivery-spec.md) ⌥
+- [WorkBuddy智能体实战课：自定义技能开发，知识库对接，多场景AI…](https://x.com/jglcn1991/status/2099075582537658704) — WorkBuddy智能体实战课：自定义技能开发，知识库对接，多场景AI自动化教学 自定义技能开发，知识库对接，多场景AI自动化教学，从入门… · [详情](../items/workbuddy-ai-55.md) 𝕏
+- [Etsy卖家可以看看EHunt刚上线的AI Agent：自然语言直接问…](https://x.com/changyong007/status/2111020942898147458) — Etsy卖家可以看看EHunt刚上线的AI Agent：自然语言直接问它选品、查竞品、挖关键词，6个电商专属Skill开箱即用；更妙的是能… · [详情](../items/etsy-ehunt-ai-agent.md) 𝕏
+- [我抓取了 WorkBuddy 近 9 万个 Skill、专家和专家团，…](https://x.com/ethlostmoney/status/2125211456115253452) — 我抓取了 WorkBuddy 近 9 万个 Skill、专家和专家团，做了一次完整的市场分析。 发现了几个有意思的反直觉现象： 专家团付费… · [详情](../items/workbuddy-9-skill.md) 𝕏
+- [开学季到了，WorkBuddy还能这样玩。](https://x.com/wukongnotnull/status/2094749381329367519) — 开学季到了，WorkBuddy还能这样玩。 从入学准备、学习规划，到宿舍信息、课堂笔记、英语学习，甚至还能邀请同学一起协作。 更有意思的是… · [详情](../items/workbuddy-527.md) 𝕏
+- [做了个「聚水潭数据分析 Skill」，可以帮一些不懂 AI 的老板做辅…](https://x.com/samdychan/status/2108041045405802589) — 做了个「聚水潭数据分析 Skill」，可以帮一些不懂 AI 的老板做辅助决策！ 思路是利用聚水潭的数据基础，把各个模块通过脚本接口定义出来… · [详情](../items/skill-ai-3.md) 𝕏
+- [别把安装了 AI 工具，就当成拥有了数字员工。](https://x.com/robin_jing/status/2120711603159024035) — 别把安装了 AI 工具，就当成拥有了数字员工。 WorkBuddy 是工作平台，Agent 是任务执行者，Skill 是可复用的工作方法。… · [详情](../items/ai-195.md) 𝕏
+- [在workbuddy做了几个定时任务，定时推送讨论热度最高的AI资讯，…](https://x.com/Kevinxie1037437/status/2124109343671075242) — 在workbuddy做了几个定时任务，定时推送讨论热度最高的AI资讯，推送AI科普知识，还有接入了skills整理我的微信读书笔记等等，A… · [详情](../items/workbuddy-ai-63.md) 𝕏
+- [做ai服务销售的第一个礼拜，昨天被师傅带去上海边缘的一家新能源公司，有…](https://x.com/GGFUN0804/status/2100865083379462351) — 做ai服务销售的第一个礼拜，昨天被师傅带去上海边缘的一家新能源公司，有做空气电池这一类的，我新人期现主要做的是workbuddy企业版会员… · [详情](../items/ai-202.md) 𝕏
+- [🧑‍💻【GitHub 热榜】KKKKhazix/AIHOT前段时间他开…](https://x.com/ppmmzzcn/status/2104927429093634442) — 🧑‍💻【GitHub 热榜】KKKKhazix/AIHOT前段时间他开源了自己每天在用的 AI Skill 合集，GitHub 上两个月就… · [详情](../items/github-kkkkhazix-aihot.md) 𝕏
+- [建议你要高度重视 Workbuddy 这个产品。它的背后，更重要的是整…](https://x.com/andyxqzhang001/status/2078490928931893519) — 建议你要高度重视 Workbuddy 这个产品。它的背后，更重要的是整体的腾讯生态。 分享一下，我今天更新了我的罗盘 skill，主要是用… · [详情](../items/workbuddy-573.md) 𝕏
+- [国模自己检讨吧！：蒸馏的短板...而且这也是“刷漆”，其实严重的多..…](https://x.com/lincolnstark5/status/2087647312265052316) — 国模自己检讨吧！：蒸馏的短板...而且这也是“刷漆”，其实严重的多..， 最近用workbuddy用一堆简中吹上天的狗屁国模.. 我都不相… · [详情](../items/x-65052316.md) 𝕏
+- [活捉一个伪大V，根本没干过，说的头头是道，我又有上架的专家与技能，还有…](https://x.com/ai_chuhai/status/2114827612304392575) — 活捉一个伪大V，根本没干过，说的头头是道，我又有上架的专家与技能，还有使用数据，变现已经开了我没开变现。 为什么？因为这上面骗傻子骗不了几… · [详情](../items/v-2.md) 𝕏
+- [workbuddy，用起来还不错。还在摸索功能，以及如何创建成自己的工…](https://x.com/JackyLau1053187/status/2082006159532388533) — workbuddy，用起来还不错。还在摸索功能，以及如何创建成自己的工作流。 看到x上大家分享的一些skill，感觉还是自己先摸索一下，再… · [详情](../items/workbuddy-639.md) 𝕏
+- [小灰这期出镜挺清楚的，15个技能过完终于知道 WorkBuddy 不该…](https://x.com/wcouu4/status/2100550652565074429) — 小灰这期出镜挺清楚的，15个技能过完终于知道 WorkBuddy 不该只当聊天框用。我先装了热点速览和 IMA 知识库，感觉日常搜资料、往… · [详情](../items/15-workbuddy-3.md) 𝕏

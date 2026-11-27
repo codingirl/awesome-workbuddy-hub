@@ -3,7 +3,7 @@ I=json.load(open('data/items.json'))
 shutil.rmtree('items',ignore_errors=True); os.makedirs('items')
 TN={'skill':'技能（Skills）','workflow':'工作流','tutorial':'教程与指南','knowledge':'知识点与使用技巧','prompt':'提示词','case':'案例与实测','other':'工具与其他资源'}
 TE={'skill':'Skills','workflow':'Workflows','tutorial':'Tutorials & Guides','knowledge':'Knowledge & Tips','prompt':'Prompts','case':'Cases & Reviews','other':'Tools & Misc'}
-CATS=["办公文档","内容创作","数据分析","设计","开发","营销","自动化","学习教程","行业应用","工具集成","效率","其他"]
+CATS=["办公文档","内容创作","数据分析","设计","开发","营销","自动化","学习教程","行业应用","工具集成","效率","官方动态","其他"]
 def esc(s): return re.sub(r'([\[\]])',r'\\\1',s or '').replace('\n',' ')
 def one(s,n=110): 
     s=re.sub(r'\s+',' ',s or '').strip(); return s if len(s)<=n else s[:n-1]+'…'
@@ -51,16 +51,31 @@ f"**{len(I)} 条资源**（技能 {st['skill']} · 工作流 {st['workflow']} ·
 '> ⚠️ 这是第三方、社区整理的索引，非腾讯官方。第三方 Skill/工具使用前请审阅来源、许可证与权限；X 数据采集时间 2026-11-27，详见 [data/README.md](data/README.md)。','',
 '图例：𝕏 = X 上有人分享　⌥ = 收录于开源 GitHub 清单。数据：[data/items.json](data/items.json)。','','## 目录','']
 for t in TN: R.append(f"- [{TN[t]}](#{t}) （{st[t]}）")
+R.append('- [完整清单（lists/）](lists/README.md)')
 R.append('- [数据来源与致谢](#数据来源与致谢)\n- [参与贡献](#参与贡献) · [CONTRIBUTING.md](CONTRIBUTING.md)\n')
+CSLUG={"办公文档":"office","内容创作":"content","数据分析":"data","设计":"design","开发":"dev","营销":"marketing","自动化":"automation","学习教程":"learning","行业应用":"industry","工具集成":"integration","效率":"productivity","官方动态":"official","其他":"other"}
+def feat(it):
+    lk=sum((s.get('likes') or 0) for s in it['sources'])
+    return any(s['source_type']=='github' for s in it['sources']) or it.get('curation')=='curated' or len(it['sources'])>1 or lk>=60
+shutil.rmtree('lists',ignore_errors=True); os.makedirs('lists')
+LI=['# 完整清单（按类型 / 分类）','','README 只展示精选（GitHub 清单收录、人工整理、多来源、X 上 ≥60 赞）；这里是**全部**条目。','']
 for t in TN:
     R+=[f'<a id="{t}"></a>',f'## {TN[t]}','']
+    LI+=[f'## {TN[t]}','']
     grp=collections.defaultdict(list)
     for it in I:
         if it['type']==t: grp[it['category']].append(it)
     for c in CATS:
         if not grp[c]: continue
-        R+=[f"<details{' open' if len(grp[c])<=12 else ''}>",f"<summary><b>{c}</b>（{len(grp[c])}）</summary>",'']
-        R+=[entry(i) for i in grp[c]]+['','</details>','']
+        fn=f"{t}-{CSLUG[c]}.md"
+        allg=sorted(grp[c],key=lambda i:-sum((s.get('likes') or 0) for s in i['sources']))
+        open('lists/'+fn,'w',encoding='utf8').write('\n'.join([f"# {TN[t]} · {c}（{len(allg)}）",'','[← 返回 README](../README.md) · [全部清单](README.md)','']+[entry(i).replace('](items/','](../items/') for i in allg])+'\n')
+        LI.append(f"- [{c}（{len(allg)}）]({fn})")
+        sel=[i for i in allg if feat(i)]
+        R+=[f"<details{' open' if len(sel)<=12 else ''}>",f"<summary><b>{c}</b>（精选 {len(sel)} / 全部 {len(allg)}）</summary>",'']
+        R+=[entry(i) for i in sel]+['',f"👉 [查看该分类全部 {len(allg)} 条](lists/{fn})",'','</details>','']
+    LI.append('')
+open('lists/README.md','w',encoding='utf8').write('\n'.join(LI)+'\n')
 R+=['## 数据来源与致谢','','- **X（Twitter）**：通过 X 公共搜索（关键词含 workbuddy + skill/技能/教程/技巧/工作流/提示词/实测 等，2026-03-08 起）采集并去重，每条保留原帖链接与作者署名。',
 '- GitHub 开源清单（只做索引与链接，简介为简短摘要，内容版权归各项目作者）：',
 '  - [sandbaseai/awesome-workbuddy](https://github.com/sandbaseai/awesome-workbuddy)（CC0）及其在线目录数据',
@@ -76,7 +91,7 @@ open('README.md','w',encoding='utf8').write('\n'.join(R))
 # English readme (compact)
 E=['# Awesome WorkBuddy Collection','','Maintainer: [Azo / 阿佐](https://x.com/azuo_blog) ([@azuo_blog](https://x.com/azuo_blog) on X).','','Thanks to upstream lists: sandbaseai/awesome-workbuddy, semlinker/awesome-workbuddy, AlephAITech/WorkBuddyGuide, yehuzi2026/workbuddy-skills-hub, weininghui/skills, shuangying0001-beep/awesome-workbuddy-skills, and sandbaseai/workbuddy-skill, plus everyone who shared on X.','',f"A curated, de-duplicated index of **{len(I)}** community resources for Tencent **WorkBuddy** (AI desktop work agent): skills, workflows, tutorials, prompts, cases and tips — collected from X (Twitter) posts and several open-source GitHub lists. Each entry links to its original sources.",'',
 f"Skills {st['skill']} · Workflows {st['workflow']} · Tutorials {st['tutorial']} · Knowledge {st['knowledge']} · Prompts {st['prompt']} · Cases {st['case']} · Tools/Other {st['other']}",'',
-'- Full list (Chinese-first descriptions): [README.md](README.md)','- Machine-readable data: [data/items.json](data/items.json); method and limits: [data/README.md](data/README.md)','- Per-item detail pages: [items/](items/)','',
+'- Full list (Chinese-first descriptions): [README.md](README.md)','- Machine-readable data: [data/items.json](data/items.json); method and limits: [data/README.md](data/README.md)','- Per-item detail pages: [items/](items/)','- Complete per-category lists: [lists/](lists/README.md)','',
 '> Unofficial third-party index, not affiliated with Tencent. Review the source, license and permissions before installing any third-party skill.','','## Top shared on X (by likes)','']
 xs=sorted([i for i in I if i['source_type']=='x'],key=lambda i:-sum((s.get('likes') or 0) for s in i['sources']))[:25]
 E+=[f"- [{esc(i['name'])}]({i.get('install_or_link') or i['primary_source_url']}) — {TE[i['type']]} · [details](items/{i['id']}.md)" for i in xs]

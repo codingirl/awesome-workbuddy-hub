@@ -15,10 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HOdT3JmXgAAFcNS.jpg)
-
 ## 所有来源
 
 - X · [蜗牛King 👑 @isnail](https://x.com/isnail/status/2082725631138115866) · 2026-07-30 · 187 赞 / 36 转 / 24444 浏览

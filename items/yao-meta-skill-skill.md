@@ -14,17 +14,12 @@
 
 ## 使用/获取
 
-- 链接：<https://github.com/yaojingang/yao-meta-skill>
 - 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
 - ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HWqrssxWwAAtqLR.jpg)
-
 ## 所有来源
 
-- X · [姚金刚 @yaojingang](https://x.com/yaojingang/status/2119695515822461373) · 2026-11-09 · 42 赞 / 8 转 / 4223 浏览
+- X · [姚金刚 @yaojingang](https://x.com/yaojingang/status/2119695515822461373) · 2026-11-09 · 42 赞 / 8 转 / 4225 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

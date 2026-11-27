@@ -1,6 +1,6 @@
 # One prompt. A whole week of work, d…
 
-> 类型：提示词 ｜ 分类：效率 ｜ 标签：效率
+> 类型：知识点与使用技巧 ｜ 分类：官方动态 ｜ 标签：官方动态
 
 ## 简介
 
@@ -14,7 +14,6 @@ One prompt. A whole week of work, done. We called in WorkBuddy's data…
 
 ## 使用/获取
 
-- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
 
 ## 所有来源
 

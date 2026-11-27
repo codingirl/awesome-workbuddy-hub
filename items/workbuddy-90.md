@@ -1,10 +1,10 @@
-# WorkBuddy保姆级指南｜万字教程
+# WorkBuddy 真正的用法：90%的人不知道这些功能存在
 
-> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
+> 类型：知识点与使用技巧 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
-WorkBuddy保姆级指南｜万字教程
+WorkBuddy 真正的用法：90%的人不知道这些功能存在
 
 ## 详情
 
@@ -15,7 +15,7 @@ WorkBuddy保姆级指南｜万字教程
 
 ## 所有来源
 
-- X · [Judy Learrr @JudyLearrr5llr](https://x.com/JudyLearrr5llr/status/2090716471773294631) · 2026-08-21 · 0 赞 / 5 浏览
+- X · [龙哥不懂代码 @ai_goge](https://x.com/ai_goge/status/2074397469144944854) · 2026-07-07 · 349 赞 / 79 转 / 99657 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

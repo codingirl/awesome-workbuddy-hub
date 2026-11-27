@@ -1,6 +1,6 @@
 # WorkBuddy + Playwright + Lighthouse
 
-> 类型：工作流 ｜ 分类：数据分析 ｜ 标签：数据分析
+> 类型：技能（Skills） ｜ 分类：数据分析 ｜ 标签：数据分析
 
 ## 简介
 
@@ -14,6 +14,8 @@ WorkBuddy + Playwright + Lighthouse 可以制作成一个每天自动检查网�
 
 ## 使用/获取
 
+- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
+- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 

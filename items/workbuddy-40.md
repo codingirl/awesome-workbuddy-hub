@@ -1,25 +1,23 @@
-# 我的天啊！原来 WorkBuddy 的用户规模已经这么夸张了？
+# 如果你用 workbuddy
 
-> 类型：技能（Skills） ｜ 分类：办公文档 ｜ 标签：办公文档
+> 类型：知识点与使用技巧 ｜ 分类：开发 ｜ 标签：开发
 
 ## 简介
 
-我的天啊！原来 WorkBuddy 的用户规模已经这么夸张了？ WorkBuddy：日活超 1300 万 Codex：周活500 万 Cl…
+如果你用 workbuddy 那我不要和你说话 PS：豆包工作现在可以一键导入 codex、claude code 全部配置了，无缝衔接
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 我的天啊！原来 WorkBuddy 的用户规模已经这么夸张了？ WorkBuddy：日活超 1300 万 Codex：周活500 万 Claude Code：周活 680 万、月活 1130 万 千问办公：据称月活 158 万 发动技能：盗版打不过正版！是我孤陋寡闻了，现在马上用起来！
+> 如果你用 workbuddy 那我不要和你说话 PS：豆包工作现在可以一键导入 codex、claude code 全部配置了，无缝衔接
 
 ## 使用/获取
 
-- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
-- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 
-- X · [liftoff @woyaoqifei2027](https://x.com/woyaoqifei2027/status/2111043242045395198) · 2026-10-16 · 44 赞 / 3 转 / 25423 浏览
+- X · [dontbesilent @dontbesilent](https://x.com/dontbesilent/status/2110228069533557218) · 2026-10-14 · 160 赞 / 8 转 / 50268 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

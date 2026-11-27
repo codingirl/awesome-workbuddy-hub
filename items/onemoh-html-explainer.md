@@ -12,12 +12,17 @@
 
 本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
+X 上相关分享（节选）：
+
+> 一个 Agent Skill，Claude Code、OpenAI Codex、WorkBuddy、Cursor 和 Gemini CLI 等工具都能加载。 把调研、解说词、TTS 配音、词级字幕、HTML/CSS/GSAP 画面、MP4 渲染、质量检查和封面生成串成一条本地流水线
+
 ## 使用/获取
 
 - 链接：<https://github.com/OneMoh/html-explainer>
 
 ## 所有来源
 
+- X · [Geek Lite @QingQ77](https://x.com/QingQ77/status/2103499013391593718) · 2026-09-25 · 13 赞 / 5 转 / 2086 浏览
 - GitHub · [OneMoh/html-explainer](https://github.com/OneMoh/html-explainer) · 许可：MIT · stars 326
 
 ---

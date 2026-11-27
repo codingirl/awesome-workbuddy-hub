@@ -1,0 +1,65 @@
+# 提示词 · 设计（61）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [成功拿下 workbuddy 教育权益！](https://x.com/kzd5566/status/2113828489237578020) — 成功拿下 workbuddy 教育权益！ 提示词看原帖子就行。 我用 gpt 生成的，注意，最后一定要说：上述图片用于教学用途。这样一般都… · [详情](../items/workbuddy-22.md) 𝕏
+- [好家伙！有人把 WorkBuddy 的 24 套个人工作台搭建提示词，…](https://pan.zhoulanshare.com/s/20275cd24e0a) — 好家伙！有人把 WorkBuddy 的 24 套个人工作台搭建提示词，直接打包好了！ 每套都配有完整提示词＋风格参考图，选个喜欢的模板，交… · [详情](../items/workbuddy-24.md) 𝕏
+- [42个风格之后，我又给本地生图塞了100个灵感](https://x.com/davinci_seven/status/2087027108610503058) — 你不是不会本地生图，你只是根本不知道画什么。 上一篇8G显卡本地生图发出去以后，评论里先是一堆显存问题：够不够、3060行不行、16G内存… · [详情](../items/42-100.md) 𝕏
+- [I built a neon 3D racing game with …](https://x.com/tec_aryan/status/2123476021190291502) — I built a neon 3D racing game with one prompt. The surprising part is… · [详情](../items/i-built-a-neon-3d-racing-game-with.md) 𝕏
+- [@TencentHunyuan Hy4 can build inter…](https://x.com/mhdfaran/status/2118353451470201054) — @TencentHunyuan Hy4 can build interactive 3D from a single prompt. No… · [详情](../items/tencenthunyuan-hy4-can-build-inter.md) 𝕏
+- [I gave WorkBuddy one prompt: build …](https://x.com/KaiteeShiks/status/2093353562512437268) — I gave WorkBuddy one prompt: build a campaign dashboard I could actua… · [详情](../items/i-gave-workbuddy-one-prompt-build.md) 𝕏
+- [I gave Hy4 Flash and DeepSeek-V4.1-…](https://x.com/GesoraMeshack/status/2123455572465139746) — I gave Hy4 Flash and DeepSeek-V4.1-Flash the same prompt in WorkBuddy… · [详情](../items/i-gave-hy4-flash-and-deepseek-v4-1.md) 𝕏
+- [Just tried Hy4 inside WorkBuddy. On…](https://x.com/this_is_tasnim/status/2118918672073031814) — Just tried Hy4 inside WorkBuddy. One prompt: research the open-source… · [详情](../items/just-tried-hy4-inside-workbuddy-on.md) 𝕏
+- [WTF, I BUILT A FULL 3D GAME WITH ON…](https://x.com/ScottyBeamIO/status/2123518627320365253) — WTF, I BUILT A FULL 3D GAME WITH ONE PROMPT. IT COST ME $0. I describ… · [详情](../items/wtf-i-built-a-full-3d-game-with-on.md) 𝕏
+- [I put DeepSeek-V4.1-Flash-1017, Hy4…](https://x.com/0x_fokki/status/2122644820711645328) — I put DeepSeek-V4.1-Flash-1017, Hy4 flash and Hy4 on the same winter … · [详情](../items/i-put-deepseek-v4-1-flash-1017-hy4.md) 𝕏
+- [Tried Hy4 inside WorkBuddy with one…](https://x.com/EthanPierce_ai/status/2120157350220959760) — Tried Hy4 inside WorkBuddy with one prompt: build an interactive site… · [详情](../items/tried-hy4-inside-workbuddy-with-one.md) 𝕏
+- [🔥 Can AI coding agents build a play…](https://x.com/details_with_ai/status/2125514383828926596) — 🔥 Can AI coding agents build a playable mobile game from just ONE pro… · [详情](../items/can-ai-coding-agents-build-a-play.md) 𝕏
+- [I gave two AI models the exact same…](https://x.com/HeyNayeem/status/2123806333388664872) — I gave two AI models the exact same prompt and asked them to build a … · [详情](../items/i-gave-two-ai-models-the-exact-same.md) 𝕏
+- [准备对WorkBuddy提供的大模型对比测试，大家有什么想测的prom…](https://x.com/xueyu1125/status/2094408376533016880) — 准备对WorkBuddy提供的大模型对比测试，大家有什么想测的prompt可以告诉我 今天先测了Hy4 preview 和 Hy3的对比 … · [详情](../items/workbuddy-prom.md) 𝕏
+- [Deepseek v4.1 Flash （arena） VS HY4 …](https://x.com/leo114119/status/2118344638583255484) — Deepseek v4.1 Flash （arena） VS HY4 +DSH: 为了去除Workbuddy 的影响，我又重新跑了一下： … · [详情](../items/deepseek-v4-1-flash-arena-vs-hy4.md) 𝕏
+- [一套挺省事的 AI 提示词合集值得说说：WorkBuddy 24 套个…](https://pan.quarkn.xyz/s/a04609654620) — 一套挺省事的 AI 提示词合集值得说说：WorkBuddy 24 套个人工作台模板。 提示词和视觉设计这两样最麻烦的，别人已经替你做完了。… · [详情](../items/ai-workbuddy-24.md) 𝕏
+- [WorkBuddy上大模型测试第四弹](https://x.com/xueyu1125/status/2095035327023087630) — WorkBuddy上大模型测试第四弹 继续对比DeepSeek V4 Flash和DeepSeek V4 Pro两个大模型 prompt：… · [详情](../items/workbuddy-135.md) 𝕏
+- [WorkBuddy上大模型测试第二弹](https://x.com/xueyu1125/status/2094672396242604285) — WorkBuddy上大模型测试第二弹 今天对比下Hy4 preview 和 GLM-5.3-Flash prompt来自L总教我的：生成一… · [详情](../items/workbuddy-139.md) 𝕏
+- [WorkBuddy上大模型测试第三弹](https://x.com/xueyu1125/status/2094746503692890194) — WorkBuddy上大模型测试第三弹 继续对比下GLM5.3 、GLM-5.3-Flash、Hy两个大模型 prompt：生成一个svg动… · [详情](../items/workbuddy-149.md) 𝕏
+- [腾讯WorkBuddy+Hy4效果测试](https://x.com/Densitylucky/status/2117981706829676738) — 腾讯WorkBuddy+Hy4效果测试 一段提示词生成了完整的吉卜力风格手绘动漫短片《The Moss Keeper》，日出薄雾森林里，长… · [详情](../items/workbuddy-hy4-4.md) 𝕏
+- [厉害啊！首批Image 2.1图片来了！](https://x.com/PixelAigc/status/2102379299395588497) — 厉害啊！首批Image 2.1图片来了！ 昨晚为了安装Qwen image 2.1，我被workbuddy删除了comfyui 整个目录，… · [详情](../items/image-2-1.md) 𝕏
+- [自己做的网页或者产品视觉不好看怎么办](https://x.com/xiaoerzhan/status/2095370279962689790) — 自己做的网页或者产品视觉不好看怎么办 把这段提示词发给workbuddy 选k3模型 就能得到这样风格的web视觉效果 如果你要修改你已经… · [详情](../items/x-62689790.md) 𝕏
+- [给大家跑出来了一版，我们专属的图片贴纸提示词。](https://x.com/Liu_zhongxisn/status/2098751394841047079) — 给大家跑出来了一版，我们专属的图片贴纸提示词。 连我这种阴影的都可以跑，可以来评论区交作业。 我是用的workbuddy跑的哦 中文版： … · [详情](../items/x-41047079.md) 𝕏
+- [又是临时抱佛脚熬夜做课件的日子，灵感匮乏的我又开始了蛋疼的词元燃烧计划。](https://x.com/libukai/status/2120947987945857381) — 又是临时抱佛脚熬夜做课件的日子，灵感匮乏的我又开始了蛋疼的词元燃烧计划。 让 WorkBuddy 用自带的各种模型，统一测试了一下俺的保留… · [详情](../items/x-45857381.md) 𝕏
+- [之前用Codex或者WorkBuddy调整小程序UI，效率很低。](https://x.com/Love1mothe/status/2087378036773580847) — 之前用Codex或者WorkBuddy调整小程序UI，效率很低。 得先手动截原型图，再在提示词里描述具体的像素和位置。 跑完一轮，AI改得… · [详情](../items/codex-workbuddy-ui.md) 𝕏
+- [最近大部分工作都在 WorkBuddy 里完成。](https://x.com/vincent_ddup/status/2101530831886172593) — 最近大部分工作都在 WorkBuddy 里完成。 以前方案写完以后，还得手动打开 ChatGPT，把内容从 WorkBuddy 复制过去，… · [详情](../items/workbuddy-281.md) 𝕏
+- [本以为我是来给建议的，没想到WorkBuddy的里面设定的高级AI工程…](https://x.com/chango141319/status/2079527543938671022) — 本以为我是来给建议的，没想到WorkBuddy的里面设定的高级AI工程师，还是有点东西。直接甩出带 SVG 路线图的四套整包交付物！逻辑比… · [详情](../items/workbuddy-ai-28.md) 𝕏
+- [Forget one-prompt gimmicks—this is …](https://x.com/danialog_ci/status/2081516514042318975) — Forget one-prompt gimmicks—this is how real AI-assisted game developm… · [详情](../items/forget-one-prompt-gimmicks-this-is.md) 𝕏
+- [又肝出一个 WorkBuddy 的使用技巧⚽️](https://x.com/AgiRay1015/status/2077181308497965340) — 各位佬， 又肝出一个 WorkBuddy 的使用技巧⚽️ 用以下提示词就可以让 WorkBuddy 用 SVG 的信息图来显示你需要的复杂… · [详情](../items/workbuddy-307.md) 𝕏
+- [想给自己搭一个好看的 AI 工作台，但一想到要研究提示词、设计布局、调…](https://x.com/free25925/status/2116711093699748061) — 想给自己搭一个好看的 AI 工作台，但一想到要研究提示词、设计布局、调整界面，就觉得有点麻烦？ 看到有人把 WorkBuddy 的 24 … · [详情](../items/ai-104.md) 𝕏
+- [发现ChatGPT Work更新了可视化prompt，现在md文件里可…](https://x.com/Hazel3141592653/status/2100870227890409706) — 发现ChatGPT Work更新了可视化prompt，现在md文件里可以直接插入svg的可视化，很丝滑。 和workbuddy可视化的思路… · [详情](../items/chatgpt-work-prompt-md.md) 𝕏
+- [使用workbuddy让他通篇阅读小说，](https://x.com/laocao1234/status/2087364684928410019) — 使用workbuddy让他通篇阅读小说， 然后提炼小说细节，他输出超细节生成图片提示词， 效果极好，我最近的电影级画质图片都是这么干出来。 · [详情](../items/workbuddy-330.md) 𝕏
+- [鹈鹕骑自行车 和自行车骑鹈](https://x.com/sakeroux/status/2112473098201284875) — 鹈鹕骑自行车 和自行车骑鹈 相同提示词，同一个模型 dsvf4.1 10.17，分别用 opencode / workbuddy 直连和走… · [详情](../items/x-01284875.md) 𝕏
+- [使用环境：WorkBuddy](https://x.com/Eileeness160708/status/2117888359335178741) — 使用环境：WorkBuddy 使用模型：HY4 提示词：帮我生成一个 HTML 文件，内容是用 SVG 绘制一只鹈鹕骑自行车的 2D 动画… · [详情](../items/workbuddy-337.md) 𝕏
+- [之前看了网上很多 Code 主题截图，后来发现其实都是 AI 图，所以…](https://github.com/croath/CDX-Theme) — 之前看了网上很多 Code 主题截图，后来发现其实都是 AI 图，所以就做了一个真的能换 Codex 和 WorkBuddy 主题的 ap… · [详情](../items/code-ai.md) 𝕏
+- [我用 WorkBuddy 搞了个 100% 本地运行的 Prompt …](https://x.com/potatoarhat/status/2113262380713177530) — 🧵 1/6 我用 WorkBuddy 搞了个 100% 本地运行的 Prompt 结构化翻译器！ 只要把“大白话”扔进去，就能一键翻译成 … · [详情](../items/workbuddy-100-prompt.md) 𝕏
+- [搞笑测试：看到很多大佬在做鹈鹕测试，我也做了一个。平台分别是openc…](https://x.com/Sirilee2026/status/2088266173779685522) — 搞笑测试：看到很多大佬在做鹈鹕测试，我也做了一个。平台分别是openclaw（DeepSeekV4）+workbuddy（hy3）+cod… · [详情](../items/openc.md) 𝕏
+- [不是，我怎么有点看不懂了呢？](https://x.com/dragono64v/status/2111458595703517624) — 不是，我怎么有点看不懂了呢？ Prompt 一字不差：“创建一个 HTML，内容是 SVG 绘制一个鹈鹕骑自行车的 2D 动画” 模型一模… · [详情](../items/x-03517624.md) 𝕏
+- [让ChatGPT写了一段提示词给WorkBuddy + DeepSee…](https://x.com/Airbagsooo/status/2115748860534603843) — 让ChatGPT写了一段提示词给WorkBuddy + DeepSeek-V4.1-Flash 生成一段火烈鸟骑自行车的动画。🦩🚲 效果相… · [详情](../items/chatgpt-workbuddy-deepsee.md) 𝕏
+- [这两天用 workbuddy感觉，对比 opencode](https://x.com/babatombaba/status/2080832662479274010) — 这两天用 workbuddy感觉，对比 opencode 1、可能是系统内置提示词较多，任务处理时间会变成，token消耗也会增多。 2、… · [详情](../items/workbuddy-opencode.md) 𝕏
+- [最近用 ChatGPT 生图最难受的一点：图不错，但字是“画”上去的，…](https://x.com/0xIanyan/status/2088590705887416820) — 最近用 ChatGPT 生图最难受的一点：图不错，但字是“画”上去的，改一个字母等于整张重来。 今天试了 WorkBuddy 的设计功能，… · [详情](../items/chatgpt.md) 𝕏
+- [‘1个人指挥50个Agent，干了20个工程师的活’——这正是2026…](https://x.com/lovlace77788191/status/2119491980401283133) — ‘1个人指挥50个Agent，干了20个工程师的活’——这正是2026年超级个体的标准生产力范式！⚡️ 很多人以为多Agent就是把多个P… · [详情](../items/1-50-agent-20-2026.md) 𝕏
+- [Deepseek V4.1 Flash 鹧鸪骑自行车对比。能力测试。都…](https://x.com/moskiller666/status/2112784665321013256) — Deepseek V4.1 Flash 鹧鸪骑自行车对比。能力测试。都是max档位。 提示词都是：做一个鹧鸪骑自行车而动画。 1. Dee… · [详情](../items/deepseek-v4-1-flash.md) 𝕏
+- [这是我用 Workbuddy 设计模式 生成的一些动效组件的样式提示词…](https://x.com/sera00111/status/2103889037966909511) — 这是我用 Workbuddy 设计模式 生成的一些动效组件的样式提示词如下。（应该不输 opus 5.5 &lt;input&gt;8 到… · [详情](../items/workbuddy-465.md) 𝕏
+- [Google Research liberó Harness²: tu…](https://x.com/YoDevp/status/2111990248502935628) — Google Research liberó Harness²: tu agente de IA mejora sin reentrena… · [详情](../items/google-research-liber-harness-tu.md) 𝕏
+- [Tencent's WorkBuddy built this Chin…](https://x.com/sunt8023/status/2115245946510639338) — Tencent's WorkBuddy built this China AI weekly infographic from one p… · [详情](../items/tencent-s-workbuddy-built-this-chin.md) 𝕏
+- [这几天因为 WorkBuddy/QCoder有免费的积分领并且有一些模…](https://x.com/ikanhoi/status/2116051901716533369) — 这几天因为 WorkBuddy/QCoder有免费的积分领并且有一些模型可以用，所以我新开的这个项目完全由几家不同的/同一个种模型参与开发… · [详情](../items/workbuddy-qcoder.md) 𝕏
+- [📚 发现一套挺省事的 AI 提示词合集：WorkBuddy 24 套个…](https://x.com/xiaoyaoStock/status/2110769133692539291) — 📚 发现一套挺省事的 AI 提示词合集：WorkBuddy 24 套个人工作台模板 最麻烦的提示词和视觉设计，别人已经帮你做好了。 每套都… · [详情](../items/ai-workbuddy-24-2.md) 𝕏
+- [AI Beginner Challenge — Day 2/30 🫡](https://x.com/Kaki67777777/status/2093004245922648350) — AI Beginner Challenge — Day 2/30 🫡 Same prompt. Same task. Different … · [详情](../items/ai-beginner-challenge-day-2-30.md) 𝕏
+- [Tencent WorkBuddy is live. Hunyuan …](https://x.com/ninja_prompt/status/2077108643841863756) — Tencent WorkBuddy is live. Hunyuan model, WeChat integration, runs lo… · [详情](../items/tencent-workbuddy-is-live-hunyuan.md) 𝕏
+- [Many people only focus on prompt en…](https://x.com/AndyAwakeTech/status/2123715264319734184) — Many people only focus on prompt engineering for AI office tools. The… · [详情](../items/many-people-only-focus-on-prompt-en.md) 𝕏
+- [Google Research released Harness², …](https://x.com/aitoolsdirect/status/2112077420303945905) — Google Research released Harness², an open-source framework that refi… · [详情](../items/google-research-released-harness.md) 𝕏
+- [做了一套手绘墨线风开源 SVG 图标库,79 个 / 5 类](https://x.com/jokera2058973/status/2094648091882508347) — 做了一套手绘墨线风开源 SVG 图标库,79 个 / 5 类 DrawnSVG最最大的优势不是图标——而是「Copy install pr… · [详情](../items/svg-79-5.md) 𝕏
+- [用workbuddy 搭配 Kimi K3.1 pro](https://x.com/ktkid_lab/status/2119703864865632607) — 用workbuddy 搭配 Kimi K3.1 pro Prompt：“请使用 Three.js 创作一个主题为《时间的尽头》的 3D 交… · [详情](../items/workbuddy-kimi-k3-1-pro-2.md) 𝕏
+- [Workbuddy+hy4做出来的时间的尽头效果。](https://x.com/dboy_yi2025/status/2119648944162742578) — Workbuddy+hy4做出来的时间的尽头效果。 Prompt： 请使用 Three.js 创作一个主题为《时间的尽头》的 3D 交互式… · [详情](../items/workbuddy-hy4-11.md) 𝕏
+- [说真的，在 WorkBuddy 里生图，别直接选生图模型。](https://x.com/si_juzi/status/2113090157201260999) — 说真的，在 WorkBuddy 里生图，别直接选生图模型。 群里有人摸出个更好用的办法：选语言模型，把 API 地址和 key 交给它，告… · [详情](../items/workbuddy-544.md) 𝕏
+- [同一段中文提示词，同一个 WorkBuddy，GPT-6-astra …](https://x.com/Amberhupo01/status/2116387474008359117) — 同一段中文提示词，同一个 WorkBuddy，GPT-6-astra 和 DeepSeek-V4.1-Flash 各做一段 20 秒的纯代… · [详情](../items/workbuddy-gpt-6-astra.md) 𝕏
+- [找到一套挺省事的 AI 提示词合集：WorkBuddy 24 套个人工…](https://x.com/zhengye923/status/2109595769762374133) — 找到一套挺省事的 AI 提示词合集：WorkBuddy 24 套个人工作台模板。 最麻烦的提示词和视觉设计，别人已经帮你做好了。 每套都配… · [详情](../items/ai-workbuddy-24-3.md) 𝕏
+- [在workbuddy里调用api生成图片，prompt给它，先帮我审核…](https://x.com/dankzheng/status/2083070499693949297) — 在workbuddy里调用api生成图片，prompt给它，先帮我审核一遍，然后回复我里面有些描述太直白，可能会被生图模型拒绝。然后它自己… · [详情](../items/workbuddy-api-prompt.md) 𝕏
+- [好家伙，WorkBuddy 24套个人工作台搭建提示词有人打包了！每套…](https://a.gooba.cn/r/MJ6XwpOW) — 好家伙，WorkBuddy 24套个人工作台搭建提示词有人打包了！每套配完整提示词+风格参考图，挑个模板交给AI就能搭，不用研究提示词，也… · [详情](../items/workbuddy-24-7.md) 𝕏
+- [一句话提示词:生成一个鹈鹕骑自行车的SVG，用H5展示。豆包赢麻了😂](https://x.com/Ace0514666/status/2096567512947421266) — 一句话提示词:生成一个鹈鹕骑自行车的SVG，用H5展示。豆包赢麻了😂 #claude #chatgpt #千问 #workbuddy #豆包 · [详情](../items/svg-h5.md) 𝕏

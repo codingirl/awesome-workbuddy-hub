@@ -2,7 +2,7 @@ import json,sys,re
 def load(p):
     s=open(p).read()
     i=s.index('{"')
-    return json.JSONDecoder().raw_decode(s[i:])[0]
+    return json.JSONDecoder(strict=False).raw_decode(s[i:])[0]
 if __name__=='__main__':
     d=load(sys.argv[1]); print(d.get('meta'), len(d['data']))
     users={u['id']:u for u in d.get('includes',{}).get('users',[])}

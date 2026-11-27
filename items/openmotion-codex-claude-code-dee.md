@@ -1,6 +1,6 @@
 # OpenMotion 支持 Codex、Claude Code、Dee…
 
-> 类型：工作流 ｜ 分类：内容创作 ｜ 标签：内容创作
+> 类型：知识点与使用技巧 ｜ 分类：内容创作 ｜ 标签：内容创作
 
 ## 简介
 
@@ -14,10 +14,6 @@ OpenMotion 支持 Codex、Claude Code、DeepSeek Harness、WorkBuddy 等 20+ Age
 
 ## 使用/获取
 
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HXUqTkAbwAAC7H5.jpg)
 
 ## 所有来源
 

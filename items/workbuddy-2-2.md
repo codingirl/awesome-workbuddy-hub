@@ -15,10 +15,6 @@ WorkBuddy 的定时任务目前跑2个任务： 1. 更新 Token 羊毛网站：�
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HRDKIRzX0AE7A8z.png)
-
 ## 所有来源
 
 - X · [Serena 木瓜 @369Serena](https://x.com/369Serena/status/2094397206140780775) · 2026-08-31 · 56 赞 / 17 转 / 8410 浏览

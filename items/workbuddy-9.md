@@ -1,27 +1,21 @@
-# WorkBuddy 强制更新后技能被清空的反馈
+#  万字长文｜WorkBuddy 从入门到精通
 
-> 类型：知识点与使用技巧 ｜ 分类：其他 ｜ 标签：其他
+> 类型：教程与指南 ｜ 分类：学习教程 ｜ 标签：学习教程
 
 ## 简介
 
-用户反馈 WorkBuddy 更新后原先安装的技能被清空
+万字长文｜WorkBuddy 从入门到精通
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
-> 腾讯也够快的，被openclaw创始人投诉后，立刻强制更新workbuddy，然后把所有技能删的一干二净。之前装的都没了。
+本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HDN9BKBawAAmOR-.png)
-
 ## 所有来源
 
-- X · [MindfulReturn 身心修复局 @MindfulReturn](https://x.com/MindfulReturn/status/2032105589766307947) · 2026-03-12 · 698 赞 / 27 转 / 315954 浏览
+- X · [Miles Ma @miles_mazy](https://x.com/miles_mazy/status/2090727310257430759) · 2026-08-21 · 1268 赞 / 299 转 / 442964 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

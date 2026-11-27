@@ -1,27 +1,24 @@
-# workbuddy还挺好用的，主要他免费呀现在
+# 腾讯的 WorkBuddy 简直神了！体验一圈下来，没想到远远超出我的…
 
-> 类型：工作流 ｜ 分类：内容创作 ｜ 标签：内容创作
+> 类型：案例与实测 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
-workbuddy还挺好用的，主要他免费呀现在 今天尝试把直播切片的工作流用workbuddy来做 因为整个工作流更多的是用本地模型whi…
+腾讯的 WorkBuddy 简直神了！体验一圈下来，没想到远远超出我的预期。 总结一下我的几个感受： 1. 它不是普通聊天机器人，而是一个…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> workbuddy还挺好用的，主要他免费呀现在 今天尝试把直播切片的工作流用workbuddy来做 因为整个工作流更多的是用本地模型whisper去音频转录+ CPU去渲染视频 大模型仅用作切片位置识别和逐字稿校对 搭配总结好的skill 国产模型也可以做的很好 等我确认下没太大问题就开源出来给大家试试
+> 腾讯的 WorkBuddy 简直神了！体验一圈下来，没想到远远超出我的预期。 总结一下我的几个感受： 1. 它不是普通聊天机器人，而是一个桌面 AI Agent 工作台 很多 AI 工具还是“你问一句，它答一句”。 但 WorkBuddy 更像是你给它一个任务，它通过 skills、connectors、automation 和本地 sandbox
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HOJqQYjawAAC7jY.jpg)
-
 ## 所有来源
 
-- X · [Jasper Wei @Jasper_Wei1](https://x.com/Jasper_Wei1/status/2081344012175417793) · 2026-07-26 · 11 赞 / 2239 浏览
+- X · [Rion Wu @rionaifantasy](https://x.com/rionaifantasy/status/2066519047945203917) · 2026-06-15 · 88 赞 / 14 转 / 19087 浏览
+- X · [青渊（只看规则 不看盈亏） @cxf625812](https://x.com/cxf625812/status/2066666608697979292) · 2026-06-15 · 0 赞 / 3 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

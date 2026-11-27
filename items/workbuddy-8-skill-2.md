@@ -1,16 +1,16 @@
-# WorkBuddy 8 个搞钱必装 Skill｜接单变现篇
+# Workbuddy 必装的 8 个 skill：
 
-> 类型：技能（Skills） ｜ 分类：内容创作 ｜ 标签：内容创作
+> 类型：技能（Skills） ｜ 分类：自动化 ｜ 标签：自动化
 
 ## 简介
 
-WorkBuddy 8 个搞钱必装 Skill｜接单变现篇 做代运营、接单、AI 服务的，可以直接抄作业。 我筛了 8 个真正能落地变现的…
+Workbuddy 必装的 8 个 skill： 1.Find Skills：根据需求从技能库挑选适配技能 2.Self Improvin…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> WorkBuddy 8 个搞钱必装 Skill｜接单变现篇 做代运营、接单、AI 服务的，可以直接抄作业。 我筛了 8 个真正能落地变现的 Skill 每一个都能包装成标准化付费服务 1️⃣ xhs-ops｜小红书代运营 账号定位、爆款选题、文案仿写、数据复盘。 可以交付账号诊断、内容规划、起号方案。 2️⃣
+> Workbuddy 必装的 8 个 skill： 1.Find Skills：根据需求从技能库挑选适配技能 2.Self Improving:AI 错题本，记录纠正内容避免重复犯错 3.Skill Creator：自定义创建新技能，后续一句话就能复用 4.ProactiveAgent：打破一问一答，AI 可生动自主开展工作
 
 ## 使用/获取
 
@@ -19,7 +19,9 @@ WorkBuddy 8 个搞钱必装 Skill｜接单变现篇 做代运营、接单、AI �
 
 ## 所有来源
 
-- X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2077766635679862955) · 2026-07-16 · 92 赞 / 28 转 / 8018 浏览
+- X · [溺心海·Aven @NIxinhai0](https://x.com/NIxinhai0/status/2115110247132238190) · 2026-10-27 · 180 赞 / 23 转 / 10396 浏览
+- X · [毛哥 @bansen17](https://x.com/bansen17/status/2115296932616982648) · 2026-10-28 · 1 赞 / 175 浏览
+- X · [溺心海·Aven @NIxinhai0](https://x.com/NIxinhai0/status/2115110060993204256) · 2026-10-27 · 1 赞 / 5 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

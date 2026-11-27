@@ -1,0 +1,187 @@
+# 技能（Skills） · 办公文档（183）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [WorkBuddy 必装的 10 个 Skill 神器](https://x.com/iluciddreaming/status/2073301795762553184) — WorkBuddy 必装的 10 个 Skill 神器 用了两个月 WorkBuddy，一开始觉得也就那样。 直到把这 10 个技能装上去… · [详情](../items/workbuddy-10-skill.md) 𝕏
+- [Workbuddy最搞钱的8个skill](https://x.com/Layla_KCEX/status/2076660274770440452) — Workbuddy最搞钱的8个skill 1 xhs-ops 小红书代运营 账号定位 + 爆款选题 + 文案仿写 + 数据复盘 接单用来做… · [详情](../items/workbuddy-8-skill.md) 𝕏
+- [qwskill 开源「升维 Skill」：跳出当前局部视角，从更高维度找到正确解法](https://x.com/QianWenFlow/status/2117930213787238500) — qwskill 新开源了一个「升维 Skill」。问题反复出现，你却说不清它出在哪，怎么改都不对，甚至觉得自己被困住了，这时候就可以用它找… · [详情](../items/qwskill-skill.md) 𝕏
+- [经常用 Obsidian 当第二大脑的，推荐一定要去用一下 WorkB…](https://x.com/ai_suxiaole/status/2095414239485734994) — 经常用 Obsidian 当第二大脑的，推荐一定要去用一下 WorkBuddy 我一直在用workbuddy 它在国内更适合个人办公和内容… · [详情](../items/obsidian-workb.md) 𝕏
+- [兄弟们，现在 Agent 终于能正大光明操纵企微了！！🎉](https://x.com/aikangarooking/status/2089543250571088354) — 兄弟们，现在 Agent 终于能正大光明操纵企微了！！🎉 昨晚，企业微信官方开源的 wecom-cli，仓库已经 2.7k Star。这次… · [详情](../items/agent-4.md) 𝕏
+- [Opus 5.5做视频很好，但是我没有Claude账号咋办？](https://x.com/Nutllwhy/status/2110243172781875298) — Opus 5.5做视频很好，但是我没有Claude账号咋办？ 没关系，我把Opus做视频的逻辑沉淀下来做了一个skill，第一个视频是用5… · [详情](../items/opus-5-5-claude.md) 𝕏
+- [看到很多人用 WorkBuddy 做日常办公和自媒体，整理了几个实测最…](https://x.com/cheery9998/status/2124817854700945617) — 看到很多人用 WorkBuddy 做日常办公和自媒体，整理了几个实测最省时间的技能和设置，分享给大家。 如果平时要追热点、整理资料、跨软件… · [详情](../items/workbuddy-59.md) 𝕏
+- [想卖 Skill，不知道上架到哪里？](https://x.com/gaojingyu/status/2114215518127198235) — 想卖 Skill，不知道上架到哪里？ 整理了一下国内外已经支持付费 Skill 的市场。不同平台背后的生态、用户和商业模式，差别还挺大。 … · [详情](../items/skill-8.md) 𝕏
+- [再推荐两个好用的 WorkBuddy 技能：](https://x.com/XiaohuiAI666/status/2089922330290188304) — 再推荐两个好用的 WorkBuddy 技能： 1. agent‑browser 浏览器自动化技能，可访问网页、抓取页面信息、提取文档与竞品… · [详情](../items/workbuddy-95.md) 𝕏
+- [Zhijian Skills](https://github.com/zjp1997720/zhijian-skills) — MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档、版本与校验信息，并包含明确面向 WorkBudd… · [详情](../items/zhijian-skills.md) 𝕏 ⌥
+- [除了读书skill，这6个SKill 建议使用Workbuddy 的同…](https://x.com/ai_suxiaole/status/2077396824395223530) — 除了读书skill，这6个SKill 建议使用Workbuddy 的同学也都安上 1. agent-browser直接打开网页、抓取最新信… · [详情](../items/skill-6-skill-workbuddy.md) 𝕏
+- [Workbuddy作为国内最流行的Agent，](https://x.com/liyue_ai/status/2117893020255490076) — Workbuddy作为国内最流行的Agent， 上面安装量最大的Skill依然是Work，PPT和EXCEL相关。 时间线上都是各种神仙S… · [详情](../items/workbuddy-agent-6.md) 𝕏
+- [必须装WorkBuddy 8个SKILL技能插件](https://x.com/ai_suxiaole/status/2072864151161249957) — 必须装WorkBuddy 8个SKILL技能插件 - Web Search : 搜索摘要 - Agent Browser: 打开目标网页获… · [详情](../items/workbuddy-8-skill-4.md) 𝕏
+- [WorkBuddy蓝皮书｜从入门到AI团队实战](https://x.com/FoF4725/status/2093720578947776792) — WorkBuddy蓝皮书｜从入门到AI团队实战 一套系统掌握WorkBuddy的实战指南，从安装、Skill、连接器到自动化、多Agent… · [详情](../items/workbuddy-ai-14.md) 𝕏
+- [AI 资料合集（持续更新）：](https://pan.quark.cn/s/2a77f9323697) — AI 资料合集（持续更新）： WorkBuddy 多场景 AI 办公、Vibe Coding 一人团队开发实战、AI 算法工程师带源码课件… · [详情](../items/ai-38.md) 𝕏
+- [🚀大写的牛逼！WorkBuddy 蓝皮书来了！](https://x.com/Lonely__MH/status/2076587220740546703) — 🚀大写的牛逼！WorkBuddy 蓝皮书来了！ 大致浏览了一下，真的是从入门 到 精通！ 你可以从下载安装和第一个任务开始，再进入 Ski… · [详情](../items/workbuddy-129.md) 𝕏
+- [每次打开md文档](https://github.com/wan9x1aomao/markcune) — 每次打开md文档 总是给我跳到那个workbuddy打开 实在是受不了，就自己写了一个 更新了几轮之后，发出来大家一起用好了 欢迎各位大佬… · [详情](../items/md.md) 𝕏
+- [AI时代的简历制作方式「resume-skills」的超全教程！快来更新你的简历吧，使用 「Workbuddy」 全流程教学](https://x.com/chasen_liao/status/2077689805752942619) — AI时代的简历制作方式「resume-skills」的超全教程！快来更新你的简历吧，使用 「Workbuddy」 全流程教学 · [详情](../items/ai-resume-skills-workbuddy.md) 𝕏
+- [WorkBuddy 的Skill 市场太好用了！](https://x.com/CryY666666/status/2122199573380866485) — WorkBuddy 的Skill 市场太好用了！ 1. 点击左侧「专家·技能·连接器」。 2. 进入「技能」页面。 3. 在技能市场搜索需… · [详情](../items/workbuddy-skill-21.md) 𝕏
+- [如果你正在使用 WorkBuddy，这 8 个实用 Skill 建议你…](https://x.com/Fred834567/status/2110759578132791736) — 如果你正在使用 WorkBuddy，这 8 个实用 Skill 建议你了解一下。 装对以后，很多原本需要手动完成的工作，都可以直接交给 A… · [详情](../items/workbuddy-8-skill-5.md) 𝕏
+- [别再去卷大模型了！腾讯新出的WorkBuddy才是普通人的搞钱神器。](https://x.com/mythsblack/status/2117287196428206419) — 别再去卷大模型了！腾讯新出的WorkBuddy才是普通人的搞钱神器。 把Word转PDF这种刚需封装成技能模块，定价1块钱，解决用户痛点。… · [详情](../items/workbuddy-184.md) 𝕏
+- [如果不想用openclaw，可以试试workbuddy](https://x.com/indie_maker_fox/status/2038768323551535259) — 如果不想用openclaw，可以试试workbuddy 支持各种im工具，包括微信clawbot和飞书 支持自定义模型，可以绑定各种cod… · [详情](../items/openclaw-workbuddy-3.md) 𝕏
+- [Google Research 开源了 Harness²：模型权重冻住…](https://x.com/Daviswh/status/2112140915221664001) — 这方向对。 Google Research 开源了 Harness²：模型权重冻住，只改外面的 harness（提示词、工具、记忆、技能、… · [详情](../items/google-research-harness-3.md) 𝕏
+- [WorkBuddy 小白教程来了](https://x.com/gaoren7716/status/2093282442522022351) — WorkBuddy 小白教程来了 不是泛泛讲功能 而是从下载安装到第一个任务 把每一步都配图拆开 文件怎么传 权限怎么设 连接器、Skil… · [详情](../items/workbuddy-195.md) 𝕏
+- [0基础普通人AI编程，不用手写一行代码，AI开发到上架全流程，普通人也…](https://pan.baidu.com/s/1Ly8OMGOexMhlQXTVmHB4Bw?pwd=jekv) — 0基础普通人AI编程，不用手写一行代码，AI开发到上架全流程，普通人也能做出自己的软件 职场人AI提效神器WorkBuddy实战课，从基础… · [详情](../items/0-ai-ai.md) 𝕏
+- [大厂下场，AI 变现迎来新玩法。](https://x.com/LiangXiong_chat/status/2124841090398535733) — 大厂下场，AI 变现迎来新玩法。 腾讯 WorkBuddy 开放 AI 技能变现通道。 个人封装的工作流、技能都能直接上架售卖。 支持一次… · [详情](../items/ai-66.md) 𝕏
+- [《WorkBuddy 从零上手｜AI 办公全景课》](https://pan.quark.cn/s/157571165ef6) — 《WorkBuddy 从零上手｜AI 办公全景课》 11 章 37 节课，从安装和第一个任务讲起，覆盖提示词、文件处理、文档生成、数据分析… · [详情](../items/workbuddy-ai-24.md) 𝕏
+- [国内最好用的办公agent ,Workbuddy；推荐必装插件、skill](https://x.com/andyruice/status/2073005191310594507) — 国内最好用的办公agent ,Workbuddy；推荐必装插件、skill · [详情](../items/agent-workbuddy-skill.md) 𝕏
+- [想不到Workbuddy现在更新这么快，职场办公六技能，技术开发四技能…](https://x.com/XFENG999/status/2088108822833602866) — 想不到Workbuddy现在更新这么快，职场办公六技能，技术开发四技能，内容五技能，我可能只需要几个技能就够用了，重点是可以封装重复的工作… · [详情](../items/workbuddy-253.md) 𝕏
+- [身边一个朋友告诉我，他用 WorkBuddy + 开源 Skills，…](https://x.com/ai_goge/status/2100554738781893111) — 身边一个朋友告诉我，他用 WorkBuddy + 开源 Skills，给客户做 AI 自动化赚了 3000 块。 我研究了一下，发现思路其… · [详情](../items/workbuddy-skills-7.md) 𝕏
+- [市面上所有PPT skill 几乎我都测试过，最后我在线下培训只推荐大…](https://x.com/zjp1997720/status/2065016865605456039) — 市面上所有PPT skill 几乎我都测试过，最后我在线下培训只推荐大家用 PPT master ，底层原理使用 svg 画 PPT ，所… · [详情](../items/ppt-skill.md) 𝕏
+- [3月上线至今，腾讯WorkBuddy接了90多亿个任务请求。](https://x.com/ahsuzm/status/2116080975088423181) — 3月上线至今，腾讯WorkBuddy接了90多亿个任务请求。 覆盖50多个行业，中国500强一半在用，背后有5万多开发者、20多万个技能。… · [详情](../items/3-workbuddy-90.md) 𝕏
+- [试用了一下腾讯的WorkBuddy和阿里的QoderWork，感觉办公…](https://x.com/ttttinyfish/status/2031208803287679213) — 试用了一下腾讯的WorkBuddy和阿里的QoderWork，感觉办公新时代已来 OpenClaw封装成桌面应用，添加skill之后在细分… · [详情](../items/workbuddy-qoderwork.md) 𝕏
+- [Workbuddy 做PPT最方便的是](https://x.com/Re7_AI/status/2103113740451491956) — Workbuddy 做PPT最方便的是 把各种PPT skills都给你预装好了 不需要你去Github上找 非常方便 以后老板让你做PP… · [详情](../items/workbuddy-ppt-5.md) 𝕏
+- [对国内来说，workbuddy是codex的平替，因为大部分人没有写代…](https://x.com/moondeerai/status/2075098474543255567) — 对国内来说，workbuddy是codex的平替，因为大部分人没有写代码的需求，画图的最大需求是ppt，满足一些日常办公的需求即可，也不需… · [详情](../items/workbuddy-codex-5.md) 𝕏
+- [谢大怂 | AI skill](https://github.com/GordenSun/GordenPPTSkill) — 【谢大怂 | AI skill】 明天周一开会的PPT做了吗？ 教你快速做好你的PPT。 第一步：打开你的codex/claude/wor… · [详情](../items/ai-skill-5.md) 𝕏
+- [模型给 Agent 一个脑子，Skill 才给它一双手。](https://x.com/smardio/status/2079827507206045949) — 模型给 Agent 一个脑子，Skill 才给它一双手。 在重庆的一天，我把调研、筛选和设计交给 C3PO 与 TARS：97 个现成技能… · [详情](../items/agent-skill-3.md) 𝕏
+- [不仅如此，可以试下做ppt](https://x.com/indie_maker_fox/status/2112720970582814808) — 不仅如此，可以试下做ppt 用workbuddy内置的技能制作ppt，效果比大部分开源项目skills制作的ppt更好，而且可以直接编辑或… · [详情](../items/ppt.md) 𝕏
+- [普通人最适合的办公Agent是啥？](https://x.com/CyanCloud77/status/2095700294483300679) — 普通人最适合的办公Agent是啥？ 前段时间教女友AI，试了WorkBuddy，Trae Work，没一个满意的。 WorkBuddy连G… · [详情](../items/agent-26.md) 𝕏
+- [发了一个月内容，复盘还在手动翻表、拼报告？](https://x.com/XiaAIBuilder/status/2115255018127520016) — 发了一个月内容，复盘还在手动翻表、拼报告？ 准备在 WorkBuddy 上架付费 Skill「社媒运营复盘 Pro」，用导出的数据生成运营… · [详情](../items/x-27520016.md) 𝕏
+- [WorkBuddy 全套AI提效实战课：Codex+OpenClaw自…](https://pan.quark.cn/s/5049a8d1a442) — WorkBuddy 全套AI提效实战课：Codex+OpenClaw自定义Skill教程，共24节视频，涵盖任务管理、文件整理、会议纪要、… · [详情](../items/workbuddy-ai-codex-openclaw.md) 𝕏
+- [试了一下腾讯的workbuddy龙虾，](https://x.com/jiamibingdi/status/2032455614236909716) — 试了一下腾讯的workbuddy龙虾， 一开始笨笨的，像刚工作的小朋友 让他写工作纪录，添加了腾讯文档的skill 写一半 说无法修改，要… · [详情](../items/workbuddy-358.md) 𝕏
+- [这是我做的开源求职 Skill「Job Fit」🧵](https://x.com/dream1y50p/status/2105217166660481210) — 这是我做的开源求职 Skill「Job Fit」🧵 把简历和 JD 发给它：告诉你值不值得投，再写一份定制简历。 v0.3.0 新增： ·… · [详情](../items/skill-job-fit.md) 𝕏
+- [今天腾讯正式推出全场景AI智能体 WorkBuddy，深度兼容开源项目…](https://x.com/daizhe9898/status/2030953342957219958) — 今天腾讯正式推出全场景AI智能体 WorkBuddy，深度兼容开源项目 OpenClaw（小龙虾），免部署、开箱即用，让桌面AI Agen… · [详情](../items/ai-workbuddy-21.md) 𝕏
+- [把文档丢给 Agent，出一份能改的 PPT](https://x.com/ChinaAIDaily/status/2125434004807786879) — 把文档丢给 Agent，出一份能改的 PPT chuspeeism/dashi-ppt-skill 是给职场人的 PPT 技能：12 套主… · [详情](../items/agent-ppt.md) 𝕏
+- [写标书最烦的就是啃招标文件、逐条对评分项。我把整套流程做成了一个 AI…](https://x.com/Alexqnih5/status/2122032045257838766) — 写标书最烦的就是啃招标文件、逐条对评分项。我把整套流程做成了一个 AI skill，开源免费👇 · 自动解析招标文件、拆评分点和废标项 ·… · [详情](../items/ai-135.md) 𝕏
+- [workbuddy搞了个金融版，在业内大肆宣讲，大概就是将封装好的ag…](https://x.com/yuting_tiana/status/2103025202561212893) — workbuddy搞了个金融版，在业内大肆宣讲，大概就是将封装好的agent/skill集合，称之为“专家”，想对银行、保险这种人傻钱多的… · [详情](../items/workbuddy-ag.md) 𝕏
+- [装了 WorkBuddy，先挑一两个贴近手头任务的 Skill。](https://x.com/Pepper12189/status/2125052275978912245) — 装了 WorkBuddy，先挑一两个贴近手头任务的 Skill。 这期用 8 个例子讲清：找技能、记规则、复用流程、补缺口，以及图表、文稿… · [详情](../items/workbuddy-skill-69.md) 𝕏
+- [10 月 21 日，JFrog 发布《2026 软件供应链安全现状》报…](https://x.com/arster27/status/2114318257620759022) — 10 月 21 日，JFrog 发布《2026 软件供应链安全现状》报告，统计到 969 个携带高危载荷（high-impact payl… · [详情](../items/10-21-jfrog-2026.md) 𝕏
+- [Workbuddy里面的股票skill有点意思，让他帮我做了一个下半年…](https://x.com/Ju_Jason_2024/status/2083014365398360373) — Workbuddy里面的股票skill有点意思，让他帮我做了一个下半年“算力 vs 人型机器人”的圆桌论坛对比研判报告，节选部分核心内容放… · [详情](../items/workbuddy-skill-72.md) 𝕏
+- [Workbuddy能上架 AI 技能赚钱了，规则就五条。](https://x.com/XiaoChen94969/status/2114639770458767785) — Workbuddy能上架 AI 技能赚钱了，规则就五条。 1完成实名开发者认证，就能上架。 2能上架办公自动化、数据处理、自媒体工作流都行… · [详情](../items/workbuddy-ai-40.md) 𝕏
+- [分享一个workbuddy整理合集，配合文档 + 视频 + 实战案例基…](https://x.com/bian_bx57386/status/2090101873936371807) — 分享一个workbuddy整理合集，配合文档 + 视频 + 实战案例基本可以从0直接上手 下面16条我按照「先认识 → 从 0 上手 → … · [详情](../items/workbuddy-410.md) 𝕏
+- [workbuddy➕skill生成的ppt](https://x.com/LClechen/status/2108383734672327035) — 笑死我了 workbuddy➕skill生成的ppt 秒杀百分之99的人手搓 花一分钟不到做出来的ppt 被老师说ppt很不错 笑死我了 … · [详情](../items/workbuddy-skill-ppt.md) 𝕏
+- [盘点 WorkBuddy 15个宝藏技能，调研、笔记、简历、PPT、小…](https://x.com/happy20250912/status/2100552185553785092) — 盘点 WorkBuddy 15个宝藏技能，调研、笔记、简历、PPT、小红书封面都覆盖了。技能市场东西太多，这种帮筛一遍的真香 · [详情](../items/workbuddy-15-ppt.md) 𝕏
+- [SenseNova Skills](https://github.com/OpenSenseNova/SenseNova-Skills) — MIT 许可的 Agent Skills 集合，覆盖图片生成、信息图、PPT、Excel 和深度研究；其中 PPT 工作台 Skill 明… · [详情](../items/sensenova-skills.md) ⌥
+- [oh-my-workbuddy](https://github.com/mrzhangguoguo/oh-my-workbuddy) — MIT 许可的 WorkBuddy Skill 组合，提供 46 个目录化 Skill、用户级/项目级安装、双语文档和零运行时依赖 · [详情](../items/oh-my-workbuddy.md) ⌥
+- [WorkBuddy Skills Collection](https://github.com/yinqd3/workbuddy-skills) — MIT 许可的 7 个 WorkBuddy Skill 集合，覆盖学术研究、前端幻灯片、知识库检查、macOS 维护、PPTX 生成、工程… · [详情](../items/workbuddy-skills-collection.md) ⌥
+- [WorkBuddy AI Agent Skills Collection](https://github.com/Tugoukezhang/workbuddy-skills) — 汇总 78 个 WorkBuddy Skill，覆盖游戏、前端、后端、文档、AI 创作、腾讯/微信和 Agent 工具 · [详情](../items/workbuddy-ai-agent-skills-collection.md) ⌥
+- [WeChat Mini Program Virtual Payment Skill](https://github.com/beeyang0/miniprogram-VirtualPayment) — MIT 许可、仅含文档的虚拟支付接入 Skill，覆盖道具直购、代币充值、iOS 路由、签名、回调幂等、错误排查和上线清单 · [详情](../items/wechat-mini-program-virtual-payment-skill.md) ⌥
+- [QingFeng Skills](https://github.com/chenwg001/qingfengskill) — MIT 许可、以 WorkBuddy 为主的 17 个教育工作与内容生产 Skill 集合，覆盖写作、PPT、图文/视频制作、平台草稿发布… · [详情](../items/qingfeng-skills.md) ⌥
+- [Image Skill](https://github.com/Mariposa-FLOA/image-skill) — 面向 WorkBuddy、Codex 等 Agent 的 17 个视觉 Skill，覆盖海报设计、图像工作流、翻页展示与分层 PSD 导出… · [详情](../items/image-skill.md) ⌥
+- [Personal User Manual Skill](https://github.com/NI9N/gerenshiyongshuomingshu) — MIT 许可、零依赖的 WorkBuddy 个人使用说明书 Skill，基于多轮自我认知教练流程整理价值观、才能和热情，经过证伪关后生成可… · [详情](../items/personal-user-manual-skill.md) ⌥
+- [WorkBuddy Skills](https://github.com/bitcjm/workbuddy-skills) — 涵盖创作、编程、办公和通用工具的 Skill 集合 · [详情](../items/workbuddy-skills.md) ⌥
+- [Kunpeng Skill](https://github.com/hufeng173/kunpeng-skill) — 面向 WorkBuddy、Codex、Claude Code 等 Agent 的 Apache-2.0 多源蒸馏 Skill，可从代码、网… · [详情](../items/kunpeng-skill.md) ⌥
+- [Agent Analytics Report](https://github.com/Elisabeth15501/agent-analytics-report) — MIT 许可、原生支持 WorkBuddy 的用量分析 Skill，读取本地会话/用量数据生成 Token、缓存、模型成本与异常报告，支持… · [详情](../items/agent-analytics-report.md) ⌥
+- [BadWeWrite 损友风公众号写作](https://github.com/KieranHoward646/BadWeWrite) — MIT 许可、明确支持 WorkBuddy 的公众号写作 Skill，用反讽和口语化风格生成文章，同时要求具体事实有来源并经过双门审稿；提… · [详情](../items/badwewrite.md) ⌥
+- [赛博书屋](https://github.com/Raven7979/cyber-bookhouse) — MIT 许可的本地 Obsidian 内容沉淀 Skill，支持 Codex、Claude 和 WorkBuddy，将文章、视频与播客整理… · [详情](../items/cyber-bookhouse.md) ⌥
+- [Drug Label Structurizer](https://github.com/SuperLaos/drug-label-structurizer) — MIT 许可、面向 WorkBuddy 的医药说明书结构化 Skill，可将 DOCX、PDF 或图片整理为 Markdown、HTML、… · [详情](../items/drug-label-structurizer.md) ⌥
+- [Software Certificate Skill](https://github.com/IvanCodesDev/software-certificate-skill) — MIT 许可、明确支持 WorkBuddy 的软件著作权材料生成 Skill，可分析项目并生成申请表、用户手册、代码材料、DOCX 和 P… · [详情](../items/software-certificate-skill.md) ⌥
+- [WeCom-Unified](https://github.com/WecomTeam/wecom-unified) — MIT 许可、明确支持 WorkBuddy 的企业微信套件 Skill，覆盖消息、邮件、文档、待办、日程、会议、微盘和通讯录，可通过一条命… · [详情](../items/wecom-unified.md) ⌥
+- [career-kit](https://github.com/wangqiao258/career-kit) — MIT 许可的本地优先职业档案与简历定制 Skills，覆盖档案建档、JD 分析、简历裁剪和版本管理；README 提供 WorkBudd… · [详情](../items/career-kit.md) ⌥
+- [中文公文写作 Skill](https://github.com/gongyu0918-debug/chinese-official-writing-skill) — MIT 许可、明确支持 WorkBuddy/CodeBuddy 的正式材料写作 Skill，覆盖通知、请示、报告、函、方案、纪要和技术材料… · [详情](../items/chinese-official-writing-skill.md) ⌥
+- [Tencent Experienced-Hire Skill](https://github.com/Echo-Smith/tencent-experienced-recruit) — MIT 许可的非官方腾讯社招 Skill，基于公开招聘页面提供岗位检索、证据化匹配、简历梳理、面试准备和防诈骗提醒；岗位数据会动态变化，使… · [详情](../items/tencent-experienced-hire-skill.md) ⌥
+- [FMG PPT Courseware](https://github.com/cntyfmg-eng/fmg-ppt-courseware) — MIT 许可、明确提供 WorkBuddy 安装入口的精品课 PPT 课件 Skill，根据主题和大纲批量生成结构、字号和视觉统一的 PP… · [详情](../items/fmg-ppt-courseware.md) ⌥
+- [InvAssistant](https://github.com/haiyangchenbj/invassistant-skill-cn) — MIT 许可、明确支持 CodeBuddy/WorkBuddy 的美股持仓信号检查 Skill，基于可配置的入场/退出规则读取 Yahoo… · [详情](../items/invassistant.md) ⌥
+- [AI Co-Evolution Skills](https://github.com/PhilRobinluo/ai-coevolution-skills) — 含 47 个可安装中文 Skill 的能力包，明确提供 WorkBuddy 安装路径，覆盖知识解释、PPT 需求澄清、文档修复、图片脱敏、… · [详情](../items/ai-co-evolution-skills.md) ⌥
+- [SJTU-AIA PPT Skill](https://github.com/2022Hao/SJTU-AIA-PPT-SKILL) — MIT 许可、明确支持 WorkBuddy 的 HTML PPT、配图和封面制作 Skill，可生成、读取、修改和同步单文件 HTML 演… · [详情](../items/sjtu-aia-ppt-skill.md) ⌥
+- [Spec Superflow](https://github.com/MageByte-Zero/spec-superflow) — MIT 许可、明确提供 `install-workbuddy` 安装器的 AI 编程工作流插件，融合 Spec-first 规划、契约驱动… · [详情](../items/spec-superflow.md) ⌥
+- [Resume Tailor](https://github.com/smile-xyy/resume-tailor) — MIT 许可的本地优先简历定制 Skill，明确支持 WorkBuddy，可根据简历、经历库和岗位信息生成可追溯匹配分析、定制简历和本地 … · [详情](../items/resume-tailor.md) ⌥
+- [MCK PPT Design Skill](https://github.com/likaku/Mck-ppt-design-skill) — Apache-2.0 许可、原生支持 WorkBuddy 的咨询风格 PPT 设计 Skill，提供 70 种布局模式、`python-p… · [详情](../items/mck-ppt-design-skill.md) ⌥
+- [Humanize PPT](https://github.com/LearnPrompt/humanize-ppt) — MIT 许可的演讲型 PPT 大纲与体检 Skill，提供 WorkBuddy Team 适配说明，先按观众状态组织演讲线，再交给下游 S… · [详情](../items/humanize-ppt.md) ⌥
+- [Doc & Video QA Expert](https://github.com/liangdabiao/workbuddy-expert-doc-video-qa) — 许可证未声明的 WorkBuddy 专家包，含 4 个 PDF/视频视觉问答 Skill，支持页码/时间戳引用、命中页或帧核对，以及 GL… · [详情](../items/doc-video-qa-expert.md) ⌥
+- [Data Lens](https://github.com/wangge-ai/data-lens) — Apache-2.0 许可、明确支持 WorkBuddy 的本地证据导向数据分析 Skill，可处理表格、文章、书籍和混合资料，核对数字、… · [详情](../items/data-lens.md) ⌥
+- [A-share Graham Screener](https://github.com/yekwennnn/ashare-graham-screener) — MIT 许可的 A 股防御型选股 Skill，按 7 条格雷厄姆价值条件筛选全市场并输出 Excel 明细；依赖 WorkBuddy 数据… · [详情](../items/a-share-graham-screener.md) ⌥
+- [Official Document Writer](https://github.com/luan-78-zao/official-document-writer-skill) — MIT 许可的 WorkBuddy 公文写作 Skill，按 GB/T 9704-2012 生成请示/报告，并输出 Word 与 PDF · [详情](../items/official-document-writer.md) ⌥
+- [CareerStar（职途星）](https://github.com/HanGu007/workbuddy-career-skills) — MIT 许可的 WorkBuddy 求职专家包，覆盖简历诊断/改写、面试辅导、企业信息查询、HTML 简历和投递追踪 · [详情](../items/careerstar.md) ⌥
+- [open-kimi-ppt Skill](https://github.com/jinwyp/open-ppt-skill) — MIT 许可、明确支持 WorkBuddy 的 PPT Skill，可通过 npx 安装，生成可继续编辑的 PPTD 和 PPTX，并提供… · [详情](../items/open-kimi-ppt-skill.md) ⌥
+- [open-kimi-ppt-skill（acnlie）](https://github.com/acnlie/open-kimi-ppt-skill) — MIT 许可、支持 WorkBuddy 的非官方 Kimi Slides Skill，可生成和编辑 PPTD/PPTX，并提供本地浏览器编… · [详情](../items/open-kimi-ppt-skill-acnlie.md) ⌥
+- [Pandadata API Skill](https://github.com/quantskills/skill-pandadata-api) — GPL-3.0 的可安装 WorkBuddy/Codex 金融数据 Skill，内置 218 个接口的本地文档、检索工具、兼容性索引和可选… · [详情](../items/pandadata-api-skill.md) ⌥
+- [XHS Blogger Analyzer](https://github.com/arraycto/xhs-blogger-analyzer) — MIT 许可的 WorkBuddy/Claude Skill，通过 MCP 抓取小红书博主公开内容并生成内容策略、选题与结构化分析文档 · [详情](../items/xhs-blogger-analyzer.md) ⌥
+- [OpenMAIC Skill](https://github.com/THU-MAIC/OpenMAIC) — MIT 许可、直接支持 WorkBuddy 的标准 `SKILL.md` 教学工作台，可从主题或资料生成多 Agent 课堂、幻灯片、测验… · [详情](../items/openmaic-skill.md) ⌥
+- [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) — Source Available 许可、明确支持 WorkBuddy 的 Markdown 转公众号 CLI/Skill，支持 40+ 排… · [详情](../items/md2wechat.md) ⌥
+- [WeChat Article Publisher Skill](https://github.com/iamzifei/wechat-article-publisher-skill) — MIT 许可、明确支持 WorkBuddy 的公众号文章发布 Skill，可将 Markdown/HTML 和图片通过 API 转为草稿，… · [详情](../items/wechat-article-publisher-skill.md) ⌥
+- [Data Analysis Skills](https://github.com/cabbage2000-lab/data-analysis-skills) — MIT 许可、已说明 WorkBuddy 适配和实测的多平台数据分析 Skill，可将 CSV、Excel、JSON、TSV 整理为带洞察… · [详情](../items/data-analysis-skills.md) ⌥
+- [Hydro Analysis](https://github.com/losnleger/hydro-analysis) — MIT 许可、面向 WorkBuddy 等 Agent 的水文分析 Skill，覆盖降雨径流、基流、河道汇流和水库调洪，并输出 PNG、离… · [详情](../items/hydro-analysis.md) ⌥
+- [Hotspot Monitor Skill](https://github.com/jiangxu1024/hotspot-monitor-skill) — MIT 许可的 WorkBuddy 热点监控 Skill，可抓取多个中文平台、按关键词筛选，并定时写入飞书多维表和推送移动端 · [详情](../items/hotspot-monitor-skill.md) ⌥
+- [Paper CN Reader](https://github.com/langlibai66/paper-cn-reader) — MIT 许可的学术论文精读、翻译与批注 Skill，支持 WorkBuddy，保留 PDF 图片、表格、公式并输出 HTML/PDF · [详情](../items/paper-cn-reader.md) ⌥
+- [Translate Book Windows](https://github.com/NikoKennedy/translate-book-windows) — MIT 许可（含上游作者署名）、面向 Windows 的 WorkBuddy 全书翻译 Skill，将 PDF/DOCX/EPUB 分块处… · [详情](../items/translate-book-windows.md) ⌥
+- [Career Copilot](https://github.com/ronineymessjr-sudo/career-copilot) — MIT 许可、原生支持 WorkBuddy Expert 与 MCP 的证据驱动求职工作台，覆盖岗位搜索、JD 拆解、画像、简历生成、投递… · [详情](../items/career-copilot.md) ⌥
+- [PDF Structured Extractor](https://github.com/ttww1111/pdf-structured-extractor) — MIT 许可、兼容 WorkBuddy/Codex/Claude 的 PDF 提取 Skill，仅依赖 PyMuPDF，将文本、表格和图片… · [详情](../items/pdf-structured-extractor.md) ⌥
+- [MarkItDown Skill](https://github.com/stwhwing/markitdown-skill) — MIT 许可、兼容 WorkBuddy 的文档与网页转 Markdown Skill，基于 Microsoft MarkItDown 并提… · [详情](../items/markitdown-skill.md) ⌥
+- [Bilibili Video Summary](https://github.com/Willson-Huang/bilibili-video-summary) — MIT 许可、提供 WorkBuddy 版的本地视频知识整理 Skill，通过字幕或本地 Whisper 转写生成带时间戳、实体表和待核实… · [详情](../items/bilibili-video-summary.md) ⌥
+- [Video Transcribe Summary](https://github.com/chenstacey/video-transcribe-summary) — 许可证未声明的 WorkBuddy 视频/播客转写 Skill，使用本地 Whisper 生成带时间戳的中文文档、摘要和可选长图 · [详情](../items/video-transcribe-summary.md) ⌥
+- [Knowledge Base Builder](https://github.com/miaqu766520-a11y/kb-builder) — MIT 许可、已在 WorkBuddy 验收的本地知识库搭建 Skill，通过逐题访谈生成目录、模板、个人档案和使用手册，并在用户确认计划… · [详情](../items/knowledge-base-builder.md) ⌥
+- [Cross-Device Sync for WorkBuddy](https://github.com/jamesting-eng/workbuddy-skills) — MIT 许可、面向 Windows 的跨设备任务续接 Skill，以 WPS 云盘 Junction 为主通道、HANDOFF/记忆文件为… · [详情](../items/cross-device-sync-for-workbuddy.md) ⌥
+- [OfferLoop](https://github.com/riwonswain-ovo/OfferLoop) — 由七个 Skills 和飞书工作区组成的开源求职系统 · [详情](../items/offerloop.md) ⌥
+- [Job Navigation Skill](https://github.com/AriaXXX-free/job-navigation-skill) — MIT 许可、明确支持 WorkBuddy 的证据导向求职 Skill，研究岗位和职位描述、对比简历/项目证据、识别能力缺口并安排求职行动… · [详情](../items/job-navigation-skill.md) ⌥
+- [Codebase Reverse](https://github.com/sharptoolbox/codebase-reverse) — 将 Java Web 或微服务代码逆向为功能、架构、接口和数据模型文档 · [详情](../items/codebase-reverse.md) ⌥
+- [Local Markdown Memory](https://github.com/asen-goat-mine/boujoy-local-markdown-memory) — 面向 WorkBuddy/Codex 的本地优先、可审计 Markdown 长期记忆模板 · [详情](../items/local-markdown-memory.md) ⌥
+- [llm-wiki Skill](https://github.com/JustineJiao/llm-wiki-skill) — GPL-3.0 许可、明确支持 WorkBuddy 的个人知识库 Skill，可将网页、PDF、本地文件和其他素材整理成带双向链接、置信度… · [详情](../items/llm-wiki-skill.md) ⌥
+- [PM to Dev Delivery](https://github.com/lovejiaowu-hue/pm-to-dev-delivery) — MIT 许可、提供明确 WorkBuddy 适配入口的产品工程交付 Skill，将既有系统、Demo、PRD、流程和样例数据整理为研发可接… · [详情](../items/pm-to-dev-delivery.md) ⌥
+- [parse-api-doc](https://github.com/shuangying0001-beep/parse-api-doc) — 接口文档转字段映射（ERP/OpenAPI 一键结构化）：把 API 文档解析成字段名/类型/必填/端点，直接出映射。适合对接第三方、低代… · [详情](../items/parse-api-doc.md) ⌥
+- [tabular-exporter](https://github.com/shuangying0001-beep/tabular-exporter) — 记录数据一键导出 Excel/CSV（带样式）：表头冻结、斑马纹、是/否，中文防乱码。适合运营报表、数据导出、日志归档。 · [详情](../items/tabular-exporter.md) ⌥
+- [canvas-content-factory](https://github.com/shuangying0001-beep/canvas-content-factory) — canvas-content-factory orchestrator skill · [详情](../items/canvas-content-factory.md) ⌥
+- [canvas-grid-engine](https://github.com/shuangying0001-beep/canvas-grid-engine) — 字帖/作业纸生成器（米字格田字格13种）：一键生成可打印中文字帖与练习纸，支持汉字居中、拼音标注。适合书法练字、小学语文作业、早教字卡。 · [详情](../items/canvas-grid-engine.md) ⌥
+- [canvas-multipage-pdf](https://github.com/shuangying0001-beep/canvas-multipage-pdf) — 学习资料/报告 一键导出可打印PDF：多页画布（字帖/作业纸/图表/报告）一键合成 A4 PDF，自动分页+页码。适合老师出卷、家长打印练… · [详情](../items/canvas-multipage-pdf.md) ⌥
+- [svg-to-canvas-replica](https://github.com/shuangying0001-beep/svg-to-canvas-replica) — SVG 图纸零误差转 Canvas（A4 印刷级）：A4 SVG 设计稿/工程图坐标文字样式零误差复刻到 Canvas，误差<0.001p… · [详情](../items/svg-to-canvas-replica.md) ⌥
+- [bid-doc](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/01-bidding-tender/bid-doc) — 投标服务方案文档生成器。根据采购技术规范和评分标准，自动生成完整的投标服务方案文档（Word + 信息图）。当用户说\"生成投标方案\"、… · [详情](../items/bid-doc.md) ⌥
+- [ruanzhu-material-generator](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/01-bidding-tender/ruanzhu-material-generator) — 软著鉴别材料生成专家。针对版权中心「模板化」补正/新申请，用「真实搭建系统→真实截图→真实代码截取」路线产出源程序鉴别材料（前30+后30… · [详情](../items/ruanzhu-material-generator.md) ⌥
+- [小羊羊AI投标文件图片OCR识别与废标审查](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/01-bidding-tender/%E5%B0%8F%E7%BE%8A%E7%BE%8AAI%E6%8A%95%E6%A0%87%E6%96%87%E4%BB%B6%E5%9B%BE%E7%89%87OCR%E8%AF%86%E5%88%AB%E4%B8%8E%E5%BA%9F%E6%A0%87%E5%AE%A1%E6%9F%A5) — 小羊羊AI投标文件图片OCR识别与废标审查技能。**【角色定位】我是具有十年实战经验的废标项评审专家，对招标文件的所有图片信息都了如指掌。… · [详情](../items/ai-ocr.md) ⌥
+- [小羊羊AI投标文件废标项审查报告Markdown转PDF](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/01-bidding-tender/%E5%B0%8F%E7%BE%8A%E7%BE%8AAI%E6%8A%95%E6%A0%87%E6%96%87%E4%BB%B6%E5%BA%9F%E6%A0%87%E9%A1%B9%E5%AE%A1%E6%9F%A5%E6%8A%A5%E5%91%8AMarkdown%E8%BD%ACPDF) — 小羊羊AI投标文件废标项审查报告 Markdown 转 PDF 技能。当用户需要对投标审查报告生成 PDF 文档时使用此技能。该技能将 M… · [详情](../items/ai-markdown-pdf.md) ⌥
+- [招标文件关键信息提取--小羊羊AI](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/01-bidding-tender/%E6%8B%9B%E6%A0%87%E6%96%87%E4%BB%B6%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF%E6%8F%90%E5%8F%96--%E5%B0%8F%E7%BE%8A%E7%BE%8AAI) — 招标文件关键信息提取--小羊羊AI技能 v3.0.0（货物/服务双模式+多标项+分阶段采购）。自动读取PDF和DOCX格式的招标文件，智能… · [详情](../items/ai-5.md) ⌥
+- [docx-fill-pageindex](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/02-document-processing/docx-fill-pageindex) — 给 .docx 里的表格填数据，并自动回填「证明文件所在页码」这类需要真实排版页码的列。做法：python-docx 填格（保留原格式）→… · [详情](../items/docx-fill-pageindex.md) ⌥
+- [hybrid-image-ocr](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/02-document-processing/hybrid-image-ocr) — 图片识别 / OCR 提取 / 表格识别 / 证件印章识别 Skill，专为做标书设计。混合模式：本地离线优先（RapidOCR，隐私不出… · [详情](../items/hybrid-image-ocr.md) ⌥
+- [markitdown-skill](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/02-document-processing/markitdown-skill) — Convert documents to Markdown using Microsoft's MarkItDown CLI (`mark… · [详情](../items/markitdown-skill-2.md) ⌥
+- [offline-office-extract](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/02-document-processing/offline-office-extract) — 纯离线文档抽取（零依赖安装）。当沙箱/环境无法安装 pywin32、pymupdf、markitdown、RapidOCR 等第三方库（p… · [详情](../items/offline-office-extract.md) ⌥
+- [xiaohongshu-crawler](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/03-browser-crawling/xiaohongshu-crawler) — 小红书作品爬取工具。根据关键词爬取小红书热门作品数据，支持按日期范围、排序方式筛选，结果以结构化表格展示。当用户需要爬取小红书作品、查询小… · [详情](../items/xiaohongshu-crawler.md) ⌥
+- [ai-contract-risk-officer](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/05-contract-legal/contract-risk-control-officer__skillhub) — > · [详情](../items/contract-risk-control-officer-skillhub.md) ⌥
+- [insurance-claim-agent](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/07-agent-framework/insurance-claim-agent) — 垂直行业 AI Agent MVP 模板（保险理赔/核保自动化方向），含「自我净化/自进化」人工在环闭环。当需要「做垂直 AI Agent… · [详情](../items/insurance-claim-agent.md) ⌥
+- [万磁王技能万事通](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/07-agent-framework/%E4%B8%87%E7%A3%81%E7%8E%8B%E6%8A%80%E8%83%BD%E4%B8%87%E4%BA%8B%E9%80%9A) — 本技能用于从 GitHub / Gitee 等仓库安全下载、审计并安装外部 Agent Skill（尤其标书、招投标、文档生成、自动化类技… · [详情](../items/item-b5565f84.md) ⌥
+- [afrexai-seo-content-engine](https://github.com/weininghui/skills/tree/main/afrexai-seo-content-engine) — Complete SEO content creation system for AI agents. Research keywords… · [详情](../items/afrexai-seo-content-engine.md) ⌥
+- [ai-ppt-generator](https://github.com/weininghui/skills/tree/main/ai-ppt-generator) — The awesome PPT format generation tool provided by baidu. · [详情](../items/ai-ppt-generator.md) ⌥
+- [custom-smtp-sender](https://github.com/weininghui/skills/tree/main/custom-smtp-sender) — A skill to send emails with support for markdown, HTML text, and atta… · [详情](../items/custom-smtp-sender.md) ⌥
+- [data-analyst](https://github.com/weininghui/skills/tree/main/data-analyst) — Data visualization, report generation, SQL queries, and spreadsheet a… · [详情](../items/data-analyst.md) ⌥
+- [google-sheets](https://github.com/weininghui/skills/tree/main/google-sheets) — Google Sheets API integration with managed OAuth. Read and write spre… · [详情](../items/google-sheets.md) ⌥
+- [markdown-converter](https://github.com/weininghui/skills/tree/main/markdown-converter) — Convert documents and files to Markdown using markitdown. Use when co… · [详情](../items/markdown-converter.md) ⌥
+- [moltsheet](https://github.com/weininghui/skills/tree/main/moltsheet) — Interact with a web-based Excel-like spreadsheet API for AI agents. U… · [详情](../items/moltsheet.md) ⌥
+- [notion](https://github.com/weininghui/skills/tree/main/notion) — Notion API for creating and managing pages, databases, and blocks. · [详情](../items/notion.md) ⌥
+- [notion-2026-01-15](https://github.com/weininghui/skills/tree/main/notion-2026-01-15) — Here is the complete `SKILL.md` file updated for the January 15, 2026… · [详情](../items/notion-2026-01-15.md) ⌥
+- [obsidian](https://github.com/weininghui/skills/tree/main/obsidian) — Work with Obsidian vaults (plain Markdown notes) and automate via obs… · [详情](../items/obsidian.md) ⌥
+- [paddleocr-doc-parsing](https://github.com/weininghui/skills/tree/main/paddleocr-doc-parsing) — Parse documents using PaddleOCR's API. Supports both sync and async m… · [详情](../items/paddleocr-doc-parsing.md) ⌥
+- [prezentit](https://github.com/weininghui/skills/tree/main/prezentit) — Generate beautiful AI-powered presentations instantly. Create profess… · [详情](../items/prezentit.md) ⌥
+- [spreadsheet](https://github.com/weininghui/skills/tree/main/spreadsheet) — Read, write, and analyze tabular data with schema memory, format pres… · [详情](../items/spreadsheet.md) ⌥
+- [xlsx-pro](https://github.com/weininghui/skills/tree/main/xlsx-pro) — Compétence pour manipuler les fichiers Excel (.xlsx, .xlsm, .csv, .ts… · [详情](../items/xlsx-pro.md) ⌥
+- [gongwen-gbt9704-skill](https://github.com/mizzlelover/gongwen-gbt9704-skill) — 信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-201… · [详情](../items/mizzlelover-gongwen-gbt9704-skill.md) ⌥
+- [Agnes-help-skill](https://github.com/lj1270998580-crypto/Agnes-help-skill) — Agnes AI 全模态 API 非官方帮助中心：完整 API 文档 + 通用支持 Skill。已同步 Agnes 3.0 Flash（5… · [详情](../items/lj1270998580-crypto-agnes-help-skill.md) ⌥
+- [mcd-party-officer](https://github.com/yzg1226/mcd-party-officer) — 🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指… · [详情](../items/yzg1226-mcd-party-officer.md) ⌥
+- [wpsnote-skills](https://github.com/wpsnote/wpsnote-skills) — WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Se… · [详情](../items/wpsnote-wpsnote-skills.md) ⌥
+- [business-document-skills](https://github.com/yuelingtech-blip/business-document-skills) — 商业 PPT 与 Word 写作技能：按常用语气写文字，少空话，保留数据与可编辑性；兼容 Codex 与 WorkBuddy。 · [详情](../items/yuelingtech-blip-business-document-skills.md) ⌥
+- [prepare-interview-pack](https://github.com/qinkio/prepare-interview-pack) — 一个面向真实求职场景、兼容 Codex 与 WorkBuddy 的面试准备 Skill。它会结合岗位 JD、个人简历、项目资产、面试时间和… · [详情](../items/qinkio-prepare-interview-pack.md) ⌥
+- [腾讯AI龙虾WorkBuddy全套教程！安装配置到实战拆解，零基础学懂…](https://pan.quark.cn/s/a11d4aa30c9e) — 腾讯AI龙虾WorkBuddy全套教程！安装配置到实战拆解，零基础学懂AI办公自动化 不是聊天机器人，是替你干活的数字员工！Skill创建… · [详情](../items/ai-workbuddy-23.md) 𝕏
+- [国内已开放的官方MCP/Skill，55个入口一次收齐](https://x.com/lanvjian/status/2117834087146963437) — 我最近在给自己的Personal Agent接线，顺手把国内已经开放官方MCP或Skill的服务理了一遍。Agent真正能办事，靠的不只是… · [详情](../items/mcp-skill-55.md) 𝕏
+- [最近准备写篇公众号文章，测一下腾讯家的两个Agent。](https://x.com/fengdu2077/status/2071791753246699525) — 最近准备写篇公众号文章，测一下腾讯家的两个Agent。 workbuddy 和 marvis 给他们相同的提示词制作一份ppt，直接用他们… · [详情](../items/agent-37.md) 𝕏
+- [我做了一个紫微排盘解读报告Skill](https://x.com/LiZheng_Ethan/status/2060198982958317782) — 👋我之前也试过把紫微提示词丢给豆包、DeepSeek、GPT，让它算流年、画人生 K 线。 生成速度是真的快，文字也写得头头是道，但我一直… · [详情](../items/skill-41.md) 𝕏
+- [WorkBuddy 也能做 PPT。](https://x.com/xumac007/status/2086471908602904843) — WorkBuddy 也能做 PPT。 问题是它给你的那个 .pptx——默认蓝母版、每页堆满字、图表是 Excel 默认样式。能打开，但你… · [详情](../items/workbuddy-ppt-8.md) 𝕏
+- [豆包--绘儿童简笔画，速度快，免费](https://x.com/bgmup99/status/2123361283798167707) — 体验： 豆包--绘儿童简笔画，速度快，免费 workbuddy--制作PPT初稿，使用自己的skill，基本一次成型 ChatGPT--信… · [详情](../items/x-98167707.md) 𝕏
+- [刚知道Manus在8月25号之前可以免费用（1.6模型），之前做的一个…](https://x.com/MQiao9527/status/2087837008593035711) — 刚知道Manus在8月25号之前可以免费用（1.6模型），之前做的一个skill派上用场了。 YouMind对我来说是一个内容创作IDE平… · [详情](../items/manus-8-25-1-6.md) 𝕏
+- [今天整理电脑工作流里的技能，并尝试在 WorkBuddy 上架。GIF…](https://x.com/chaseLiudoqt/status/2117959611278057624) — 今天整理电脑工作流里的技能，并尝试在 WorkBuddy 上架。GIF 表情贴纸生成器设置为一次性付费 5 元，目前还在审核中；视频课程转… · [详情](../items/workbuddy-gif.md) 𝕏
+- [PiCoddy —— 开源 AI 工作伙伴](https://x.com/yxz1025/status/2121768180867883351) — PiCoddy —— 开源 AI 工作伙伴 从一个想法开始，一起把事情做成。 基于 Pi Agent 引擎，类似workbuddy，能够企… · [详情](../items/picoddy-ai.md) 𝕏
+- [154个医学skills，workbuddy、Openclaw、her…](https://x.com/BaiMiao_Xu/status/2072222594343030803) — 154个医学skills，workbuddy、Openclaw、hermes、codex等agent都能用。医学、文献、PPT、meta-… · [详情](../items/154-skills-workbuddy-openclaw-her.md) 𝕏
+- [问问大家，GPT网页版适合做PPT吗？我的做出来怎么这么丑？还是说Co…](https://x.com/Solitaireliu/status/2117249997095715140) — 问问大家，GPT网页版适合做PPT吗？我的做出来怎么这么丑？还是说Codex做的要好看些？需要装skills吗？ 其他人用workbudd… · [详情](../items/gpt-ppt-co.md) 𝕏
+- [WorkBuddy 提交一个 视频制作 skill 被拒绝：您的资产未…](https://x.com/yuanyao001/status/2119974064072855636) — WorkBuddy 提交一个 视频制作 skill 被拒绝：您的资产未通过基础安全检测，存在安全风险问题。请查阅安全检测报告了解详情并修复… · [详情](../items/workbuddy-skill-87.md) 𝕏
+- [TeamAI-CLI 将团队知识转化为一个 git 仓库，](https://x.com/yankuncn/status/2097142956721639800) — TeamAI-CLI 将团队知识转化为一个 git 仓库， 因此每个代理都从同一手册工作。 &gt;基于 git：技能、规则和文档存放在一… · [详情](../items/teamai-cli-git.md) 𝕏
+- [今天给大家推荐一个Skill – Agent Reach，专门帮 AI…](https://x.com/lucas75554093/status/2117082265721208922) — 今天给大家推荐一个Skill – Agent Reach，专门帮 AI Agent 解决上网找资料的问题。（可以让workbuddy安装）… · [详情](../items/skill-agent-reach-ai.md) 𝕏
+- [Opus 5.5做视频很好，但是我没有Claude账号咋办？ 没关系，…](https://x.com/hppzyy/status/2110445906277588993) — Opus 5.5做视频很好，但是我没有Claude账号咋办？ 没关系，我把Opus做视频的逻辑沉淀下来做了一个skill，第一个视频是用5… · [详情](../items/opus-5-5-claude-2.md) 𝕏
+- [还在把 WorkBuddy 当普通 AI 聊天工具？那你可能只用了它一…](https://x.com/yinyinCrypto/status/2113220482724200815) — 还在把 WorkBuddy 当普通 AI 聊天工具？那你可能只用了它一小部分能力。 整理了 8 个值得关注的 Skill，从数据分析、网站… · [详情](../items/workbuddy-ai-59.md) 𝕏
+- [8月用codex安装导出收藏夹skill 10月末才成功导出510条😅…](https://x.com/LunaExploresAI/status/2116800568866005191) — 8月用codex安装导出收藏夹skill 10月末才成功导出510条😅所幸我能用Workbuddy把txt文档整成表格了，看能不能再进一步… · [详情](../items/8-codex-skill-10-510.md) 𝕏
+- [涛哥AI智能体提效实战课](https://pan.quark.cn/s/c455f3fdf309) — 涛哥AI智能体提效实战课 含技能周报、WorkBuddy 处理 Excel、Codex 连接国产大模型、vibe Coding 提示词与无… · [详情](../items/ai-192.md) 𝕏
+- [WorkBuddy 现在能上架付费技能了。想卖之前，官方文档里这 5 …](https://x.com/neili666888/status/2114619806947086624) — WorkBuddy 现在能上架付费技能了。想卖之前，官方文档里这 5 条最好先看一遍： 1. 目前只能卖「技能」和「专家」 2. 收费只有… · [详情](../items/workbuddy-5-4.md) 𝕏
+- [做离钱近的事情，比如想靠AI赚钱，离钱近的不是去做产品。](https://x.com/xiaoluv12o/status/2102219188458995982) — 做离钱近的事情，比如想靠AI赚钱，离钱近的不是去做产品。 而是找到客户，直接解决他的问题。 他的问题可能是，Codex怎么安装，workb… · [详情](../items/ai-203.md) 𝕏
+- [AI 工具的难点从来不只是“有没有”，而是“哪个 Skill 应该放进…](https://x.com/JunSongYoung/status/2088106215322919255) — AI 工具的难点从来不只是“有没有”，而是“哪个 Skill 应该放进自己的工作流”。 WorkBuddy 的 15 个推荐技能，适合正在… · [详情](../items/ai-skill-12.md) 𝕏
+- [WorkBuddy全套入门到精通教程，极简三步搭建专属AI工作台，解锁…](https://x.com/dyy666946/status/2100883215280169116) — WorkBuddy全套入门到精通教程，极简三步搭建专属AI工作台，解锁办公、建站、设计、创收自动化技能，零基础轻松上手是一套已按目录整理的… · [详情](../items/workbuddy-ai-68.md) 𝕏
+- [AI资讯：腾讯于2026年3月推出全场景AI智能体WorkBuddy，…](https://x.com/Awesome_AI_News/status/2030990021197754754) — AI资讯：腾讯于2026年3月推出全场景AI智能体WorkBuddy，旨在降低大模型应用门槛。该产品兼容开源项目“小龙虾”技能，具备免部署… · [详情](../items/ai-2026-3-ai-workbuddy.md) 𝕏
+- [收藏夹存了一堆 AI Skill 却没用起来？](https://x.com/Pepper12189/status/2125120473608704138) — 收藏夹存了一堆 AI Skill 却没用起来？ 3 分钟拿 WorkBuddy 走通全流程：什么是 SKILL.md、3 条找技能路线、安… · [详情](../items/ai-skill-14.md) 𝕏
+- [10月WorkBuddy新技能推荐来了，真人解说一波，干货还挺多。从复…](https://x.com/happy20250912/status/2109886013091025029) — 10月WorkBuddy新技能推荐来了，真人解说一波，干货还挺多。从复刻写作风格、一句话生成设计系统，到简历+JD直接出面试方案、每天拆一… · [详情](../items/10-workbuddy-3.md) 𝕏
+- [使用WorkBuddy必装10个Skill](https://x.com/DavidRottoT/status/2083476808654291446) — 使用WorkBuddy必装10个Skill 查资料、做文档、开会、管日程，一套补齐 搜索、转写、前端和下载，10个Skill串成工作流 临… · [详情](../items/workbuddy-10-skill-3.md) 𝕏
+- [领token！免费ai制作ppt演示workbuddy自定义模型](https://x.com/adoresever/status/2071565481232974335) — 领token！免费ai制作ppt演示workbuddy自定义模型 1.强哥token领取。2.workbuddy自定义模型演示3.自定义s… · [详情](../items/token-ai-ppt-workbuddy.md) 𝕏
+- [盘点了WorkBuddy最值得装的15个技能（6个热门+9个GitHu…](https://x.com/happy20250912/status/2088106017506939070) — 盘点了WorkBuddy最值得装的15个技能（6个热门+9个GitHub开源），按职场办公、技术开发、内容创作分类，还讲清了怎么调用、怎么… · [详情](../items/workbuddy-15-6-9-githu.md) 𝕏
+- [WorkBuddy赋能教学实战课视频教程，涵盖工具认知、自动化功能、A…](https://pan.quark.cn/s/a86e6287a063) — WorkBuddy赋能教学实战课视频教程，涵盖工具认知、自动化功能、API调用及各类技能制作等内容，适合需要借助工具实现高效教学与办公的学… · [详情](../items/workbuddy-a-4.md) 𝕏
+- [大家有能力的赶紧做workbuddy的skill](https://x.com/canidayea/status/2125160410651467982) — 大家有能力的赶紧做workbuddy的skill 我觉得信息差还是蛮大的 只是做了一个ppt的skill，内置了几套模板，每天都有人愿意付… · [详情](../items/workbuddy-skill-110.md) 𝕏
+- [WorkBuddy 办公自动化实战课，从安装配置到 Skill 搭建，…](https://pan.quark.cn/s/1ead85ce19a9) — WorkBuddy 办公自动化实战课，从安装配置到 Skill 搭建，库存分析、自动 PPT 全案例教学，打造你的数字员工，高效解放双手！ · [详情](../items/workbuddy-skill-114.md) 𝕏
+- [WorkBuddy精选8个高效技能，覆盖PDF、Word、PPT、Ex…](https://x.com/itsWMW/status/2092122650336514471) — WorkBuddy精选8个高效技能，覆盖PDF、Word、PPT、Excel、搜索、知识库与记忆，让AI真正替你干活，办公效率翻倍。 · [详情](../items/workbuddy-8-pdf-word-ppt-ex.md) 𝕏
+- [今天用 workbuddy 的 tencent ppt skill 做…](https://x.com/sevncz/status/2085369158984966435) — 今天用 workbuddy 的 tencent ppt skill 做了一个 ppt，配上 GPT luna，效果确实不错 · [详情](../items/workbuddy-tencent-ppt-skill.md) 𝕏

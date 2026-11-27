@@ -1,0 +1,113 @@
+# 教程与指南 · 办公文档（109）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [WorkBuddy 保姆级入门：从安装到跑通第一个办公任务 ](https://x.com/cheery9998/status/2072634985098440898) — WorkBuddy 保姆级入门：从安装到跑通第一个办公任务 · [详情](../items/workbuddy-13.md) 𝕏
+- [WorkBuddy 会是最快在中国大中小企业里铺开的 Agent 办公…](https://x.com/neowang_log/status/2085937259279167871) — 一条暴论： WorkBuddy 会是最快在中国大中小企业里铺开的 Agent 办公系统，后面的内容流量大概率也会超过 Codex。 做 A… · [详情](../items/workbuddy-agent.md) 𝕏
+- [Workbuddy 腾讯文档零基础从 0 到 1 教程](https://x.com/AdrianPunk115/status/2074391778812407987) — Workbuddy 腾讯文档零基础从 0 到 1 教程 · [详情](../items/workbuddy-0-1.md) 𝕏
+- [周末开始完整学习「2026 AI Agent 企业解决方案及落地实践手…](https://x.com/shao__meng/status/2116330695270277159) — 周末开始完整学习「2026 AI Agent 企业解决方案及落地实践手册」 这份腾讯、腾讯云和 WorkBuddy 联合发布的 78 页手… · [详情](../items/2026-ai-agent.md) 𝕏
+- [4 步抢救 WorkBuddy 做 PPT！AI 味清零，便宜又实用（附Hy4 等模型实测）](https://x.com/Miracleeliu/status/2117177847022600667) — 4 步抢救 WorkBuddy 做 PPT！AI 味清零，便宜又实用（附Hy4 等模型实测） · [详情](../items/4-workbuddy-ppt-ai-hy4.md) 𝕏
+- [几天前朋友说要恶补AI知识，还不知道啥是Agent。](https://x.com/AdrianPunk115/status/2092433808645894515) — 几天前朋友说要恶补AI知识，还不知道啥是Agent。 当时我推荐他用Workbuddy... 他一直没开始用，因为办公用的是飞书。 现在好… · [详情](../items/ai-agent-2.md) 𝕏
+- [Workbuddy 算是 Codex 的国产平替，上手挺顺，一句话就能…](https://pan.quarket.xyz/s/64b43ecca7db) — Workbuddy 算是 Codex 的国产平替，上手挺顺，一句话就能搭起视频工作流 Workbuddy 课程【附带完整文档】 🔗 · [详情](../items/workbuddy-codex-2.md) 𝕏
+- [周末继续完整学习「2026 AI Agent 企业解决方案及落地实践手…](https://x.com/shao__meng/status/2116527775662432308) — 周末继续完整学习「2026 AI Agent 企业解决方案及落地实践手册」 这份腾讯、腾讯云和 WorkBuddy 联合发布的 78 页手… · [详情](../items/2026-ai-agent-2.md) 𝕏
+- [WorkBuddy应该算国内第一个把办公需求作为主要场景的Agent吧](https://x.com/seventhoce56019/status/2072870321200521644) — WorkBuddy应该算国内第一个把办公需求作为主要场景的Agent吧 目前国内平台关于Workbuddy的教程几乎没有，这篇文章直接拿去… · [详情](../items/workbuddy-agent-5.md) 𝕏
+- [腾讯龙虾WorkBuddy多场景AI办公新范式实战](https://x.com/jglcn1991/status/2085589054968771028) — 腾讯龙虾WorkBuddy多场景AI办公新范式实战 每天重复办公事务占满时间，想靠AI提效却不会用？WorkBuddy这套AI办公实战课帮… · [详情](../items/workbuddy-ai-12.md) 𝕏
+- [少儿英语启蒙动画《德克斯特的实验室》，激发创造力与英语兴趣](https://pan.quark.cn/s/2d6535e5a90a) — 少儿英语启蒙动画《德克斯特的实验室》，激发创造力与英语兴趣 羽毛球进阶三合一精品课，从入门到实战全面提升 《怎样读书收获大》：让每本书都为… · [详情](../items/x-72196036.md) 𝕏
+- [WorkBuddy办公自动化课程入门到案例实战教程资源](https://x.com/li18875786/status/2080290577493696916) — WorkBuddy办公自动化课程入门到案例实战教程资源 群响七周年超级个体实战课（6月9-12日线下课直播回放） 微微老师·写作掘金训练营… · [详情](../items/workbuddy-123.md) 𝕏
+- [把自己搭AI工作台的过程整理成教程，也会有许多人愿意花钱买！😱😱😱😱😱…](https://x.com/shanyanggm/status/2121148683123323285) — 把自己搭AI工作台的过程整理成教程，也会有许多人愿意花钱买！😱😱😱😱😱😱😱😱 小红书上有人把Workbuddy个人工作台搭建整理成教程卖了… · [详情](../items/ai-41.md) 𝕏
+- [卓克-《科技参考》第五季 （更新中）（含第四季）已更新至2026.06…](https://x.com/li18875786/status/2079028476204712410) — 卓克-《科技参考》第五季 （更新中）（含第四季）已更新至2026.06月份最新 2026最新腾讯AI龙虾WorkBuddy办公自动化入门到… · [详情](../items/2026-06.md) 𝕏
+- [保姆级教程，如何做出一个带有 3D 个人 IP 形象的作品网站](https://x.com/axichuhai/status/2112894877985808730) — 保姆级教程，如何做出一个带有 3D 个人 IP 形象的作品网站 一个能互动、能展示作品、还有自己 IP 形象的个人网站，能让你在一堆简历里… · [详情](../items/3d-ip.md) 𝕏
+- [每日理财小技巧：](https://x.com/vincent_ddup/status/2110962728017830320) — 每日理财小技巧： 打开Workbuddy AI（国际版） 还有三个免费模型等你蹬。 做什么？ DeepSeek v4.1 flash把你的… · [详情](../items/x-17830320.md) 𝕏
+- [打工人下班密码！腾讯小龙虾 WorkBuddy 保姆级全教程✨](https://x.com/enoch4306/status/2069070409765683563) — 打工人下班密码！腾讯小龙虾 WorkBuddy 保姆级全教程✨ 腾讯这只 “小龙虾” WorkBuddy，是真能替你上班干活的数字员工啊😭… · [详情](../items/workbuddy-133.md) 𝕏
+- [日常办公事务繁杂、重复工作耗费大量时间？](https://x.com/enoch4306/status/2074852761188130974) — 日常办公事务繁杂、重复工作耗费大量时间？ 本课程全面讲解 WorkBuddy 职场提效工具，从基础入门、任务管理、文件操作起步，手把手教学… · [详情](../items/x-88130974.md) 𝕏
+- [这个世界的信息差本就是巨大的。](https://x.com/harrisonitsme/status/2106023417409638724) — 这个世界的信息差本就是巨大的。 哪怕到现在，怎么清理电脑磁盘空间，依旧能难倒大部分人。那些 AI 办公的产品，有一个算一个，豆包工作、wo… · [详情](../items/x-09638724.md) 𝕏
+- [腾讯还是那个腾讯，出品的Agent办公助手WorkBuddy](https://x.com/huoniuniu/status/2068235398414045529) — 腾讯还是那个腾讯，出品的Agent办公助手WorkBuddy 处处体现了对用户体验和需求的重视， 已经看过很多老师分享了， 但是保姆级教程… · [详情](../items/agent-workbuddy.md) 𝕏
+- [在线下搞了一周活动，回头看线上关于 workbuddy 的教程，要么洗…](https://x.com/longdechen12/status/2073995917410328893) — 在线下搞了一周活动，回头看线上关于 workbuddy 的教程，要么洗的官方文档，要么把原来 codex 的教程洗了一遍，很少有人提及 w… · [详情](../items/workbuddy-174.md) 𝕏
+- [Workbuddy，号称腾讯版 “小龙虾”， 已登顶 Product …](https://x.com/MyTokencap/status/2074407768849879138) — Workbuddy，号称腾讯版 “小龙虾”， 已登顶 Product Hunt 第一名，与Claude/Codex 相比更像普通办公软件的… · [详情](../items/workbuddy-product.md) 𝕏
+- [WorkBuddy保姆级教程 零基础入门WorkBuddy "蓝皮书"…](https://x.com/Crypto_God_Evil/status/2114477109343035899) — WorkBuddy保姆级教程 零基础入门WorkBuddy "蓝皮书"=workbuddy全套文档操作~持续ing... ... 跟着我一… · [详情](../items/workbuddy-workbuddy-6.md) 𝕏
+- [一时兴起，买了一个域名 ，准备用来放 Workbuddy/千问办公/豆…](https://redbook.work) — 一时兴起，买了一个域名 ，准备用来放 Workbuddy/千问办公/豆包工作 三大办公智能体的使用教程。 名字准备就叫：AI 办公红宝书。… · [详情](../items/workbuddy-182.md) 𝕏
+- [长期看，如果要出 AI 办公只能体教程，我心中的优先级是：](https://x.com/Jackywine/status/2103050253721387446) — 长期看，如果要出 AI 办公只能体教程，我心中的优先级是： 豆包办公＞Workbuddy＞千问办公 没有人给广告费，我也愿意用飞书，但是我… · [详情](../items/ai-58.md) 𝕏
+- [卧槽！WorkBuddy 实战蓝皮书开源了，2.7k Star](https://x.com/TiedGST/status/2094961139851620446) — 卧槽！WorkBuddy 实战蓝皮书开源了，2.7k Star 这不是官方说明书，而是一份把 WorkBuddy 从「会用」打到「能落地」… · [详情](../items/workbuddy-2-7k-star.md) 𝕏
+- [WorkBuddy 实战教程 02｜远程办公，不同入口有什么区别](https://x.com/ai_super_niko/status/2087533945080692838) — WorkBuddy 实战教程 02｜远程办公，不同入口有什么区别 · [详情](../items/workbuddy-02.md) 𝕏
+- [Workbuddy直连腾讯文档的保姆级教程来了！](https://x.com/FinnTsai88/status/2074403693043306879) — Workbuddy直连腾讯文档的保姆级教程来了！ 从连接授权、文档增删改查、表格公式、AI做PPT、智能画布，到OCR和自动化工作流，全覆… · [详情](../items/workbuddy-230.md) 𝕏
+- [WorkBuddy保姆级教程｜把Markdown做成精美Word和PDF](https://x.com/zjp1997720/status/2080933769608040791) — 最近我还在给电子工业出版社录 WorkBuddy 实战课。 上一篇文章，我用 WorkBuddy 的 Deep Research，围绕 L… · [详情](../items/workbuddy-markdown-word-pdf.md) 𝕏
+- [虽然我觉得现在上大学意义不大了，但大家依旧要写毕业论文](https://x.com/HytidelLegend/status/2123045454112067767) — 虽然我觉得现在上大学意义不大了，但大家依旧要写毕业论文 我在今年年初 WorkBuddy 刚出现的时候，已经探索出一套用 agent 辅助… · [详情](../items/x-12067767.md) 𝕏
+- [AI时代，普通人变现指南](https://x.com/free2668/status/2074644903930565062) — AI时代，普通人变现指南 前几天，我无意间看到 X 上有人分享 WorkBuddy。本来只是抱着试试看的心态下载。结果用了几天后，有点改变… · [详情](../items/ai-79.md) 𝕏
+- [WorkBuddy，腾讯出的 AI 办公助手，能直接操作你电脑上的文件](https://x.com/x_sanjin/status/2084624392341029027) — WorkBuddy，腾讯出的 AI 办公助手，能直接操作你电脑上的文件 教程看这篇就够了 几个核心用法： ▸ 三种模式：Plan 模式先给… · [详情](../items/workbuddy-ai-26.md) 𝕏
+- [WorkBuddy办公自动化实战教程](https://x.com/BuildWithAINo1/status/2087429153746559454) — WorkBuddy办公自动化实战教程 适合谁：适合想使用AI提高办公效率的职场人、运营人员、数据分析人员，以及刚接触WorkBuddy的新… · [详情](../items/workbuddy-256.md) 𝕏
+- [全网付费文章 - 大佬文集圈 学习先锋 精选研报 7月12日更新](https://x.com/li18875786/status/2118519156018753903) — 全网付费文章 - 大佬文集圈 学习先锋 精选研报 7月12日更新 短视频财税行业获客文案必修课 网络工程师教程(第6版)新版教程+电子书等… · [详情](../items/7-12.md) 𝕏
+- [推荐这款国产AI办公神器WorkBuddy！](https://x.com/gaoqian2580/status/2074344919142175221) — 推荐这款国产AI办公神器WorkBuddy！ 不是简单聊天工具，而是真能读文件、分析Excel、整理文档、生成报告的本地助理，还能打通im… · [详情](../items/ai-workbuddy-12.md) 𝕏
+- [整理了一个 WorkBuddy 中文资源库，手册和视频都能直接看了。](https://x.com/tarsixseveneig1/status/2093157507422445622) — 整理了一个 WorkBuddy 中文资源库，手册和视频都能直接看了。 目前收录 10 份 PDF 手册、50 节实战视频，总时长约 5 小… · [详情](../items/workbuddy-270.md) 𝕏
+- [今天我想吹一下workbuddy，](https://x.com/kanvis_chen/status/2082749236823957658) — 今天我想吹一下workbuddy， 如果你有培训业务、有大量需要录制的课程 不妨可以用一下我的skill昨天我用了一天 借助workbud… · [详情](../items/workbuddy-272.md) 𝕏
+- [蓝哥这篇教程，把我一直没想透的一件事讲透了。](https://x.com/Horin22841043/status/2117876646581813653) — 蓝哥这篇教程，把我一直没想透的一件事讲透了。 他讲的流程是：电脑端把微信聊天记录转给 WorkBuddy 派单，Grok Bot 去查官推… · [详情](../items/x-81813653.md) 𝕏
+- [蓝哥这篇教程展示了怎么打通 Grok Bot 和 WorkBuddy](https://x.com/FanShifu/status/2117904432943780130) — 蓝哥这篇教程展示了怎么打通 Grok Bot 和 WorkBuddy 电脑端把微信记录转发给 WorkBuddy，由它调度 Grok Bo… · [详情](../items/grok-bot-workbuddy-3.md) 𝕏
+- [WorkBuddy 保姆级入门教程：从准备材料到核对纪要、周报和PPT](https://x.com/zhuoyihang0329/status/2119340003864248432) — WorkBuddy 装好了，第一件事拿什么练？ 我的建议是：别上来就让它「做个汇报」。拿一份你自己开过的会议记录，让它出一份纪要。会是你开… · [详情](../items/workbuddy-ppt-6.md) 𝕏
+- [AI办公workbuddy全能实战营第六期2026年11月，豆包+即梦AI+剪映+workbuddy](https://x.com/suchagreatthing/status/2118260197642940556) — AI办公workbuddy全能实战营第六期2026年11月，豆包+即梦AI+剪映+workbuddy · [详情](../items/ai-workbuddy-2026-11-ai-workbuddy.md) 𝕏
+- [小组作业季，分享个刚需教程。](https://x.com/Felixlmjz/status/2109529000414699942) — 小组作业季，分享个刚需教程。 WorkBuddy 5期：一次小组作业，Word / Excel / PPT 一句话全包。Excel 排分工… · [详情](../items/x-14699942.md) 𝕏
+- [卧槽，删了吧！这篇WorkBuddy教程挂闲鱼，高低卖 998 😂](https://x.com/hzxuang/status/2120463483711942851) — 卧槽，删了吧！这篇WorkBuddy教程挂闲鱼，高低卖 998 😂 零基础 30 分钟用 WorkBuddy 把 PDF 简历做成个人主页… · [详情](../items/workbuddy-998.md) 𝕏
+- [AI提效不是口号，是实实在在省时间⏱️](https://pan.quark.cn/s/881be097b783) — AI提效不是口号，是实实在在省时间⏱️ deepseek+飞书批量处理表格、WorkBuddy自定义Skill，还有80W粉博主的AI漫剧… · [详情](../items/ai-110.md) 𝕏
+- [WorkBuddy办公自动化课程](https://x.com/Mason_ys/status/2072607988020560000) — WorkBuddy办公自动化课程 系统入门+功能详解+案例实战+效率提升，内容全，适合办公、行政、IT、流程管理等人员，零基础也能学，实操… · [详情](../items/workbuddy-322.md) 𝕏
+- [这几天在上班，发现能用workbuddy进行日常办公真的太爽了，现在注…](https://x.com/Ellieorange8/status/2072684714675318978) — 这几天在上班，发现能用workbuddy进行日常办公真的太爽了，现在注册还有积分送！ 教程都给你写好了，就剩你下载一下了 · [详情](../items/workbuddy-325.md) 𝕏
+- [我把判断放这里：](https://x.com/neowang_log/status/2085928586889032094) — 我把判断放这里： WorkBuddy 会是最快在中国大中小企业里铺开的 Agent 办公系统，后面的内容流量大概率也会超过 Codex。 … · [详情](../items/x-89032094.md) 𝕏
+- [腾讯AI龙虾WorkBuddy办公自动化入门到案例实战教程 ](https://x.com/Barbar0ssa/status/2073773118796226781) — 腾讯AI龙虾WorkBuddy办公自动化入门到案例实战教程 · [详情](../items/ai-workbuddy-17.md) 𝕏
+- [重磅干货！腾讯 WorkBuddy 使用全攻略来了！](https://x.com/FinnTsai88/status/2072703141674717623) — 重磅干货！腾讯 WorkBuddy 使用全攻略来了！ 别再问 AI“你能帮我做什么”，直接扔真实工作流（读Excel出报告、产品资料生成落… · [详情](../items/workbuddy-363.md) 𝕏
+- [MK腾讯龙虾WorkBuddy办公实战：远程多端操控，海量实用Skil…](https://x.com/jglcn1991/status/2080217057803813079) — MK腾讯龙虾WorkBuddy办公实战：远程多端操控，海量实用Skill自动化办公教程 MK 腾讯龙虾这套教程，把 AI 自动化办公玩明白… · [详情](../items/mk-workbuddy-skil.md) 𝕏
+- [当人类浇水的时候，经常有多个 Agent 之间需要互相配合，内容是需要…](https://x.com/ganfanren_ai/status/2117914488892780963) — 当人类浇水的时候，经常有多个 Agent 之间需要互相配合，内容是需要流转。这个工作量极大啊啊啊 这篇教程最值钱的不是 Grok Bot … · [详情](../items/agent-29.md) 𝕏
+- [从0到1带你速通WorkBuddy](https://x.com/magee0828/status/2073387037630124528) — 从0到1带你速通WorkBuddy WorkBuddy 不只是聊天框，它能读取本地文件、拆解任务、调用工具，最后直接交付文档、表格或网页。… · [详情](../items/0-1-workbuddy.md) 𝕏
+- [《WorkBuddy 从入门到精通》教程](https://x.com/CryptoMetac/status/2073317617822228929) — 《WorkBuddy 从入门到精通》教程 全场景职场AI原生智能体桌面工作台实操手册电子版，内容全，适合想提升办公效率、玩转AI，做创业，… · [详情](../items/workbuddy-387.md) 𝕏
+- [一套务实不吹牛的AI办公课。别信什么AI替你上班的鬼话，它的实际用处就…](https://x.com/ChuangkeLab/status/2122932483373355408) — 一套务实不吹牛的AI办公课。别信什么AI替你上班的鬼话，它的实际用处就是把每天机械复制表格、扒网页公开数据、对齐合同格式的苦力活流程化。 … · [详情](../items/ai-ai-9.md) 𝕏
+- [“到处都在教我用WorkBuddy……](https://x.com/MrCoffeeNoSuger/status/2072752579050934571) — “到处都在教我用WorkBuddy…… 兄弟们，官方成长计划里不是有完整教程吗？新手任务+进阶任务一步步带你玩，领Buddy、做任务还送9… · [详情](../items/workbuddy-407.md) 𝕏
+- [面试官问你 AI 用得怎么样，回一句「会用 DeepSeek 和豆包」…](https://x.com/Thundercrazy66/status/2120738708081332467) — 面试官问你 AI 用得怎么样，回一句「会用 DeepSeek 和豆包」，基本等于没答。 这篇教程教你用 WorkBuddy 30 分钟把 … · [详情](../items/ai-deepseek.md) 𝕏
+- [最适合中国宝宝体质的桌面Agent - Workbuddy 和 dou…](https://x.com/ErwinWu000/status/2093893172284055714) — 最适合中国宝宝体质的桌面Agent - Workbuddy 和 doubao work 平时打工人做个图表写个ppt的事咱就别捣鼓code… · [详情](../items/agent-workbuddy-dou.md) 𝕏
+- [字节整合飞书，Traework揉进豆包团队，打造的豆包办公到底有哪些能…](https://x.com/agentbuff_dev/status/2093909018901418051) — 字节整合飞书，Traework揉进豆包团队，打造的豆包办公到底有哪些能力，和workbuddy，codex有啥区别，又如何放大seed系列… · [详情](../items/traework.md) 𝕏
+- [WorkBuddy 效率进阶实训课程](https://github.com/cloudzun/WorkBuddy-Course) — CC BY-NC-ND 4.0 许可的 WorkBuddy 实操课程，包含 9 章教材、38 个实验、课件源码和成品 PPT；内容随产品版… · [详情](../items/workbuddy-efficiency-training-course.md) ⌥
+- [Agent 学习指南](https://github.com/tangshiyegit/agent-guide) — 包含 19 篇 WorkBuddy 教程和 12 个办公、内容创作与自动化案例 · [详情](../items/agent-learning-guide.md) ⌥
+- [AI Coding Guide Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) — 包含 WorkBuddy 在内的中文 AI Coding 与办公 Agent 学习路径 · [详情](../items/ai-coding-guide-zh.md) ⌥
+- [Superpowers 中文适配](https://github.com/squallopen/superpowers-zh-adapters) — MIT 许可的 `obra/superpowers` 中文适配层，明确支持 CodeBuddy、Codex、Claude Code、Cli… · [详情](../items/superpowers-chinese-adapters.md) ⌥
+- [Undergraduate Thesis AI Workflow](https://github.com/Sqhao-O/undergraduate-thesis-ai-workflow) — MIT 许可的本科毕业论文 AI 辅助工作流文档，覆盖 Claude Code、Kimi、CC Switch、Pandoc、Lark-Fo… · [详情](../items/undergraduate-thesis-ai-workflow.md) ⌥
+- [WorkBuddy beginner guide](https://mp.weixin.qq.com/s/Tiw2M-j05noSOS9rLbUiWg) — 面向中文办公场景的上手指南 · [详情](../items/workbuddy-beginner-guide.md) ⌥
+- [第 12 章 办公三件套：Word、Excel、PPT](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E7%AC%AC%E4%BA%8C%E7%AF%87%20%E6%A1%88%E4%BE%8B%E7%AF%87%EF%BC%9A%E4%BB%8E%E4%B8%80%E9%A1%B9%E4%BB%BB%E5%8A%A1%E5%88%B0%E4%B8%80%E6%94%AF%20AI%20%E5%9B%A2%E9%98%9F/%E7%AC%AC%2011%20%E7%AB%A0%20%E5%8A%9E%E5%85%AC%E4%B8%89%E4%BB%B6%E5%A5%97%EF%BC%9AWord%E3%80%81Excel%E3%80%81PPT) — 第 12 章 办公三件套：Word、Excel、PPT · [详情](../items/12-word-excel-ppt.md) ⌥
+- [告别手动搬运！用 WorkBuddy 一键将微信教程重构并导入飞书文档](https://x.com/pipi46931/status/2079932104230760511) — 之前整理的微信使用教程不小心误删？不用慌！这里分享一个极其丝滑的 AI 协作工作流： 1️⃣ ChatGPT / Claude 梳理框架：… · [详情](../items/workbuddy-434.md) 𝕏
+- [之前写的WorkBuddy 教程，从一份文档升级成知识库了。](https://x.com/HChai40207/status/2099049082232930345) — 之前写的WorkBuddy 教程，从一份文档升级成知识库了。 内容越写越多，实在没法原文档加了，所以索性改成了知识库。 不是换了个壳，是内… · [详情](../items/workbuddy-437.md) 𝕏
+- [有一个不可抵挡的趋势：](https://x.com/MariRegina55109/status/2086048940227772500) — 有一个不可抵挡的趋势： WorkBuddy会是最快在中国大中小企业里铺开的Agent办公系统，企业端的落地速度和用户规模，大概率很快就会超… · [详情](../items/x-27772500.md) 𝕏
+- [第 1 篇 · 入门｜认识 WorkBuddy——你的「全能 AI 办公搭子」](https://x.com/yese123/status/2089011017489809503) — 第 1 篇 · 入门｜认识 WorkBuddy——你的「全能 AI 办公搭子」 · [详情](../items/1-workbuddy-ai.md) 𝕏
+- [分享一套看到的AI课程“WorkBuddy 全套 AI 提效实战课 ”。](https://x.com/schen45a/status/2073963402872099248) — 分享一套看到的AI课程“WorkBuddy 全套 AI 提效实战课 ”。 适合想系统学习这几类内容的人： 用 AI 自动整理会议纪要、总结… · [详情](../items/ai-workbuddy-ai-3.md) 𝕏
+- [职场提效神器｜WorkBuddy办公自动化50节实战课！](https://pan.quark.cn/s/8aa18d99dd6e) — 职场提效神器｜WorkBuddy办公自动化50节实战课！ 想把重复劳动交给AI吗？这份完整实战课来了！不用学复杂编程，自动生成文档报表、操… · [详情](../items/workbuddy-50-2.md) 𝕏
+- [腾讯WorkBuddy办公自动化教程｜从入门到案例实战！](https://x.com/qiyue_76/status/2084286898839900214) — 腾讯WorkBuddy办公自动化教程｜从入门到案例实战！ 想用AI大幅提升办公效率吗？ 这份腾讯WorkBuddy办公自动化教程来了！从入… · [详情](../items/workbuddy-469.md) 𝕏
+- [学自动化工具之前，先分清哪些活真的能交出去](https://x.com/jglcn1991/status/2110000986437849388) — 学自动化工具之前，先分清哪些活真的能交出去 ``` 学自动化工具之前，先分清哪些活真的能交出去 同一份工具，为什么有人一小时干完，有人还在… · [详情](../items/x-37849388.md) 𝕏
+- [本课程是一套面向零基础学员的WorkBuddy AI智能体搭建与自动化…](https://x.com/FoF4725/status/2115302803111653414) — 本课程是一套面向零基础学员的WorkBuddy AI智能体搭建与自动化办公实战教程，共26节课程，从WorkBuddy的核心功能、三条使用… · [详情](../items/workbuddy-ai-56.md) 𝕏
+- [「Workbuddy 赋能教学实战课」一套专为中小学、高校教师及教育从…](https://x.com/iPlayZip/status/2121614962611347533) — 「Workbuddy 赋能教学实战课」一套专为中小学、高校教师及教育从业者打造的 AI 教学与办公提效课程，围绕“平台基础→连接器→自动化… · [详情](../items/workbuddy-480.md) 𝕏
+- [会偷懒的人，早就把重复工作交给 WorkBuddy 了。](https://x.com/win8dream/status/2093988946892206087) — 会偷懒的人，早就把重复工作交给 WorkBuddy 了。 从入门到实战，一门课教会你让 AI 替你干活。 不用会代码，照着案例做就行。 省… · [详情](../items/workbuddy-488.md) 𝕏
+- [AI认知课+AI工具实战课，理论结合实操一门课全搞定](https://pan.quark.cn/s/12f35bd3e488) — AI认知课+AI工具实战课，理论结合实操一门课全搞定 链接： 2026最新腾讯AI龙虾WorkBuddy办公自动化课程入门到案例实战教程，… · [详情](../items/ai-ai-13.md) 𝕏
+- [我写了一篇 25 万字的 WorkBuddy 教程。](https://x.com/HChai40207/status/2091553218300137954) — 我写了一篇 25 万字的 WorkBuddy 教程。 1 个月前还是 5 万字，过时 30+ 处： - 计费模式已不是纯积分 - 手机端 … · [详情](../items/25-workbuddy.md) 𝕏
+- [想用一句话搭好办公和视频工作流，却被 WorkBuddy、Codex、…](https://x.com/idoplz/status/2117455075064824316) — 想用一句话搭好办公和视频工作流，却被 WorkBuddy、Codex、OpenClaw 绕晕？ 这套把 WorkBuddy 入门到办公实操… · [详情](../items/workbuddy-codex-14.md) 𝕏
+- [WorkBuddy 教程，从一份文档升级成知识库了。](https://x.com/HChai40207/status/2099047735844647404) — WorkBuddy 教程，从一份文档升级成知识库了。 不是换了个壳，是内容直接翻倍： 33 万 + 字，从入门到进阶全覆盖 200 条可复… · [详情](../items/workbuddy-515.md) 𝕏
+- [今天我想吹一下workbuddy，如果你有培训业务、有大量需要录制的课…](https://x.com/kanvis_chen/status/2082743146342175163) — 今天我想吹一下workbuddy，如果你有培训业务、有大量需要录制的课程，不妨可以用一下我的skill昨天我用了一天，借助workbudd… · [详情](../items/workbuddy-526.md) 𝕏
+- [新手上手办公工具、AI辅助工作总踩坑？](https://x.com/HChai40207/status/2087564262575345736) — 新手上手办公工具、AI辅助工作总踩坑？ 耗时摸索、操作卡顿、不会高效提效，真的太耗时间了！😮💨 特意整理了《WorkBuddy：从0到1新… · [详情](../items/ai-197.md) 𝕏
+- [暴论：WorkBuddy 很可能是最快在中国大中小企业里铺开的 Age…](https://x.com/baolunism/status/2099449017256280179) — 暴论：WorkBuddy 很可能是最快在中国大中小企业里铺开的 Agent 办公系统。它后面的内容流量，大概率也会超过 Codex。 现在… · [详情](../items/workbuddy-age.md) 𝕏
+- [第一次成功接入，同样重要 🛠️](https://x.com/yabarich/status/2105228812640243728) — 第一次成功接入，同样重要 🛠️ 报告注册用户已超过 280 万。 随着接入规模扩大，帮助用户完成第一个有用的工作流，也成为基础设施建设中的… · [详情](../items/x-40243728.md) 𝕏
+- [WorkBuddy 换上混元 Hy4 Preview 之后，我拿它连续…](https://x.com/Punkstore333/status/2094615195951993210) — WorkBuddy 换上混元 Hy4 Preview 之后，我拿它连续测了两天：从零写带动画的网站和 3D 游戏、几十万字资料直接做 PP… · [详情](../items/workbuddy-hy4-preview-4.md) 𝕏
+- [WorkBuddy容易上手吗？](https://x.com/jackyw1991/status/2118333343116996829) — WorkBuddy容易上手吗？ WorkBuddy对于新用户来说，学习成本高吗？与Dots或Muse相比，您觉得WorkBuddy的入门教… · [详情](../items/workbuddy-563.md) 𝕏
+- [AI办公workbuddy全能实战营第六期](https://x.com/jglcn1991/status/2118888852354138373) — AI办公workbuddy全能实战营第六期 豆包、即梦AI、剪映、workbuddy四大主流工具，第六期实战营一次讲透 AI工具装了一堆，… · [详情](../items/ai-workbuddy-27.md) 𝕏
+- [📎 完整《WorkBuddy：从0到1新手速通手册》链接在下方，直接点…](https://x.com/HChai40207/status/2087567248018076086) — 📎 完整《WorkBuddy：从0到1新手速通手册》链接在下方，直接点开自取！ 新手上手办公工具、AI辅助工作总踩坑？ 耗时摸索、操作卡顿… · [详情](../items/workbuddy-0-1-4.md) 𝕏
+- [WorkBuddy多场景AI办公实战，系统提升职场效率(3)](https://pan.quark.cn/s/80ff1fe8c5fa) — WorkBuddy多场景AI办公实战，系统提升职场效率(3) 本资料围绕AI办公与职场效率整理，包含11讲课程，共37个课程单元，内容涵盖… · [详情](../items/workbuddy-ai-3-2.md) 𝕏
+- [WorkBuddy全套AI提效实战课，涵盖Codex与OpenClaw…](https://pan.quark.cn/s/6a0761ac61f3) — WorkBuddy全套AI提效实战课，涵盖Codex与OpenClaw自定义Skill教程。 从基础入门到任务管理、纪要整理、PPT及Ex… · [详情](../items/workbuddy-ai-codex-openclaw-2.md) 𝕏
+- [一句话让电脑替你打工，具体是怎么发生的](https://x.com/jglcn1991/status/2110000901893361938) — 一句话让电脑替你打工，具体是怎么发生的 ``` 一句话让电脑替你打工，具体是怎么发生的 每天都在重复同一套动作，为什么不让 AI 接手 这… · [详情](../items/x-93361938.md) 𝕏
+- [刚才去 WorkBuddy 官网文档顺了一圈，人家《从入门到精通指南》…](https://x.com/laomo404/status/2124686205258453309) — 刚才去 WorkBuddy 官网文档顺了一圈，人家《从入门到精通指南》和上手技巧全都是免费公开挂在上面的。 转头一看外面卖资料的，直接把官… · [详情](../items/workbuddy-572.md) 𝕏
+- [WorkBuddy 定时任务四步教程：找入口、写提示词、设频率、开推送…](https://x.com/Quyao718/status/2107283749276959148) — WorkBuddy 定时任务四步教程：找入口、写提示词、设频率、开推送，到点 AI 自己干活，结果推到微信。支持每周多天、每月多天，锁屏也… · [详情](../items/workbuddy-575.md) 𝕏
+- [做 AI 产品这段时间，陆续有朋友来问接不接 AI 培训或入门指导。大…](https://x.com/Brunoetsu/status/2110312284442751434) — 做 AI 产品这段时间，陆续有朋友来问接不接 AI 培训或入门指导。大家的需求很基础也很具体，主要是用 WorkBuddy 解决日常办公里… · [详情](../items/ai-ai-17.md) 𝕏
+- [WorkBuddy赋能教学实战课，实现高效教学与轻松办公](https://x.com/nm9t1c/status/2101596088180584545) — WorkBuddy赋能教学实战课，实现高效教学与轻松办公 面向一线教师的AI教学工作流实战课程，围绕WorkBuddy工具，帮助教师减少机… · [详情](../items/workbuddy-592.md) 𝕏
+- [现在打工人都在偷偷用 WorkBuddy，AI 专家团帮你干活，一句话…](https://x.com/Cvcmo33/status/2102574671115808870) — 现在打工人都在偷偷用 WorkBuddy，AI 专家团帮你干活，一句话出成品。 这套保姆教程 + 实战手册视频，把热门功能全讲透，从小白到… · [详情](../items/workbuddy-ai-70.md) 𝕏
+- [我最近受邀给某营养师协会做一场 WorkBuddy 入门培训。](https://x.com/mozhanggui_ai/status/2110747772894826536) — 我最近受邀给某营养师协会做一场 WorkBuddy 入门培训。 看了问卷和大家想做的事，我发现需求很丰富：有人想写科普内容，有人想备课、做… · [详情](../items/workbuddy-619.md) 𝕏
+- [WorkBuddy多场景AI办公实战课程，系统提升职场效率。涵盖远程控…](https://pan.quark.cn/s/70d92da3e99c) — WorkBuddy多场景AI办公实战课程，系统提升职场效率。涵盖远程控制、提示词技巧、文件处理、文档生成与数据分析等实用模块。 适合职场人… · [详情](../items/workbuddy-ai-71.md) 𝕏
+- [🧑‍💻乔老师Workbuddy赋能教学实战课](https://x.com/Yaty0304/status/2108759297169686747) — 🧑‍💻乔老师Workbuddy赋能教学实战课 📰AI纪实大案全维度实操 🎞️岩火AI漫剧视频制作全流程 ✨小蔻老师从入门到精通AI精品课 … · [详情](../items/workbuddy-622.md) 𝕏
+- [2026最新腾讯AI龙虾WorkBuddy办公自动化课程入门到案例实战…](https://x.com/jglcn1991/status/2068164746948288918) — 2026最新腾讯AI龙虾WorkBuddy办公自动化课程入门到案例实战教程，职场必备AI办公技能，告别加班，效率翻倍 AI办公自动化最怕学… · [详情](../items/2026-ai-workbuddy-2.md) 𝕏
+- [WorkBuddy入门到精通系统课视频教程，涵盖软件部署、多模态实操、…](https://x.com/aiibainno/status/2111911070722068945) — WorkBuddy入门到精通系统课视频教程，涵盖软件部署、多模态实操、自动化运行及配套蓝皮书资料，适合想用AI办公工具提升效率、学习Wor… · [详情](../items/workbuddy-626.md) 𝕏
+- [《WorkBuddy办公自动化课程入门到案例实战教程》带你系统学习办公…](https://x.com/aikkeikk/status/2070118016042651790) — 《WorkBuddy办公自动化课程入门到案例实战教程》带你系统学习办公自动化技能，实现高效办公。适合想要提升工作效率、减少重复劳动的职场人… · [详情](../items/workbuddy-628.md) 𝕏
+- [WorkBuddy全域AI办公实战课：腾讯龙虾智能工具全拆解，文件数据…](https://x.com/jglcn1991/status/2079491361477423502) — WorkBuddy全域AI办公实战课：腾讯龙虾智能工具全拆解，文件数据自动化Skill落地教程 WorkBuddy（腾讯龙虾）不是尝鲜玩具… · [详情](../items/workbuddy-ai-72.md) 𝕏
+- [问，如果在豆包工作，千问办公，WorkBuddy中选一个真正愿意付费的…](https://x.com/shynloc/status/2098952389495824681) — 问，如果在豆包工作，千问办公，WorkBuddy中选一个真正愿意付费的，你会怎么选？ 我这个月，几乎三款产品都在用，每个都买了入门的订阅套… · [详情](../items/workbuddy-630.md) 𝕏
+- [AI办公教程】目前b站最全最细WorkBuddy完整安装教学及保姆级教…](https://x.com/hppzyy/status/2113314780803117173) — 【AI办公教程】目前b站最全最细WorkBuddy完整安装教学及保姆级教程，一个视频搞懂WorkBuddy完整工作流+实战技巧！（附资料）… · [详情](../items/ai-b-workbuddy.md) 𝕏
+- [WorkBuddy办公自动化课程入门到案例实战教程，小白也可以上手](https://pan.quark.cn/s/9e7cb1badf53) — WorkBuddy办公自动化课程入门到案例实战教程，小白也可以上手 教你怎么部署自己的小龙虾，打造精美PPT、数据分析可视化、处理日常办公… · [详情](../items/workbuddy-636.md) 𝕏
+- [WorkBuddy 职场提效应用实战视频教程，包含基础入门、文档处理、…](https://x.com/aiibainno/status/2112218854562959864) — WorkBuddy 职场提效应用实战视频教程，包含基础入门、文档处理、Skill 搭建与自动化办公等实战内容，适合想要利用工具提升职场办公… · [详情](../items/workbuddy-652.md) 𝕏
+- [WorkBuddy保姆级教程（下篇）来了！技能市场、自动化设置、竞品监…](https://x.com/ai_bange/status/2072162567980728683) — WorkBuddy保姆级教程（下篇）来了！技能市场、自动化设置、竞品监控+合同审查实战案例，全都有。跟着小灰操作，基本能让AI变成你的办公… · [详情](../items/workbuddy-655.md) 𝕏
+- [用workbuddy做PPT效果不佳，教程试一试。](https://x.com/Stanllll6o/status/2119734166485155960) — 用workbuddy做PPT效果不佳，教程试一试。 不同大模型结果有差异，多尝试找出最佳方案。 #AI工具 #PPT制作 · [详情](../items/workbuddy-ppt-10.md) 𝕏

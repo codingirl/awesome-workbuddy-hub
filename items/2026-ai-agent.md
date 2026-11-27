@@ -1,28 +1,23 @@
-# 周末继续完整学习「2026 AI Agent 企业解决方案及落地实践手…
+# 周末开始完整学习「2026 AI Agent 企业解决方案及落地实践手…
 
-> 类型：案例与实测 ｜ 分类：办公文档 ｜ 标签：办公文档
+> 类型：教程与指南 ｜ 分类：办公文档 ｜ 标签：办公文档
 
 ## 简介
 
-周末继续完整学习「2026 AI Agent 企业解决方案及落地实践手册」 这份腾讯、腾讯云和 WorkBuddy 联合发布的 78 页手…
+周末开始完整学习「2026 AI Agent 企业解决方案及落地实践手册」 这份腾讯、腾讯云和 WorkBuddy 联合发布的 78 页手…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 周末继续完整学习「2026 AI Agent 企业解决方案及落地实践手册」 这份腾讯、腾讯云和 WorkBuddy 联合发布的 78 页手册，来到第二章「内部提效 - 企业研发运维全链路提效」。 这一章用六套方案加八个标杆案例，把内部场景铺成一条链：办公数字员工 → AI Coding → 游戏研发与运营 → SRE 故障定位
+> 周末开始完整学习「2026 AI Agent 企业解决方案及落地实践手册」 这份腾讯、腾讯云和 WorkBuddy 联合发布的 78 页手册，今天先从第一章「AI 整体解决方案」开始！ 第一章把腾讯云 Agent 叙事收成一条链：WorkBuddy 当办公入口与数字员工 → ClawPro 做开通与统一管控 → Agent Runtime
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HV9gtvGaoAExLnO.jpg)
-![](https://pbs.twimg.com/media/HV9qM9-awAAGSJQ.jpg)
-
 ## 所有来源
 
-- X · [meng shao @shao__meng](https://x.com/shao__meng/status/2116527775662432308) · 2026-10-31 · 48 赞 / 2 转 / 4138 浏览
+- X · [meng shao @shao__meng](https://x.com/shao__meng/status/2116330695270277159) · 2026-10-31 · 133 赞 / 25 转 / 10107 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

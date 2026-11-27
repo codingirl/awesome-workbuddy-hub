@@ -15,11 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HRWjQ78a0AAa14S.jpg)
-![](https://pbs.twimg.com/media/HRWjThlagAA9ROD.jpg)
-
 ## 所有来源
 
 - X · [远方青木 @jglcn1991](https://x.com/jglcn1991/status/2095760984745087456) · 2026-09-04 · 29 赞 / 1 转 / 2290 浏览

@@ -1,0 +1,24 @@
+# LIVE On Wed!
+
+> 类型：知识点与使用技巧 ｜ 分类：官方动态 ｜ 标签：官方动态
+
+## 简介
+
+LIVE On Wed! AI Agents Empowering Work &amp; Creation: Introducing Wo…
+
+## 详情
+
+以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
+
+> LIVE On Wed! AI Agents Empowering Work &amp; Creation: Introducing WorkBuddy &amp; Miora Jul 22 · 8:30 PM (GMT+8) Expert instructors show you how to use AI tools for each track. Build sth for social good! Watch live on YouTube Link：
+
+## 使用/获取
+
+- 链接：<https://youtube.com/live/w4T27eWiDfE?feature=share>
+
+## 所有来源
+
+- X · [Tencent Cloud @tencentcloud](https://x.com/tencentcloud/status/2079749876670460010) · 2026-07-22 · 3 赞 / 597 浏览
+
+---
+*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

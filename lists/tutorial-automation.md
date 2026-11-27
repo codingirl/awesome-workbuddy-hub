@@ -1,0 +1,44 @@
+# 教程与指南 · 自动化（40）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [用workbuddy做微信小程序，小白看完都能直接上手](https://x.com/songsong/status/2085700722197438652) — 用workbuddy做微信小程序，小白看完都能直接上手 · [详情](../items/workbuddy-8.md) 𝕏
+- [用 WorkBuddy 操控微信干活](https://x.com/liyue_ai/status/2124036554494746692) — 借助 WorkBuddy 电脑操控能力点微信、发消息、转文件的教程 · [详情](../items/workbuddy-27.md) 𝕏
+- [Grok Bot 和 WorkBuddy 双向打通保姆级教程: 实操微信聊天记录案例](https://x.com/0xlangeai/status/2117582319473102854) — 微信里有人丢来一张 AI 发布截图，问：「这句话是真的吗？能不能找一下原文？」 在电脑上，我把选中的微信聊天记录分享给 WorkBuddy… · [详情](../items/grok-bot-workbuddy.md) 𝕏
+- [腾讯、腾讯云和 WorkBuddy 联合发布了一份 78 页的「202…](https://x.com/shao__meng/status/2115785693599523089) — 腾讯、腾讯云和 WorkBuddy 联合发布了一份 78 页的「2026 AI Agent 企业解决方案及落地实践手册」 整份材料用同一条… · [详情](../items/workbuddy-78-202.md) 𝕏
+- [个人微信正式支持接入 OpenClaw，附一键接入教程！](https://x.com/canghe/status/2035573202613932326) — 看到微信官方刚刚更新了个重磅功能，支持龙虾接入了。 这次是真正的，属于你的个人微信接入的 clawBot。 入口就在自己的微信——设置——… · [详情](../items/openclaw.md) 𝕏
+- [爆肝制作，29 分钟讲透 WorkBuddy！全网超完整的零基础入门到…](https://x.com/yelowtutu/status/2105236244771021152) — 爆肝制作，29 分钟讲透 WorkBuddy！全网超完整的零基础入门到进阶教程！ 1️⃣ 认识：认识 WorkBuddy 2️⃣ 实操：完… · [详情](../items/29-workbuddy.md) 𝕏
+- [WorkBuddy入门完整攻略：从一次真实任务到资料库、项目与自动化配置实现](https://x.com/FlowOpsDaily/status/2089238661263224870) — WorkBuddy入门完整攻略：从一次真实任务到资料库、项目与自动化配置实现 · [详情](../items/workbuddy-52.md) 𝕏
+- [用飞书操作 WorkBuddy：保姆级接入教程](https://x.com/alin_zone/status/2087132864827544036) — 这篇文章记录我是如何一步一步把 WorkBuddy 接入飞书。 我会按照我的实际操作的顺序，手把手一步一步说明飞书应用、权限、事件、Wor… · [详情](../items/workbuddy-67.md) 𝕏
+- [感觉对这个ai写小说的工作流感兴趣的人还不少，我补充几点。](https://x.com/Yunn260414/status/2085638986006216919) — 感觉对这个ai写小说的工作流感兴趣的人还不少，我补充几点。 教程会在今晚做出来。 1、使用的是workbuddy接入qq机器人实现远程控制… · [详情](../items/ai-21.md) 𝕏
+- [workbuddy教程之手把手教你用workbuddy玩转微信读书skills](https://x.com/shitunote/status/2072902373693927510) — 年初，“养龙虾”（OpenClaw）曾经非常火爆。 网上有不少单子上门安装一次 500；后来，由于安全和使用方面的种种问题，卸载“龙虾”又… · [详情](../items/workbuddy-workbuddy-skills.md) 𝕏
+- [WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) — MIT 许可、截至 2026-09-06 有 2,819 Star/398 Fork 的 WorkBuddy 实战蓝皮书，按“先完成第一项… · [详情](../items/workbuddyguide.md) 𝕏 ⌥
+- [WorkBuddy is handing out FREE Hunyu…](https://x.com/WojakTheDev/status/2118704203115958626) — WorkBuddy is handing out FREE Hunyuan runs and people are still sleep… · [详情](../items/workbuddy-is-handing-out-free-hunyu.md) 𝕏
+- [就这？微信读书排第一？？什么AI博士写的AI垃圾文！在那把简单的话非说…](https://x.com/Sunkeke_AI/status/2120898725925249333) — 就这？微信读书排第一？？什么AI博士写的AI垃圾文！在那把简单的话非说的很复杂！没啥实际操作！车轱辘话翻来覆去！ 说实话真的心疼国内用Wo… · [详情](../items/ai-ai.md) 𝕏
+- [Giving WorkBuddy a Fresh Look with Zero Code (Full Tutorial Included)](https://x.com/tenctcloud_Intl/status/2082298476390719991) — Hi there! I'm Run Cao, a backend developer at Tencent. One day, on a … · [详情](../items/giving-workbuddy-a-fresh-look-with-zero-code-ful.md) 𝕏
+- [微信出手了：AI助手不再是工具，而是你的微信好友（附3分钟接入教程）](https://x.com/joshesye/status/2035698483852956011) — 人在香港，正要返回深圳。 突然看到重磅消息，你的微信可以接入龙虾了 这是全文最重要的结论，听好了： 微信支持 OpenClaw，不是功能更… · [详情](../items/ai-3-2.md) 𝕏
+- [《WorkBuddy 小白上手教程②：专家、技能、连接器怎么用？》](https://x.com/Felixlmjz/status/2108040780422205684) — 《WorkBuddy 小白上手教程②：专家、技能、连接器怎么用？》 · [详情](../items/workbuddy-194.md) 𝕏
+- [腾讯版小龙虾 WorkBuddy 来了，全面直连微信，保姆级教程！](https://x.com/LuBtc888/status/2032374250099913080) — 腾讯版小龙虾 WorkBuddy 来了，全面直连微信，保姆级教程！ · [详情](../items/workbuddy-202.md) 𝕏
+- [周末开学，腾讯、腾讯云、WorkBuddy 联合发了一本 78 页的《…](https://x.com/skytearss/status/2116356231397085674) — 周末开学，腾讯、腾讯云、WorkBuddy 联合发了一本 78 页的《2026 AI Agent 企业解决方案及落地实践手册》，先啃第一章… · [详情](../items/workbuddy-78-2.md) 𝕏
+- [一个重要决定：开始聚焦国内Agent（Workbuddy/Trae/Qoder/KIMI Work）并开始撰写系列教程](https://x.com/DracoVibeCoding/status/2072183785752502283) — 6月30日，2026年马上过去一半了。 我今天做了上半年写作的复盘和反思。在过去的几个月时间里，我写作的内容主要聚焦在以下几个领域： 2月… · [详情](../items/agent-workbuddy-trae-qoder-kimi-work.md) 𝕏
+- [想把 WorkBuddy 真正用起来，别只研究提示词。](https://x.com/dashdot1205/status/2107689210203590923) — 想把 WorkBuddy 真正用起来，别只研究提示词。 找 10 个真实任务跑一遍，你基本就知道 Agent 到底能干什么了。 我从社区案… · [详情](../items/workbuddy-247.md) 𝕏
+- [workbuddy进阶教程来了，上次是假模型权限和配置，这次是讲；技能…](https://x.com/xiaomovps/status/2077185595563188402) — workbuddy进阶教程来了，上次是假模型权限和配置，这次是讲；技能、连接器和专家 很多人问我为什么要去用Workbuddy，看完这个教… · [详情](../items/workbuddy-269.md) 𝕏
+- [WorkBuddy(微信官方龙虾) 小白指南](https://x.com/crypto20c_/status/2032335326367400286) — WorkBuddy(微信官方龙虾) 小白指南 · [详情](../items/workbuddy-291.md) 𝕏
+- [workbuddy提取微信聊天记录的实操教程](https://x.com/selinboshi/status/2119711678715859212) — 一、Windows电脑使用workbuddy提取微信聊天记录的实操教程 windows电脑的操作流程相对简单，安装 wx4-chat-re… · [详情](../items/workbuddy-294.md) 𝕏
+- [装完WorkBuddy却用不起来？这篇超详细教程从装机到定时自动化全覆…](https://x.com/HytidelLegend/status/2084256554690523433) — 装完WorkBuddy却用不起来？这篇超详细教程从装机到定时自动化全覆盖，教你六字段精准派活，把AI当牛马管，重复工作瞬间提效！建议收藏！ · [详情](../items/workbuddy-313.md) 𝕏
+- [workbuddy邪修教程](https://www.workbuddy.cn/events/invite?inviteCode=krzag8ea0mf) — workbuddy邪修教程 1.起手先设置一个每日自动签到领100积分任务 2.点击成长任务（把所有任务都做了） 3.还没有的就点击这个链… · [详情](../items/workbuddy-355.md) 𝕏
+- [Workbuddy积分不够用，先别慌着充钱：](https://x.com/yyyg0fxn/status/2086710863252349301) — Workbuddy积分不够用，先别慌着充钱： 1. 每日签到可以领取100积分额度 2. 8月31号前选Hy3模型开启会话 如果只是想上手… · [详情](../items/workbuddy-378.md) 𝕏
+- [卧槽，刚知道千问在kimi3之后也丢王炸了](https://x.com/noahduck283/status/2079007796885115146) — 卧槽，刚知道千问在kimi3之后也丢王炸了 老哥WorkBuddy接千问教程就出来了 不出意外千问马上也涨价了，觉得kimi贵的抓紧了 · [详情](../items/kimi3.md) 𝕏
+- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) — CC0 1.0 的 WorkBuddy 学习资料导航，汇总快速入门、实战案例、提示词、Skills、MCP 和场景教程；社区清单，使用前请… · [详情](../items/semlinker-awesome-workbuddy.md) ⌥
+- [ZZZ 白话讲 AI](https://github.com/mfkyddh/ZZZ-Simple-AI) — 许可未声明、以 WorkBuddy 为主要创作平台的零基础 AI 认知指南，按 9 章主线和 30 个扩展章节讲解大模型、Agent、上下… · [详情](../items/zzz-plain-language-ai-guide.md) ⌥
+- [AI Project Workflow](https://github.com/AlanHuang168/AI-Project-Workflow) — MIT 许可的跨 Agent 软件交付工作流，支持 CodeBuddy · [详情](../items/ai-project-workflow.md) ⌥
+- [LazyBuddy](https://github.com/elvinzhao10/LazyBuddy) — MIT 许可的 WorkBuddy/CodeBuddy CLI 与 IDE 工作流工具，提供计划、MCP/Skill 路由和任务管理 · [详情](../items/lazybuddy.md) ⌥
+- [第 11 章 WorkBuddy 自动化任务](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E7%AC%AC%E4%B8%80%E7%AF%87%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%EF%BC%9A%E5%85%88%E6%8A%8A%20WorkBuddy%20%E7%94%A8%E8%B5%B7%E6%9D%A5/%E7%AC%AC%2010%20%E7%AB%A0%20WorkBuddy%20%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BB%BB%E5%8A%A1) — 第 11 章 WorkBuddy 自动化任务 · [详情](../items/11-workbuddy.md) ⌥
+- [第 7 章 WorkBuddy 使用连接器](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E7%AC%AC%E4%B8%80%E7%AF%87%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%EF%BC%9A%E5%85%88%E6%8A%8A%20WorkBuddy%20%E7%94%A8%E8%B5%B7%E6%9D%A5/%E7%AC%AC%207%20%E7%AB%A0%20WorkBuddy%20%E4%BD%BF%E7%94%A8%E8%BF%9E%E6%8E%A5%E5%99%A8) — 第 7 章 WorkBuddy 使用连接器 · [详情](../items/7-workbuddy.md) ⌥
+- [第 26 章 自动化工作流的可靠性](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E7%AC%AC%E4%B8%89%E7%AF%87%20%E8%BF%9B%E9%98%B6%E7%AF%87%EF%BC%9A%E6%8A%8A%E6%A1%88%E4%BE%8B%E5%8F%98%E6%88%90%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%2025%20%E7%AB%A0%20%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7) — 第 26 章 自动化工作流的可靠性 · [详情](../items/26.md) ⌥
+- [WorkBuddy + ima 搭建「会进化的 AI 工作流」文字稿教程](https://x.com/CheungP47185/status/2082108857854349322) — 来源：腾讯 WB 官方直播《WorkBuddy + ima 搭建会进化的 AI 工作流》 主讲：Gary（WorkBuddy 产品运营）｜… · [详情](../items/workbuddy-ima-ai-2.md) 𝕏
+- [刚在微信读书上刷到一本书，《一句话干完一天活：WorkBuddy 提效…](https://x.com/xulijian1994/status/2119951852406280218) — 刚在微信读书上刷到一本书，《一句话干完一天活：WorkBuddy 提效指南》。 15.5 万字，售价 158 元，还是三位 AI 博士联合… · [详情](../items/workbuddy-466.md) 𝕏
+- [闲鱼老板必看！XianyuAutoAgent+WorkBuddy一键自…](https://x.com/HytidelLegend/status/2082302824206188775) — 闲鱼老板必看！XianyuAutoAgent+WorkBuddy一键自动化客服议价，再也不丢单。9步教程全交给AI，今晚就跑起来，收藏实践… · [详情](../items/xianyuautoagent-workbuddy.md) 𝕏
+- [Workbuddy免开机自动签到领积分教程：全自动挂机搞定](https://x.com/cwlwxr/status/2115201908264575039) — 【 Workbuddy免开机自动签到领积分教程：全自动挂机搞定 】 每天打开 WorkBuddy 客户端，签到就能领 100 积分。 积分… · [详情](../items/workbuddy-585.md) 𝕏
+- [腾讯 WorkBuddy 微信助理教程：手机微信扫码绑定，就能给电脑上…](https://x.com/Quyao718/status/2109119686428561840) — 腾讯 WorkBuddy 微信助理教程：手机微信扫码绑定，就能给电脑上的 AI 派活，结果回到微信。记得开「锁屏远程」防休眠。#WorkB… · [详情](../items/workbuddy-598.md) 𝕏
+- [WorkBuddy 刚刚新上电脑操控能力，普通人也能丝滑让AI操作微信…](https://x.com/TaTe168198/status/2124210808200757587) — WorkBuddy 刚刚新上电脑操控能力，普通人也能丝滑让AI操作微信发消息！不写脚本、无外挂风险，教程超实用，强烈推荐！ · [详情](../items/workbuddy-ai-75.md) 𝕏

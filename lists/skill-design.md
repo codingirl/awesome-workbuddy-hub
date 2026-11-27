@@ -1,0 +1,78 @@
+# 技能（Skills） · 设计（74）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [Logo Skill（产品 IP 形象做 Logo）](https://x.com/s1dashu/status/2089720502483067016) — 按“产品 IP 形象直接当 Logo”的思路做的 Logo 生成 Skill，作者展示了效果 · [详情](../items/logo-skill-ip-logo.md) 𝕏
+- [让各 Agent 调用 Codex 内置生图能力的 Skill/MCP](https://x.com/vista8/status/2106679497806491714) — 安装该 Skill 或 MCP 后，豆包、WorkBuddy、Claude Code 等都能调用 Codex 内置生图 · [详情](../items/agent-codex-skill-mcp.md) 𝕏
+- [dbskill 开源敏感词过滤审核 skill，这是我的设计方案](https://x.com/dontbesilent/status/2087112168999416092) — 我做了一个叫 dbs-content-risk-check 的 Skill，用于检查准备发布的笔记、文章、口播、字幕、封面文字和评论。 如… · [详情](../items/dbskill-skill.md) 𝕏
+- [AI Animation Skill](https://github.com/Unclecheng-li/AI-Animation-Skill) — MIT 许可的科普动画生成 Skill，明确提供 WorkBuddy 安装步骤，可将科普文本转换为 HTML 演示动画；生成和发布内容前请… · [详情](../items/ai-animation-skill.md) 𝕏 ⌥
+- [我找到了学习Agent skill的最佳方式](https://x.com/zjp1997720/status/2073245199732822108) — 【我找到了学习Agent skill的最佳方式】 为什么我推荐想学习Agent、skills、Plugin设计的朋友们一定要多研究Work… · [详情](../items/agent-skill.md) 𝕏
+- [前几天看到 @Eejoylove 都做个人主页挺惊艳的，刚好 @vis…](https://x.com/iBigQiang/status/2074524405464813646) — 前几天看到 @Eejoylove 都做个人主页挺惊艳的，刚好 @vista8 乔老师开源了 qiaomu-design 这个前端设计 sk… · [详情](../items/eejoylove-vis.md) 𝕏
+- [WorkBuddy 的 Skill 审核给我上了一课。本想上传一个开源…](https://x.com/chaseLiudoqt/status/2117454154172133527) — WorkBuddy 的 Skill 审核给我上了一课。本想上传一个开源 Skill，现在决定先整理自己工作流里真正反复用的技能，注明来源和… · [详情](../items/workbuddy-skill-29.md) 𝕏
+- [一个开源 Skill 就能让各大终端 AI Agent 直接化身全网实…](https://x.com/KOF97AI/status/2125505027456557481) — 一个开源 Skill 就能让各大终端 AI Agent 直接化身全网实时情报猎手，省去手动去各平台搜集最新资讯的繁琐步骤。 GitHub … · [详情](../items/skill-ai-agent-2.md) 𝕏
+- [挖到个新出的宝藏Skill：叫 ip-as-logo-skill。Gi…](https://x.com/aikangarooking/status/2091076858804625512) — 挖到个新出的宝藏Skill：叫 ip-as-logo-skill。GitHub 3.6K Star： 它可以让 Agent 一次生成 6 … · [详情](../items/skill-ip-as-logo-skill-gi.md) 𝕏
+- [Same prompt, no extra skills instal…](https://x.com/Yi1027dan/status/2118309602718863717) — Same prompt, no extra skills installed – each used its built-in defau… · [详情](../items/same-prompt-no-extra-skills-instal.md) 𝕏
+- [国内 workbuddy 最近更新了 UI，越来越像 codex 了，…](https://x.com/zjp1997720/status/2061004432343699772) — 国内 workbuddy 最近更新了 UI，越来越像 codex 了，也算是国内 Agent 功能做的最全的，skill 套件、agent… · [详情](../items/workbuddy-ui-codex.md) 𝕏
+- [在 WorkBuddy 上架了一个临床试验查找技能。](https://ClinicalTrials.gov) — 在 WorkBuddy 上架了一个临床试验查找技能。 这是一个为 AI 助手设计的临床试验查找技能。患者、家属或医护人员可以直接用中文描述… · [详情](../items/workbuddy-339.md) 𝕏
+- [今天下午在workbuddy上安装了skill！](https://x.com/Ray_Garry_/status/2123719810580459948) — 今天下午在workbuddy上安装了skill！ perspective-illusion！ 一句话生成了 湾里庙步行街 的多角度动画 但… · [详情](../items/workbuddy-skill-60.md) 𝕏
+- [我自己做的Architecture-analysis skill目前已…](https://x.com/zhiqing_shijimo/status/2116477044301373724) — 我自己做的Architecture-analysis skill目前已经迭代到3.0版本。基本可以正式投入使用了。 接下来要做的就是不停的… · [详情](../items/architecture-analysis-skill.md) 𝕏
+- [md2wechat-skill v2.8.0 发布，新增 Agent …](https://x.com/seekjourney/status/2069996760765002165) — md2wechat-skill v2.8.0 发布，新增 Agent 图片计划模式。 这版重点补齐一个 Agent 内容工作流里的关键环节… · [详情](../items/md2wechat-skill-v2-8-0-agent.md) 𝕏
+- [workbuddy玩家最值得关注的github十大免费资源](http://github.com/iamzhihuix/skills-manage) — workbuddy玩家最值得关注的github十大免费资源 一、skills-manage｜跨平台技能管理器 作者：iamzhihuix … · [详情](../items/workbuddy-github-2.md) 𝕏
+- [我用 Workbuddy 生成文章插图也好，还是生成一些类似人像，或者…](https://x.com/shynloc/status/2110305435668656476) — 我用 Workbuddy 生成文章插图也好，还是生成一些类似人像，或者产品也好。这个默认生图模型实在是太拉了。本来一开始呢，我走的是给 W… · [详情](../items/workbuddy-394.md) 𝕏
+- [详细推荐了15个WorkBuddy最新实用技能，按内容创作、视觉设计、…](https://x.com/mowangweb/status/2109153006696690058) — 详细推荐了15个WorkBuddy最新实用技能，按内容创作、视觉设计、职场成长、开发者工具和信息获取五大类整理，干货密度很高。 · [详情](../items/15-workbuddy.md) 𝕏
+- [Senmu BuildOS](https://github.com/SenMuShare/senmu-buildos) — Apache-2.0 的跨工具 Agent 工程教练与 Skill 集合，明确支持 WorkBuddy，覆盖需求、设计、实现、测试、Git… · [详情](../items/senmu-buildos.md) ⌥
+- [UX Design Guide](https://github.com/genapohub/ux-design-guide) — MIT 许可、明确兼容 WorkBuddy 的 UI/UX 设计 Skill，可按新产品、功能迭代、微调、设计系统和概念探索五类场景生成交… · [详情](../items/ux-design-guide.md) ⌥
+- [AutoFigure-Edit WorkBuddy Skill](https://github.com/Flipped929/workbuddy-autofigure-edit-skill) — Apache-2.0 许可的论文配图 Skill，将方法段文字转换为可编辑 SVG，并提供网页内联编辑器；导出论文或投稿素材前请人工核对图… · [详情](../items/autofigure-edit-workbuddy-skill.md) ⌥
+- [FreeCAD AI Skill](https://github.com/shanputaoye/freecad-ai-skill) — MIT 许可、明确支持 WorkBuddy 的 FreeCAD 专家 Skill，覆盖 3D 建模、Python 脚本、插件开发和 PyS… · [详情](../items/freecad-ai-skill.md) ⌥
+- [OJO Design Skills](https://github.com/touchine-ojo/OJO-Design-Skills) — MIT 许可、明确支持 WorkBuddy 的 UI/UX 设计 Skill 集合，提供品牌方向、设计令牌、组件配方、动效规格和反模板化检… · [详情](../items/ojo-design-skills.md) ⌥
+- [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) — MIT 许可、明确支持 WorkBuddy 的产品、设计与战略思维 Skill，提炼心智模型、决策启发式和表达方式，可通过 `npx sk… · [详情](../items/steve-jobs-skill.md) ⌥
+- [MLiang UI Design](https://github.com/MLiang0920/mliang-ui-design-skill) — MIT 许可、明确支持 WorkBuddy 的通用 UI 设计 Skill，提供 14 套调色板、4px 间距体系、字体比例、交互状态、H… · [详情](../items/mliang-ui-design.md) ⌥
+- [Apple Design Skill](https://github.com/dayviwong/apple-design-skill) — MIT 许可、明确支持 WorkBuddy/CodeBuddy 的 Apple HIG 风格界面设计 Skill，提供 SF Pro、响应… · [详情](../items/apple-design-skill.md) ⌥
+- [即梦网页端生图 Skill](https://github.com/leigegehaha/jimeng-cli-free) — Apache-2.0 许可、明确支持 WorkBuddy 的本地即梦网页端生图 Skill，支持模型与比例选择、参考图上传、图片编辑和原图… · [详情](../items/dreamina-web-image-skill.md) ⌥
+- [Right Code Image](https://github.com/yfpgle-glitch/rightcode-imagegen) — MIT 许可、明确支持 WorkBuddy 的图片生成与编辑 Skill，提供本地 API Key 配置、异步任务恢复、参考图处理和项目内… · [详情](../items/right-code-image.md) ⌥
+- [Beautiful Mermaid](https://github.com/chouraycn/beautiful-mermaid) — 未声明许可证的 WorkBuddy/CodeBuddy 图表 Skill，将 Mermaid 渲染为主题化 SVG、PNG 或 ASCII… · [详情](../items/beautiful-mermaid.md) ⌥
+- [Photo Poetic Postcard](https://github.com/yinxiaowai/xiaowai-photo-poetic-postcard) — CC BY-NC-SA 4.0 内容许可的 WorkBuddy 照片明信片 Skill，将一张照片制作成含转绘主体、文字和色卡的诗意明信片 · [详情](../items/photo-poetic-postcard.md) ⌥
+- [Design Workflow](https://github.com/yang20040317-svg/design-workflow) — MIT 许可、WorkBuddy/Claude Code 格式的设计工作流 Skill，以五层模型和可复用模块组织，并含图表、前端、图标、… · [详情](../items/design-workflow.md) ⌥
+- [Photo to Monthly Zine Postcard](https://github.com/shenchangyi/photo-to-monthly-zine-postcard) — MIT 许可、可直接安装的 WorkBuddy/Codex Skill，将用户照片制作成 3:4 月历 Zine 明信片，并要求先核验匹配… · [详情](../items/photo-to-monthly-zine-postcard.md) ⌥
+- [Eagle Untagged Organizer](https://github.com/ChosenXu/eagle-untagged-organizer) — MIT 许可的 WorkBuddy Skill，通过 Eagle MCP 批量整理未标记的设计素材，支持多语言名称、结构化注释、标签、预览… · [详情](../items/eagle-untagged-organizer.md) ⌥
+- [Graphic Design Guide](https://github.com/genapohub/graphic-design-guide) — MIT 许可、兼容 WorkBuddy/CodeBuddy 的平面设计方案 Skill，按品牌、营销物料、单件设计、品牌焕新和风格探索生成… · [详情](../items/graphic-design-guide.md) ⌥
+- [Bazi-Ziwei Skill](https://github.com/mingze21/bazi-ziwei-skill) — MIT 许可、兼容 WorkBuddy/Codex/Claude/Cursor 的八字与紫微斗数 Skill，使用本地算法排盘、提示词和可… · [详情](../items/bazi-ziwei-skill.md) ⌥
+- [Prompt Toolkit](https://github.com/xiaolouJB/prompt-toolkit) — CC BY-NC 4.0 的 12 个通用 Prompt 多智能体分发包，含 WorkBuddy 原生 Skill 目录以及 Claude… · [详情](../items/prompt-toolkit.md) ⌥
+- [AI创品 Product Creator](https://github.com/zhangx1234994/aicp-product-creator-skill) — MIT 许可、提供 WorkBuddy Skill/插件包与 MCP 配置的商品设计工作流，可从图片或创意匹配实时商品、预览并生成报价，明… · [详情](../items/aichuangpin-product-creator.md) ⌥
+- [1688 Product Reader](https://github.com/yyc424666lvy/1688-product-reader) — MIT 许可、只读的 WorkBuddy 商品研究 Skill，可从已登录的 1688 页面提取标题、价格、起订量、卖家、SKU、图片和参数 · [详情](../items/1688-product-reader.md) ⌥
+- [Math Concept Film](https://github.com/liangdabiao/math-concept-film) — 许可未声明、兼容 WorkBuddy/Codex/Claude 的数学概念短片 Skill，以语音先行的字幕时间轴驱动 Manim 动画，… · [详情](../items/math-concept-film.md) ⌥
+- [Training Incentive Designer](https://github.com/haoranx968-stack/training-incentive-designer) — MIT 许可的 WorkBuddy 培训激励方案 Skill，提供双轨激励方法、参考方案和可填充模板 · [详情](../items/training-incentive-designer.md) ⌥
+- [Ontology-driven Development](https://github.com/sharptoolbox/ontology-driven-dev) — 从需求探索、本体建模到应用构建的可追溯业务系统开发 Skill · [详情](../items/ontology-driven-development.md) ⌥
+- [miniprogram-canvas-verify](https://github.com/shuangying0001-beep/miniprogram-canvas-verify) — 微信小程序 Canvas 预览与视觉验证 / 教备神器 Canvas 工具链：截图+区域裁剪+回归对比 · [详情](../items/miniprogram-canvas-verify.md) ⌥
+- [bidwriter](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/01-bidding-tender/bidwriter) — 智能招投标文件编写专家，覆盖工程咨询、建筑设计、市政、IT、软件开发、货物与服务采购等各类招投标，工程建设类为深度强项。能解析招标文件、提… · [详情](../items/bidwriter.md) ⌥
+- [cad-editor](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/06-engineering-cost/cad-editor__skillhub) — > · [详情](../items/cad-editor-skillhub.md) ⌥
+- [design-issue-review-closure-assistant](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/06-engineering-cost/pengge-liaogongcheng-engineering-project-design-problem-review-closed-loop-management-assistant__skillhub) — 审查工程项目方案、初设、施工图、深化图和变更文件中的错漏碰缺、不合理及合规风险，输出图纸审查清单、设计问题卡、会审纪要、责任台账、风险分级… · [详情](../items/pengge-liaogongcheng-engineering-project-design.md) ⌥
+- [api-development](https://github.com/weininghui/skills/tree/main/api-development) — Meta-skill that orchestrates the full API development lifecycle — fro… · [详情](../items/api-development.md) ⌥
+- [awwwards-design](https://github.com/weininghui/skills/tree/main/awwwards-design) — Create award-winning, memorable websites with advanced animations, cr… · [详情](../items/awwwards-design.md) ⌥
+- [catalog](https://github.com/weininghui/skills/tree/main/catalog) — Catálogo simples do estúdio (hello world) · [详情](../items/catalog.md) ⌥
+- [instagram-poster](https://github.com/weininghui/skills/tree/main/instagram-poster) — Instagram automation via local Puppeteer browser. Posts, Reels, Stori… · [详情](../items/instagram-poster.md) ⌥
+- [kubernetes-devops](https://github.com/weininghui/skills/tree/main/kubernetes-devops) — WHAT: Kubernetes manifest generation - Deployments, StatefulSets, Cro… · [详情](../items/kubernetes-devops.md) ⌥
+- [nano-banana-pro](https://github.com/weininghui/skills/tree/main/nano-banana-pro) — Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro). · [详情](../items/nano-banana-pro.md) ⌥
+- [nl2ms-ui](https://github.com/weininghui/skills/tree/main/nl2ms-ui) — 根据自然语言通过midscene的api生成midscene脚本，可以生成web端、Android端、iOS端和PC端的midscene脚… · [详情](../items/nl2ms-ui.md) ⌥
+- [salesforce-sdr-admin](https://github.com/weininghui/skills/tree/main/salesforce-sdr-admin) — UI-driven Salesforce SDR and admin execution across Sales Cloud, Serv… · [详情](../items/salesforce-sdr-admin.md) ⌥
+- [sprite-animator](https://github.com/weininghui/skills/tree/main/sprite-animator) — Generate animated pixel art sprites from any image using AI. Send a p… · [详情](../items/sprite-animator.md) ⌥
+- [ui-ux-design](https://github.com/weininghui/skills/tree/main/ui-ux-design) — Modern UI/UX design principles, patterns, and best practices for web … · [详情](../items/ui-ux-design.md) ⌥
+- [zoho-people](https://github.com/weininghui/skills/tree/main/zoho-people) — Zoho People API integration with managed OAuth. Manage employees, dep… · [详情](../items/zoho-people.md) ⌥
+- [mcd-git](https://github.com/zhutoumeme/mcd-git) — 用 git 命令点麦当劳：add 放购物车，rebase 凑最省，push 确认后才下单；card 生成 1024 吃麦贡献图（3D 汉堡… · [详情](../items/zhutoumeme-mcd-git.md) ⌥
+- [design-skills](https://github.com/kangarooking/design-skills) — 设计Skill：面向 AI 生图与视觉设计的开源 Agent Skills | Design Skills: Open-source Ag… · [详情](../items/kangarooking-design-skills.md) ⌥
+- [CodeX 极度友好，用不上 Claude 的朋友有福了！](https://x.com/leo_xiaolei/status/2115417339537875248) — CodeX 极度友好，用不上 Claude 的朋友有福了！ Opus 5.5 版本上线，动画、推理效果更加！ WorkBuddy 已经支持… · [详情](../items/codex-claude-3.md) 𝕏
+- [让 Agent 做小程序，出来的经常还是网页。](https://github.com/alchaincyf/huashu-design) — 让 Agent 做小程序，出来的经常还是网页。 胶囊和底栏对不上。 有个开源 skill，叫 huashu-design。 它按微信的规格… · [详情](../items/agent-41.md) 𝕏
+- [这个作者给我们带来了一个新的好用的东西，类似 workbuddy 的协…](https://x.com/aidenspeed01/status/2085210270276698375) — 这个作者给我们带来了一个新的好用的东西，类似 workbuddy 的协作功能。 他上一个开源 skill /no-ai-slop 显然戳中… · [详情](../items/workbuddy-511.md) 𝕏
+- [朋友甩过来一条：「WorkBuddy+Miora，下一代高级设计工作台…](https://x.com/s_hxxtn/status/2113157037295337615) — 朋友甩过来一条：「WorkBuddy+Miora，下一代高级设计工作台来了！（再附3个神仙Skill）」。 我回了个问号，他说你先看看自己… · [详情](../items/workbuddy-miora.md) 𝕏
+- [总体测试下来，腾讯WorkBuddy的Skill和功能特别多，但是ag…](https://x.com/Ying1Roger/status/2070021685278036203) — 总体测试下来，腾讯WorkBuddy的Skill和功能特别多，但是agent老是干不好活，出来的东西基本差强人意，包括图片设计和网页制作属… · [详情](../items/workbuddy-skill-ag.md) 𝕏
+- [分享一个适合 0 基础 AI 小白搭建的获取高质量ai信息的工作流🫡日…](https://x.com/yvetteeeee4000/status/2083564938321379813) — 分享一个适合 0 基础 AI 小白搭建的获取高质量ai信息的工作流🫡日常需要做内容输出真的很需要这些skill 特别感谢开源了「follo… · [详情](../items/0-ai-ai-2.md) 𝕏
+- [今天尝试安装和测试了workbuddy和DeepSeek- GUI，发…](https://x.com/INBLEEM/status/2064712759905013852) — 今天尝试安装和测试了workbuddy和DeepSeek- GUI，发现前者在安装skill的时候会更改一些来源，例如很贴心的换掉gith… · [详情](../items/workbuddy-deepseek-gui.md) 𝕏
+- [WorkBuddy 应该是国内目前最好用的 Agent 平台之一。能做…](https://x.com/Jerboa104/status/2082132094646644806) — WorkBuddy 应该是国内目前最好用的 Agent 平台之一。能做的事情真的好多。 平时用得也比较多，前段时间也顺手给 WorkBud… · [详情](../items/workbuddy-agent-18.md) 𝕏
+- [分享一个零代码搭小工具的方法，不用写代码，不用装 skill，也不用从…](https://x.com/Wangsj111924/status/2122959252532978055) — 分享一个零代码搭小工具的方法，不用写代码，不用装 skill，也不用从零开始： 打开 WorkBuddy → 发现 → 灵感，里面全是现成… · [详情](../items/skill-51.md) 𝕏
+- [AI辅助科研时最常见的坑：文献综述写得漂亮，但引用查不到或不支持原文。](https://x.com/FinnTsai88/status/2077563553427689516) — AI辅助科研时最常见的坑：文献综述写得漂亮，但引用查不到或不支持原文。 分享 RW Research Skill 系统，通过 16 个独立… · [详情](../items/ai-213.md) 𝕏
+- [我在Workbuddy平台上线了4个技能产品，有需要可以试用！前一周免…](https://x.com/AresSheng/status/2114666679037022518) — 我在Workbuddy平台上线了4个技能产品，有需要可以试用！前一周免费，一周以后开始设置收费，欢迎大家使用反馈。 竞品情报雷达：整理竞品… · [详情](../items/workbuddy-4-5.md) 𝕏
+- [腾讯设计Agent平台Miora全面开放](https://x.com/wu_yun_jiang/status/2079787208286847400) — 腾讯设计Agent平台Miora全面开放 腾讯用WorkBuddy的底子做了设计Agent，记忆系统和Skill市场让设计流程有了Agen… · [详情](../items/agent-miora.md) 𝕏
+- [Agent skills设计中的渐进式披露原则，真的适合各位搞AI的同…](https://x.com/Hunter_ctime/status/2081393273722257917) — Agent skills设计中的渐进式披露原则，真的适合各位搞AI的同志们细品 是个好帖子，但是好帖子互联网是不给流量的 互联网喜欢，“w… · [详情](../items/agent-skills-ai.md) 𝕏
+- [我们的主题商店也正式上线了，](https://x.com/anhao_ai/status/2078540303376720109) — 我们的主题商店也正式上线了， 支持codex,workbuddy 我们定义了一套主题规范 json schme 还有 skill , 可以… · [详情](../items/x-76720109.md) 𝕏
+- [Hy4 flash 上线了用之前分享的制图可以用于制作高质量的插画海报…](https://github.com/taxueseek/taxue-imagegen) — Hy4 flash 上线了用之前分享的制图可以用于制作高质量的插画海报 skill ，在 Workbuddy 当中。我给Hy4 flash… · [详情](../items/hy4-flash-6.md) 𝕏
+- [workbuddy还是挺能打的，做了一个自动生图的skill，配合豆包…](https://x.com/lhong001/status/2073041743587721712) — workbuddy还是挺能打的，做了一个自动生图的skill，配合豆包或者lovart的能力，挺方便的，不用自己做workflow了 · [详情](../items/workbuddy-skill-116.md) 𝕏

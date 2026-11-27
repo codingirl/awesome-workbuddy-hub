@@ -1,28 +1,21 @@
-# 快快快，workbuddy 羊毛帖！
+# 用 WorkBuddy 操控微信干活
 
-> 类型：知识点与使用技巧 ｜ 分类：效率 ｜ 标签：效率
+> 类型：教程与指南 ｜ 分类：自动化 ｜ 标签：自动化
 
 ## 简介
 
-快快快，workbuddy 羊毛帖！ workbuddy 有个每日 100 积分活动，小技巧来了 1: 先断网然后打开 workbuddy…
+借助 WorkBuddy 电脑操控能力点微信、发消息、转文件的教程
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
-> 快快快，workbuddy 羊毛帖！ workbuddy 有个每日 100 积分活动，小技巧来了 1: 先断网然后打开 workbuddy 2: 打开workbuddy 的时候抓紧打开网络 3:鼠标在那狂点领取即可 朴实无华的撸毛小技巧，手速快的已经撸了几千分。
+本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HRwTfG1aoAAmZ0v.jpg)
-![](https://pbs.twimg.com/media/HRwTfG3awAAoC-I.jpg)
-
 ## 所有来源
 
-- X · [Bear. @BossBear_0621](https://x.com/BossBear_0621/status/2097577195904664020) · 2026-09-09 · 108 赞 / 5 转 / 49586 浏览
+- X · [李岳 @liyue_ai](https://x.com/liyue_ai/status/2124036554494746692) · 2026-11-21 · 285 赞 / 53 转 / 188066 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

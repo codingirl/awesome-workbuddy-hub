@@ -1,0 +1,55 @@
+# 提示词 · 开发（51）
+
+[← 返回 README](../README.md) · [全部清单](README.md)
+
+- [卧槽，听闻一个朋友在workbuddy上的花费惊呆了！](https://x.com/hiheimu/status/2110364702702535016) — 卧槽，听闻一个朋友在workbuddy上的花费惊呆了！ 说是刚开始用workbuddy时，不会提示词 每天都充1000多rmb的积点。。。… · [详情](../items/workbuddy-65.md) 𝕏
+- [Arion 语音输入法 0.1.4 版本更新了一个小功能](https://x.com/Stv_Lynn/status/2119687669366276474) — Arion 语音输入法 0.1.4 版本更新了一个小功能 点击反馈的时候，会给到你一个 prompt，粘贴到你的 codex、workbu… · [详情](../items/arion-0-1-4.md) 𝕏
+- [别再纠结提示词了](https://x.com/xiayitiaoAI/status/2102738138766700677) — 别再纠结提示词了 说个暴论：你根本不需要提示词！ 虽然我经常也会分享提示词给你们， 但在我的实际操作中， 提示词已经基本不用了。 具体操作… · [详情](../items/x-66700677.md) 𝕏
+- [很多人只比模型强弱](https://x.com/vivigft5/status/2119272069032767666) — 很多人只比模型强弱 忘了好马还要配好鞍 同一个模型 换一个harness基座 跑分能差几十分 光是上下文怎么裁 Prompt怎么调度 写出… · [详情](../items/x-32767666.md) 𝕏
+- [分享一段给AI agent的全局提示词（Claude code/cod…](https://x.com/JohnKaihn/status/2124532918265729039) — 分享一段给AI agent的全局提示词（Claude code/codex/workbuddy配置后可长期生效： 1. “我是谁，我主要做… · [详情](../items/ai-agent-claude-code-cod.md) 𝕏
+- [最近在工作中，发现用WorkBuddy做出来的demo，很多时间是优于…](https://x.com/KittyCats101/status/2123681298363638184) — 最近在工作中，发现用WorkBuddy做出来的demo，很多时间是优于Codex的。 不仅让我反思，可能普通的模型 + 更加搞笑提示词 +… · [详情](../items/workbuddy-demo.md) 𝕏
+- [这是去用workbuddy的内置提示词去做的网站，10分钟，12个积分…](https://x.com/Liu_zhongxisn/status/2106675682122273070) — 这是去用workbuddy的内置提示词去做的网站，10分钟，12个积分消耗，用的DeepSeek-V4.1-Flash 并且还可以发布出去… · [详情](../items/workbuddy-10-12.md) 𝕏
+- [WorkBuddy 又出了一个又快又便宜的新模型啦！😂](https://x.com/star_flow_ai/status/2122482851383738528) — WorkBuddy 又出了一个又快又便宜的新模型啦！😂 腾讯混元昨天正式发布 Hy4 Flash！ 有开发者拿它和 DeepSeek V4… · [详情](../items/workbuddy-273.md) 𝕏
+- [同样的提示词，workbuddy（Hy3）和traework（ds-v…](https://x.com/JohnXJohn_23/status/2092871226301755723) — 同样的提示词，workbuddy（Hy3）和traework（ds-v4-flash）给出的结果大相庭径。 我的提示词是“我有智普的cod… · [详情](../items/workbuddy-hy3-traework-ds-v.md) 𝕏
+- [怎么统计每天的 Token 消耗？用 AI Agent 汇总 Codex、WorkBuddy 用量（附提示词）](https://x.com/xiaoluv12o/status/2079401391278465322) — 怎么统计每天的 Token 消耗？用 AI Agent 汇总 Codex、WorkBuddy 用量（附提示词） · [详情](../items/token-ai-agent-codex-workbuddy.md) 𝕏
+- [推荐磊叔的这个提示词](https://x.com/being99/status/2095434132079935545) — 推荐磊叔的这个提示词 现在大家都是 AI 开多个会话同时开始工作 时间一长，就会乱七八糟不知道哪个是哪个了 这个提示词对于 WorkBud… · [详情](../items/x-79935545.md) 𝕏
+- [Claude banned us? Fine.](https://x.com/PengP66810/status/2125412070699204980) — Claude banned us? Fine. My mic broke, Codex wouldn't log in. I gave W… · [详情](../items/claude-banned-us-fine.md) 𝕏
+- [兄弟们，workbuddy有个非常实用的功能，就是原生自带的“提示词增…](https://x.com/Jaybert888/status/2112401094899044710) — 兄弟们，workbuddy有个非常实用的功能，就是原生自带的“提示词增强”功能，有时自己不知道怎么问AI时，描述一个简单的想法，他就能帮你… · [详情](../items/workbuddy-318.md) 𝕏
+- [不改权重，Agent 也能自己变强？Google 开源的 Harnes…](https://github.com/google-research/harness2) — 不改权重，Agent 也能自己变强？Google 开源的 Harness² 让 Agent 干活时自己改提示词、工具和记忆：先提方案、再实… · [详情](../items/agent-google-harnes.md) 𝕏
+- [Google 开源 Harness²：不改权重，Agent 自己改工作…](https://x.com/HenyJone/status/2111681463254991036) — Google 开源 Harness²：不改权重，Agent 自己改工作台🛠️ 据官方论文，单步最高 +11.5 分（WorkBuddy） … · [详情](../items/google-harness-agent.md) 𝕏
+- [我的提示词写的并不太好，但是我一直在用 Workbuddy 的增强提示…](https://x.com/realYanming/status/2117094918367953087) — 我的提示词写的并不太好，但是我一直在用 Workbuddy 的增强提示词这个功能 就是我有一个想法，我打上去，他会给我一些细化的策略 我之… · [详情](../items/workbuddy-373.md) 𝕏
+- [VibeCoding大赏】换 AI 换电脑不用从头再教！用 GitHu…](https://x.com/Pepper12189/status/2125563913521799430) — 【VibeCoding大赏】换 AI 换电脑不用从头再教！用 GitHub 建 AI 个人档案库，跨端共用记忆＋1 句提示词直接搭好 4 … · [详情](../items/vibecoding-ai-githu.md) 𝕏
+- [公司很多其他业务人员最近也被推着用workbuddy、](https://x.com/11eace/status/2105548149691678953) — 公司很多其他业务人员最近也被推着用workbuddy、 codex这些 但是效果差强人意，发现他们许多还停留在用 提示词对话的层面 顶多就… · [详情](../items/workbuddy-404.md) 𝕏
+- [WorkBuddy部署币安Agentic Wallet， WorkBu…](https://www.workbuddy.cn/events/invite?inviteCode=appafo9ldnlhnpw) — WorkBuddy部署币安Agentic Wallet， WorkBuddy每天有免费额度，干净的代理挂上。用下面链接双方有500积分，双… · [详情](../items/workbuddy-agentic-wallet-workbu.md) 𝕏
+- [人生苦短，我用workbuddy](https://x.com/ttttinyfish/status/2114263489233793525) — 人生苦短，我用workbuddy deepseek v4.1 flash，低成本，高回报 不过，要是能用codex规划一下，写个提示词给它… · [详情](../items/workbuddy-431.md) 𝕏
+- [早上review workbuddy和codex完成的定时任务，同样的…](https://x.com/tongfucat/status/2106591762181734545) — 早上review workbuddy和codex完成的定时任务，同样的提示词，完全不同的结果，给我的建议我都不喜欢，怎么办呢 · [详情](../items/review-workbuddy-codex.md) 𝕏
+- [把六个 AI 客户端（DSH、WorkBuddy、ZCode、Code…](https://x.com/QingQ77/status/2108026091902554506) — 把六个 AI 客户端（DSH、WorkBuddy、ZCode、Codex、Cursor、Claude Code）里用户碰不到的内置提示词换… · [详情](../items/ai-dsh-workbuddy-zcode-code.md) 𝕏
+- [低版本gitea尽快升级](https://x.com/ai_suxiaole/status/2086735935547552187) — 低版本gitea尽快升级 上次我就已经中招了 被攻击部署了挖矿程序 输入提示词让Codex/Claude/Workbuddy检查就行： 请… · [详情](../items/gitea.md) 𝕏
+- [Google researchers open-sourced Har…](https://x.com/nilsgroove/status/2112051650365976852) — Google researchers open-sourced Harness², where the agent rewrites it… · [详情](../items/google-researchers-open-sourced-har.md) 𝕏
+- [现在可以把手机带进你常用的 AI 会话了。](https://tapilot.lifeos.md/zh/install) — 现在可以把手机带进你常用的 AI 会话了。 在 Tapilot 官网复制提示词，粘贴给豆包工作、WorkBuddy 等客户端，让它带你完成… · [详情](../items/ai-171.md) 𝕏
+- [agent 跑不好 大家第一反应都是换更贵的模型 额度烧得飞起](https://x.com/bufcapy/status/2112161130915242265) — agent 跑不好 大家第一反应都是换更贵的模型 额度烧得飞起 Google Research 开源的 Harness² 反着来 模型不动… · [详情](../items/agent-38.md) 𝕏
+- [谷歌开源 Harness²：让 Agent 在运行中自我改进——外挂代…](https://x.com/ztgametv/status/2112062732937957663) — 谷歌开源 Harness²：让 Agent 在运行中自我改进——外挂代码、提示词、工具链都能自己动手改。 据 10 月 19 日报道，RS… · [详情](../items/harness-agent-3.md) 𝕏
+- [workbuddy：给傻子用的，提供的专家你连提示词都不知道，你也真敢…](https://x.com/yopoyan/status/2069313201859354659) — workbuddy：给傻子用的，提供的专家你连提示词都不知道，你也真敢用... claude code：给工程师用的，命令行，目录，文件搞… · [详情](../items/workbuddy-489.md) 𝕏
+- [因为用不上claude code 于是用WorkBuddy尝试做个游戏…](https://x.com/OiMemeovo/status/2119045061040308725) — 因为用不上claude code 于是用WorkBuddy尝试做个游戏，但是总是做的不满意，是插件问题还是提示词的问题？就像muse，会用… · [详情](../items/claude-code-workbuddy.md) 𝕏
+- [Anthropic rolled out Claude Haiku 5…](https://x.com/lunkertw/status/2108120563927691550) — Anthropic rolled out Claude Haiku 5.5 with a 1M token context window … · [详情](../items/anthropic-rolled-out-claude-haiku-5.md) 𝕏
+- [My timeline is full of @WorkBuddy_A…](https://x.com/Clionnao/status/2077695384718340561) — My timeline is full of @WorkBuddy_AI and Codex right now. One prompt,… · [详情](../items/my-timeline-is-full-of-workbuddy-a.md) 𝕏
+- [刚做了一个小测试。](https://x.com/mklsw/status/2073954592048726058) — 刚做了一个小测试。 在 WorkBuddy 里，只发送一句“你好”，就消耗了 32.1K Tokens。 拆开来看，大概是： System… · [详情](../items/x-48726058.md) 𝕏
+- [Google 开源 Harness²：模型权重不动，Agent 自己改…](https://x.com/lsz1685479/status/2111998272050995530) — Google 开源 Harness²：模型权重不动，Agent 自己改提示词/工具/记忆。单步把 GLM-5 WorkBuddy-Benc… · [详情](../items/google-harness-agent-3.md) 𝕏
+- [腾讯 WorkBuddy 被扒皮了：Agent 内核是 Claude …](https://x.com/dragono64v/status/2110629712993395112) — 腾讯 WorkBuddy 被扒皮了：Agent 内核是 Claude Code 的逆向移植版。 证据分了四级，一级比一级狠： A 级：49… · [详情](../items/workbuddy-agent-claude.md) 𝕏
+- [I use Codex + GPT-5.6 Sol for freel…](https://x.com/qian_xue37604/status/2079464350394601571) — I use Codex + GPT-5.6 Sol for freelance reports. One prompt turns new… · [详情](../items/i-use-codex-gpt-5-6-sol-for-freel.md) 𝕏
+- [Your AI can talk. It just has no to…](https://x.com/UUMitofficial/status/2104759010046120067) — Your AI can talk. It just has no tools. Copy one prompt to WorkBuddy … · [详情](../items/your-ai-can-talk-it-just-has-no-to.md) 𝕏
+- [Hy3 is off to a busy start on WorkB…](https://x.com/Hardika61973243/status/2075201372669227386) — Hy3 is off to a busy start on WorkBuddy. High demand, rapid scaling, … · [详情](../items/hy3-is-off-to-a-busy-start-on-workb.md) 𝕏
+- [低版本gitea尽快升级上次我就已经中招了被攻击部署了挖矿程序s登录服…](https://x.com/ai_suxiaole/status/2086735841586557281) — 低版本gitea尽快升级上次我就已经中招了被攻击部署了挖矿程序s登录服务器排查gitea是否有被木马攻击 上次我就已经中招了 被攻击部署了… · [详情](../items/gitea-s.md) 𝕏
+- [编程或者自动化任务用好agent关键是学会使用/goal指令，设定任务…](https://x.com/zhangshy2/status/2086355418574664147) — 编程或者自动化任务用好agent关键是学会使用/goal指令，设定任务，给一个阶段目标，不达目标不要停止，输出阶段成果。提示词是“做一个x… · [详情](../items/agent-goal.md) 𝕏
+- [刚刚用AI一句话搭建了飞书的选题库真的惊艳到了](https://x.com/kanvis_chen/status/2108136428974788962) — 刚刚用AI一句话搭建了飞书的选题库真的惊艳到了 去年我还花了很多时间学习怎么用飞书，还研究怎么自动化，还研究coze，今天我真的就让cod… · [详情](../items/ai-191.md) 𝕏
+- [最近在体验下WorkBuddy，发现这个东西和codex的体验差蛮大的…](https://x.com/shenyunpo/status/2091883946317648046) — 最近在体验下WorkBuddy，发现这个东西和codex的体验差蛮大的，其中一个点是内部应该是封装了相关提示词，导致模型在条件允许的情况下… · [详情](../items/workbuddy-codex-16.md) 𝕏
+- [Claudecode、Codex、WorkBuddy, 大模型没完没 …](https://x.com/BensonFast76015/status/2105859790836834513) — Claudecode、Codex、WorkBuddy, 大模型没完没 了地更新。每天对着屏幕,不停调提示词 今天放假回到家, 实的物理世界… · [详情](../items/claudecode-codex-workbuddy.md) 𝕏
+- [如何用 workbuddy 使用 Claude 大模型？](https://ccswitch.io/) — 如何用 workbuddy 使用 Claude 大模型？ 把这个提示词发给你的 workbuddy 请在这台电脑上用 CC Switch … · [详情](../items/workbuddy-claude-3.md) 𝕏
+- [最近寻找claude 代替,kimi,mimo,grok其实都代替cl…](https://x.com/Sam_kwankz/status/2082045641539351014) — 最近寻找claude 代替,kimi,mimo,grok其实都代替claude code. 提示词里面需要边界约束以及debug 代码提示… · [详情](../items/claude-kimi-mimo-grok-cl.md) 𝕏
+- [我发现很多人都搞错了，codex、cc 或者 workbuddy，刚刚…](https://x.com/tmdxmeme/status/2102942056364851708) — 我发现很多人都搞错了，codex、cc 或者 workbuddy，刚刚接触 ai 的人会认为 agent 可以处理一切，然后把任务扔给它，… · [详情](../items/codex-cc-workbuddy.md) 𝕏
+- [今天给ChatGPT-6.2Astra ultral在codex里安排…](https://x.com/MountflyLee/status/2125247736975122467) — 今天给ChatGPT-6.2Astra ultral在codex里安排一个工作，于此同时，用同样的提示词在workbuddy里用Hy4同步… · [详情](../items/chatgpt-6-2astra-ultral-codex.md) 𝕏
+- [很多人推企业 Agent，默认员工会打开一个空对话框，然后写出完美提示…](https://x.com/dsy2008bob/status/2117063114038673824) — 很多人推企业 Agent，默认员工会打开一个空对话框，然后写出完美提示词。 结果呢，对话框一直空着。 真正推不动的，往往不是模型不够强，是… · [详情](../items/agent-45.md) 𝕏
+- [给大家分享一下我的方案](https://x.com/YY20070110/status/2126146975443935317) — 给大家分享一下我的方案 workbuddy 就能写 代码 3块钱让他帮你每天干活 大模型就用 deepseekv4.1 视图模型用 glm… · [详情](../items/x-43935317.md) 𝕏
+- [同样的提示词带详细的参考案例，codex sol 中一次就能理解并执行…](https://x.com/gogogonow178/status/2087871115129651654) — 同样的提示词带详细的参考案例，codex sol 中一次就能理解并执行，执行效果大概90%。workbuddy 开auto ，根本不按照你… · [详情](../items/codex-sol.md) 𝕏
+- [GitHub 账号被冻结后，](https://x.com/ZiminZhao/status/2094944379547025764) — GitHub 账号被冻结后， 我用 gitee 作为应急方案。 结果发现，没什么不同。 对用户来说，安装都是发一段提示词。 workbud… · [详情](../items/github-3.md) 𝕏
+- [相同的提示词，分别用 Claude Fable 5，Workbuddy…](https://x.com/hihongjie/status/2073326768656920956) — 相同的提示词，分别用 Claude Fable 5，Workbuddy，Codex 完成 Munsell 3D可视化，Codex 完胜（图… · [详情](../items/claude-fable-5-workbuddy.md) 𝕏

@@ -17,7 +17,7 @@
 
 ## 所有来源
 
-- X · [阿西_出海 @axichuhai](https://x.com/axichuhai/status/2112894877985808730) · 2026-10-21 · 19 赞 / 6 转 / 3445 浏览
+- X · [阿西_出海 @axichuhai](https://x.com/axichuhai/status/2112894877985808730) · 2026-10-21 · 19 赞 / 6 转 / 3446 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

@@ -1,6 +1,6 @@
 # 🪄 Introducing Ardot, Tencent's AI-n…
 
-> 类型：工作流 ｜ 分类：设计 ｜ 标签：设计
+> 类型：知识点与使用技巧 ｜ 分类：官方动态 ｜ 标签：官方动态
 
 ## 简介
 
@@ -14,11 +14,6 @@
 
 ## 使用/获取
 
-
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HIk3VhUbcAAXLCw.jpg)
-![](https://pbs.twimg.com/media/HIk3VhSaIAAdePq.jpg)
 
 ## 所有来源
 

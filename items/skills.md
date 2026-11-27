@@ -1,26 +1,25 @@
-# 前两天，看到腾讯技术工程发布了skills创建的标准手册。
+# 虽然阿里和腾讯都做了 skills 的商业化，但是这玩意在如今很难成为…
 
-> 类型：技能（Skills） ｜ 分类：效率 ｜ 标签：效率
+> 类型：技能（Skills） ｜ 分类：内容创作 ｜ 标签：内容创作
 
 ## 简介
 
-前两天，看到腾讯技术工程发布了skills创建的标准手册。 现在智能体平台Trae、WorkBuddy、龙虾、皮带都有 skill-cre…
+虽然阿里和腾讯都做了 skills 的商业化，但是这玩意在如今很难成为护城河啊， 前段时间刷到 workbuddy 里的 skills 把…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> 前两天，看到腾讯技术工程发布了skills创建的标准手册。 现在智能体平台Trae、WorkBuddy、龙虾、皮带都有 skill-creator, 但是创建后发现效果都不行，大量时间消耗在反复优化和修改，而且经常出现大bug. 索性花了半天功夫，直接把腾讯最新 Skill 手册干成了创建skills的skills
+> 虽然阿里和腾讯都做了 skills 的商业化，但是这玩意在如今很难成为护城河啊， 前段时间刷到 workbuddy 里的 skills 把人家开源的 skills 转了一道去卖的事 另一方面，小红书对于 AIGC 的态度更是有意思，一边上 skills，另一边限制内容 ai 生成同时不能标记原创，导致几乎小红书内的 ai
 
 ## 使用/获取
 
-- 链接：<https://github.com/EdwardWason/skill-forge>
 - 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
 - ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 
-- X · [AI花生 @XMRer](https://x.com/XMRer/status/2063628221476733228) · 2026-06-07 · 0 赞 / 583 浏览
+- X · [webkubor @webkuborDev](https://x.com/webkuborDev/status/2118636127309697341) · 2026-11-06 · 1 赞 / 15 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

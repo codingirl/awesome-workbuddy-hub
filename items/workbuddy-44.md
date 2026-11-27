@@ -1,24 +1,21 @@
-# WorkBuddy完整课程
+# WorkBuddy进阶玩法
 
-> 类型：教程与指南 ｜ 分类：内容创作 ｜ 标签：内容创作
+> 类型：知识点与使用技巧 ｜ 分类：效率 ｜ 标签：效率
 
 ## 简介
 
-WorkBuddy完整课程 🔗： 视频里 10 个 Skill 的地址👇 01 Find Skills 02 Skill Creator …
+WorkBuddy进阶玩法
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
-> WorkBuddy完整课程 🔗： 视频里 10 个 Skill 的地址👇 01 Find Skills 02 Skill Creator workbuddy里输入/skill-creator 03 writing-dna 04 Grill Me 05 UI UX Pro Max
+本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
 ## 使用/获取
 
-- 链接：<https://pan.chatgptgi.com/B9BY6p44>
 
 ## 所有来源
 
-- X · [白骏知识分享 @cj3214567667](https://x.com/cj3214567667/status/2125163767390499289) · 2026-11-24 · 33 赞 / 11 转 / 2954 浏览
+- X · [AI搞钱Hacker @gaoqian2580](https://x.com/gaoqian2580/status/2074288985325899857) · 2026-07-07 · 152 赞 / 41 转 / 34538 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

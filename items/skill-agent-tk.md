@@ -15,10 +15,6 @@
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HWp-jjSaEAAmvda.jpg)
-
 ## 所有来源
 
 - X · [小唐Tk Ai @doudouniuto](https://x.com/doudouniuto/status/2119645733964087748) · 2026-11-09 · 4 赞 / 128 浏览

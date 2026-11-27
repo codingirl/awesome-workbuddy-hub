@@ -1,23 +1,25 @@
-# workbuddy创建skill攻略！以客户访谈摘要作为示例，完整拆解一份可验收Skill应该包含什么
+# 现在WorkBuddy里面的skill 都不叫 skill叫专家，并且…
 
-> 类型：工作流 ｜ 分类：效率 ｜ 标签：效率
+> 类型：技能（Skills） ｜ 分类：开发 ｜ 标签：开发
 
 ## 简介
 
-workbuddy创建skill攻略！以客户访谈摘要作为示例，完整拆解一份可验收Skill应该包含什么
+现在WorkBuddy里面的skill 都不叫 skill叫专家，并且开放了skill买卖 我其实真的想知道，如果你连Github都不会用…
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> Skill不是提示词收藏夹：把WorkBuddy重复流程做成可验收能力 这篇不是功能清单，而是按‘对象—输入—执行—证据—验收—边界’拆开的完整工作流。每张图只负责证明一个正文无法替代的事实。
+> 现在WorkBuddy里面的skill 都不叫 skill叫专家，并且开放了skill买卖 我其实真的想知道，如果你连Github都不会用，你花钱买这skill的意义是什么……
 
 ## 使用/获取
 
+- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。
+- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。
 
 ## 所有来源
 
-- X · [FlowOps Daily @FlowOpsDaily](https://x.com/FlowOpsDaily/status/2090101389355806778) · 2026-08-19 · 15 赞 / 4 转 / 1379 浏览
+- X · [dragon @dragono64v](https://x.com/dragono64v/status/2114335208346653044) · 2026-10-25 · 2 赞 / 235 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

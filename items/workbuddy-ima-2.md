@@ -1,28 +1,21 @@
-# 腾讯的workbuddy + ima知识库，
+# 用 WorkBuddy + ima 搭个人知识库，长手就能学会教程
 
-> 类型：案例与实测 ｜ 分类：数据分析 ｜ 标签：数据分析
+> 类型：教程与指南 ｜ 分类：数据分析 ｜ 标签：数据分析
 
 ## 简介
 
-腾讯的workbuddy + ima知识库， 实测已经打通了， 应该可以成为一个知识库售卖的组合拳。
+用 WorkBuddy + ima 搭个人知识库，长手就能学会教程
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
-> 腾讯的workbuddy + ima知识库， 实测已经打通了， 应该可以成为一个知识库售卖的组合拳。
+本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
 ## 使用/获取
 
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HKMzwMfa0AALRYS.png)
-![](https://pbs.twimg.com/media/HKMz0H6aAAEs0Te.png)
-
 ## 所有来源
 
-- X · [黄小木 @ai_xiaomu](https://x.com/ai_xiaomu/status/2063761924152848750) · 2026-06-07 · 29 赞 / 3 转 / 13067 浏览
+- X · [Adrian Punk @AdrianPunk115](https://x.com/AdrianPunk115/status/2073688055492608470) · 2026-07-05 · 1813 赞 / 437 转 / 879248 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

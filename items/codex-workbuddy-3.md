@@ -1,23 +1,23 @@
-# Codex 和 WorkBuddy 到底怎么选？
+# 最近的风似乎从 Codex 吹到了 Workbuddy，刷到好几篇文章…
 
-> 类型：知识点与使用技巧 ｜ 分类：开发 ｜ 标签：开发
+> 类型：教程与指南 ｜ 分类：开发 ｜ 标签：开发
 
 ## 简介
 
-Codex 和 WorkBuddy 到底怎么选？ 说说各自的优缺点。 Codex 更偏专业开发，擅长理解代码仓库、修改项目、执行终端命令、…
+最近的风似乎从 Codex 吹到了 Workbuddy，刷到好几篇文章了，以前是 Codex 小白教程，现在换成 Workbuddy 了。
 
 ## 详情
 
 以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
 
-> Codex 和 WorkBuddy 到底怎么选？ 说说各自的优缺点。 Codex 更偏专业开发，擅长理解代码仓库、修改项目、执行终端命令、跑测试，配合 Git 和 CI/CD 做工程化开发很合适。 WorkBuddy 更偏国内全场景 Agent，支持多模型切换、MCP、Skills，不仅能辅助写代码，还能操作本地文件、处理
+> 最近的风似乎从 Codex 吹到了 Workbuddy，刷到好几篇文章了，以前是 Codex 小白教程，现在换成 Workbuddy 了。
 
 ## 使用/获取
 
 
 ## 所有来源
 
-- X · [沧瑶 @CryY666666](https://x.com/CryY666666/status/2124478791342805034) · 2026-11-22 · 24 赞 / 1 转 / 9644 浏览
+- X · [Kevin Ma @kevinma_dev_zh](https://x.com/kevinma_dev_zh/status/2074147879766351987) · 2026-07-06 · 20 赞 / 51073 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

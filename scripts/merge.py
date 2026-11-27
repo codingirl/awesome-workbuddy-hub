@@ -4,7 +4,7 @@ from overrides import O
 GH=json.load(open('data/raw/github_items.json'))
 EX=json.load(open('data/raw/github_extra_filtered.json'))
 XI=json.load(open('data/raw/x_items.json'))
-CATS=["办公文档","内容创作","数据分析","设计","开发","营销","自动化","学习教程","行业应用","工具集成","效率","其他"]
+CATS=["办公文档","内容创作","数据分析","设计","开发","营销","自动化","学习教程","行业应用","工具集成","效率","官方动态","其他"]
 def clip(s,n):
     s=re.sub(r'\s+',' ',s or '').strip()
     return s if len(s)<=n else s[:n-1]+'…'

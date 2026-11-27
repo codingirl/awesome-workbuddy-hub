@@ -17,7 +17,7 @@
 
 ## 所有来源
 
-- X · [zhouluobo @zhouluobo](https://x.com/zhouluobo/status/2121537349943500939) · 2026-11-14 · 652 赞 / 155 转 / 134903 浏览
+- X · [zhouluobo @zhouluobo](https://x.com/zhouluobo/status/2121537349943500939) · 2026-11-14 · 652 赞 / 155 转 / 134921 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

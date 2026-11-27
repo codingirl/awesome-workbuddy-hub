@@ -14,10 +14,11 @@ WorkBuddy 全套 AI 提效实战课：Codex + OpenClaw 自定义 Skill 全教程
 
 ## 使用/获取
 
+- 链接：<https://pan.quark.cn/s/b7bc6e8fcdb7>
 
 ## 所有来源
 
-- X · [付费资源分享 @li18875786](https://x.com/li18875786/status/2074660557500903507) · 2026-07-08 · 40 赞 / 6 转 / 6432 浏览
+- X · [付费资源分享 @li18875786](https://x.com/li18875786/status/2074660557500903507) · 2026-07-08 · 40 赞 / 6 转 / 6434 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

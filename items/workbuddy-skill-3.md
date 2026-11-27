@@ -15,7 +15,7 @@
 
 ## 所有来源
 
-- X · [Wattter @WattterDjiang](https://x.com/WattterDjiang/status/2118984789915324906) · 2026-11-07 · 570 赞 / 83 转 / 168910 浏览
+- X · [Wattter @WattterDjiang](https://x.com/WattterDjiang/status/2118984789915324906) · 2026-11-07 · 570 赞 / 83 转 / 168913 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*

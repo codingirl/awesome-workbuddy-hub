@@ -18,15 +18,12 @@ X 上相关分享（节选）：
 
 - 链接：<https://github.com/AlephAITech/WorkBuddyGuide>
 
-## 配图（来自原帖）
-
-![](https://pbs.twimg.com/media/HNJpMnraoAAwQXY.jpg)
-
 ## 所有来源
 
 - X · [Geek Lite @QingQ77](https://x.com/QingQ77/status/2077215321958830498) · 2026-07-15 · 15 赞 / 1 转 / 1841 浏览
-- X · [Steven | Side Hustle Lab @stevenhab](https://x.com/stevenhab/status/2094038987379986449) · 2026-08-30 · 0 赞 / 167 浏览
+- X · [Meta_wu @ferwoo1990](https://x.com/ferwoo1990/status/2086657870498758962) · 2026-08-10 · 1 赞 / 146 浏览
 - X · [Marco Ramilli @Marco_Ramilli](https://x.com/Marco_Ramilli/status/2079267548458013101) · 2026-07-20 · 0 赞 / 291 浏览
+- X · [Steven | Side Hustle Lab @stevenhab](https://x.com/stevenhab/status/2094038987379986449) · 2026-08-30 · 0 赞 / 167 浏览
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/AlephAITech/WorkBuddyGuide) · 许可：CC0-1.0 · Learning and reference
 
 ---

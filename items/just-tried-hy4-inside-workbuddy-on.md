@@ -18,7 +18,7 @@ Just tried Hy4 inside WorkBuddy. One prompt: research the open-source…
 
 ## 所有来源
 
-- X · [Maliha Tasnim @this_is_tasnim](https://x.com/this_is_tasnim/status/2118918672073031814) · 2026-11-07 · 66 赞 / 30 转 / 33680 浏览
+- X · [Maliha Tasnim @this_is_tasnim](https://x.com/this_is_tasnim/status/2118918672073031814) · 2026-11-07 · 66 赞 / 30 转 / 33681 浏览
 
 ---
 *由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
