@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 你正在读的这篇长文，从抓素材、写稿、生成配图、排版到排期发布，没有我手动点过一次「发送」。 它是被这篇文章里写的流水线——WorkBuddy 读 SKILL.md 当操作手册、Codex 生图、Buffer 发短推、Typefully 发长文——自己发出去的。换句话说：这是一篇讲「让 AI 自动发 X」的文章，而它自己，正是被 AI 自动发出去的。 上篇我写了《我用 Claude Code + Codex + Buffer 搭了条无痛发推流水线》，有读者在评论区追了一句：这套东西离开 Claude Code 还能跑吗？毕竟 Buffer 的连接是写死在 ~/.claude.json 里的，换个客户端，连接器面板里全是 disconnected，流水线会在发布这一步卡死。 这篇文章回答这个问题：能，而且我把「长文」也一起接进来了。 短推继续走 Buffer，长文（X Article，带标题、富文本、封面）走 Typefully。整条链路我在 WorkBuddy 上从头到尾实测跑通，过程中踩出四个文档里查不到、只能实测出来的坑——其中两个，根因都在「非交互 shell 读不到 .zshrc」。 一、整体架构：同一份 SKILL…
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [码良 @cxjwin](https://x.com/cxjwin/status/2077303004735438982) · 2026-07-15 · 51 赞 / 5 转 / 12970 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

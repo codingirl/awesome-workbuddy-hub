@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 跟一群天天把 SKILLS 挂嘴边的人做 AI 类产品真的头大，万物皆 SKILLS。 WorkBuddy 说啥就是啥，完全无脑。 会拱的猪都能飞的时期！！！
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [inglonl @inglonl](https://x.com/inglonl/status/2062377300772200911) · 2026-06-04 · 0 赞 / 54 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

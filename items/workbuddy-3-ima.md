@@ -18,4 +18,4 @@ WorkBuddy 搭知识库的 3 种姿势：腾讯文档 / ima / 乐享，到底选�
 - X · [Yanming @realYanming](https://x.com/realYanming/status/2075739592742129908) · 2026-07-11 · 0 赞 / 36 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

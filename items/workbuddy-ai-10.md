@@ -8,8 +8,6 @@ WorkBuddy 重磅更新，直接下场抢 AI 办公市场了！ 简单来说，�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 重磅更新，直接下场抢 AI 办公市场了！ 简单来说，就是你电脑里的 Word、Excel、PPT、PDF 等文件，现在可以直接用 WorkBuddy 打开，不用再手动上传。打开后，左边是文件，右边是 AI，可以直接让 AI 帮你总结、分析、修改内容，改完还能直接保存回原文件。支持多文件切换，Markdown 和 HTML
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 重磅更新，直接下场抢 AI 办公市场了！ 简单来说，�
 - X · [Cheery @cheery9998](https://x.com/cheery9998/status/2108188920949198942) · 2026-10-08 · 62 赞 / 8 转 / 8886 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

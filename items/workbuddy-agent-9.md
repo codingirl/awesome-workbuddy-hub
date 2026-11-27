@@ -8,8 +8,6 @@ workbuddy对agent在中国普通用户中的普及是起到很大作用的 deeps
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy对agent在中国普通用户中的普及是起到很大作用的 deepseek涨价，Hy3免费跑 , 差一点又如何呢？ 大不了自己多上点心，多点拨agent几次，多跑几遍啊 我今天用workbuddy做了一个记英语四级单词的skills 这个agentic任务包含
 
 ## 使用/获取
@@ -20,4 +18,4 @@ workbuddy对agent在中国普通用户中的普及是起到很大作用的 deeps
 - X · [马识途 @shitunote](https://x.com/shitunote/status/2090065141547082019) · 2026-08-19 · 14 赞 / 4266 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

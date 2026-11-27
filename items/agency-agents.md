@@ -21,4 +21,4 @@ MIT 许可的中文社区专家集合，包含覆盖 20 个部门的 276 个角�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/jnMetaCode/agency-agents-zh) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

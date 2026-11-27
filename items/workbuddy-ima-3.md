@@ -18,4 +18,4 @@ WorkBuddy+ima搭建知识库，一个管生产，一个管沉淀
 - X · [龙哥不懂代码 @ai_goge](https://x.com/ai_goge/status/2075822015731396934) · 2026-07-11 · 86 赞 / 18 转 / 16114 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

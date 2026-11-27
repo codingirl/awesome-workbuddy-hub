@@ -21,4 +21,4 @@ MIT 许可的跨平台 WorkBuddy 新闻周报 Skill，使用纯 Python 和 RSS �
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Elisabeth15501/ai-weekly) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

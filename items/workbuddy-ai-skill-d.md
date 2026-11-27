@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 昨天偷懒，在workbuddy上安装了一个去AI感skill，然后用deepseek帮我修改blog文章。结果，文章被改的惨不忍睹，通篇各种极其口语化的表达。 在中文书面表达上，感觉国内的模型基本上比不过google Gemini。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [dank @dankzheng](https://x.com/dankzheng/status/2118492102636306527) · 2026-11-05 · 0 赞 / 85 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

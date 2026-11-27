@@ -18,4 +18,4 @@ WorkBuddy 真正的用法：90%的人不知道这些功能存在
 - X · [龙哥不懂代码 @ai_goge](https://x.com/ai_goge/status/2074397469144944854) · 2026-07-07 · 349 赞 / 79 转 / 99657 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

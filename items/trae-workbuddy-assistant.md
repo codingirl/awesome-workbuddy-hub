@@ -19,4 +19,4 @@ MIT 许可的 Windows Tauri 工具，为 Trae 与 WorkBuddy 提供多账号管�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/cxqc168-wq/Trae-workbuddyAssistant) · 许可：CC0-1.0 · Community clients and enhancements
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

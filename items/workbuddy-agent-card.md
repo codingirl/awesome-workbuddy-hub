@@ -21,4 +21,4 @@ A2A Agent Card endpoint for WorkBuddy Skills Agent (A2A protocol 0.2)
 - GitHub · [shuangying0001-beep/awesome-workbuddy-skills](https://github.com/shuangying0001-beep/workbuddy-agent-card) · 许可：unspecified · 智能体互联
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

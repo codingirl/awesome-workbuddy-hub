@@ -1,4 +1,4 @@
-# 技能（Skills） · 营销（42）
+# 技能（Skills） · 营销（26）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
@@ -14,29 +14,13 @@
 - [信息差，绝对的信息差](https://x.com/NIxinhai0/status/2113733449320186236) — 信息差，绝对的信息差 凌晨才出的热消息，WorkBuddy 悄悄开变现通道了。现在你自己做的 skill 专家智能体，可以直接上架去卖了 … · [详情](../items/x-20186236.md) 𝕏
 - [在workbuddy想把skill真正持续变现目前根本不是用开放平台！…](https://x.com/Jeremyz7c/status/2119799335731007931) — 在workbuddy想把skill真正持续变现目前根本不是用开放平台！但凡这么说的都是骗子！目前变现依旧通过skillhub发布时要购买k… · [详情](../items/workbuddy-skill-58.md) 𝕏
 - [我的天，skillhub干了一件大事啊，专业skill商业化变现](https://x.com/lhfflb/status/2072642214279381383) — 我的天，skillhub干了一件大事啊，专业skill商业化变现 workbuddy真的要掘起啊 我一直觉得专业牛x的skill，是值得付… · [详情](../items/skillhub-skill.md) 𝕏
-- [在电梯里看到了，腾讯workbuddy的广告。](https://x.com/Smile4Yes/status/2082352533910217020) — 在电梯里看到了，腾讯workbuddy的广告。 之前openclaw大火的时候，也是腾讯推得最卖力。 安装试了一下，内置了好多skill，… · [详情](../items/workbuddy-340.md) 𝕏
 - [WorkBuddy 开放平台内测 Skill 变现，X 上吵得很热闹。…](https://x.com/0prc3/status/2117529352862924964) — WorkBuddy 开放平台内测 Skill 变现，X 上吵得很热闹。有一种声音很典型：Skill 门槛太低，AI 十分钟搓一个，谁会花钱… · [详情](../items/workbuddy-skill-x.md) 𝕏
 - [我惊了，在workbuddy卖skill，居然第二天就自然流出单了 @…](https://x.com/0xAdaLiu/status/2120435513660174355) — 我惊了，在workbuddy卖skill，居然第二天就自然流出单了 @WorkBuddy_AI 总结一下，从开始到出单一共这几步： 1️⃣… · [详情](../items/workbuddy-skill-65.md) 𝕏
 - [Skill 变现别只看抽成，真正差的是流量从哪来。](https://x.com/duolamifaso/status/2125940784423907702) — Skill 变现别只看抽成，真正差的是流量从哪来。 WorkBuddy 像进商场：先有过审资产才能开收款，审核最长 7 个工作日；内测服务… · [详情](../items/skill-35.md) 𝕏
 - [WorkBuddy 开放变现 你的行业经验，上架就能收费！](https://x.com/lutu_ai/status/2113651082169843864) — WorkBuddy 开放变现 你的行业经验，上架就能收费！ 这条用「律师审合同」举例，拆解3步上架路径：注册认证→封装技能或专家→提交审核… · [详情](../items/workbuddy-418.md) 𝕏
-- [website prompts and skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) — 腾讯 EdgeOne 维护的网站生成 Prompt、Skill 与挑战赛作品池 · [详情](../items/website-prompts-and-skills.md) ⌥
 - [WeChat Mini Program Builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) — MIT 许可、提供 WorkBuddy 专用入口的微信小程序全生命周期 Skill，覆盖选题、备案、开发、变现、审核、推广和矩阵运营，可复… · [详情](../items/wechat-mini-program-builder.md) ⌥
 - [Growth Guide](https://github.com/genapohub/growth-guide) — MIT 许可、兼容 WorkBuddy/CodeBuddy 的增长 Skill，覆盖增长模型、获客矩阵、实验、留存和渠道 ROI 方案 · [详情](../items/growth-guide.md) ⌥
-- [CordysCRM Skills](https://github.com/1Panel-dev/CordysCRM-skills) — 覆盖销售 L2C 流程的 CRM Agent Skills · [详情](../items/cordyscrm-skills.md) ⌥
-- [agent-self-improve](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/07-agent-framework/agent-self-improve) — 领域无关的可复用「自我进化 / 自净化」范式层。当需要「让任意 AI Agent 越用越聪明 / 加反思净化能力 / 人工在环学习闭环 /… · [详情](../items/agent-self-improve.md) ⌥
 - [gitbash-coreutils-fix](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/09-windows-ops/gitbash-coreutils-fix) — 修复 Windows 上 Git Bash / WorkBuddy 终端「coreutils 集体失踪」——ls、cat、cp、mv、mk… · [详情](../items/gitbash-coreutils-fix.md) ⌥
-- [activecampaign](https://github.com/weininghui/skills/tree/main/activecampaign) — ActiveCampaign CRM integration for lead management, deal tracking, an… · [详情](../items/activecampaign.md) ⌥
-- [adcp-advertising](https://github.com/weininghui/skills/tree/main/adcp-advertising) — Automate advertising campaigns with AI. Create ads, buy media, manage… · [详情](../items/adcp-advertising.md) ⌥
-- [auto-reply](https://github.com/weininghui/skills/tree/main/auto-reply) — Autonomous reply to X/Threads comments. Smart detection, templated re… · [详情](../items/auto-reply.md) ⌥
-- [clawdbot-for-vcs](https://github.com/weininghui/skills/tree/main/clawdbot-for-vcs) — A complete workflow automation system for venture capital investment … · [详情](../items/clawdbot-for-vcs.md) ⌥
-- [crypto-payments-ecommerce](https://github.com/weininghui/skills/tree/main/crypto-payments-ecommerce) — Accept crypto and stablecoin payments for e-commerce without signup, … · [详情](../items/crypto-payments-ecommerce.md) ⌥
-- [email-sequence-builder](https://github.com/weininghui/skills/tree/main/email-sequence-builder) — Build complete email marketing sequences (welcome, nurture, sales, re… · [详情](../items/email-sequence-builder.md) ⌥
-- [product-marketing-context](https://github.com/weininghui/skills/tree/main/product-marketing-context) — When the user wants to create or update their product marketing conte… · [详情](../items/product-marketing-context.md) ⌥
-- [sendook-openclaw](https://github.com/weininghui/skills/tree/main/sendook-openclaw) — Read and send emails from an existing Sendook inbox. Use when an AI a… · [详情](../items/sendook-openclaw.md) ⌥
-- [shellf](https://github.com/weininghui/skills/tree/main/shellf) — A philosophy library for AI agents. Browse books, read chunk by chunk… · [详情](../items/shellf.md) ⌥
-- [vestaboard](https://github.com/weininghui/skills/tree/main/vestaboard) — Read and write messages on a Vestaboard using the Vestaboard Cloud AP… · [详情](../items/vestaboard.md) ⌥
-- [vnsh](https://github.com/weininghui/skills/tree/main/vnsh) — Securely share files via encrypted, expiring links. Use this skill to… · [详情](../items/vnsh.md) ⌥
-- [weiyun-skills](https://github.com/weininghui/skills/tree/main/weiyun-skills) — This skill should be used when the user needs to manage Tencent Weiyu… · [详情](../items/weiyun-skills.md) ⌥
 - [副业】简中区 AI 博主又有收益啦🔥](https://x.com/WanziSweet/status/2113903822435185041) — 【副业】简中区 AI 博主又有收益啦🔥 腾讯 WorkBuddy 后台多了「收入变现」——Skill 能标价上架了！！ 据 @Mileso… · [详情](../items/ai-168.md) 𝕏
 - [吐槽一下 workbuddy](https://x.com/Jiezhanyuan/status/2119722453157253441) — 吐槽一下 workbuddy 概念很好，搭建开放平台，发布技能、专家封装成资产，一定程度的收入变现 实际执行的没眼看，提交审核后 10 天… · [详情](../items/workbuddy-483.md) 𝕏
 - [腾讯 WorkBuddy 开放平台在内测「收入变现」。Skill 和专…](https://x.com/CircleRank_/status/2116081841220538520) — 腾讯 WorkBuddy 开放平台在内测「收入变现」。Skill 和专家可以自己标价卖了，买断或按月订阅，1 到 9999 元，内测期服务… · [详情](../items/workbuddy-skill-98.md) 𝕏

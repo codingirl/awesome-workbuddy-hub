@@ -18,4 +18,4 @@
 - X · [Miles Ma @miles_mazy](https://x.com/miles_mazy/status/2090727310257430759) · 2026-08-21 · 1268 赞 / 299 转 / 442964 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

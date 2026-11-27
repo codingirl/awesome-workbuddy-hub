@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 分享几个 WorkBuddy 下载量最高的 Skill，我按照用途分成 8 个。 前面 4 个可以让你的 AI 越用越强： ✅ Find Skills：不知道装什么，直接告诉它你要做什么任务，它帮你匹配对应的技能，不用自己挨个翻 ✅ Self
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [溺心海·Aven @NIxinhai0](https://x.com/NIxinhai0/status/2124671638713356566) · 2026-11-23 · 2 赞 / 380 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

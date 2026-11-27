@@ -8,8 +8,6 @@ WorkBuddy内测上线收入变现功能 支持开发者自主定价售卖自身�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy内测上线收入变现功能 支持开发者自主定价售卖自身创建的技能、专家服务 无需编写代码，上传对应zip包即可发布 后台签约审核通过就行了。 #WorkBuddy 网址：
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy内测上线收入变现功能 支持开发者自主定价售卖自身�
 - X · [Wishfor.eth @godworks_lw](https://x.com/godworks_lw/status/2114195476128108959) · 2026-10-25 · 0 赞 / 62 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

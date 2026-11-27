@@ -8,8 +8,6 @@ workbuddy还是可以的 自从用了computer-repair-skill，我想卸载我的�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy还是可以的 自从用了computer-repair-skill，我想卸载我的腾讯管家 一个覆盖诊断、清理、性能、网络与安全维护的跨平台电脑维修助手 C 盘爆满、电脑卡顿、流氓软件、应用迁移、数据恢复直接问，先取证、再计划、确认后修改 从傻瓜式安装到诊断电脑故障和解决，我就用了40个积分
 
 ## 使用/获取
@@ -20,4 +18,4 @@ workbuddy还是可以的 自从用了computer-repair-skill，我想卸载我的�
 - X · [大蝦不是大侠 @Su1841](https://x.com/Su1841/status/2099327392783512018) · 2026-09-14 · 0 赞 / 33 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

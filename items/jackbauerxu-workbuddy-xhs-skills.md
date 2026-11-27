@@ -23,4 +23,4 @@ Agent Skills for Xiaohongshu cold start, positioning, topic bank, humanized draf
 - GitHub · [jackbauerxu/workbuddy-xhs-skills](https://github.com/jackbauerxu/workbuddy-xhs-skills) · stars 55
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

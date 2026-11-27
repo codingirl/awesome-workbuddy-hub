@@ -18,4 +18,4 @@
 - X · [Wattter @WattterDjiang](https://x.com/WattterDjiang/status/2124808183076266486) · 2026-11-23 · 52 赞 / 6 转 / 11072 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ Workbuddy怎么写游戏脚本
 - X · [3w先生（重生版） @wwwangmeishijie](https://x.com/wwwangmeishijie/status/2122508992069107892) · 2026-11-17 · 3 赞 / 149 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -21,4 +21,4 @@ WorkBuddy 视频创作 Skill 与专家包，覆盖从创意、关键帧到 Seeda
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/yangchen0991/video-workshop) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

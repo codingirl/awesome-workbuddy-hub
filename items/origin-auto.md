@@ -19,4 +19,4 @@ MIT 许可、面向 Windows OriginLab 的科研绘图 MCP 与 WorkBuddy Skill，
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/simcrq/origin-auto) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

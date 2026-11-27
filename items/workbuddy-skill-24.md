@@ -18,4 +18,4 @@ Workbuddy换肤skill
 - X · [Wukong @WukongNumber1](https://x.com/WukongNumber1/status/2077784022596628822) · 2026-07-16 · 12 赞 / 1 转 / 2886 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

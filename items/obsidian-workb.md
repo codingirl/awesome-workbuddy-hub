@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 经常用 Obsidian 当第二大脑的，推荐一定要去用一下 WorkBuddy 我一直在用workbuddy 它在国内更适合个人办公和内容创作 里面的 Skill 和插件很多，国内外常用的内容平台，办公 App 基本都能接 在WorkBuddy 里一搜Obsidian，相关 Skill
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2095414239485734994) · 2026-09-03 · 163 赞 / 48 转 / 23096 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

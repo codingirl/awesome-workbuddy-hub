@@ -23,4 +23,4 @@ WorkBuddy Token 消耗看板 Skill：扫描本机会话日志，生成单文件�
 - GitHub · [fuyi-git/token-dashboard](https://github.com/fuyi-git/token-dashboard) · stars 64
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

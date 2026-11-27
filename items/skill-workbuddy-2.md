@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 这套论文skill搭配workbuddy成本可以忽略不计 但是帮人写，本科1500，硕士5000+ 一周接2-3篇… 一个月…
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Adrian Punk @AdrianPunk115](https://x.com/AdrianPunk115/status/2077608391586001372) · 2026-07-16 · 58 赞 / 18 转 / 14384 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

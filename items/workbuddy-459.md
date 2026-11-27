@@ -18,4 +18,4 @@ WorkBuddy用到这一步，才算开始
 - X · [AI-George（搞薯条版）🍟 @jianweisong1993](https://x.com/jianweisong1993/status/2091204239217606689) · 2026-08-22 · 0 赞 / 1037 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

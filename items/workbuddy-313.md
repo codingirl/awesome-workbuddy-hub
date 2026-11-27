@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 装完WorkBuddy却用不起来？这篇超详细教程从装机到定时自动化全覆盖，教你六字段精准派活，把AI当牛马管，重复工作瞬间提效！建议收藏！
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Hytidel聊商业（文章更多干货） @HytidelLegend](https://x.com/HytidelLegend/status/2084256554690523433) · 2026-08-03 · 2 赞 / 353 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

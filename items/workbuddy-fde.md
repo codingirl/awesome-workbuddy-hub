@@ -8,8 +8,6 @@ WorkBuddy 日活破千万，对普通 FDE 到底意味着什么？ 上周末和�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 日活破千万，对普通 FDE 到底意味着什么？ 上周末和我的导师一起跟他腾讯做解决方案的大学同学吃饭，聊完几个一线大厂的真实打法，我们对当下 B 端 AI 落地有了更清醒的判断： 1/ 千万日活 ≠ 企业真的在买单 WorkBuddy 这类产品日活已经做到千万级，日均 Token
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 日活破千万，对普通 FDE 到底意味着什么？ 上周末和�
 - X · [ailisiye @ailisiye](https://x.com/ailisiye/status/2125231673210208327) · 2026-11-24 · 3 赞 / 180 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

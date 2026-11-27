@@ -21,4 +21,4 @@ DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零�
 - GitHub · [dsh-plugin-lab/dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) · 许可：MIT · stars 49
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

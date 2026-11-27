@@ -21,4 +21,4 @@ Apache-2.0 的离线软著材料整理工具，提供桌面应用、CLI 和 Work
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/kcylp/mazhu) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

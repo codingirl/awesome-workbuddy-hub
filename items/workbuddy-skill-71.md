@@ -8,8 +8,6 @@ workbuddy都公开各种工作台制作方法，各种skill，为什么视频号
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy都公开各种工作台制作方法，各种skill，为什么视频号还有那么多人开直播卖课程，关键还有人买，难道买的人不会进去点点看看。我是真不懂，why?
 
 ## 使用/获取
@@ -22,4 +20,4 @@ workbuddy都公开各种工作台制作方法，各种skill，为什么视频号
 - X · [xiyuqiong @yuqiongxi](https://x.com/yuqiongxi/status/2125510987990409638) · 2026-11-25 · 1 赞 / 79 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

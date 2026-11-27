@@ -8,17 +8,15 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 最近大部分工作都在 WorkBuddy 里完成。 以前方案写完以后，还得手动打开 ChatGPT，把内容从 WorkBuddy 复制过去，再写 Prompt 做图。图片做好以后，又要拿回来继续用。 现在终于把这段链路接通了：WorkBuddy → ChatGPT 做图 → 图片自动回传 WorkBuddy。 不用再在两个 AI
 
 ## 使用/获取
 
-- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
+- 可按自己的场景改写后使用。
 
 ## 所有来源
 
 - X · [V哥来了 @vincent_ddup](https://x.com/vincent_ddup/status/2101530831886172593) · 2026-09-20 · 3 赞 / 199 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

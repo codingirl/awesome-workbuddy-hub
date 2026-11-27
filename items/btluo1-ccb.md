@@ -21,4 +21,4 @@ CCB · AI 编程助手一键配置 —— 把 Trae / Qoder / CodeBuddy / WorkBud
 - GitHub · [Btluo1/ccb](https://github.com/Btluo1/ccb) · 许可：MIT · stars 57
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

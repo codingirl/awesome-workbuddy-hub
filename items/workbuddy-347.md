@@ -18,4 +18,4 @@
 - X · [虎嗅 Huxiu @ihuxiu](https://x.com/ihuxiu/status/2084212074503086189) · 2026-08-03 · 1 赞 / 1398 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

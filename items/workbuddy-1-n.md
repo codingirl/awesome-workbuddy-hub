@@ -18,4 +18,4 @@
 - X · [智见AI-大鹏 @zjp1997720](https://x.com/zjp1997720/status/2074418155406111072) · 2026-07-07 · 351 赞 / 73 转 / 157563 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

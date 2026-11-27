@@ -18,4 +18,4 @@ WorkBuddy 从零到高手：一份不绕弯的万字图文上手手册
 - X · [麦麦提 @shengtang135754](https://x.com/shengtang135754/status/2091162614038454463) · 2026-08-22 · 1 赞 / 1172 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

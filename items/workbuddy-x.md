@@ -18,4 +18,4 @@ Workbuddy也能自动运营视频号/小红书/X账号了
 - X · [3w先生（重生版） @wwwangmeishijie](https://x.com/wwwangmeishijie/status/2124051419531817108) · 2026-11-21 · 0 赞 / 88 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

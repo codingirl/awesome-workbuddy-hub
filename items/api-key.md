@@ -8,8 +8,6 @@ API Key 不是创建完就结束了，还有一个分组要选 我把 WorkBuddy 
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > API Key 不是创建完就结束了，还有一个分组要选 我把 WorkBuddy 这套配置从创建 API Key，一直跑到自定义模型测试，完整走了一遍, 晚些整理成教程发出来
 
 ## 使用/获取
@@ -20,4 +18,4 @@ API Key 不是创建完就结束了，还有一个分组要选 我把 WorkBuddy 
 - X · [XTian｜地球Online资深玩家 @XiaoTian258](https://x.com/XiaoTian258/status/2095736280281944490) · 2026-09-04 · 2 赞 / 82 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

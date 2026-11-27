@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 大家有能力的赶紧做workbuddy的skill 我觉得信息差还是蛮大的 只是做了一个ppt的skill，内置了几套模板，每天都有人愿意付费使用
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Mic_xu @canidayea](https://x.com/canidayea/status/2125160410651467982) · 2026-11-24 · 0 赞 / 11 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ WorkBuddy 这几个技能，写作、学习、求职都能用上 AI 写作去痕
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 这几个技能，写作、学习、求职都能用上 AI 写作去痕工具（Humanizer-zh） 减少生硬的表达和模板化措辞，让文章读起来更自然。 写作蒸馏器（Writing DNA） 提取作者的用词习惯、句式和行文节奏，帮助 你参考和复现特定的写作风格。 中文小说创作（chinese-novelist-skill）
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 这几个技能，写作、学习、求职都能用上 AI 写作去痕
 - X · [龙哥不懂代码 @ai_goge](https://x.com/ai_goge/status/2109756901051503037) · 2026-10-12 · 2 赞 / 557 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

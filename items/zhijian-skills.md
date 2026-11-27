@@ -10,7 +10,7 @@ MIT 许可的 19 个 Agent Skill 组合，提供标准 npx 安装、独立文档
 
 本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
-X 上相关分享（节选）：
+相关分享：
 
 > 哈哈哈，grok竟然给黄叔 @PMbackttfuture 推荐了我开源的skill 再次推荐一下，让你的WorkBuddy一键接入cli订阅并且帮你配置好模型 WorkBuddy里面用grok 4.6真的很爽～ 开源地址： 一键安装： npx skills add zjp1997720/zhijian-skills --skill
 
@@ -26,4 +26,4 @@ X 上相关分享（节选）：
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/zjp1997720/zhijian-skills) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

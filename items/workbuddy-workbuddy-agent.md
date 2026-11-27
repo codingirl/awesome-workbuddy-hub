@@ -18,4 +18,4 @@ WorkBuddy 深度研究系列 （技术篇）——拆开 WorkBuddy：它不是�
 - X · [DataDan｜AI Consultant + Builder @ba_niu80557](https://x.com/ba_niu80557/status/2077416407135048045) · 2026-07-15 · 23 赞 / 5 转 / 3086 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@
 - X · [码良 @cxjwin](https://x.com/cxjwin/status/2078875441860137097) · 2026-07-19 · 29 赞 / 5228 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

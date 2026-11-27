@@ -18,4 +18,4 @@ Workbuddy+Qwen 3.8有没有搞头？附接入教程。
 - X · [Wukong @WukongNumber1](https://x.com/WukongNumber1/status/2079001501528461703) · 2026-07-20 · 11 赞 / 6 转 / 5070 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ WorkBuddy进阶玩法
 - X · [AI搞钱Hacker @gaoqian2580](https://x.com/gaoqian2580/status/2074288985325899857) · 2026-07-07 · 152 赞 / 41 转 / 34538 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

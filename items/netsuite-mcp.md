@@ -19,4 +19,4 @@ MIT 许可、纯 Node.js 内置模块的 NetSuite MCP 连接器，可供 WorkBud
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Bolton-Z/ns-mcp-china) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

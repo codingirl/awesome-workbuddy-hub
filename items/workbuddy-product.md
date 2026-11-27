@@ -8,8 +8,6 @@ Workbuddy，号称腾讯版 “小龙虾”， 已登顶 Product Hunt 第一名�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Workbuddy，号称腾讯版 “小龙虾”， 已登顶 Product Hunt 第一名，与Claude/Codex 相比更像普通办公软件的界面 MyToken为大家整理了从入门到进阶的热门攻略，建议收藏使用👇 1⃣先扫盲 WorkBuddy 保姆级入门教程（上篇）@XiaohuiAI666
 
 ## 使用/获取
@@ -23,4 +21,4 @@ Workbuddy，号称腾讯版 “小龙虾”， 已登顶 Product Hunt 第一名�
 - X · [MyToken @MyTokencap](https://x.com/MyTokencap/status/2074406799546188033) · 2026-07-07 · 0 赞 / 59 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

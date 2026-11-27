@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 跑了一下Hypit GitHub上的第一个案例-锐评系列，换脸用了一下水豚噜噜（不太像是因为图方便用了文生视频，无图片资产参考） 模型用了本地部署的H3，运行的Agent是Workbuddy（因为Deepseek V4Flash便宜） 实测稳态单条生成约25 分钟 ，H3上限是15秒所以涉及到拼接， 其中：
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [特洛马克 @buttercookieben](https://x.com/buttercookieben/status/2100200962573160500) · 2026-09-16 · 3 赞 / 304 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

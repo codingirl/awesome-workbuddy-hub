@@ -18,4 +18,4 @@
 - X · [李岳 @liyue_ai](https://x.com/liyue_ai/status/2124036554494746692) · 2026-11-21 · 285 赞 / 53 转 / 188066 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

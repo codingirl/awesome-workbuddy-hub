@@ -21,4 +21,4 @@ WorkBuddy Linux 官方通用 DEB / RPM 原包追踪与镜像。非官方社区�
 - GitHub · [jiashuaibei/workbuddy-linux](https://github.com/jiashuaibei/workbuddy-linux) · 许可：NOASSERTION · stars 71
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

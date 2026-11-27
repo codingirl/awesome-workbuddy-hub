@@ -20,4 +20,4 @@ MCP 配置与调用教程
 - GitHub · [semlinker/awesome-workbuddy](https://developer.cloud.tencent.com/article/2698011) · 许可：CC0-1.0 · 视频
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

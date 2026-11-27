@@ -18,4 +18,4 @@
 - X · [大宇 @Kainative](https://x.com/Kainative/status/2122886966496915870) · 2026-11-18 · 9 赞 / 3 转 / 3402 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

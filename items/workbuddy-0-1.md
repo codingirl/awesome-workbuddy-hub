@@ -18,4 +18,4 @@ Workbuddy 腾讯文档零基础从 0 到 1 教程
 - X · [Adrian Punk @AdrianPunk115](https://x.com/AdrianPunk115/status/2074391778812407987) · 2026-07-07 · 185 赞 / 36 转 / 127667 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

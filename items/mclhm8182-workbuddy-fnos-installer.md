@@ -21,4 +21,4 @@
 - GitHub · [mclhm8182/workbuddy-fnOS-installer](https://github.com/mclhm8182/workbuddy-fnOS-installer) · 许可：NOASSERTION · stars 51
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

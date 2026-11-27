@@ -8,8 +8,6 @@ workbuddy 迭代很快，毕竟他可能真就测试版匆忙上线。 上一次
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy 迭代很快，毕竟他可能真就测试版匆忙上线。 上一次打开还是只有腾讯文档、ima 知识库这种 今天打开，DingTalk 和飞书都可以接入了。 技能库里也有 Obsidian 的相关技能，以及方便绝大多数小企业家「腾讯电子签」，那对于我们 AI native startup
 
 ## 使用/获取
@@ -20,4 +18,4 @@ workbuddy 迭代很快，毕竟他可能真就测试版匆忙上线。 上一次
 - X · [Su @Sukiea1008](https://x.com/Sukiea1008/status/2074788362628800866) · 2026-07-08 · 3 赞 / 270 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 最近 WorkBuddy 的风评好像变好了不少。 网上有人调侃：如果传闻属实，除了产品外壳是自己的，底层能力大量依赖 Claude，那就难怪实际体验这么好。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [jerrychen @jerrychen0awi](https://x.com/jerrychen0awi/status/2111479849982251385) · 2026-10-17 · 0 赞 / 97 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

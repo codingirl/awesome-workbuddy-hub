@@ -18,4 +18,4 @@ WorkBuddy是个啥吊玩意
 - X · [Yuvi @Li665508Li](https://x.com/Li665508Li/status/2076872086715531373) · 2026-07-14 · 18 赞 / 7900 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

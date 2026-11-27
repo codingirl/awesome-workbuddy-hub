@@ -18,4 +18,4 @@
 - X · [宋宋 @songsong](https://x.com/songsong/status/2087509032378720498) · 2026-08-12 · 247 赞 / 50 转 / 136667 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

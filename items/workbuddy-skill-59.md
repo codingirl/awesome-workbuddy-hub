@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 好多朋友都在聊workbuddy上卖skill变现这事儿，不得不说玩生态链还得是企鹅啊～ 我好怕有一天会让人冲888，专属skill全家桶。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [JohnsonLay @JohnsonLay70702](https://x.com/JohnsonLay70702/status/2113594914403672084) · 2026-10-23 · 2 赞 / 263 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

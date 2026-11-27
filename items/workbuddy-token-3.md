@@ -18,4 +18,4 @@ WorkBuddy执行任务重复循环浪费token，教你一招止损
 - X · [马佳彬 @majiabin](https://x.com/majiabin/status/2121794399973872002) · 2026-11-15 · 17 赞 / 1 转 / 1473 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ WorkBuddy+ima知识库全套教程 资料包含： 1. WorkBuddy保姆级图文�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy+ima知识库全套教程 资料包含： 1. WorkBuddy保姆级图文手册 2. ima知识库实战手册 3. WorkBuddy×ima联动实战手册 4. 500个应用场景（CSV + 分类目录） 5. 200条可复制指令 6. 30个完整实战案例 7. 20份进阶专题教程 8. 10套输入输出示例 9. 精选视频学习路线 10. FAQ与排错手册
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy+ima知识库全套教程 资料包含： 1. WorkBuddy保姆级图文�
 - X · [资料分享 @bibo20772615554](https://x.com/bibo20772615554/status/2087120431161786845) · 2026-08-11 · 0 赞 / 5 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

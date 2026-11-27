@@ -8,8 +8,6 @@ I tested WorkBuddy AI’s “Human-AI Co-Writing” feature, and it’s a pre…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > I tested WorkBuddy AI’s “Human-AI Co-Writing” feature, and it’s a pretty interesting approach to AI-assisted writing. Instead of AI simply generating content for you, WorkBuddy keeps the human involved throughout the writing process — helping brainstorm, refine ideas, improve
 
 ## 使用/获取
@@ -20,4 +18,4 @@ I tested WorkBuddy AI’s “Human-AI Co-Writing” feature, and it’s a pre…
 - X · [Samaira AI @Fatima_RP120](https://x.com/Fatima_RP120/status/2092242195030171677) · 2026-08-25 · 64 赞 / 35 转 / 54749 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

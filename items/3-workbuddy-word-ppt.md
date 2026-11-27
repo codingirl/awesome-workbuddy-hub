@@ -18,4 +18,4 @@
 - X · [老金带你玩AI @KimYx0207](https://x.com/KimYx0207/status/2083078543765119467) · 2026-07-31 · 2 赞 / 1395 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -21,4 +21,4 @@ MIT 许可的开源 WorkBuddy 风格桌面工作台，支持计划模式、Skill
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/louloulin/OpenBuddy) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

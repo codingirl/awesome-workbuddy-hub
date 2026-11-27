@@ -1,16 +1,11 @@
-# 提示词 · 数据分析（21）
+# 提示词 · 数据分析（15）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
 - [港美股 AI 投研工作流（附 4 步提示词）](https://x.com/AYi_AInotes/status/2121076851808280836) — 用 WorkBuddy 跑通复查持仓、拆解财报、校验数据幻觉的投研工作流，并给出提示词 · [详情](../items/ai-4-2.md) 𝕏
 - [听大模型公司的朋友说，分析国内各大模型的用户提示词，发现用量最高的前三…](https://x.com/lifesinger/status/2077551271188590846) — 听大模型公司的朋友说，分析国内各大模型的用户提示词，发现用量最高的前三场景是： 1、炒股。不仅 Chatbot，包括 WorkBuddy … · [详情](../items/x-88590846.md) 𝕏
-- [开源项目 WorkDaddy 值得一看](https://x.com/bkdgiffug/status/2122608179779670517) — 开源项目 WorkDaddy 值得一看 主打多账号一键切换、自动领每日积分、跨账号迁移会话、账号备份导入导出、主题美化、提示词暂存，换号不… · [详情](../items/workdaddy-2.md) 𝕏
-- [推荐开源项目 WorkDaddy，主打 多账号一键切换、自动领每日积分…](https://x.com/fhwofjow51260/status/2091504204812792264) — 推荐开源项目 WorkDaddy，主打 多账号一键切换、自动领每日积分、跨账号迁移会话、账号备份导入导出、主题美化、提示词暂存，不用每次换… · [详情](../items/workdaddy-3.md) 𝕏
-- [这个叫 WorkDaddy 的开源项目，挺值得过去瞅一眼的。](https://x.com/Huahuazo/status/2122994763624595639) — 这个叫 WorkDaddy 的开源项目，挺值得过去瞅一眼的。 它主要搞定了多账号一键切换、每日积分自动领、跨账号会话迁移、账号数据备份与导… · [详情](../items/workdaddy-4.md) 𝕏
-- [🔥惊现Opus 6 ！！！！！](https://x.com/dragono64v/status/2118054945991877021) — 🔥惊现Opus 6 ！！！！！ 等等，腾讯 WorkBuddy 里怎么冒出了 Claude Opus 6？！ 有网友尝试分析 WorkBu… · [详情](../items/opus-6.md) 𝕏
 - [workbuddy 开源的 benchmark](https://workbuddybench.com) — workbuddy 开源的 benchmark 数据集分成 code、web、office、security 这 4个部分，核心特点是测试… · [详情](../items/workbuddy-benchmark.md) 𝕏
 - [其实用WorkBuddy 制作的工作台其实能做成手机 App，数据还能…](https://x.com/cheery9998/status/2105172823585243341) — 其实用WorkBuddy 制作的工作台其实能做成手机 App，数据还能多端同步。 做工作台的时候，在提示词最后补一句： 交付：资料库在线工… · [详情](../items/workbuddy-app.md) 𝕏
-- [开源项目 WorkDaddy 你用过了吗？主打多账号一键切换、自动领每…](https://x.com/xiao92666/status/2103198028823998591) — 开源项目 WorkDaddy 你用过了吗？主打多账号一键切换、自动领每日积分、跨账号迁移会话、账号备份导入导出、主题美化、提示词暂存，不用… · [详情](../items/workdaddy-6.md) 𝕏
 - [WorkBuddy是电脑操作型AI智能体（非纯聊天），能自动读写文件、…](https://x.com/HytidelLegend/status/2077612219085562012) — WorkBuddy是电脑操作型AI智能体（非纯聊天），能自动读写文件、执行任务。本文教新手10大场景（调研、计划、健康、健身、旅游、理财等… · [详情](../items/workbuddy-ai-35.md) 𝕏
 - [前有 Hackertube，后有 HackerBook。](https://x.com/Hacken2077/status/2117874554572013800) — 前有 Hackertube，后有 HackerBook。 我本来想试试知乎撒的，没有找到好的数据，放弃了。 但是来都来了，还是玩玩。 用 … · [详情](../items/hackertube-hackerbook.md) 𝕏
 - [今天试用了一下腾讯 WorkBuddy，感觉还可以 。](https://x.com/mujun5566/status/2073305927978217888) — 今天试用了一下腾讯 WorkBuddy，感觉还可以 。 想看看TGA对美股的影响，这是美国政府的钱袋子，如果tga持续升高，代表市场流动性… · [详情](../items/workbuddy-382.md) 𝕏
@@ -22,4 +17,3 @@
 - [用WorkBuddy手搓了一个文生图的提示词分析工具](https://x.com/Andy268523/status/2101154850147115130) — 用WorkBuddy手搓了一个文生图的提示词分析工具 第一版，根据7个步骤分析文字，生成意境，然后再生成图片的提示词。感觉太死板了，生图效… · [详情](../items/workbuddy-560.md) 𝕏
 - [昨天中午 12 点多，正准备去吃饭，领导说上面新来的分管领导要来调研，…](https://x.com/XLinhaoAI/status/2081067231237333350) — 昨天中午 12 点多，正准备去吃饭，领导说上面新来的分管领导要来调研，需要把几份上半年总结整理成一份汇报稿。 我让同事先去打饭，自己打开 … · [详情](../items/12-2.md) 𝕏
 - [用WorkBuddy做了个生图提示词分析工具](https://x.com/Andy268523/status/2100852887916327184) — 用WorkBuddy做了个生图提示词分析工具 这是根据gemini生图的七步思维框架，叠加WorkBuddy自带的生图工具结合而成。给它一… · [详情](../items/workbuddy-591.md) 𝕏
-- [卧槽，有些低估 WorkBuddy 里的“专家”功能了](https://x.com/hiheimu/status/2107771203620634912) — 卧槽，有些低估 WorkBuddy 里的“专家”功能了 一开始还以为只是加了点 prompt的智能体 没想到是类似 “Codex 插件的”… · [详情](../items/workbuddy-602.md) 𝕏

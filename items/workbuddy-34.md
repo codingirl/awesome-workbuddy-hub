@@ -18,4 +18,4 @@ WorkBuddy零基础教程进阶篇
 - X · [小墨同学 @xiaomovps](https://x.com/xiaomovps/status/2077053923693822343) · 2026-07-14 · 185 赞 / 30 转 / 428939 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

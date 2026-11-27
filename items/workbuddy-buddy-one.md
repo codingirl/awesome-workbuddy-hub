@@ -18,4 +18,4 @@ WorkBuddy 推出 Buddy One，腾讯这步棋有点东西
 - X · [西堂AI创业笔记 @xitang_ai](https://x.com/xitang_ai/status/2117281024703074654) · 2026-11-02 · 15 赞 / 2 转 / 2786 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

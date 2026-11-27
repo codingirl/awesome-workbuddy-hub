@@ -21,4 +21,4 @@ OW Bridge — 让 WorkBuddy 使用 OpenCode 免费模型。支持 macOS / Window
 - GitHub · [louchi1984-coder/ow-bridge](https://github.com/louchi1984-coder/ow-bridge) · stars 236
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 国外的 Agent 不知道也就算了，国内这些 Agent 在 PIP 或者 NPM 安装各种依赖包的时候不知道切国内镜像安装 这很让人无语啊 说的就是你 WorkBuddy内置的 Hy3 模型 难怪夜间免费啊 简直弟中弟。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [KAI.Z @zeke_zhu](https://x.com/zeke_zhu/status/2084645061095301136) · 2026-08-04 · 0 赞 / 52 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

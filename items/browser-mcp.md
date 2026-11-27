@@ -19,4 +19,4 @@ MIT 许可的 Playwright 浏览器操作 MCP，提供 22 个面向办公自动�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/jixingyu999/browser-mcp) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 我的天啊！原来 WorkBuddy 的用户规模已经这么夸张了？ WorkBuddy：日活超 1300 万 Codex：周活500 万 Claude Code：周活 680 万、月活 1130 万 千问办公：据称月活 158 万 发动技能：盗版打不过正版！是我孤陋寡闻了，现在马上用起来！
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [liftoff @woyaoqifei2027](https://x.com/woyaoqifei2027/status/2111043242045395198) · 2026-10-16 · 44 赞 / 3 转 / 25423 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

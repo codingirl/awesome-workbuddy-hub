@@ -8,8 +8,6 @@ workbuddy 确实确实被低估了，身边很多同事和朋友都有付费， 
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy 确实确实被低估了，身边很多同事和朋友都有付费， 如果要做个类比，可以算作是工作场景的豆包。 而我的可耻用法是把 workbuddy 当成了 skill store，在这里总能找到腾讯精选的 skill。比直接上 github 找到的质量高多了。 方法也很简单：在电脑上某个位置可以找到 workbuddy 安装的所有
 
 ## 使用/获取
@@ -22,4 +20,4 @@ workbuddy 确实确实被低估了，身边很多同事和朋友都有付费， 
 - X · [凡人小北 @frxiaobei](https://x.com/frxiaobei/status/2066903119683100769) · 2026-06-16 · 0 赞 / 27 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

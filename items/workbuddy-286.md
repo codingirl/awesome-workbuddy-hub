@@ -18,4 +18,4 @@
 - X · [东波(dongbo.ai) @codeo4](https://x.com/codeo4/status/2073232634600436025) · 2026-07-04 · 2 赞 / 1 转 / 674 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

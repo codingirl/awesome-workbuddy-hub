@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 新用户该如何开始？与其一上来就在 Skill 市场里不断搜索和安装，不如从一个真实、具体的小任务开始，通过对话跑通流程、验证结果，再将重复的工作固化为 Skill。本文带你理解 AI Agent 与传统软件的区别，建立一套更适合普通用户的 WorkBuddy 入门方式。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [dank @dankzheng](https://x.com/dankzheng/status/2088991555155812814) · 2026-08-16 · 0 赞 / 468 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

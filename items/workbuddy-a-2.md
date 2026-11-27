@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 腾讯今天的三季报里，把 WorkBuddy 写成了中国使用量最高的 AI 产品。口径不是用户数榜，而是大语言模型 token 消耗量：每日超千万的用户合计消耗 100 万亿以上 token。马化腾开篇也是这个算法，用的是「我们相信」它已是国内规模最大的 AI 应用。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Wattter @WattterDjiang](https://x.com/WattterDjiang/status/2123064967003766838) · 2026-11-18 · 0 赞 / 71 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -21,4 +21,4 @@ WorkBuddy for Linux —— 官网没有 Linux 入口，这里有一键安装脚�
 - GitHub · [ziyue67/workbuddy-linux](https://github.com/ziyue67/workbuddy-linux) · 许可：MIT · stars 81
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

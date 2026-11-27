@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 写日报最耗时间的往往不是组织语言，而是重新翻聊天、日程、待办和文档，确认今天到底做了什么。 我把这套整理流程做成了一个开源 Skill：dws-daily-weekly-report。在 WorkBuddy 中选中它，只需要一句自然语言指令，就能基于当前钉钉账号已有权限的数据生成日报或周报初稿。 第一次使用建议只生成、不发送。先检查事实、状态和隐私，再决定是否发到钉钉。 最终会生成什么 一次完整运行会得到四类产物： Markdown：继续修改和归档； HTML：浏览器中查看正式排版； PNG 长图：预览或作为附件分享； 钉钉 Markdown 摘要：确认后发送给自己或指定接收人。 1. 安装并登录 dws Skill 通过本机的 dws CLI 读取当前账号有权访问的钉钉数据。 如果还没有安装，请先查看钉钉开放平台的官方说明： DingTalk CLI 官方安装说明 安装后依次执行： dws version --format json dws auth login dws auth status --format json 这三步分别用于确认版本、完成账号授权和检查登录状态。Skill 不会绕过钉钉权限；读取失败时，应先核…
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Noah Young @ainuoyan](https://x.com/ainuoyan/status/2085332004795719899) · 2026-08-06 · 1 赞 / 23 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

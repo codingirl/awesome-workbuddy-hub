@@ -18,4 +18,4 @@ WorkBuddy 保姆级教程：搭一个换窗口也能接着干活的个人 AI 助
 - X · [若宇 @ElowenY20119](https://x.com/ElowenY20119/status/2124821945850192233) · 2026-11-23 · 19 赞 / 4 转 / 1286 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

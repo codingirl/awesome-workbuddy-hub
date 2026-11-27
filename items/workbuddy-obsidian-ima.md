@@ -18,4 +18,4 @@
 - X · [AI黎叔 @jeffli2002](https://x.com/jeffli2002/status/2078407016830410834) · 2026-07-18 · 1 赞 / 685 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

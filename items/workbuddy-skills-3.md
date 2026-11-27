@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 当你发现豆包和 workbuddy 都可以低成本推广你的 skills 的时候，你该选谁呢 找他们两边要商单，谁给钱多就选谁😂 拿到钱之后，再把钱分给其他小 KOL，让他们再推我的 skills 一笔钱，过三次手
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [dontbesilent @dontbesilent](https://x.com/dontbesilent/status/2077651569617863134) · 2026-07-16 · 49 赞 / 1 转 / 10193 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

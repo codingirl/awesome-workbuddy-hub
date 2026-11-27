@@ -8,8 +8,6 @@ Workbuddy 做PPT最方便的是 把各种PPT skills都给你预装好了 不需�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Workbuddy 做PPT最方便的是 把各种PPT skills都给你预装好了 不需要你去Github上找 非常方便 以后老板让你做PPT 可以试试Workbuddy
 
 ## 使用/获取
@@ -22,4 +20,4 @@ Workbuddy 做PPT最方便的是 把各种PPT skills都给你预装好了 不需�
 - X · [睿奇Re7 @Re7_AI](https://x.com/Re7_AI/status/2103113740451491956) · 2026-09-24 · 3 赞 / 395 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

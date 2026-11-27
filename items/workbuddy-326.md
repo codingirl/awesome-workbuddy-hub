@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 所有想用 WorkBuddy 赚钱的朋友，都值得看看这篇拆解。 宋宋把WorkBuddy赚钱这件事拆得特别清楚：核心不是学多少功能，而是找准“替谁干掉哪块又烦又重复的活”。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Felix Zhou @felix_zhou](https://x.com/felix_zhou/status/2079938416578531838) · 2026-07-22 · 2 赞 / 187 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

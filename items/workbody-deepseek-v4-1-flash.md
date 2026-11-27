@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 我在Workbody里面用免费的deepseek V4.1 Flash做，效果也还行，不知道是不是WorkBuddy 有额外的skill加成
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [观默 @guanmo_ai](https://x.com/guanmo_ai/status/2116356987394965579) · 2026-10-31 · 5 赞 / 1511 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

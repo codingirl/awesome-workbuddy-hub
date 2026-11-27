@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 腾讯又开源了个 AI Agent 狠货，现在可以在自己电脑上部署一套类似 WorkBuddy 的 AI 助手了。 项目叫 Octop，支持本地部署，MIT 开源协议。 它内置了一整套 Agent 能力： 多 Agent 协作，可以创建不同领域的专家处理任务 长期记忆和知识库，支持读取自己的文档
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2109944321600344465) · 2026-10-13 · 1 赞 / 622 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@
 - X · [苍何 @canghe](https://x.com/canghe/status/2076513303778742620) · 2026-07-13 · 631 赞 / 151 转 / 203085 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

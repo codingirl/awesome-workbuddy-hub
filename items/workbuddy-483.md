@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 吐槽一下 workbuddy 概念很好，搭建开放平台，发布技能、专家封装成资产，一定程度的收入变现 实际执行的没眼看，提交审核后 10 天还在审核中，在 AI 能力已经这么强（这些内容的审核，AI 非常擅长），并且 workbuddy 还是腾讯核心项目的前提下，执行的还这么垃圾#workbuddy
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Zhanyuan.Xie @Jiezhanyuan](https://x.com/Jiezhanyuan/status/2119722453157253441) · 2026-11-09 · 0 赞 / 49 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ Obsidian + WorkBuddy 构建第二大脑，更适合中国宝宝体质。
 - X · [博蓝 @BolanHsiao](https://x.com/BolanHsiao/status/2073053624880738610) · 2026-07-03 · 228 赞 / 39 转 / 109041 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

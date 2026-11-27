@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 用自己写的skill 给公司做了一条产品介绍宣传片，这个skill 在我github,最近做了一个大的重构，本来是自己玩的，后面想着做好点可以其他人用，workbuddy 200积分就可以做一条视频
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Anthony Li(桑木) @lianthony292788](https://x.com/lianthony292788/status/2117948684357042320) · 2026-11-04 · 0 赞 / 39 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

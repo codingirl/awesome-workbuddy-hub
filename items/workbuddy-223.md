@@ -18,4 +18,4 @@
 - X · [Leo 知行 @moziyu128243](https://x.com/moziyu128243/status/2077038849084309742) · 2026-07-14 · 5 赞 / 1 转 / 3566 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

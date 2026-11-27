@@ -20,4 +20,4 @@ WorkBuddy必装skills清单
 - X · [zhouluobo @zhouluobo](https://x.com/zhouluobo/status/2082771185184715024) · 2026-07-30 · 25 赞 / 1 转 / 12339 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

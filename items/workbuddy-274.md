@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 腾讯的WorkBuddy 就适合做内容创作、处理数据、自动化工作流。 老老实实选Hy3-preview模型。 选错模型做它不擅长的事，就该账单吃亏了。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [天正 @ai_tianzheng](https://x.com/ai_tianzheng/status/2057006644274552910) · 2026-05-20 · 3 赞 / 607 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -19,4 +19,4 @@ Apache-2.0 许可的多 Agent 圆桌讨论引擎，提供结构化讨论、共�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/MoyuFamily/agent-roundtable) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

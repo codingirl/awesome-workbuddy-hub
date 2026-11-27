@@ -19,4 +19,4 @@ MIT 许可的桌面多 Agent 管理器，明确支持 WorkBuddy，会话监控�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/jarvislee90s-dot/MultiAgents-Manager) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

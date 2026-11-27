@@ -20,4 +20,4 @@ AI时代的简历制作方式「resume-skills」的超全教程！快来更新�
 - X · [Chasen @chasen_liao](https://x.com/chasen_liao/status/2077689805752942619) · 2026-07-16 · 15 赞 / 3369 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

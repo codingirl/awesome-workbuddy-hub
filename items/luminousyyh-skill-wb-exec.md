@@ -23,4 +23,4 @@ Delegate bounded coding tasks to a headless WorkBuddy/CodeBuddy CLI agent from D
 - GitHub · [Luminousyyh/skill-wb-exec](https://github.com/Luminousyyh/skill-wb-exec) · 许可：MIT · stars 82
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

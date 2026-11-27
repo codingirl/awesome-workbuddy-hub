@@ -19,4 +19,4 @@ MIT 许可、明确支持 WorkBuddy 的零依赖跨 Agent 派活 Skill，可调�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/MJorgin/dsh-agent-conductor) · 许可：CC0-1.0 · Automation and Agent workflows
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

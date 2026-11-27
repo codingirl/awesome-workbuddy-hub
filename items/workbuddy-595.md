@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 这波 WorkBuddy 热度里，最该降温的一句话：它不是神迹，更像“模型 + 专家角色 + Skills/MCP + 权限沙箱”的产品化组装。组装本身有价值，但别把包装吹成范式革命。#WorkBuddy #AIAgent
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [letsdog @letsdog2](https://x.com/letsdog2/status/2079848308907077844) · 2026-07-22 · 0 赞 / 24 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

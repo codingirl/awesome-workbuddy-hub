@@ -8,8 +8,6 @@ WorkBuddy 得这么用 这才叫本地化 很多 AI 工具差评 其实骂的是
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 得这么用 这才叫本地化 很多 AI 工具差评 其实骂的是默认配置 不是能力上限 我看成一句很土但真的话 工具要长在你的目录、语言和习惯上 才会像自己人 截图里那股顺 多半来自工作流对齐 不是又一个功能开关
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 得这么用 这才叫本地化 很多 AI 工具差评 其实骂的是
 - X · [mousepotato @iluciddreaming](https://x.com/iluciddreaming/status/2093392928681099302) · 2026-08-28 · 0 赞 / 397 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

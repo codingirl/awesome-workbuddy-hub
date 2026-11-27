@@ -8,8 +8,6 @@ WorkBuddy 零基础完整教程：从安装、工作空间到交出第一个能�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 零基础完整教程：从安装、工作空间到交付第一个 成果
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 零基础完整教程：从安装、工作空间到交出第一个能�
 - X · [zeisschoice | 八爪鱼🐙 @zeisschoice](https://x.com/zeisschoice/status/2118351411654365233) · 2026-11-05 · 23 赞 / 2329 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

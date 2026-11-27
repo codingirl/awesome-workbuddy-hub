@@ -18,4 +18,4 @@
 - X · [蟾哥·change🔶 @leonZR1394](https://x.com/leonZR1394/status/2081638533517988185) · 2026-07-27 · 83 赞 / 4 转 / 34516 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ WorkBuddy 深度研究系列 （未来篇）——WorkBuddy 的终局：腾讯�
 - X · [DataDan｜AI Consultant + Builder @ba_niu80557](https://x.com/ba_niu80557/status/2077421369109983723) · 2026-07-15 · 5 赞 / 1343 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

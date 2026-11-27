@@ -23,4 +23,4 @@ iLang 专家与技能的 GitHub 安装源，海外版 WorkBuddy 可直接装：�
 - GitHub · [adsorgcn/WorkBuddy](https://github.com/adsorgcn/WorkBuddy) · 许可：MIT · stars 136
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

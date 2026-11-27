@@ -8,8 +8,6 @@ Claiming my AI agent "workbuddy-1775303141" on #NaraChain @NaraBuildA…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Claiming my AI agent "workbuddy-1775303141" on #NaraChain @NaraBuildAI — On-chain skills, agent memory, and ZK identity for every AI agent
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Claiming my AI agent "workbuddy-1775303141" on #NaraChain @NaraBuildA…
 - X · [荣途坦荡｜链上大叔 @dashusu618](https://x.com/dashusu618/status/2040396245915815987) · 2026-04-04 · 2 赞 / 35 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

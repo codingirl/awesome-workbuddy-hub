@@ -19,4 +19,4 @@ MIT 许可的视频解说生成 CLI，可作为 WorkBuddy 等 Agent 的命令行
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/NarratorAI-Studio/narrator-ai-cli) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

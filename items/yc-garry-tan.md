@@ -8,8 +8,6 @@ YC 总裁 Garry Tan 开源了一个评测：同一个模型换个"外壳"，活�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > YC 总裁 Garry Tan 开源了一个评测：同一个模型换个"外壳"，活干得差不多，花的钱能差一倍。我正好拿同一件活跑过 WorkBuddy 和豆包工作，3 个结果放一起看 大家选 AI 工具，一般只盯着用哪个模型。Garry Tan 的 g-harness-evals
 
 ## 使用/获取
@@ -20,4 +18,4 @@ YC 总裁 Garry Tan 开源了一个评测：同一个模型换个"外壳"，活�
 - X · [luogo @wwwyq9900488911](https://x.com/wwwyq9900488911/status/2121942318337212920) · 2026-11-15 · 0 赞 / 14 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

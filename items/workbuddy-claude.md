@@ -18,4 +18,4 @@
 - X · [SamSun有话直说 @samsun_AIX](https://x.com/samsun_AIX/status/2075951662271988136) · 2026-07-11 · 1 赞 / 1 转 / 6391 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

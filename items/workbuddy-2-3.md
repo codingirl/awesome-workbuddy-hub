@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 别的不说，workbuddy 养活了一堆靠培训一场赚2万的人 我也打算深入做几期 workbuddy 的使用教程发抖音，接地气的内容才有人喜欢
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Ray Wang @wangray](https://x.com/wangray/status/2073042927169998965) · 2026-07-03 · 7 赞 / 2 转 / 2424 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

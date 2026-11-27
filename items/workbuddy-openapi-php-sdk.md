@@ -19,4 +19,4 @@ MIT 许可的第三方 PHP 8.1+ SDK，封装官方 WorkBuddy OpenAPI 的 OAuth�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/JaguarJack/workbuddy-openapi) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

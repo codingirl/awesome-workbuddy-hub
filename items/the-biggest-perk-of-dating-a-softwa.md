@@ -8,8 +8,6 @@ The biggest perk of dating a software engineer in 2026? 😂 He doesn't …
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > The biggest perk of dating a software engineer in 2026? 😂 He doesn't just buy flowers—he sets up your local desktop AI agent (WorkBuddy), configures all the custom skills, and turns you into an automated 10x corporate machine before Monday morning. Green flag behavior or just
 
 ## 使用/获取
@@ -20,4 +18,4 @@ The biggest perk of dating a software engineer in 2026? 😂 He doesn't …
 - X · [momodoc @momodockl](https://x.com/momodockl/status/2090733070479688109) · 2026-08-21 · 0 赞 / 5 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

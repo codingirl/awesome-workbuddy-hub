@@ -18,4 +18,4 @@ WorkBuddy 实战教程 02｜远程办公，不同入口有什么区别
 - X · [Niko爱学习 @ai_super_niko](https://x.com/ai_super_niko/status/2087533945080692838) · 2026-08-12 · 5 赞 / 2148 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -20,4 +20,4 @@
 - X · [阿蔺A-Lin @alin_zone](https://x.com/alin_zone/status/2081716933259673810) · 2026-07-27 · 61 赞 / 9 转 / 26328 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

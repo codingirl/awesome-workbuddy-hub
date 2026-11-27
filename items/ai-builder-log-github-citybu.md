@@ -8,8 +8,6 @@ AI Builder Log｜我在 GitHub 上做的 citybuilder-3d-agent 建筑建模工作
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > AI Builder Log｜我在 GitHub 上做的 citybuilder-3d-agent 建筑建模工作流：这次用@WorkBuddy_AI 配 DeepSeek-V4.1-Flash继续建模实测，累计 71
 
 ## 使用/获取
@@ -20,4 +18,4 @@ AI Builder Log｜我在 GitHub 上做的 citybuilder-3d-agent 建筑建模工作
 - X · [Jay Luo @JiangL67415](https://x.com/JiangL67415/status/2122213972766249226) · 2026-11-16 · 4 赞 / 114 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

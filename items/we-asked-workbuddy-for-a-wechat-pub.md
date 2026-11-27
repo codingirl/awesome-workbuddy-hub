@@ -8,8 +8,6 @@ We asked WorkBuddy for a WeChat publishing skill. Before its first ac…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > We asked WorkBuddy for a WeChat publishing skill. Before its first action, it sent an upstream model long-term memory, identity files, chat history, tool calls, and local environment data. What else left the machine?
 
 ## 使用/获取
@@ -20,4 +18,4 @@ We asked WorkBuddy for a WeChat publishing skill. Before its first ac…
 - X · [smith @agentreins](https://x.com/agentreins/status/2101758417643901292) · 2026-09-20 · 0 赞 / 21 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

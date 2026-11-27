@@ -18,4 +18,4 @@ WorkBuddy到底和元宝、豆包、千问APP有什么区别？
 - X · [金尘马 @jinchenma_ai](https://x.com/jinchenma_ai/status/2062565087110705489) · 2026-06-04 · 6 赞 / 2 转 / 3109 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

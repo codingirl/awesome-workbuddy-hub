@@ -8,8 +8,6 @@ WorkBuddy 能替你点菜单、填表单，但真正容易卡住的，通常不�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 能替你点菜单、填表单，但真正容易卡住的，通常不是模型，而是系统权限，以及登录、支付这类不该让它自己跑完的步骤。 11 月 20 日，腾讯 WorkBuddy 宣布上线电脑操控（Computer
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 能替你点菜单、填表单，但真正容易卡住的，通常不�
 - X · [muddypuddle @normli](https://x.com/normli/status/2123975953491616086) · 2026-11-21 · 0 赞 / 9 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

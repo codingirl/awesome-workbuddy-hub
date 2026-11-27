@@ -8,8 +8,6 @@ WorkBuddy 实战教学，零基础上手搭建 AI 自动化工作流，无代码
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 实战教学，零基础上手搭建 AI 自动化工作流，无代码配置自动化任务，打通多工具联动，一键落地重复工作自动化，大幅提升工作效率
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 实战教学，零基础上手搭建 AI 自动化工作流，无代码
 - X · [iPlayZip @iPlayZip](https://x.com/iPlayZip/status/2119044758123495751) · 2026-11-07 · 0 赞 / 639 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

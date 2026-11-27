@@ -18,4 +18,4 @@ WorkBuddy 好用，原因不在模型
 - X · [Yipeng | Solo Builder @1pound_ai](https://x.com/1pound_ai/status/2079583542900924429) · 2026-07-21 · 0 赞 / 138 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

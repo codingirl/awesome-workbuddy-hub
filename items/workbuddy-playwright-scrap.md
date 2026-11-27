@@ -8,8 +8,6 @@ WorkBuddy + Playwright + 知乎热榜 Scraper，自动抓热点，存成本地 M
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy + Playwright + 知乎热榜 Scraper，自动抓热点，存成本地 Markdown，价值999 配起来很简单： ▸ 装好 WorkBuddy ▸ 连接器那里加 Playwright MCP，首次点一下信任 ▸ 新建任务，把 zhihu-hot-scraper 这个 Skill 上传安装 ▸
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy + Playwright + 知乎热榜 Scraper，自动抓热点，存成本地 M
 - X · [熊三金Cole @x_sanjin](https://x.com/x_sanjin/status/2085294810307706930) · 2026-08-06 · 7 赞 / 744 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

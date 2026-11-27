@@ -23,4 +23,4 @@ MIT 许可的得到笔记 CLI 与五个领域 Skills，明确支持 WorkBuddy，
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/iswalle/getnote-cli) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

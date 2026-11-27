@@ -8,8 +8,6 @@ WorkBuddy 支持 Skill 付费变现了 后台已经能设置一次性付费和�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 支持 Skill 付费变现了 后台已经能设置一次性付费和按月付费，做出来的 Skill 终于有机会变现了？ 腾讯这是给会折腾 AI 的人又开了一扇门啊哈哈哈哈
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 支持 Skill 付费变现了 后台已经能设置一次性付费和�
 - X · [kuaikuai的情报局 @Wangsj111924](https://x.com/Wangsj111924/status/2114204548659294476) · 2026-10-25 · 0 赞 / 49 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

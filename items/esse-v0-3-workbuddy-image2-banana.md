@@ -18,4 +18,4 @@ Esse v0.3发布，支持workbuddy+image2/banana的并行出图
 - X · [DogLIu @renoir1220](https://x.com/renoir1220/status/2079791928749776932) · 2026-07-22 · 2 赞 / 1773 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

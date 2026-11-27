@@ -21,4 +21,4 @@ MIT 许可、以 WorkBuddy 为主的 17 个教育工作与内容生产 Skill 集
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/chenwg001/qingfengskill) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ Workbuddy积分不够用，不要急着升级会员！其实Workbuddy官方还�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Workbuddy积分不够用，不要急着升级会员！其实Workbuddy官方还有很多积分任务，只需要完成对应的积分任务，就可以领取对应的积分。 1、每日签到可以领取100积分额度 2、完成Workbuddy官方任务，赠送积分100-500不等。
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Workbuddy积分不够用，不要急着升级会员！其实Workbuddy官方还�
 - X · [小墨同学 @xiaomovps](https://x.com/xiaomovps/status/2080200979329290397) · 2026-07-23 · 57 赞 / 12 转 / 12398 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

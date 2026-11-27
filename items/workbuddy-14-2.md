@@ -18,4 +18,4 @@
 - X · [小树 @AmberTreelet](https://x.com/AmberTreelet/status/2087462360521089053) · 2026-08-12 · 388 赞 / 98 转 / 136260 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

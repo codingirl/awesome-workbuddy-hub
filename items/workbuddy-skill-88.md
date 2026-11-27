@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 上架workbuddy的skill和专家非常简单，基本没什么门槛，审核用了五天时间。就是暂时不知道在workbuddy上怎么赚钱🤷
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Ike Liu @web3_koala](https://x.com/web3_koala/status/2116015187316916402) · 2026-10-30 · 0 赞 / 104 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

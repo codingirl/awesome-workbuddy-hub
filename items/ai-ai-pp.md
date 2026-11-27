@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 商业培训里面需求最大的是 ai 办公，ai 办公里面需求最大的是 ppt， 掌握 workbuddy 写 ppt 的技巧，你就能到处讲课了。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [黄小木 @ai_xiaomu](https://x.com/ai_xiaomu/status/2121878686840553567) · 2026-11-15 · 22 赞 / 2841 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ WorkBuddy实战：项目功能上线，让我们开始准备告别Office！
 - X · [Golevka @Golevkamind](https://x.com/Golevkamind/status/2066909612394385651) · 2026-06-16 · 0 赞 / 9 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

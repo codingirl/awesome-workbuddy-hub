@@ -23,4 +23,4 @@ GPL-3.0 许可的 WorkBuddy 申论复盘 Skill/插件，提供材料解析、答
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/liuyuexi1987/shenlun-review-pro) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 我在x上看到workbuddy的一些小技巧，觉得能方便一些一线销售的重复式工作，就告诉了我下面一个中登主管 主管告诉我，“这样会让他们都变懒的” ……. what can I say
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Ian Banks @IanBanks7777](https://x.com/IanBanks7777/status/2102378590683947514) · 2026-09-22 · 0 赞 / 16 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

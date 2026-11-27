@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 刷了一上午grok bot的教程，日常工作基本不涉及写代码，主要就是产业政策分析和日常生活学习梳理，感觉workbuddy也能完成个大概，有必要订阅grok bot么？@bot
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [麓山碳客Orin @OrinCarbon](https://x.com/OrinCarbon/status/2122891566071370043) · 2026-11-18 · 0 赞 / 17 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

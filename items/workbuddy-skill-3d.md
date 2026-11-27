@@ -8,8 +8,6 @@ WorkBuddy 专属 skill 直出3D 产品图 效果已经很不错了。就是遗�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 专属 skill 直出3D 产品图 效果已经很不错了。就是遗留的水印有点影响观感。后面可以分享一下这个skill
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 专属 skill 直出3D 产品图 效果已经很不错了。就是遗�
 - X · [踏雪寻仙 @TaXue2025](https://x.com/TaXue2025/status/2097183127714378156) · 2026-09-08 · 9 赞 / 1875 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

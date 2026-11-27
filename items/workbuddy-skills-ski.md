@@ -8,8 +8,6 @@ Workbuddy的Skills真是推荐大家搞一搞，我也发布一个skills 新东�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Workbuddy的Skills真是推荐大家搞一搞，我也发布一个skills 新东西要多去尝试，多参与，没准哪个就有收获了
 
 ## 使用/获取
@@ -22,4 +20,4 @@ Workbuddy的Skills真是推荐大家搞一搞，我也发布一个skills 新东�
 - X · [govin.eth | G哥 @goan999999](https://x.com/goan999999/status/2114335752448581666) · 2026-10-25 · 37 赞 / 7 转 / 14787 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

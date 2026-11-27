@@ -8,8 +8,6 @@ WorkBuddy办公自动化实战教程 适合谁：适合想使用AI提高办公�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy办公自动化实战教程 适合谁：适合想使用AI提高办公效率的职场人、运营人员、数据分析人员，以及刚接触WorkBuddy的新手。
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy办公自动化实战教程 适合谁：适合想使用AI提高办公�
 - X · [AI效率资源库｜每日实测 @BuildWithAINo1](https://x.com/BuildWithAINo1/status/2087429153746559454) · 2026-08-12 · 4 赞 / 134 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

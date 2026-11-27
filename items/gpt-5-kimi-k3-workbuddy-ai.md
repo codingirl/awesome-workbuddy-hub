@@ -18,4 +18,4 @@ GPT-5、Kimi K3、WorkBuddy……AI 越热闹，我越觉得知识库才是真�
 - X · [Wattter @WattterDjiang](https://x.com/WattterDjiang/status/2081721725713293319) · 2026-07-27 · 2 赞 / 1148 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

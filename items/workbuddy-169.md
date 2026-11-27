@@ -18,4 +18,4 @@ Workbuddyなるプロダクトが中国でバズっている。。。
 - X · [AI駆動塾 @L_go_mrk](https://x.com/L_go_mrk/status/2072984278867308734) · 2026-07-03 · 10 赞 / 14418 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

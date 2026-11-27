@@ -1,4 +1,4 @@
-# 提示词 · 效率（112）
+# 提示词 · 效率（92）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
@@ -8,7 +8,6 @@
 - [Workbuddy 教育版通过无教资通过，25 号申请的，用的是学生信…](https://doc.weixin.qq.com/txdoc/apply_page?form_id=AJEAIQdfAAoAXcAJQZtABoCNHisaiAXTf&ver=1&sourcetag=redirect#/login) — Workbuddy 教育版通过无教资通过，25 号申请的，用的是学生信息，估计是bug,没上传教师资格证、课表、聘书等内容 也可以用 ai… · [详情](../items/workbuddy-25-2.md) 𝕏
 - [Tried Hy4 preview through WorkBuddy…](https://x.com/kimmonismus/status/2093772055586259362) — Tried Hy4 preview through WorkBuddy and gave it a pretty vague prompt… · [详情](../items/tried-hy4-preview-through-workbuddy.md) 𝕏
 - [Sakura Bonsai by Hy4 Preview develo…](https://x.com/ivanfioravanti/status/2093229402444165215) — Sakura Bonsai by Hy4 Preview developed using their WorkBuddy client. … · [详情](../items/sakura-bonsai-by-hy4-preview-develo.md) 𝕏
-- [套利共学｜从零配置一个链上套利辅助和学习的 Hermes Agent：我的 Setup、硬件、模型和学习 Prompt](https://x.com/brucexu_eth/status/2084604766714261729) — 用 AI Agent 辅助套利，对我来说有几个很实际的用处。 一方面当然是学习。链上套利会碰到 DEX、Bridge、流动性、Gas、滑点… · [详情](../items/hermes-agent-setup-prompt.md) 𝕏
 - [WorkBuddy 24 套个人工作台，一键就能搭起来的提示词合集。](https://pan.quarket.xyz/s/545b7036531c) — WorkBuddy 24 套个人工作台，一键就能搭起来的提示词合集。 每套的主题提示词和风格参考图都配齐了，提示词犯不着自己研究，视觉风格… · [详情](../items/workbuddy-24-2.md) 𝕏
 - [建议大家去使用，垃圾提示词，baoyu-design 效果居然还不错，…](https://x.com/huqinyiyayuguan/status/2115848673917833667) — 建议大家去使用，垃圾提示词，baoyu-design 效果居然还不错，信息结构、排版作为原型可以直接用了。下面是 直出的效果图： 使用的是… · [详情](../items/baoyu-design.md) 𝕏
 - [I gave workbuddy library 1 prompt a…](https://x.com/codedailyML/status/2110649882331722019) — I gave workbuddy library 1 prompt and it rewrote my whole week "What … · [详情](../items/i-gave-workbuddy-library-1-prompt-a.md) 𝕏
@@ -21,27 +20,22 @@
 - [WorkBuddy 又有新功能上线。](https://x.com/leo114119/status/2123751415851962733) — WorkBuddy 又有新功能上线。 这次是一个叫做「辅助任务模型」的能力。 入口在「设置-模型」下。 官方对「辅助任务模型」的描述： 用… · [详情](../items/workbuddy-106.md) 𝕏
 - [Workbuddy 提示词优化技巧](https://x.com/ai_suxiaole/status/2075497142333116432) — Workbuddy 提示词优化技巧 官方提供了提示词优化功能 输入自己提示词 点击优化按钮（如图） 这样的提示词比自己的更完善，如果觉得不… · [详情](../items/workbuddy-113.md) 𝕏
 - [兄弟们，鹅厂这一波AI真的是快“成”了！（含Prompt）](https://x.com/berryxia/status/2093357711610327042) — 兄弟们，鹅厂这一波AI真的是快“成”了！（含Prompt） 因为，真的让我无意间用了下还是有点小惊喜。 这货Workbuddy居然有海外版… · [详情](../items/ai-prompt.md) 𝕏
-- [$20 CLAUDE OPUS 5.5 VS FREE HY4 FLA…](https://x.com/CodeByPoonam/status/2123028120483901925) — $20 CLAUDE OPUS 5.5 VS FREE HY4 FLASH ON MY PEACOCK DANCE TEST Same p… · [详情](../items/20-claude-opus-5-5-vs-free-hy4-fla.md) 𝕏
 - [WorkBuddy AI x Hy4制作的「长城秋色」](https://x.com/vincent_ddup/status/2117976786831032697) — WorkBuddy AI x Hy4制作的「长城秋色」 耗时：18分钟59s prompt：用 3D 模型展示中国长城 要求细节呈现完毕，… · [详情](../items/workbuddy-ai-x-hy4.md) 𝕏
 - [还在为 Prompt 怎么写发愁？](https://x.com/Doge9880/status/2124080392084877791) — 还在为 Prompt 怎么写发愁？ 这套 WorkBuddy 24 款 AI 工作台模板直接拿来用！主题提示词、风格参考图都已配齐，选一套… · [详情](../items/prompt.md) 𝕏
 - [I gave an AI a rough sketch of a ga…](https://x.com/jaysmith_ai/status/2119696979970105379) — I gave an AI a rough sketch of a game level and one prompt: make it p… · [详情](../items/i-gave-an-ai-a-rough-sketch-of-a-ga.md) 𝕏
 - [workbuddy的这个导入记忆功能的提示词不错，分享一下：](https://x.com/zstmfhy/status/2073980225625768299) — workbuddy的这个导入记忆功能的提示词不错，分享一下： 请帮我整理一份我的个人使用画像，用途是让我在不同 AI 工具之间保持一致的协… · [详情](../items/workbuddy-137.md) 𝕏
 - [也发个workbuddy手机版+Hy4生成的鹈鹕](https://x.com/mspd4100/status/2117999054659695026) — 也发个workbuddy手机版+Hy4生成的鹈鹕 怎么说呢，整体画面感觉还是可以的，至少比之前同样提示词的GPT 6.1-Terra好 对… · [详情](../items/workbuddy-hy4.md) 𝕏
 - [来了来了，终于让Workbuddy Hy4给跑出来了！！！](https://x.com/mspd4100/status/2118710965210628573) — 来了来了，终于让Workbuddy Hy4给跑出来了！！！ 绝对和 GPT 一样的提示词和要求... 实话说，其实不算太差 但TM的一个是… · [详情](../items/workbuddy-hy4-2.md) 𝕏
-- [不得不说 #WorkBuddy 现在是太好用了](https://codebuddy.work/agents/share/aIaaS55BgmZCbYLecrGwFW7bX2WpgIjHjl7mm6hj_aY3rFXTOFm_VITCY0bFrEw7?platform=workbuddy) — 不得不说 #WorkBuddy 现在是太好用了 我输入提示词：整理一下王虹的最近热点信息，做成网页版我好看 下面就是生成的页面，确实挺厉害… · [详情](../items/workbuddy-162.md) 𝕏
 - [冷知识分享：网络老是卡顿怎么办？一段提示词优化你的家庭网络！](https://x.com/feishutoday/status/2125905021011456275) — 冷知识分享：网络老是卡顿怎么办？一段提示词优化你的家庭网络！ 这是我今天看到最匪夷所思的事情，一个博主居然使用 workbuddy+dee… · [详情](../items/x-11456275.md) 𝕏
 - [Ai 时代真的全面来临了！](https://x.com/hust_2017/status/2117411926187884850) — 卧槽！！！ Ai 时代真的全面来临了！ 刚刚公司的保洁阿姨让我给她的 workbuddy 整一份提示词。她要弄个什么随手记的小程序😓😓😓 … · [详情](../items/ai-56.md) 𝕏
 - [WorkDaddy｜WorkBuddy重度用户的效率增强神器](https://x.com/FoF4725/status/2093353972123967920) — WorkDaddy｜WorkBuddy重度用户的效率增强神器 多账号切换、账号备份迁移、主题美化、会话管理、提示词暂存一站集成，零侵入官方… · [详情](../items/workdaddy-workbuddy.md) 𝕏
-- [简单版鹈鹕骑自行车，相同提示词实测。](https://x.com/Stargridcompass/status/2122273471560352007) — 简单版鹈鹕骑自行车，相同提示词实测。 Gemini 4 Hydrogen：耗时 30 秒 HY4 Flash：耗时 5 分钟 Hydrog… · [详情](../items/x-60352007.md) 𝕏
 - [好马配好鞍，在大模型圈还真有道理🤓☝️](https://x.com/YxzRainy/status/2112243685186511232) — 好马配好鞍，在大模型圈还真有道理🤓☝️ 同一个模型、同一套提示词，我分别用 DSH 、WorkBuddy 和 Qoder 做了同一个 3D… · [详情](../items/x-86511232.md) 𝕏
 - [workbuddy这个提示词增强的功能好赞！很多人不会提问，连这个需求…](https://x.com/Eejoylove/status/2092147367172767881) — workbuddy这个提示词增强的功能好赞！很多人不会提问，连这个需求都解决了。 我随便写了一个提示词，是不懂ai的人最容易脱口而出的需求… · [详情](../items/workbuddy-196.md) 𝕏
-- [这个场景是通过one shot生成的。](https://x.com/MinLiBuilds/status/2119667119579402368) — 这个场景是通过one shot生成的。 我的做法是先跟AI讨论想法，让它生成一个提示词。 新开窗口，一击必杀，one shot。 不需要给… · [详情](../items/one-shot.md) 𝕏
 - [这是一份WorkBuddy 100条万能提示词清单，把周报、任务、会议…](https://x.com/Ellieorange8/status/2074092524252401901) — 这是一份WorkBuddy 100条万能提示词清单，把周报、任务、会议、复盘等日常工作全部模板化，直接复制粘贴就能让AI帮你干活，能极大提… · [详情](../items/workbuddy-100-5.md) 𝕏
 - [我甚至没开电脑，用 Workbuddy 云端版结合 Hy4 模型制作了…](https://x.com/Sukiea1008/status/2117990217311490534) — 我甚至没开电脑，用 Workbuddy 云端版结合 Hy4 模型制作了这样一个早餐摊的场景 除了 bgm 的添加外，没有任何手动调整、多轮… · [详情](../items/workbuddy-hy4-5.md) 𝕏
 - [我发现 WorkBuddy 可能是最近用的人多，它有一些细小的功能变得…](https://x.com/369Serena/status/2094583516034175430) — 我发现 WorkBuddy 可能是最近用的人多，它有一些细小的功能变得不好用了。 比如说“提示词增强”功能，这个之前是很好用的。因为我们在… · [详情](../items/workbuddy-217.md) 𝕏
 - [用 REA 实拆了腾讯 WorkBuddy](https://x.com/shuizhuyu/status/2113149948451823699) — ## 用 REA 实拆了腾讯 WorkBuddy 有人用 REA 把腾讯 WorkBuddy 的客户端拆了，几个细节挺实在。 它的 Sys… · [详情](../items/rea-workbuddy.md) 𝕏
 - [别再苦想 Prompt 了！24 套 AI 工作台模板，拿来就能改！](https://pan.quarket.xyz/s/135972c2d6c3) — 别再苦想 Prompt 了！24 套 AI 工作台模板，拿来就能改！ WorkBuddy 把主题提示词和风格参考图全准备好了，挑一套喜欢的… · [详情](../items/prompt-24-ai.md) 𝕏
-- [Google open-sourced Harness². The m…](https://x.com/YogiYaramchitti/status/2112159706315649414) — Google open-sourced Harness². The model stays frozen. It rewrites the… · [详情](../items/google-open-sourced-harness-the-m.md) 𝕏
 - [感觉有时候ai不太爱用子代理，不知道是不是我预设提示词的问题，有时候就…](https://x.com/Starrynightwglf/status/2120529447657025703) — 感觉有时候ai不太爱用子代理，不知道是不是我预设提示词的问题，有时候就只是拿来跑跑审查 不过拿来烧workbuddy的积分也还行 想学一下… · [详情](../items/ai-76.md) 𝕏
 - [深度使用 WorkBuddy 后发现，掌握这 4 个核心玩法，直接把普…](https://x.com/WangNextDoor2/status/2100914130442142039) — 深度使用 WorkBuddy 后发现，掌握这 4 个核心玩法，直接把普通的 AI 聊天框变成能反复派活的“数字员工”： 提示词优化：只需输… · [详情](../items/workbuddy-4-2.md) 𝕏
 - [WorkBuddy 24套AI提示词/个人工作台模板](https://x.com/nangongyuan/status/2109607260779692427) — WorkBuddy 24套AI提示词/个人工作台模板 网盘内文件名：WorkBuddy_24套个人工作台一键搭建提示词合集 防封链接： · [详情](../items/workbuddy-24-ai.md) 𝕏
@@ -49,7 +43,6 @@
 - [Google 开源了 Harness²，模型权重一个不动，只改模型外面…](https://x.com/katcat_AI/status/2112052876197474346) — Google 开源了 Harness²，模型权重一个不动，只改模型外面那层：提示词、工具、记忆、调度。 GLM-5 在 WorkBuddy… · [详情](../items/google-harness.md) 𝕏
 - [One Prompt. A Spooky Feast #WorkBud…](https://x.com/tropi22246/status/2115481104392266074) — One Prompt. A Spooky Feast #WorkBuddy #Agent #TencentAI #Halloween @T… · [详情](../items/one-prompt-a-spooky-feast-workbud.md) 𝕏
 - [哈哈哈哈哈哈！Grok Bot画风下，还是豆姐最美！！](https://x.com/leaf_sanren/status/2102291616866390388) — 哈哈哈哈哈哈！Grok Bot画风下，还是豆姐最美！！ 感觉还是得有清晰的面部特征才行 @cnyzgkc 不然你看图2那张workbudd… · [详情](../items/grok-bot.md) 𝕏
-- [WorkDaddy 这个开源项目，抽空瞄一眼挺值。](https://x.com/0xGky/status/2124780491001999863) — WorkDaddy 这个开源项目，抽空瞄一眼挺值。 它要收拾的事真不少：好几个账号点一下就换过去，每日积分自己攒，会话能从一号搬到另一号，… · [详情](../items/workdaddy-5.md) 𝕏
 - [周末继续问 workbuddy 问题 ，今天有意思的提示词：](https://x.com/seclink/status/2083447222470050213) — 周末继续问 workbuddy 问题 ，今天有意思的提示词： 1. 什么值得买 app 背后的公司呢， 他们做了哪些产品和尝试 2. 天使… · [详情](../items/workbuddy-299.md) 𝕏
 - [WorkBuddy 不是聊天机器，而是一个挂在你电脑上的“数字实习生”。](https://x.com/OMOisomo/status/2084279872273195134) — WorkBuddy 不是聊天机器，而是一个挂在你电脑上的“数字实习生”。 你不给它画死硬性边界和验收标准，它一定会挑最省事的方式糊弄你。 … · [详情](../items/workbuddy-302.md) 𝕏
 - [所谓免费的最贵这个道理，等你们用过 Workbuddy 就知道了。](https://x.com/libukai/status/2084952661410095263) — 所谓免费的最贵这个道理，等你们用过 Workbuddy 就知道了。 同一个专家，同一个提示词，免费的 hy3 做的一坨屎，倒贴钱给我还得要… · [详情](../items/workbuddy-308.md) 𝕏
@@ -61,13 +54,10 @@
 - [别再堆无用看板了！宋宋教你用WorkBuddy真正搭能推进工作的个人台…](https://x.com/HytidelLegend/status/2087521921785376954) — 别再堆无用看板了！宋宋教你用WorkBuddy真正搭能推进工作的个人台：抓一条流程+4模块，提示词模板+测试清单全给，5分钟上手，实用到第… · [详情](../items/workbuddy-360.md) 𝕏
 - [今天使用deepseek harness的时候突然发现workbudd…](https://x.com/yady44063536/status/2112623519821689111) — 今天使用deepseek harness的时候突然发现workbuddy的账号在harness里面使用一直报错，现在找到了解决办法 根因是… · [详情](../items/deepseek-harness-workbudd.md) 𝕏
 - [Google Research 开源了 Harness²，思路挺朴素：…](https://x.com/0xwolverines/status/2112140233969992179) — Google Research 开源了 Harness²，思路挺朴素：模型不动，让智能体自己改提示词、工具、记忆和流程，改完先测，有用才留… · [详情](../items/google-research-harness-6.md) 𝕏
-- [奉劝兄弟们一句，别用 Claude。](https://x.com/lujunnanm/status/2121994804301295984) — 奉劝兄弟们一句，别用 Claude。 用惯了它，脑子真的会废。 一句话丢过去，活直接干完，反复改提示词、写长方案、逐行查 bug 的锻炼机… · [详情](../items/claude-3.md) 𝕏
 - [Grok Bot的用量还有两天才重置呢，确实用的太猛了，但是确实文件类…](https://x.com/jackzx71/status/2113611254678086004) — Grok Bot的用量还有两天才重置呢，确实用的太猛了，但是确实文件类的我感觉没有WorkBuddy好用，也可能是我的提示词有问题，同学们… · [详情](../items/grok-bot-2.md) 𝕏
 - [Most AI tools: you say one thing, i…](https://x.com/tenctcloud_Intl/status/2073031903163318282) — Most AI tools: you say one thing, it does one thing. WorkBuddy: one p… · [详情](../items/most-ai-tools-you-say-one-thing-i.md) 𝕏
 - [Google 开源了 Harness²：模型权重锁死 只改 promp…](https://x.com/JkwuRmsl/status/2112553277799739740) — Google 开源了 Harness²：模型权重锁死 只改 prompt/记忆/工具自己迭代。WorkBuddy 最高 +11.5 分。模… · [详情](../items/google-harness-promp.md) 𝕏
 - [Google 开源了 Harness²](https://x.com/JkwuRmsl/status/2111979776760004768) — Google 开源了 Harness² 不改模型权重 只改 prompt 工具记忆那一层 一步把 GLM-5 在 WorkBuddy 上抬… · [详情](../items/google-harness-3.md) 𝕏
-- [教大家如何把 Agent 接入达芬奇实现自动剪辑。下载了达芬奇智能剪辑…](https://x.com/JackAIStudio999/status/2099963634688651641) — 教大家如何把 Agent 接入达芬奇实现自动剪辑。下载了达芬奇智能剪辑助手「JackAICut 」之后，在任何AI Agent（如Work… · [详情](../items/agent-31.md) 𝕏
-- [强烈推荐看这篇 520 万字语料的「去AI味」实证研究！](https://x.com/lovlace77788191/status/2119016713719251404) — 强烈推荐看这篇 520 万字语料的「去AI味」实证研究！ 这也是为什么我们一直强调：2026 年别再用裸 Prompt 跟大模型死磕了，把… · [详情](../items/520-ai.md) 𝕏
 - [@thsottiaux](https://x.com/xisnng318367/status/2115851594600423460) — @thsottiaux 我觉得可以做个类似workbuddy那样的提示词的增强/同义转写，我感觉有不少token被浪费在并不明确的甚至是会… · [详情](../items/thsottiaux.md) 𝕏
 - [想做一个有自己风格的个人工作台，最费时间的往往不是修改，而是从零想提示…](https://pan.zhoulanshare.com/s/20275cd24e0a) — 想做一个有自己风格的个人工作台，最费时间的往往不是修改，而是从零想提示词、定视觉方向。 这套 WorkBuddy 24 套个人工作台合集，… · [详情](../items/x-44177813.md) 𝕏
 - [为测试WorkBuddy和免费的DeepSeek Flash模型，on…](https://haidian-parenting.pages.dev/) — 为测试WorkBuddy和免费的DeepSeek Flash模型，one shot（其实之后做了一个人prompt微调）做了一个育儿养成游… · [详情](../items/workbuddy-deepseek-flash-on.md) 𝕏
@@ -77,26 +67,17 @@
 - [使用Workbuddy前：“帮我找点资料”。](https://x.com/yuyingliujj/status/2107232779046166692) — 使用Workbuddy前：“帮我找点资料”。 使用Workbuddy后：“研究范围、执行细节、交付标准，一个不少。”。 点的是「优化提示词… · [详情](../items/workbuddy-430.md) 𝕏
 - [完全相同的内容，但是换了完全不同的表达风格，看一下明天会有几篇推文达到…](https://x.com/cnzhihao/status/2073789840668426313) — 完全相同的内容，但是换了完全不同的表达风格，看一下明天会有几篇推文达到 200 阅读量。 希望今天给 Workbuddy 调的新提示词能带… · [详情](../items/x-68426313.md) 𝕏
 - [我没写复杂 Prompt，60 分钟把一个健身小程序送进了审核](https://x.com/Wangyyxyx/status/2082277912859021326) — 从“三个都要”到“四个都做”，我几乎全程都在和 WorkBuddy 说人话。60 分钟后，一个 7 页、42 个动作的健身小程序进入微信审… · [详情](../items/prompt-60.md) 𝕏
-- [换号这件事，以前每次都让我头大——扫码重登、积分清零、会话断档，直到碰…](https://x.com/shenxiankk/status/2112628669914980464) — 换号这件事，以前每次都让我头大——扫码重登、积分清零、会话断档，直到碰上 WorkDaddy 才消停。 多账号一键切换、自动领每日积分、跨… · [详情](../items/x-14980464.md) 𝕏
-- [搭了一个openclaw，配置了破甲提示词，用的反代workbuddy…](https://x.com/muihbb/status/2122339409584607361) — 搭了一个openclaw，配置了破甲提示词，用的反代workbuddy 的 deepseek flash，用muse也会这不干，那不干，自… · [详情](../items/openclaw-workbuddy-5.md) 𝕏
 - [workbuddy 有些 agent 还挺好的。比如翻译技术类 AI …](https://x.com/leon_notes_ai/status/2076223935096758593) — workbuddy 有些 agent 还挺好的。比如翻译技术类 AI 文章，之前让他翻译一个技术书，提示词竟然很不错，不会瞎翻译。 · [详情](../items/workbuddy-agent-ai-2.md) 𝕏
 - [我用 WorkBuddy 跑通了情感读书号日更，出稿的人工时间从 4 小时缩到 25 分钟（附 5 条提示词）](https://x.com/sprkszhuwy/status/2125509958632718547) — 做情感认知、读书随笔类公众号，以前写完一篇，我常常要花近 4 个小时。光是刷热点、找情绪切口、翻书摘找故事，就占了大半个上午。写完还得在手… · [详情](../items/workbuddy-4-25-5.md) 𝕏
 - [从 workbuddy 拿到的整理 AI 记录的提示词：请帮我整理一份…](https://x.com/xds2000/status/2070757380527169679) — 从 workbuddy 拿到的整理 AI 记录的提示词：请帮我整理一份我的个人使用画像，用途是让我在不同 AI 工具之间保持一致的协作体验… · [详情](../items/workbuddy-ai-53.md) 𝕏
-- [Google just open-sourced a way for …](https://x.com/holleazyai/status/2111826887714787629) — Google just open-sourced a way for agents to tune their own setup. Ha… · [详情](../items/google-just-open-sourced-a-way-for.md) 𝕏
-- [Daily AI updates | Day 10](https://x.com/BIMALSH23/status/2112117680979505322) — Daily AI updates | Day 10 Google open-sourced Harness²: agents that r… · [详情](../items/daily-ai-updates-day-10.md) 𝕏
 - [google open-sourced Harness² today:…](https://x.com/Velessus/status/2111790239081787835) — google open-sourced Harness² today: it rewrites the files around a fr… · [详情](../items/google-open-sourced-harness-today.md) 𝕏
 - [体验了下 workbuddy，感觉 UX 做得不错，但还不能达到工作级…](https://x.com/suma2z/status/2072287022908379644) — 体验了下 workbuddy，感觉 UX 做得不错，但还不能达到工作级别。需要在提示词工程和模型适配再下功夫。 harness 是相当有用… · [详情](../items/workbuddy-ux.md) 𝕏
 - [过去24小时拿相同的prompt在hy4+workbuddy 和 gl…](https://x.com/Yifan_Ye/status/2093926943964250287) — 过去24小时拿相同的prompt在hy4+workbuddy 和 glm 5.3 flash+zcode上跑，任务是multi turn研… · [详情](../items/24-prompt-hy4-workbuddy-gl.md) 𝕏
-- [看到个有意思的横评：同一个 Prompt，豆包工作和腾讯 WorkBu…](https://x.com/XiaoHailmb/status/2123741211722952738) — 看到个有意思的横评：同一个 Prompt，豆包工作和腾讯 WorkBuddy 各做一个 3D 罗马斗兽场，模型都是 DeepSeek V4… · [详情](../items/prompt-workbu.md) 𝕏
-- [最近一直在梳理一些对AI的约束型前置提示词，放在GPT/Gemini/…](https://x.com/isacneverisac/status/2124395301276692584) — 最近一直在梳理一些对AI的约束型前置提示词，放在GPT/Gemini/Claude都比较好用（但是放在DeepSeek模型就得是DeepS… · [详情](../items/ai-gpt-gemini.md) 𝕏
 - [我让Workbuddy 帮我做一套 3-6岁少儿英语启蒙规划，](https://x.com/KalinJunYAI/status/2111714088997024030) — 我让Workbuddy 帮我做一套 3-6岁少儿英语启蒙规划， 首先让他帮我拓展了我的一句话提示词，然后输出了整套方案， 看起来非常不错了… · [详情](../items/workbuddy-3-6-2.md) 𝕏
 - [同一个模型同一条提示词，有人实测豆包工作和 WorkBuddy 扣费最…](https://x.com/liangyouu/status/2122894062885773319) — 同一个模型同一条提示词，有人实测豆包工作和 WorkBuddy 扣费最狠差了 37 倍😳 用 Agent 干活前先看清倍率表 · [详情](../items/workbuddy-497.md) 𝕏
-- [My stack: Hermes orchestrates. Chat…](https://x.com/Qykey/status/2109879304368885960) — My stack: Hermes orchestrates. ChatGPT, Grok and WorkBuddy execute. A… · [详情](../items/my-stack-hermes-orchestrates-chat.md) 𝕏
 - [Hey @WorkBuddy_AI I could not even …](https://x.com/gregg_chen/status/2085378742462058845) — Hey @WorkBuddy_AI I could not even select block of text in prompt box… · [详情](../items/hey-workbuddy-ai-i-could-not-even.md) 𝕏
 - [WorkBuddy 连不上网，代理改对后还是复发，我最后修的是启动链](https://x.com/zymkzymk/status/2080805232087298230) — WorkBuddy 连不上网，代理改对后还是复发，我最后修的是启动链 &gt; 这是一组真实排障记录：先讲我怎么遇到问题、怎么拆开证据，最… · [详情](../items/workbuddy-506.md) 𝕏
 - [Google 开源的 Harness² 这两天被转得很多：模型权重不动…](https://x.com/misselvexu/status/2111800772505768272) — Google 开源的 Harness² 这两天被转得很多：模型权重不动，只改提示词、工具、记忆、护栏这些外围，一轮优化在 WorkBudd… · [详情](../items/google-harness-5.md) 𝕏
-- [分享一个智商（降智）测试提示词，](https://workbuddy.ai) — 分享一个智商（降智）测试提示词， GPT 6.1 sol / GLM5.3 做出来是21； DeepSeek V4.1 FLASH 老版本… · [详情](../items/x-53387827.md) 𝕏
-- [让 workbuddy 帮我扫服务器漏洞](https://x.com/zuogesuren003/status/2105736521760604316) — 让 workbuddy 帮我扫服务器漏洞 再让它帮我看看我的路由器 支持哪种VPN 协议 在服务器上安装好相应的 代理服务 workbud… · [详情](../items/workbuddy-543.md) 𝕏
 - [AI 干活时好时坏，很多时候不怪模型，也不怪提示词：它读到的文件不唯一。](https://x.com/imakelabs/status/2115795154359718084) — AI 干活时好时坏，很多时候不怪模型，也不怪提示词：它读到的文件不唯一。 我拿 WorkBuddy 实测：新建一个工作目录，只放一个「说明… · [详情](../items/ai-204.md) 𝕏
 - [想用 WorkBuddy 搭个个人工作台，却说不清自己想要什么风格？先…](https://x.com/dachuan222/status/2124739447493132521) — 想用 WorkBuddy 搭个个人工作台，却说不清自己想要什么风格？先看图，挑一个你喜欢的就行。 这套合集有 24 套工作台模板，每套都配… · [详情](../items/workbuddy-547.md) 𝕏
 - [把我日常做的几个工作，一样的提示词，一样的素材，提交给了这几个Agen…](https://x.com/Howill_Li/status/2111513543082401887) — 把我日常做的几个工作，一样的提示词，一样的素材，提交给了这几个Agent，DeepSeek-V4.1-Flash-1017表现最好的还是D… · [详情](../items/agen.md) 𝕏
@@ -108,7 +89,6 @@
 - [教你用workbuddy搭建个人工作台；含24套一键搭建提示词！](https://x.com/TiffanyWar14701/status/2124521661999534106) — 教你用workbuddy搭建个人工作台；含24套一键搭建提示词！ 一键搭建提示词合集，每套都配好了主题提示词加风格参考图，提示词不用自己琢… · [详情](../items/workbuddy-24-6.md) 𝕏
 - [鹈鹕骑自行车看腻了，来看看渡渡鸟吧。这是用 Deepseek V4.1…](https://x.com/GavinYin/status/2098050094289305955) — 鹈鹕骑自行车看腻了，来看看渡渡鸟吧。这是用 Deepseek V4.1 Flash(max) + WorkBuddy 一句提示词生成的，效… · [详情](../items/deepseek-v4-1.md) 𝕏
 - [还在从零搭工作台？这 24 套直接拿来改。](https://pan.doudoushare.xyz/08fdedbcd450) — 还在从零搭工作台？这 24 套直接拿来改。 WorkBuddy 个人工作台提示词合集，主题提示词、风格参考图都配好了，看中哪个模板直接替换… · [详情](../items/24.md) 𝕏
-- [Set up a scheduled task in Hermes t…](https://x.com/zguiyiyi/status/2092420785558413498) — Set up a scheduled task in Hermes to automatically collect WorkBuddy … · [详情](../items/set-up-a-scheduled-task-in-hermes-t.md) 𝕏
 - [Work buddy有个好处，免费的优化提示词，我自己写了一段想法内容…](https://x.com/Tony8889999/status/2099779969551347877) — Work buddy有个好处，免费的优化提示词，我自己写了一段想法内容，可能表述的不太清楚，就把提示词复制贴到workbuddy对话框里，… · [详情](../items/work-buddy-2.md) 𝕏
 - [挺喜欢 Workbuddy 的「提示词强化」功能，给 DSH 也写了个…](https://github.com/ChosenXu/dsh-prompt-enhancer) — 挺喜欢 Workbuddy 的「提示词强化」功能，给 DSH 也写了个插件 ✨ 输入框一键让 AI 重写草稿：可调强度/模型/超时，自定义… · [详情](../items/workbuddy-dsh-2.md) 𝕏
 - [一人+WorkBuddy」能省人增效，但中小企业续约看撤场后流程是否自…](https://x.com/Sam_kwankz/status/2084866202342666393) — 一人+WorkBuddy」能省人增效，但中小企业续约看撤场后流程是否自转——清单里要钉谁维护 prompt/接口，月入才跟 seat 绑，… · [详情](../items/workbuddy-646.md) 𝕏

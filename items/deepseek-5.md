@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 这次真正值得关注的，不是“基准又涨了”，而是 DeepSeek 开始为 Agent 入口做定向适配。 已知事实是：V4.1-Flash-1017 已同步替换网页端、APP 和 API 模型，并重点优化 DeepSeek Harness、腾讯 CodeBuddy、WorkBuddy 等框架。 我的判断是，模型竞争正从单点能力转向“谁能嵌入更多工作流”。但 API
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [大伟｜AI × Web3 @david1989_zhu](https://x.com/david1989_zhu/status/2111468580940431703) · 2026-10-17 · 3 赞 / 148 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

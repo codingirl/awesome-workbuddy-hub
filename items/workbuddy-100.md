@@ -19,4 +19,4 @@
 - GitHub · [semlinker/awesome-workbuddy](https://mp.weixin.qq.com/s/7r98YkmFGoWsDuRUY-2tiA) · 许可：CC0-1.0 · 创作、求职与生活
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

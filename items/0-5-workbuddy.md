@@ -18,4 +18,4 @@
 - X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2074055523024945321) · 2026-07-06 · 237 赞 / 37 转 / 92984 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

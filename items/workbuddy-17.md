@@ -18,4 +18,4 @@
 - X · [文子🔆 @Eejoylove](https://x.com/Eejoylove/status/2073009044139528364) · 2026-07-03 · 525 赞 / 113 转 / 150470 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

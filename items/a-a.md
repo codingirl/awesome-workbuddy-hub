@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 小屏选了会话A，语音就发给A吗？ 按 HachimoDock 的 WorkBuddy 文档，小屏选择不切换桌面会话；语音进入桌面当前会话，先成草稿再确认发送。 假设小屏是会议记录A，桌面却开着排错B，说“缩成三行”前，应先打开目标桌面会话，再核对草稿。 仅据该接入文档，未实测：
 
 ## 使用/获取
@@ -21,4 +19,4 @@
 - X · [not_teddy @anoymous_elangm](https://x.com/anoymous_elangm/status/2114681777835106647) · 2026-10-26 · 1 赞 / 83 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

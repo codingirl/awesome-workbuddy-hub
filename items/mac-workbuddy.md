@@ -18,4 +18,4 @@
 - X · [AI少年 @aehyok](https://x.com/aehyok/status/2076855134752268519) · 2026-07-14 · 274 赞 / 58 转 / 190098 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

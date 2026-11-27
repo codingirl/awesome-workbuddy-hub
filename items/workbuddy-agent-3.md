@@ -18,4 +18,4 @@ WorkBuddy高阶教程｜万字复盘：如何让Agent接手真实项目
 - X · [智见AI-大鹏 @zjp1997720](https://x.com/zjp1997720/status/2078788676872720579) · 2026-07-19 · 101 赞 / 23 转 / 29135 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

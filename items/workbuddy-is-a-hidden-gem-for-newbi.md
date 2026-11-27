@@ -8,8 +8,6 @@ Workbuddy is a hidden gem for newbies, which has the integration of m…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Workbuddy is a hidden gem for newbies, which has the integration of multiple roles working together to solve technical problems. The only major complaint that I have is that it seems not able to auto pick suited skills like Claude code so that’s a downside.
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Workbuddy is a hidden gem for newbies, which has the integration of m…
 - X · [Sarada @Developer036](https://x.com/Developer036/status/2083496131007569927) · 2026-08-01 · 1 赞 / 38 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

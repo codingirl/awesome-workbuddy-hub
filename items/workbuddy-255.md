@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 给大家说，多去用国内的workbuddy. 据我所知，有人通过workbuddy弄的skill已经赚了6位数。 要去用离钱的产品，离大众近的产品，这样变现才更容易。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [季白羽 @newbeeyu](https://x.com/newbeeyu/status/2076264138205221052) · 2026-07-12 · 4 赞 / 1075 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

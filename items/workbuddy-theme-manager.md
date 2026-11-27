@@ -21,4 +21,4 @@ Apache-2.0 许可的 WorkBuddy 主题 Skill，可将 `.codex-theme` 转为 `.wor
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/codexthemes/skills/tree/main/skills/workbuddy-theme-manager) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

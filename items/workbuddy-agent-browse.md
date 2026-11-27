@@ -8,8 +8,6 @@ WorkBuddy自动操控浏览器Agent Browse技能的用法： 1. 作用：可以�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy自动操控浏览器Agent Browse技能的用法： 1. 作用：可以让WorkBuddy自动完成点击、填表、翻页、提取整理网页数据等重复操作，省掉手动复制整理的麻烦 2. 核心特点：能自主识别网页元素、支持全类型浏览器操作、操作全程留痕方便核对，还支持多网站并行、保留浏览器登录状态 3.
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy自动操控浏览器Agent Browse技能的用法： 1. 作用：可以�
 - X · [Im @Imggcn](https://x.com/Imggcn/status/2109583130109812789) · 2026-10-12 · 14 赞 / 1 转 / 6368 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -12,11 +12,11 @@
 
 ## 使用/获取
 
-- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
+- 可按自己的场景改写后使用。
 
 ## 所有来源
 
 - X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2075425615264505958) · 2026-07-10 · 291 赞 / 64 转 / 53841 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

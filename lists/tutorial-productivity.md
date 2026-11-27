@@ -1,4 +1,4 @@
-# 教程与指南 · 效率（50）
+# 教程与指南 · 效率（45）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
@@ -7,7 +7,6 @@
 - [AI 聊完就找不到？WorkBuddy 资料库从 0 到 1：产物别再散在对话里（保姆级）](https://x.com/Shenmeili1213/status/2091398190985552340) — 上周那篇，改了三版。 今天想接着写第二节。 打开会话列表，翻了半天。 半截草稿。 一张没名字的图。 一段「你上次说口径是……」——上下文已… · [详情](../items/ai-workbuddy-0-1.md) 𝕏
 - [从0到1带你速通WorkBuddy，这可能是最适合国内的Agent产品。 ](https://x.com/Khazix0918/status/2064939092606103893) — 之前我写了Claude Code和Codex的从0到1的新手教程，反响都还不错。 但写完之后，评论区里一直有一类声音说，这些工具是好，但是… · [详情](../items/0-1-workbuddy-agent.md) 𝕏
 - [手把手：用 WorkBuddy 把 AI 内容自动发到 X，全程免费（含 10 条新闻 33 分钟排期实战）](https://x.com/gaoqian2580/status/2078689504244940927) — 手把手：用 WorkBuddy 把 AI 内容自动发到 X，全程免费（含 10 条新闻 33 分钟排期实战） · [详情](../items/workbuddy-ai-x-10-33.md) 𝕏
-- [从 3 万本钱到财富自由之路实操手册！](https://x.com/binghe/status/2117496367526613221) — 我要让今天看完这篇文章的兄弟们，都能实打实地赚到人生第一个一百万！ 这是一篇稳定积累财富的喂饭级实战教程。 我这人写文章最烦整那些虚头巴脑… · [详情](../items/3.md) 𝕏
 - [这周继续完整学习腾讯、腾讯云和 WorkBuddy 联合发布的这份 7…](https://x.com/shao__meng/status/2117104960454438939) — 这周继续完整学习腾讯、腾讯云和 WorkBuddy 联合发布的这份 78 页的「2026 AI Agent 企业解决方案及落地实践手册」 … · [详情](../items/workbuddy-7-2.md) 𝕏
 - [客服重复问题别再靠人硬记：WorkBuddy 从0到1，咨询记录变标准话术库（保姆级）](https://x.com/Shenmeili1213/status/2091077088933708087) — 客服重复问题别再靠人硬记：WorkBuddy 从0到1，咨询记录变标准话术库（保姆级） · [详情](../items/workbuddy-0-1-2.md) 𝕏
 - [写论文不再犯愁！分享用WorkBuddy读论文写文献综述完整攻略](https://x.com/FlowOpsDaily/status/2089997488514085012) — 很多人把论文丢给 AI 后，第一句话就是“帮我写一篇文献综述”。这个顺序很危险。 文献综述不是把十几篇论文分别总结一遍，也不是把摘要拼成一… · [详情](../items/workbuddy-152.md) 𝕏
@@ -15,7 +14,6 @@
 - [0.01元拿下原价699元的百度版WorkBuddy与文心快码Pro会…](https://x.com/KOF97AI/status/2121194697058398679) — 0.01元拿下原价699元的百度版WorkBuddy与文心快码Pro会员实操攻略 一、核心羊毛价值与隐藏权益 1. 会员权益全面互通 百度… · [详情](../items/0-01-699-workbuddy-pro.md) 𝕏
 - [手把手教你用 WorkBuddy 搭出自己的专属工作台，还附赠 24 …](https://x.com/Bigwuking1/status/2124739722287489429) — 手把手教你用 WorkBuddy 搭出自己的专属工作台，还附赠 24 套一键就能用的提示词！这 24 套个人管理 &amp; 学习效率工具… · [详情](../items/workbuddy-24-5.md) 𝕏
 - [HOW TO USE TENCENT’S NEW WORKBUDDY …](https://x.com/JeffreyTowson/status/2062700434259943444) — HOW TO USE TENCENT’S NEW WORKBUDDY AND QCLAW AI AGENTS OUTSIDE OF CHI… · [详情](../items/how-to-use-tencent-s-new-workbuddy.md) 𝕏
-- [Big Data Enters the Agent Era: Data…](https://x.com/tech_shrimp/status/2102329316155728297) — Big Data Enters the Agent Era: DataBuddy End-to-End Hands-On Tutorial… · [详情](../items/big-data-enters-the-agent-era-data.md) 𝕏
 - [Sunday in Shenzhen, China 🇨🇳](https://x.com/Chunbelljia/status/2116854714658849221) — Sunday in Shenzhen, China 🇨🇳 A room full of people learning how to gi… · [详情](../items/sunday-in-shenzhen-china.md) 𝕏
 - [📂 HOW TO TEST FILE READING AND TOOL…](https://B.AI) — 📂 HOW TO TEST FILE READING AND TOOL CALLING SAFELY A successful chat … · [详情](../items/how-to-test-file-reading-and-tool.md) 𝕏
 - [熬了一周，我把 WorkBuddy 写成了 4.7 万字手册：从装好到…](https://x.com/imakelabs/status/2117527129965617599) — 熬了一周，我把 WorkBuddy 写成了 4.7 万字手册：从装好到跑通，全部免费。 上下两册，62 张真实截图，26 节。不教按钮在哪… · [详情](../items/workbuddy-4-7.md) 𝕏
@@ -23,8 +21,6 @@
 - [同一件事换个说法，积分反而更少！我在 WorkBuddy 里用 3 种问法做杭州攻略，差别大到我愣住](https://x.com/Zizaiaiai/status/2117268747748860181) — 同一件事换个说法，积分反而更少！我在 WorkBuddy 里用 3 种问法做杭州攻略，差别大到我愣住 · [详情](../items/workbuddy-3-4.md) 𝕏
 - [做旅游攻略太费时间，我让 WorkBuddy直接帮我处理一个可以直接用的国庆旅游攻略](https://x.com/lingxio71220285/status/2091874792119193605) — 国庆快到了。目的地往往很快就能定下来，后面查信息才麻烦。 机票要看日期和中转，酒店要看位置，城市之间怎么走也得重新排。查着查着，浏览器里就… · [详情](../items/workbuddy-351.md) 𝕏
 - [🧪 HOW TO VERIFY YOUR INTEGRATION PR…](https://B.AI) — 🧪 HOW TO VERIFY YOUR INTEGRATION PROPERLY Saving a custom model in Wo… · [详情](../items/how-to-verify-your-integration-pr.md) 𝕏
-- [美区 Google AI Pro 保姆级攻略：国内银行卡也能绑，联通号…](https://x.com/mnscz133680/status/2125140619903500328) — 美区 Google AI Pro 保姆级攻略：国内银行卡也能绑，联通号可过验证 1️⃣ 美区节点 + 注册谷歌账号（干净 IP 是关键） … · [详情](../items/google-ai-pro.md) 𝕏
-- [Build a document review Skill](https://mp.weixin.qq.com/s/oFjSrlTp5VlMzPwN_iPOjg) — 文件审核场景的完整示例 · [详情](../items/build-a-document-review-skill.md) ⌥
 - [Six WorkBuddy tips](https://mp.weixin.qq.com/s/Gdax9JpvDnDrolXFkuG-Pw) — 适合第一次使用的快速技巧 · [详情](../items/six-workbuddy-tips.md) ⌥
 - [第 1 章 初识 WorkBuddy](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E7%AC%AC%E4%B8%80%E7%AF%87%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%EF%BC%9A%E5%85%88%E6%8A%8A%20WorkBuddy%20%E7%94%A8%E8%B5%B7%E6%9D%A5/%E7%AC%AC%201%20%E7%AB%A0%20%E5%88%9D%E8%AF%86%20WorkBuddy) — 第 1 章 初识 WorkBuddy · [详情](../items/1-workbuddy.md) ⌥
 - [第 2 章 WorkBuddy的下载、安装、登录与更新](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E7%AC%AC%E4%B8%80%E7%AF%87%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%EF%BC%9A%E5%85%88%E6%8A%8A%20WorkBuddy%20%E7%94%A8%E8%B5%B7%E6%9D%A5/%E7%AC%AC%202%20%E7%AB%A0%20WorkBuddy%E7%9A%84%E4%B8%8B%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E7%99%BB%E5%BD%95%E4%B8%8E%E6%9B%B4%E6%96%B0) — 第 2 章 WorkBuddy的下载、安装、登录与更新 · [详情](../items/2-workbuddy.md) ⌥
@@ -44,7 +40,6 @@
 - [第 18 章 会议结束不是终点，工作才刚刚开始](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E7%AC%AC%E4%BA%8C%E7%AF%87%20%E6%A1%88%E4%BE%8B%E7%AF%87%EF%BC%9A%E4%BB%8E%E4%B8%80%E9%A1%B9%E4%BB%BB%E5%8A%A1%E5%88%B0%E4%B8%80%E6%94%AF%20AI%20%E5%9B%A2%E9%98%9F/%E7%AC%AC%2017%20%E7%AB%A0%20%E4%BC%9A%E8%AE%AE%E7%BB%93%E6%9D%9F%E4%B8%8D%E6%98%AF%E7%BB%88%E7%82%B9%EF%BC%8C%E5%B7%A5%E4%BD%9C%E6%89%8D%E5%88%9A%E5%88%9A%E5%BC%80%E5%A7%8B) — 第 18 章 会议结束不是终点，工作才刚刚开始 · [详情](../items/18.md) ⌥
 - [附录 A 常用指令模板](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E9%99%84%E5%BD%95/%E9%99%84%E5%BD%95%20A%20%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4%E6%A8%A1%E6%9D%BF) — 附录 A 常用指令模板 · [详情](../items/a.md) ⌥
 - [附录 B 场景速查表](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E9%99%84%E5%BD%95/%E9%99%84%E5%BD%95%20B%20%E5%9C%BA%E6%99%AF%E9%80%9F%E6%9F%A5%E8%A1%A8) — 附录 B 场景速查表 · [详情](../items/b.md) ⌥
-- [把你的Skill挂上支付宝赚钱，手把手教学](https://x.com/ajinthinks/status/2126110479450001698) — 把你的Skill挂上支付宝赚钱，手把手教学 · [详情](../items/skill-39.md) 𝕏
 - [别再把Agent当聊天框：从0到1跑通WorkBuddy](https://x.com/benyu0811/status/2073340025895616947) — 01｜真正的Agent，不靠聊天证明自己 打开WorkBuddy后，最蠢的问题就是： “你能帮我做什么？” 这句话一问，它只能给你背产品说… · [详情](../items/agent-0-1-workbuddy-2.md) 𝕏
 - [从0到1教你用WorkBuddy做一个「能发布」的个人网站](https://x.com/AIJustinsfm/status/2090719296288948325) — 从0到1教你用WorkBuddy做一个「能发布」的个人网站 · [详情](../items/0-1-workbuddy-2.md) 𝕏
 - [Grok Bot 保姆级：选题到草稿箱，五步自动跑（附提示词｜WorkBuddy 也能照做）](https://x.com/laoqinai/status/2118326310653263919) — Grok Bot 保姆级：选题到草稿箱，五步自动跑（附提示词｜WorkBuddy 也能照做） · [详情](../items/grok-bot-workbuddy-5.md) 𝕏

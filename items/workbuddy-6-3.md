@@ -18,4 +18,4 @@ WorkBuddy 普通人上手指南：别一上来就乱点，先搞懂这 6 件事
 - X · [Jing xu ⛩️ @jingxu19910518](https://x.com/jingxu19910518/status/2073031009600475162) · 2026-07-03 · 1 赞 / 499 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

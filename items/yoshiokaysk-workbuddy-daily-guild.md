@@ -21,4 +21,4 @@ workbuddy-daily-guild
 - GitHub · [yoshiokaysk/workbuddy-daily-guild](https://github.com/yoshiokaysk/workbuddy-daily-guild) · stars 62
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 最近也在尝试用workbuddy 写公众号，之前搞活动领了很多积分 现在正是到了上战场的时候了 workbuddy 上面有很多skill 可以一起用 但是ai未还是有点浓，正在想办法优化
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [zerowq @zerowq_eth](https://x.com/zerowq_eth/status/2073021339007635642) · 2026-07-03 · 0 赞 / 330 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

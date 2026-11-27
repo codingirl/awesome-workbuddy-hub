@@ -19,4 +19,4 @@
 - GitHub · [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide/tree/main/docs/bluebook/%E9%99%84%E5%BD%95/%E9%99%84%E5%BD%95%20B%20%E5%9C%BA%E6%99%AF%E9%80%9F%E6%9F%A5%E8%A1%A8) · 许可：MIT · 附录
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

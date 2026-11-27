@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 不知道大家有没有用过work buddy里面的云端工作 虽然里面有很多bug，但是在手机上就可以去使用workbuddy，并且不用开着电脑 我已经把我做的一个将抖音链接转化为图文和总结的skill放到里面 每当看到一个很长但很干的抖音视频，我就把链接发给他 选择DeepSeek v4 ，它就能自动帮我把视频转化成图文
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [小润coding @xiaoruncoding](https://x.com/xiaoruncoding/status/2090316630186488107) · 2026-08-20 · 0 赞 / 4 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ WorkBuddy 实测：做给白领的 AI 办公 Agent，一个叫 untitled 的文�
 - X · [逐风03 @03AIer](https://x.com/03AIer/status/2091169459969077686) · 2026-08-22 · 6 赞 / 1 转 / 757 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

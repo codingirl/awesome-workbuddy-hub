@@ -18,4 +18,4 @@ WorkBuddy 深度研究系列 （企业篇）——别急着把电脑钥匙交给
 - X · [DataDan｜AI Consultant + Builder @ba_niu80557](https://x.com/ba_niu80557/status/2077420691578863924) · 2026-07-15 · 8 赞 / 1 转 / 1974 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

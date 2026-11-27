@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 普通用户是不是也需要一套“个人 Benchmark”，专门评测大模型、Harness、CLI 工具和 Skill，看看哪个真的更适合自己的工作？ 腾讯刚发布的 WorkBuddy Bench 给了我一个很具体的参考： 它预设了 260 个真实工作任务（Code、Web 、Office、Security），用最终交付结果来评估 Agent。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [李行之 @lxz2677](https://x.com/lxz2677/status/2080555683838316709) · 2026-07-24 · 1 赞 / 171 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

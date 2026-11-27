@@ -21,4 +21,4 @@ Give your agents a soul. Soulgent turns every Claude Code, Codex and WorkBuddy s
 - GitHub · [Ericcc0321/soulgent](https://github.com/Ericcc0321/soulgent) · 许可：MIT · stars 37
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -21,4 +21,4 @@ MIT 许可、已在 WorkBuddy 验证的电影短片剪辑 Skill，按字幕规�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/hanyangcg/video-story-clip) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

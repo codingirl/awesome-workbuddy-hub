@@ -8,8 +8,6 @@ WorkBuddy 技能市场开始支持创作者付费卖 Skill 和专家了 开通�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 技能市场开始支持创作者付费卖 Skill 和专家了 开通收款账户后即可发布到市场，技能与专家独立定价，专家团也支持按月或买断。结算完成后支持随时提现，内测期间平台服务费 1% 几天前 WorkBuddy 刚把国际版桌面端的 OpenAI 模型全部锁进每月 10 美元的 Pro
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 技能市场开始支持创作者付费卖 Skill 和专家了 开通�
 - X · [jiangkoumo @jiangkoumo_](https://x.com/jiangkoumo_/status/2113887855475040545) · 2026-10-24 · 5 赞 / 730 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

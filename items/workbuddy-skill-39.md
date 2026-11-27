@@ -8,8 +8,6 @@ WorkBuddy 开放 Skill 售卖，本意是激励创作者，结果先把 GitHub �
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 开放 Skill 售卖，本意是激励创作者，结果先把 GitHub 开源作者的劳动成果收割了一遍 因为墙的原因，国内用户访问 GitHub 困难，有人就直接把别人开源的 Skill 几乎一字不改地下载下来，改个名字、清掉原作者署名，上传到 WorkBuddy 市场售卖或分发。
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 开放 Skill 售卖，本意是激励创作者，结果先把 GitHub �
 - X · [猫老弟 @XI__LIU](https://x.com/XI__LIU/status/2117514479026233825) · 2026-11-03 · 5 赞 / 445 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

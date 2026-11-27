@@ -18,4 +18,4 @@ WorkBuddy深度研究系列（生态篇）——WorkBuddy 真正想抢的，不�
 - X · [DataDan｜AI Consultant + Builder @ba_niu80557](https://x.com/ba_niu80557/status/2077418204360815098) · 2026-07-15 · 2 赞 / 968 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

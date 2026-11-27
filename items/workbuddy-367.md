@@ -8,8 +8,6 @@ WorkBuddy 一键做动画视频，新手也能行 一分钟学会用 WorkBuddy �
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 一键做动画视频，新手也能行 一分钟学会用 WorkBuddy 生成动画视频，全程不用跳转到别的工具，新手也能做出有质感的动态画面。 第一步：安装 Remotion 技能 左侧打开专家技能连接器，技能模块搜索 Remotion 添加。对话输入斜杠，直接选中调用。 第二步：打磨提示词
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 一键做动画视频，新手也能行 一分钟学会用 WorkBuddy �
 - X · [林哥聊Ai @gao_le25312](https://x.com/gao_le25312/status/2125585023420322078) · 2026-11-25 · 1 赞 / 109 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

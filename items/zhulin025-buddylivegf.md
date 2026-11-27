@@ -21,4 +21,4 @@ WorkBuddy 动态女友皮肤：深浅主题自动跟随、角落与沉浸布局�
 - GitHub · [zhulin025/BuddyLiveGF](https://github.com/zhulin025/BuddyLiveGF) · stars 93
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

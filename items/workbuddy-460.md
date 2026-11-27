@@ -18,4 +18,4 @@
 - X · [爱吃西红柿🍅 @baidashi996](https://x.com/baidashi996/status/2117083375790100586) · 2026-11-02 · 0 赞 / 57 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

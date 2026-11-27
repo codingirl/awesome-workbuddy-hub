@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 用workbuddy开发了一个工作台，效果很不错，今天想着部署到腾讯云上，想做一个独立的产品。 我自己不熟悉弄环境这些，我很自然说了一句使用claudbase mcp来帮我创建环境和部署，workbuddy说不支持，依然让我手动。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [月鹿造物 @moondeerai](https://x.com/moondeerai/status/2083513907831001420) · 2026-08-01 · 2 赞 / 75 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

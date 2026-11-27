@@ -19,4 +19,4 @@ MIT 许可的 DeepSeek Harness 插件，可把任务真实委派给 WorkBuddy �
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/jiang12345-code/dsh-agent-selector) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

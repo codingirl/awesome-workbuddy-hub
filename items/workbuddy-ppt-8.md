@@ -8,8 +8,6 @@ WorkBuddy 也能做 PPT。 问题是它给你的那个 .pptx——默认蓝母�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 也能做 PPT。 问题是它给你的那个 .pptx——默认蓝母版、每页堆满字、图表是 Excel 默认样式。能打开，但你不敢直接交。 一行命令，给它装上 OfficeCLI + 11 个专项技能。从「能做」到「能交」。
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 也能做 PPT。 问题是它给你的那个 .pptx——默认蓝母�
 - X · [xumac @xumac007](https://x.com/xumac007/status/2086471908602904843) · 2026-08-09 · 0 赞 / 71 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

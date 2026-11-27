@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 把 10 月份 WorkBuddy 值得装的新技能给捋了一遍。 Writing DNA 复刻文风、一句话生成设计系统、简历+JD 出面试方案这些看着挺刚需。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [硅基少年AI薄肌版 @siliconboy2026](https://x.com/siliconboy2026/status/2109888105511874630) · 2026-10-13 · 1 赞 / 96 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

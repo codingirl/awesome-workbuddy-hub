@@ -18,4 +18,4 @@
 - X · [Drunk @Liu_zhongxisn](https://x.com/Liu_zhongxisn/status/2077786522083061910) · 2026-07-16 · 23 赞 / 2 转 / 6388 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

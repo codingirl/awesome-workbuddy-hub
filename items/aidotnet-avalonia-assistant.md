@@ -21,4 +21,4 @@ Windows 桌面 AI 助理。Agent 循环用 pi.net 的 Pi.CodingAgent， 界面�
 - GitHub · [AIDotNet/Avalonia-Assistant](https://github.com/AIDotNet/Avalonia-Assistant) · 许可：MIT · stars 208
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

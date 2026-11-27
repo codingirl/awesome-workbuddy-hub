@@ -8,8 +8,6 @@ Workbuddy里面的股票skill有点意思，让他帮我做了一个下半年“
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Workbuddy里面的股票skill有点意思，让他帮我做了一个下半年“算力 vs 人型机器人”的圆桌论坛对比研判报告，节选部分核心内容放在评论区。
 
 ## 使用/获取
@@ -22,4 +20,4 @@ Workbuddy里面的股票skill有点意思，让他帮我做了一个下半年“
 - X · [Ju_Jason @Ju_Jason_2024](https://x.com/Ju_Jason_2024/status/2083014365398360373) · 2026-07-31 · 1 赞 / 113 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

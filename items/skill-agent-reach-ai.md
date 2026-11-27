@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 今天给大家推荐一个Skill – Agent Reach，专门帮 AI Agent 解决上网找资料的问题。（可以让workbuddy安装） 现在很多 AI Agent 虽然能写代码、做文档，但让它去网上找点东西，经常就卡住了。比如 YouTube 视频拿不到字幕、X 平台接口收费、Reddit 访问受限，小红书内容也不好抓取。 Agent Reach
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [灰十六 @lucas75554093](https://x.com/lucas75554093/status/2117082265721208922) · 2026-11-02 · 0 赞 / 68 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

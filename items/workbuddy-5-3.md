@@ -8,8 +8,6 @@ WorkBuddy写稿第5天，同事夸赞我文笔 🤖 前言：workbuddy教程分�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy写稿第5天，同事夸赞我文笔 🤖 前言：workbuddy教程分享第一篇，欢迎持续关注。 同事以为我这周开窍了。 其实我只是把 AI 调教得像我本人。 5天，3个设置，周报发出去没人看得出来。🤫 为啥 WorkBuddy 写出来能像我？ 因为我做了 3 件事👇 ① 打开【对话记忆】 打开 WorkBuddy 客户端
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy写稿第5天，同事夸赞我文笔 🤖 前言：workbuddy教程分�
 - X · [hardy @HChai40207](https://x.com/HChai40207/status/2075972121730351421) · 2026-07-11 · 0 赞 / 640 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ workbuddy 日活1300万 月活2000万 牛逼的营销能力 三个月内产品�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy 日活1300万 月活2000万 牛逼的营销能力 三个月内产品迭代43次 skill库79万个 办公agent的天花板 但是我从来没用过workbuddy
 
 ## 使用/获取
@@ -20,4 +18,4 @@ workbuddy 日活1300万 月活2000万 牛逼的营销能力 三个月内产品�
 - X · [Aron厚玉 @aronhouyu](https://x.com/aronhouyu/status/2073972052588122513) · 2026-07-06 · 123 赞 / 9 转 / 65068 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*
