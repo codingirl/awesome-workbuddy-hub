@@ -1,4 +1,4 @@
-# 教程与指南 · 自动化（40）
+# 教程与指南 · 自动化（36）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
@@ -6,7 +6,6 @@
 - [用 WorkBuddy 操控微信干活](https://x.com/liyue_ai/status/2124036554494746692) — 借助 WorkBuddy 电脑操控能力点微信、发消息、转文件的教程 · [详情](../items/workbuddy-27.md) 𝕏
 - [Grok Bot 和 WorkBuddy 双向打通保姆级教程: 实操微信聊天记录案例](https://x.com/0xlangeai/status/2117582319473102854) — 微信里有人丢来一张 AI 发布截图，问：「这句话是真的吗？能不能找一下原文？」 在电脑上，我把选中的微信聊天记录分享给 WorkBuddy… · [详情](../items/grok-bot-workbuddy.md) 𝕏
 - [腾讯、腾讯云和 WorkBuddy 联合发布了一份 78 页的「202…](https://x.com/shao__meng/status/2115785693599523089) — 腾讯、腾讯云和 WorkBuddy 联合发布了一份 78 页的「2026 AI Agent 企业解决方案及落地实践手册」 整份材料用同一条… · [详情](../items/workbuddy-78-202.md) 𝕏
-- [个人微信正式支持接入 OpenClaw，附一键接入教程！](https://x.com/canghe/status/2035573202613932326) — 看到微信官方刚刚更新了个重磅功能，支持龙虾接入了。 这次是真正的，属于你的个人微信接入的 clawBot。 入口就在自己的微信——设置——… · [详情](../items/openclaw.md) 𝕏
 - [爆肝制作，29 分钟讲透 WorkBuddy！全网超完整的零基础入门到…](https://x.com/yelowtutu/status/2105236244771021152) — 爆肝制作，29 分钟讲透 WorkBuddy！全网超完整的零基础入门到进阶教程！ 1️⃣ 认识：认识 WorkBuddy 2️⃣ 实操：完… · [详情](../items/29-workbuddy.md) 𝕏
 - [WorkBuddy入门完整攻略：从一次真实任务到资料库、项目与自动化配置实现](https://x.com/FlowOpsDaily/status/2089238661263224870) — WorkBuddy入门完整攻略：从一次真实任务到资料库、项目与自动化配置实现 · [详情](../items/workbuddy-52.md) 𝕏
 - [用飞书操作 WorkBuddy：保姆级接入教程](https://x.com/alin_zone/status/2087132864827544036) — 这篇文章记录我是如何一步一步把 WorkBuddy 接入飞书。 我会按照我的实际操作的顺序，手把手一步一步说明飞书应用、权限、事件、Wor… · [详情](../items/workbuddy-67.md) 𝕏
@@ -16,14 +15,11 @@
 - [WorkBuddy is handing out FREE Hunyu…](https://x.com/WojakTheDev/status/2118704203115958626) — WorkBuddy is handing out FREE Hunyuan runs and people are still sleep… · [详情](../items/workbuddy-is-handing-out-free-hunyu.md) 𝕏
 - [就这？微信读书排第一？？什么AI博士写的AI垃圾文！在那把简单的话非说…](https://x.com/Sunkeke_AI/status/2120898725925249333) — 就这？微信读书排第一？？什么AI博士写的AI垃圾文！在那把简单的话非说的很复杂！没啥实际操作！车轱辘话翻来覆去！ 说实话真的心疼国内用Wo… · [详情](../items/ai-ai.md) 𝕏
 - [Giving WorkBuddy a Fresh Look with Zero Code (Full Tutorial Included)](https://x.com/tenctcloud_Intl/status/2082298476390719991) — Hi there! I'm Run Cao, a backend developer at Tencent. One day, on a … · [详情](../items/giving-workbuddy-a-fresh-look-with-zero-code-ful.md) 𝕏
-- [微信出手了：AI助手不再是工具，而是你的微信好友（附3分钟接入教程）](https://x.com/joshesye/status/2035698483852956011) — 人在香港，正要返回深圳。 突然看到重磅消息，你的微信可以接入龙虾了 这是全文最重要的结论，听好了： 微信支持 OpenClaw，不是功能更… · [详情](../items/ai-3-2.md) 𝕏
 - [《WorkBuddy 小白上手教程②：专家、技能、连接器怎么用？》](https://x.com/Felixlmjz/status/2108040780422205684) — 《WorkBuddy 小白上手教程②：专家、技能、连接器怎么用？》 · [详情](../items/workbuddy-194.md) 𝕏
 - [腾讯版小龙虾 WorkBuddy 来了，全面直连微信，保姆级教程！](https://x.com/LuBtc888/status/2032374250099913080) — 腾讯版小龙虾 WorkBuddy 来了，全面直连微信，保姆级教程！ · [详情](../items/workbuddy-202.md) 𝕏
 - [周末开学，腾讯、腾讯云、WorkBuddy 联合发了一本 78 页的《…](https://x.com/skytearss/status/2116356231397085674) — 周末开学，腾讯、腾讯云、WorkBuddy 联合发了一本 78 页的《2026 AI Agent 企业解决方案及落地实践手册》，先啃第一章… · [详情](../items/workbuddy-78-2.md) 𝕏
-- [一个重要决定：开始聚焦国内Agent（Workbuddy/Trae/Qoder/KIMI Work）并开始撰写系列教程](https://x.com/DracoVibeCoding/status/2072183785752502283) — 6月30日，2026年马上过去一半了。 我今天做了上半年写作的复盘和反思。在过去的几个月时间里，我写作的内容主要聚焦在以下几个领域： 2月… · [详情](../items/agent-workbuddy-trae-qoder-kimi-work.md) 𝕏
 - [想把 WorkBuddy 真正用起来，别只研究提示词。](https://x.com/dashdot1205/status/2107689210203590923) — 想把 WorkBuddy 真正用起来，别只研究提示词。 找 10 个真实任务跑一遍，你基本就知道 Agent 到底能干什么了。 我从社区案… · [详情](../items/workbuddy-247.md) 𝕏
 - [workbuddy进阶教程来了，上次是假模型权限和配置，这次是讲；技能…](https://x.com/xiaomovps/status/2077185595563188402) — workbuddy进阶教程来了，上次是假模型权限和配置，这次是讲；技能、连接器和专家 很多人问我为什么要去用Workbuddy，看完这个教… · [详情](../items/workbuddy-269.md) 𝕏
-- [WorkBuddy(微信官方龙虾) 小白指南](https://x.com/crypto20c_/status/2032335326367400286) — WorkBuddy(微信官方龙虾) 小白指南 · [详情](../items/workbuddy-291.md) 𝕏
 - [workbuddy提取微信聊天记录的实操教程](https://x.com/selinboshi/status/2119711678715859212) — 一、Windows电脑使用workbuddy提取微信聊天记录的实操教程 windows电脑的操作流程相对简单，安装 wx4-chat-re… · [详情](../items/workbuddy-294.md) 𝕏
 - [装完WorkBuddy却用不起来？这篇超详细教程从装机到定时自动化全覆…](https://x.com/HytidelLegend/status/2084256554690523433) — 装完WorkBuddy却用不起来？这篇超详细教程从装机到定时自动化全覆盖，教你六字段精准派活，把AI当牛马管，重复工作瞬间提效！建议收藏！ · [详情](../items/workbuddy-313.md) 𝕏
 - [workbuddy邪修教程](https://www.workbuddy.cn/events/invite?inviteCode=krzag8ea0mf) — workbuddy邪修教程 1.起手先设置一个每日自动签到领100积分任务 2.点击成长任务（把所有任务都做了） 3.还没有的就点击这个链… · [详情](../items/workbuddy-355.md) 𝕏

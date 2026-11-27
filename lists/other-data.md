@@ -1,4 +1,4 @@
-# 工具与其他资源 · 数据分析（40）
+# 工具与其他资源 · 数据分析（30）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
@@ -21,7 +21,6 @@
 - [BuddyBridge](https://github.com/ben4202121/buddybridge) — MIT 许可的 Windows-only Obsidian 插件，将本机 WorkBuddy/CodeBuddy CLI 接入 Vault… · [详情](../items/buddybridge.md) ⌥
 - [AgentsView](https://github.com/kenn-io/agentsview) — MIT 许可的本地优先跨 Agent 会话搜索、分析与 Token 使用统计工具，支持 WorkBuddy 的 `~/.workbuddy… · [详情](../items/agentsview.md) ⌥
 - [agentsw](https://github.com/tchivs/agentsw) — MIT 许可的跨 Agent Provider 切换工具，可导入并同步 OpenAI/Anthropic 兼容 Provider、模型元数… · [详情](../items/agentsw.md) ⌥
-- [CodeBuddy2API](https://github.com/orangeboyChen/codebuddy2api) — MIT 许可、源码和测试齐全的自托管 CodeBuddy 网关，提供 OpenAI/Anthropic 兼容接口、SQLite 加密或 P… · [详情](../items/codebuddy2api.md) ⌥
 - [WorkBuddy for Obsidian](https://github.com/bigbay957-sudo/workbuddy-for-obsidian) — MIT 许可的 Obsidian 社区插件，在侧边栏接入本机 WorkBuddy，支持选区编辑、多任务、资料引用、来源追溯和本地文件上传 · [详情](../items/workbuddy-for-obsidian.md) ⌥
 - [Workbuddian](https://github.com/jiang198012/workbuddian) — MIT 许可的 Obsidian 桌面插件，将本机 WorkBuddy/CodeBuddy CLI 接入笔记库，支持流式对话、`@` 引用… · [详情](../items/workbuddian.md) ⌥
 - [Token Bank](https://github.com/wink-run/tokenbank) — Apache-2.0 许可的本地 AI 资源中枢，支持 WorkBuddy 一键接入、用量追踪、模型路由、Skills/MCP 投影和多账… · [详情](../items/token-bank.md) ⌥
@@ -31,14 +30,5 @@
 - [WorkBuddy Obsidian Plugin](https://github.com/jsun2020/workbuddy-obsidian-plugin) — MIT 许可的 Obsidian 社区插件，在侧边栏调用本机 WorkBuddy CLI，支持当前笔记或选中文本引用、多个任务页签、复制与… · [详情](../items/workbuddy-obsidian-plugin.md) ⌥
 - [Theoria](https://github.com/Waterkyuu/theoria) — 许可未声明的本地优先多 Agent 工作台，明确支持 WorkBuddy，可并行运行多个 Agent、隔离执行目录、比较工具调用与文件变更… · [详情](../items/theoria.md) ⌥
 - [Crew](https://github.com/shuishenghualalala/Ace) — Apache-2.0 的开源 WorkBuddy 风格本地多智能体工作台，提供 Desktop、Web、CLI、Skills、MCP、知识… · [详情](../items/crew.md) ⌥
-- [Vibe-Research](https://github.com/simonlin1212/Vibe-Research) — Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 … · [详情](../items/simonlin1212-vibe-research.md) ⌥
-- [learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials) — Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转… · [详情](../items/dmoshehun-prog-learn-from-materials.md) ⌥
-- [vibe-astock](https://github.com/simonlin1212/vibe-astock) — Vibe AStock：A 股短线复盘与跟踪工作台 · 盯盘异动、情绪复盘（连板天梯、题材轮动、明日验证）、AI 复盘与周报、交易日志、盘… · [详情](../items/simonlin1212-vibe-astock.md) ⌥
 - [hunter-community](https://github.com/agentpit-io/hunter-community) — HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-sou… · [详情](../items/agentpit-io-hunter-community.md) ⌥
-- [mcd-wrapped](https://github.com/lvzuojing/mcd-wrapped) — M-CODE WRAPPED · 麦当劳数据全景报告 + 个人年报 + 方言播报 · [详情](../items/lvzuojing-mcd-wrapped.md) ⌥
-- [mcd-experience-atlas](https://github.com/johnny37/mcd-experience-atlas) — 孩子生日想办麦当劳派对？全国281城3664家门店哪里能办，26款体验活动一图查完。基于官方MCP只读采集+可视化。 · [详情](../items/johnny37-mcd-experience-atlas.md) ⌥
-- [dati](https://github.com/yimindev/dati) — Turn your databases into secure, semantically rich MCP tools for agen… · [详情](../items/yimindev-dati.md) ⌥
 - [mini-workbuddy](https://github.com/datawhalechina/mini-workbuddy) — 用 AgentScope 从零搭一个本地智能体工作台 · [详情](../items/datawhalechina-mini-workbuddy.md) ⌥
-- [obsidian-agent-deck](https://github.com/MatsuriMW/obsidian-agent-deck) — Agent Deck: track dozens of agents from Obsidian, delegate from the t… · [详情](../items/matsurimw-obsidian-agent-deck.md) ⌥
-- [maimai-restaurant-huiyan](https://github.com/Nothingsssss/maimai-restaurant-huiyan) — 麦麦餐厅-慧眼识人 | 麦当劳 2026 年 1024 程序员创意开发大赛参赛项目：基于麦当劳 MCP 真实餐品数据的出餐配餐与优惠推荐练… · [详情](../items/nothingsssss-maimai-restaurant-huiyan.md) ⌥
-- [scope-recall-hermes](https://github.com/c410979729-bit/scope-recall-hermes) — Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and … · [详情](../items/c410979729-bit-scope-recall-hermes.md) ⌥

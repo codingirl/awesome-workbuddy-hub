@@ -1,4 +1,4 @@
-# 技能（Skills） · 自动化（88）
+# 技能（Skills） · 自动化（42）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
@@ -6,14 +6,8 @@
 - [WorkBuddy 每日签到自动化 Skill](https://x.com/VentLane/status/2118953449664766009) — 让 WorkBuddy 安装该 Skill 即可自动完成每日签到与成长中心任务 · [详情](../items/workbuddy-skill-5.md) 𝕏
 - [Workbuddy 必装的 8 个 skill：](https://x.com/NIxinhai0/status/2115110247132238190) — Workbuddy 必装的 8 个 skill： 1.Find Skills：根据需求从技能库挑选适配技能 2.Self Improvin… · [详情](../items/workbuddy-8-skill-2.md) 𝕏
 - [🇨🇳2026年3月9日，腾讯旗下全场景AI智能体WorkBuddy正式…](https://x.com/wenbei2022/status/2031156523200819420) — 🇨🇳2026年3月9日，腾讯旗下全场景AI智能体WorkBuddy正式上线。据介绍，它完全兼容OpenClaw的技能，在官网下载安装后，直… · [详情](../items/2026-3-9-ai-workbuddy.md) 𝕏
-- [一篇全讲透腾讯版Openclaw：WorkBuddy 完整上手指南，从安装到自动化技能的实操解析](https://x.com/laowangbabababa/status/2031336345335975999) — 一篇全讲透腾讯版Openclaw：WorkBuddy 完整上手指南，从安装到自动化技能的实操解析 · [详情](../items/openclaw-workbuddy.md) 𝕏
-- [开源的灵魂，正在被商业化的肉身接管。](https://x.com/pipizhu_eth/status/2030920930541904326) — 开源的灵魂，正在被商业化的肉身接管。 OpenClaw正在被大厂瓜分，今天一天： 火山引擎上线ArkClaw——云上SaaS版 腾讯Wor… · [详情](../items/x-41904326.md) 𝕏
 - [用workbuddy做的记英语四级单词的skills](https://x.com/shitunote/status/2090972574251401379) — 用workbuddy做的记英语四级单词的skills workbuddy每天定时给我推荐四级词汇 如果我是大学生的话，还真有点用，方便记单… · [详情](../items/workbuddy-skills-5.md) 𝕏
-- [mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist) — 麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47… · [详情](../items/hujjun-mcd-saver-strategist.md) 𝕏 ⌥
-- [腾讯版“小龙虾”WorkBuddy正式上线。](https://x.com/QinBMY/status/2030923599620805101) — 腾讯版“小龙虾”WorkBuddy正式上线。 完全兼容OpenClaw的技能，在官网下载安装后，直接输入指令就能让WorkBuddy帮你干… · [详情](../items/workbuddy-215.md) 𝕏
-- [最近刷到几个大佬推荐这本《人生财富靠康波》，可是想想自己一看书就犯困就…](https://x.com/Ericup2023/status/2123318526106587495) — 最近刷到几个大佬推荐这本《人生财富靠康波》，可是想想自己一看书就犯困就头大了，于是突然想起来李继刚老师有个拆书的 skill.找了用豆包工… · [详情](../items/x-06587495.md) 𝕏
 - [腾讯把内部模型选型的底牌开源了：260道题测出谁最强，还白送2个自动化…](https://x.com/_luckyj888/status/2086308353475858878) — 腾讯把内部模型选型的底牌开源了：260道题测出谁最强，还白送2个自动化 Skill WorkBuddy Bench，腾讯 WorkBudd… · [详情](../items/260-2.md) 𝕏
-- [腾讯密集发布"龙虾特工队"，又搞了一个Skillhub，这明显是一套组…](https://x.com/QinBMY/status/2031567160750084148) — 腾讯密集发布"龙虾特工队"，又搞了一个Skillhub，这明显是一套组合拳。 WorkBuddy 做入口 SkillHub 做技能生态 Q… · [详情](../items/skillhub-2.md) 𝕏
 - [WorkBuddy干万别裸装，这几个skil必须装！](https://x.com/didicvj7/status/2089556642358784472) — WorkBuddy干万别裸装，这几个skil必须装！ 推荐几个WorkBuddy最近比较热门的skills -Find Skills 不会… · [详情](../items/workbuddy-skil-2.md) 𝕏
 - [在workbuddy上安装了Vox那个skill，把里面的大模型都改成…](https://x.com/angela781105/status/2077409971361452078) — 在workbuddy上安装了Vox那个skill，把里面的大模型都改成了国内的火山引擎里面seedream和seedance，BGM还是使… · [详情](../items/workbuddy-vox-skill.md) 𝕏
 - [看到一个专门做软件图标的 skill。有点类似现在 grokbot，m…](https://x.com/genoooool/status/2112616762181407231) — 看到一个专门做软件图标的 skill。有点类似现在 grokbot，minimax design，workbuddy 的简约但是又很可爱的… · [详情](../items/skill-grokbot-m.md) 𝕏
@@ -35,52 +29,13 @@
 - [WorkBuddy Check-in (Maquer)](https://github.com/Maquer/workbuddy-checkin) — MIT 许可、零第三方依赖的 Python 签到与积分查询工具，支持 CN/Global 账号、Token 自动刷新、多账号轮换、日报和 … · [详情](../items/workbuddy-check-in-maquer.md) ⌥
 - [WorkBuddy Check-in（codeLong1024）](https://github.com/codeLong1024/workbuddy-checkin) — MIT 许可、零依赖的 WorkBuddy 签到 Skill/脚本，仅读取本机登录态、不落盘凭证，支持先用 `--dry-run` 查询、… · [详情](../items/workbuddy-check-in-codelong1024.md) ⌥
 - [Bruce Draw.io](https://github.com/bruc3van/bruce-drawio) — MIT 许可的跨平台 Draw.io 图表生成 Skill，明确支持 WorkBuddy，提供流程图、架构图、UML、ER 图和思维导图工… · [详情](../items/bruce-draw-io.md) ⌥
-- [stealth-browser-collector](https://github.com/shuangying0001-beep/stealth-browser-collector) — stealth-browser-collector orchestrator skill · [详情](../items/stealth-browser-collector.md) ⌥
-- [human-like-automation](https://github.com/shuangying0001-beep/human-like-automation) — RPA 拟人化鼠标轨迹/打字（防机器人识别）：贝塞尔轨迹、随机延时、犹豫点击、逐字打字。适合 RPA 测试、批量操作防封。 · [详情](../items/human-like-automation.md) ⌥
-- [wechat-pay-integration](https://github.com/shuangying0001-beep/wechat-pay-integration) — 微信支付接入（JSAPI/Native/退款，含安全）：强制回调验签、幂等、密钥隔离。适合任何要收款的微信应用。 · [详情](../items/wechat-pay-integration.md) ⌥
-- [miniprogram-ai-fullstack](https://github.com/shuangying0001-beep/miniprogram-ai-fullstack) — miniprogram-ai-fullstack orchestrator skill · [详情](../items/miniprogram-ai-fullstack.md) ⌥
-- [wechat-miniprogram-devrules](https://github.com/shuangying0001-beep/wechat-miniprogram-devrules) — 微信小程序 AI 协作规范生成器（AGENTS.md）：生成安全/稳定/最小改动协作规范，一键出 AGENTS.md。适合带 AI 开发小… · [详情](../items/wechat-miniprogram-devrules.md) ⌥
-- [karpathy-llm-wiki](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/07-agent-framework/karpathy-llm-wiki__skillhub) — Persistent wiki manager based on Karpathy's LLM-Wiki pattern. Builds … · [详情](../items/karpathy-llm-wiki-skillhub.md) ⌥
-- [github-private-push-fallback](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/09-windows-ops/github-private-push-fallback) — 当 GitHub MCP 连接器掉线/抖动、本地无 gh CLI、或无 Docker 时，用「本地 git + 用户临时 PAT + 嵌入… · [详情](../items/github-private-push-fallback.md) ⌥
 - [workbuddy-migration-pack](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/09-windows-ops/workbuddy-migration-pack) — 生成「WorkBuddy 换电脑迁移包」v3.1——把 AI 助手的全部身份（SOUL/IDENTITY/USER/MEMORY）、技能库… · [详情](../items/workbuddy-migration-pack.md) ⌥
-- [agent-browser](https://github.com/weininghui/skills/tree/main/agent-browser) — Headless browser automation CLI optimized for AI agents with accessib… · [详情](../items/agent-browser.md) ⌥
-- [ai-web-automation](https://github.com/weininghui/skills/tree/main/ai-web-automation) — 自动化 Web 任务执行服务。 · [详情](../items/ai-web-automation.md) ⌥
-- [airdrop-hunter](https://github.com/weininghui/skills/tree/main/airdrop-hunter) — Track and claim crypto airdrops automatically. Monitor eligibility, c… · [详情](../items/airdrop-hunter.md) ⌥
-- [auto-updater](https://github.com/weininghui/skills/tree/main/auto-updater) — Schedule and run safe daily/weekly updates for Clawdbot + installed s… · [详情](../items/auto-updater.md) ⌥
-- [browser-secure](https://github.com/weininghui/skills/tree/main/browser-secure) — Secure browser automation with Chrome profile support, vault integrat… · [详情](../items/browser-secure.md) ⌥
-- [cal-com-automation](https://github.com/weininghui/skills/tree/main/cal-com-automation) — Automate Cal.com tasks via Rube MCP (Composio): manage bookings, chec… · [详情](../items/cal-com-automation.md) ⌥
-- [cloudphone](https://github.com/weininghui/skills/tree/main/cloudphone) — Use mcporter to call cpc-mcp-server AutoJS Agent tools for cloud Andr… · [详情](../items/cloudphone.md) ⌥
-- [gitlab-cli-skills](https://github.com/weininghui/skills/tree/main/gitlab-cli-skills) — Comprehensive GitLab CLI (glab) command reference and workflows for a… · [详情](../items/gitlab-cli-skills.md) ⌥
-- [mailmolt](https://github.com/weininghui/skills/tree/main/mailmolt) — Give your AI agent a real email identity — send, receive, search, and… · [详情](../items/mailmolt.md) ⌥
-- [makefile-build](https://github.com/weininghui/skills/tree/main/makefile-build) — Write Makefiles for any project type. Use when setting up build autom… · [详情](../items/makefile-build.md) ⌥
-- [mcd-cn](https://github.com/weininghui/skills/tree/main/mcd-cn) — Query McDonald's China MCP server via the mcd-cn CLI for campaign cal… · [详情](../items/mcd-cn.md) ⌥
-- [mcporter](https://github.com/weininghui/skills/tree/main/mcporter) — Use the mcporter CLI to list, configure, auth, and call MCP servers/t… · [详情](../items/mcporter.md) ⌥
-- [memory-tiering](https://github.com/weininghui/skills/tree/main/memory-tiering) — Automated multi-tiered memory management (HOT, WARM, COLD). Use this … · [详情](../items/memory-tiering.md) ⌥
-- [morning-email-rollup](https://github.com/weininghui/skills/tree/main/morning-email-rollup) — Daily morning rollup of important emails and calendar events at 8am · [详情](../items/morning-email-rollup.md) ⌥
-- [opcode](https://github.com/weininghui/skills/tree/main/opcode) — Zero-token execution layer for AI agents. Define workflows once, run … · [详情](../items/opcode.md) ⌥
-- [papi](https://github.com/weininghui/skills/tree/main/papi) — Complete WhatsApp automation API with microservices architecture. Sen… · [详情](../items/papi.md) ⌥
-- [remix-api-key-auth](https://github.com/weininghui/skills/tree/main/remix-api-key-auth) — Configure and verify bearer API key authentication for Remix agent pu… · [详情](../items/remix-api-key-auth.md) ⌥
-- [stdio-skill](https://github.com/weininghui/skills/tree/main/stdio-skill) — Stdin/stdout file inbox/outbox bridge for passing files to/from Clawd… · [详情](../items/stdio-skill.md) ⌥
-- [superpowers-dev-workflow](https://github.com/weininghui/skills/tree/main/superpowers-dev-workflow) — Spec-first, TDD, subagent-driven software development workflow. Use w… · [详情](../items/superpowers-dev-workflow.md) ⌥
-- [yc-cold-outreach](https://github.com/weininghui/skills/tree/main/yc-cold-outreach) — Expert in Y Combinator (YC) cold email outreach techniques based on S… · [详情](../items/yc-cold-outreach.md) ⌥
-- [mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal) — 麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill · [详情](../items/sam-hui-dot-mcd-budget-meal.md) ⌥
-- [mcd-1024-skill](https://github.com/zhuxian518/mcd-1024-skill) — McDonald's China MCP innovation skill - entry for MCD Developer Innov… · [详情](../items/zhuxian518-mcd-1024-skill.md) ⌥
-- [mcd-cn-assistant](https://github.com/junxchan54-maker/mcd-cn-assistant) — 🍟 麦当劳中国官方 MCP 智能助手技能：把 35 个原子工具编排成 4 条业务流 —— 活动推送 · 联名关注 · 最优惠点餐 · 多人… · [详情](../items/junxchan54-maker-mcd-cn-assistant.md) ⌥
 - [workdsh](https://github.com/techflag/workdsh) — A WorkBuddy-style desktop workspace powered by the DSH plugin ecosyst… · [详情](../items/techflag-workdsh.md) ⌥
-- [mcd-calorie-butler](https://github.com/WilderNoTrack/mcd-calorie-butler) — 麦麦热量管家：减脂不是少吃你爱的，是先换掉不值这口热量的。基于麦当劳 MCP 的味热比点餐 Skill。 · [详情](../items/wildernotrack-mcd-calorie-butler.md) ⌥
-- [mcd-agent-gourmet](https://github.com/polaris-smart/mcd-agent-gourmet) — Say "¥35, not spicy, no ice" → one answer + a copyable order card. Of… · [详情](../items/polaris-smart-mcd-agent-gourmet.md) ⌥
 - [overtime-meal-buddy](https://github.com/wusuaya/overtime-meal-buddy) — 加班吃点啥：麦当劳 MCP 多人配餐、套餐分配、改单核价与精确分账 WorkBuddy Skill · [详情](../items/wusuaya-overtime-meal-buddy.md) ⌥
 - [mcd-coupon-assistant](https://github.com/tian1326/mcd-coupon-assistant) — 麦当劳优惠券省钱助手 — 基于麦当劳中国官方 MCP 的 WorkBuddy Skill：查门店/查券/带券算价/比价推荐。默认不下单、不… · [详情](../items/tian1326-mcd-coupon-assistant.md) ⌥
-- [mcd-dual-budget-coach](https://github.com/erikzeng2008-del/mcd-dual-budget-coach) — 麦门双预算军师 · 麦当劳中国 MCP 参赛作品 | 钱一个预算、热量一个预算，两个闸门同时过才配餐：88,788 种组合本地穷举，给最划… · [详情](../items/erikzeng2008-del-mcd-dual-budget-coach.md) ⌥
-- [maimen-order-manager](https://github.com/BEN020406/maimen-order-manager) — 麦当劳 MCP 技能：待评价清单、好评兑礼进度、发票报销门槛凑单、单次抽奖确认。99 项测试，非官方产品。 · [详情](../items/ben020406-maimen-order-manager.md) ⌥
 - [mcd-tea-captain](https://github.com/chi-zhi-yuan/mcd-tea-captain) — 麦茶团长 —— 团队下午茶拼单：链接化点单 + 实时满减看板 + 一键下单。基于麦当劳中国 MCP + WorkBuddy Skill（1… · [详情](../items/chi-zhi-yuan-mcd-tea-captain.md) ⌥
-- [mcd-worth-it](https://github.com/d-ouyang/mcd-worth-it) — 基于麦当劳 MCP 的权益精算 Skill——按档口与账户权益实时核价，算清这顿值不值、这张卡值不值，一次确认完成点单 · [详情](../items/d-ouyang-mcd-worth-it.md) ⌥
-- [mcd-event-radar](https://github.com/Zafer-Liu/mcd-event-radar) — 麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟 · [详情](../items/zafer-liu-mcd-event-radar.md) ⌥
 - [maimen-calendar](https://github.com/Whisky53/maimen-calendar) — 麦门日历 · 麦当劳活动力度与午饭规划助手 | 基于麦当劳 MCP 的 WorkBuddy Skill · [详情](../items/whisky53-maimen-calendar.md) ⌥
-- [UaStation](https://github.com/freyrswift/UaStation) — 19 款 AI 编程工具的提示词与技能管理器 · Qt 6 / C++20 · 134 项技能 · 原生共享目录与只读 MCP · 个人非… · [详情](../items/freyrswift-uastation.md) ⌥
-- [mcd-party-buddy](https://github.com/Neo5093/mcd-party-buddy) — 麦门派对搭子 PartyBuddy：基于麦当劳 MCP 的团建组织者 Skill —— 企业团餐预算搭配×满减优化×预约送达，麦麦派对/体… · [详情](../items/neo5093-mcd-party-buddy.md) ⌥
 - [mcd-group-order-mate](https://github.com/kythonic/mcd-group-order-mate) — 麦麦拼单官 —— 多人拼单的券优化与分账助手（麦当劳 MCP + WorkBuddy Skill） · [详情](../items/kythonic-mcd-group-order-mate.md) ⌥
-- [mcd-mailu](https://github.com/calmsprite2001/mcd-mailu) — 麦途 · 读懂你已经点过的麦当劳 | 基于麦当劳官方 MCP 的历史订单场景叙事 Skill | 麦当劳程序员创意开发大赛参赛作品 · [详情](../items/calmsprite2001-mcd-mailu.md) ⌥
 - [把支付宝、微信、银行卡三家账单丢给一个开源记账 skill，它一眼认出…](https://x.com/0xmason/status/2076988797989072970) — 把支付宝、微信、银行卡三家账单丢给一个开源记账 skill，它一眼认出 5 笔是「同一笔钱」——支付宝用银行卡付的，和银行账单里其实是一笔… · [详情](../items/skill-49.md) 𝕏
 - [这个是做茶叶的源头卖家，每天都在用workbuddy处理工作，还做了自…](https://x.com/0xfaheng/status/2092558803883745467) — 这个是做茶叶的源头卖家，每天都在用workbuddy处理工作，还做了自动化工作流。她自己每天都在摸索好用的技能，碰到问题，就找我咨询一下。 · [详情](../items/workbuddy-495.md) 𝕏
 - [WorkBuddy 保姆级上手教程,小白轻松上手。](https://x.com/daju_bj/status/2081152522543415693) — WorkBuddy 保姆级上手教程,小白轻松上手。 我从"安装"开始，手把手带你走完 WorkBuddy 的全部核心功能：三种工作模式怎么… · [详情](../items/workbuddy-516.md) 𝕏
@@ -88,5 +43,4 @@
 - [3月9日，腾讯旗下全场景AI智能体WorkBuddy正式上线。完全兼容…](https://x.com/daofoshuangxiu/status/2031516764228800982) — 3月9日，腾讯旗下全场景AI智能体WorkBuddy正式上线。完全兼容OpenClaw的技能，在官网下载安装后，直接输入指令就能让Work… · [详情](../items/3-9-ai-workbuddy-2.md) 𝕏
 - [做 AI 工具不如先卖会用的人。](https://x.com/CChan27561/status/2114262266451542423) — 做 AI 工具不如先卖会用的人。 把重复流程压成一个 Skill，别人付一次，你少讲八百遍。 我在试 WorkBuddy 开放平台上架——… · [详情](../items/ai-225.md) 𝕏
 - [如果给AI一点不了解的人推荐能干活的AI工具，现在想想确实workbu…](https://x.com/Aaronli789/status/2067479333594394913) — 如果给AI一点不了解的人推荐能干活的AI工具，现在想想确实workbuddy比较合适，和普通电脑软件一样的下载流程，微信扫码就能用，有很多… · [详情](../items/ai-ai-workbu.md) 𝕏
-- [天翼云电脑和腾讯workbuddy的组合方案，让它自己做了个技能，实现…](https://x.com/qtwaiter/status/2033016717119775187) — 天翼云电脑和腾讯workbuddy的组合方案，让它自己做了个技能，实现了员工可以通过钉钉和企业微信查询老人健康信息，手机端也非常 方便了。… · [详情](../items/workbuddy-627.md) 𝕏
 - [微信群聊消息终于可以自动总结了，一键转发到 WorkBuddy，然后结…](https://x.com/zhouluobo/status/2119577456797745445) — 微信群聊消息终于可以自动总结了，一键转发到 WorkBuddy，然后结合自己做的总结 skill，就能生成群聊总结，方便。 · [详情](../items/workbuddy-663.md) 𝕏

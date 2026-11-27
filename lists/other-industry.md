@@ -1,4 +1,4 @@
-# 工具与其他资源 · 行业应用（6）
+# 工具与其他资源 · 行业应用（5）
 
 [← 返回 README](../README.md) · [全部清单](README.md)
 
@@ -7,4 +7,3 @@
 - [SkillHive](https://github.com/tonycc/skillhive) — MIT 许可的企业内部 Skill 中枢，通过 WorkBuddy MCP 连接器集中分发、版本管理、评审、反馈和操作审计，并提供可审计的… · [详情](../items/skillhive.md) ⌥
 - [BailingHub WorkBuddy Connector](https://github.com/bailinghub/bailinghub-workbuddy-connector) — MIT 许可的独立 WorkBuddy 企业连接器，通过浏览器 PKCE 授权、能力校验、幂等 invocation、审批、限流和审计让 … · [详情](../items/bailinghub-workbuddy-connector.md) ⌥
 - [VOKO](https://github.com/laoyudashu/voko) — AGPL-3.0 许可、面向 WorkBuddy 等本地 Agent 的通信运行时，支持 MCP、A2A 1.0、REST/Webhook… · [详情](../items/voko.md) ⌥
-- [mcp-jobs](https://github.com/mergedao/mcp-jobs) — 四平台职位搜索 MCP，支持 BOSS 直聘、猎聘、51job 和智联招聘，提供原站投递交接与本地跟进。 · [详情](../items/mergedao-mcp-jobs.md) ⌥
