@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 心血来潮体验了一下workbuddy，不知道是不是遇到bug了，思考的同时UI的显示抽风了。 另外工作流设计得好像还不够自动，需要我二次确认才生成邮件整理报告。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Edison @Edison_aware](https://x.com/Edison_aware/status/2073065396123717729) · 2026-07-03 · 0 赞 / 298 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

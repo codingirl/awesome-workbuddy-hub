@@ -18,4 +18,4 @@ AI办公workbuddy全能实战营第六期2026年11月，豆包+即梦AI+剪映+w
 - X · [Awesome ESP（必回关版） @suchagreatthing](https://x.com/suchagreatthing/status/2118260197642940556) · 2026-11-05 · 2 赞 / 607 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

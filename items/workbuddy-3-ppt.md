@@ -18,4 +18,4 @@ WorkBuddy混元3限免两周：老金教你一篇文章变成PPT
 - X · [老金带你玩AI @KimYx0207](https://x.com/KimYx0207/status/2080593441659240671) · 2026-07-24 · 0 赞 / 618 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

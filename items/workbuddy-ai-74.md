@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 腾讯给workbuddy那么多钱做广告，然后官网的视频教程是ai配音，案例也是ai生成图片，真有你的。你用ai也就算了，能不能用个好点的ai?
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [haiku @haikubula](https://x.com/haikubula/status/2076307032580227110) · 2026-07-12 · 0 赞 / 169 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

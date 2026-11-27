@@ -23,4 +23,4 @@ WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过
 - GitHub · [wpsnote/wpsnote-skills](https://github.com/wpsnote/wpsnote-skills) · 许可：MIT · stars 187
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

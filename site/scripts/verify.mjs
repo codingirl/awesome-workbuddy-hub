@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { readFile } from "node:fs/promises";
+import { access, readFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { compareHot, norm, paginate, summarize, termsOf } from "../src/search.mjs";
@@ -45,18 +45,51 @@ broad.matched.slice().sort(compareHot);
 const spent = performance.now() - started;
 assert.ok(spent < 250, `搜索过慢: ${spent.toFixed(1)}ms`);
 
+assert.equal(index.items.length, 3368);
+assert.match(html, /awesome-workbuddy-hub\.azuoblog\.workers\.dev/);
+assert.doesNotMatch(html, /五千条/);
+
 const detail = await readFile(join(dist, "item", "zhijian-skills.html"), "utf8");
-assert.match(detail, /<link rel="canonical" href="[^"]+\/item\/zhijian-skills">/);
+assert.match(detail, /<link rel="canonical" href="https:\/\/awesome-workbuddy-hub\.azuoblog\.workers\.dev\/item\/zhijian-skills">/);
 assert.match(detail, /Zhijian Skills/);
 assert.match(detail, /相关推荐/);
-assert.match(detail, /全部来源/);
+assert.match(detail, /查看原帖/);
 assert.match(detail, /og:title/);
 assert.match(detail, /https:\/\/github.com\/zjp1997720\/zhijian-skills/);
+assert.doesNotMatch(detail, /打开主要来源/);
+assert.doesNotMatch(detail, /节选/);
+
+const photos = await readFile(join(dist, "item", "agent-37.html"), "utf8");
+assert.match(photos, /\/media\/x\/3_2071786867192987648\.jpg/);
+assert.match(photos, /data-lightbox=/);
+assert.match(photos, /class="avatar"/);
+assert.doesNotMatch(photos, /<video/);
+
+const article = await readFile(join(dist, "item", "skill-2.html"), "utf8");
+assert.match(article, /几千人催我做的公众号排版 Skill，开源了!/);
+assert.match(article, /article-body/);
+assert.match(article, /class="post-intro"/);
+
+const quoted = await readFile(join(dist, "item", "workbuddy-95.html"), "utf8");
+assert.match(quoted, /class="quote"/);
+
+const github = await readFile(join(dist, "item", "sensenova-skills.html"), "utf8");
+assert.match(github, /打开仓库/);
+assert.match(github, /https:\/\/github.com\/OpenSenseNova\/SenseNova-Skills/);
+assert.doesNotMatch(github, /查看原帖/);
+assert.doesNotMatch(github, /打开主要来源/);
+
+await access(join(dist, "media", "x", "3_2071786867192987648.jpg"));
+await access(join(dist, "x-posts.json")).then(() => {
+  throw new Error("不应把 x-posts.json 发布到站点");
+}, (error) => {
+  if (error.code !== "ENOENT") throw error;
+});
 
 const sitemap = await readFile(join(dist, "sitemap.xml"), "utf8");
 const locs = sitemap.match(/<loc>/g) || [];
 assert.equal(locs.length, index.items.length + 1);
-assert.match(sitemap, /\/item\/zhijian-skills</);
+assert.match(sitemap, /https:\/\/awesome-workbuddy-hub\.azuoblog\.workers\.dev\/item\/zhijian-skills</);
 
 const robots = await readFile(join(dist, "robots.txt"), "utf8");
 assert.match(robots, /Sitemap:/);

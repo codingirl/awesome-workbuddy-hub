@@ -18,4 +18,4 @@ WorkBuddy官方直播教程总结：手把手教你搭建 AI 工作台
 - X · [Cheung philly @CheungP47185](https://x.com/CheungP47185/status/2087570517335375885) · 2026-08-12 · 0 赞 / 1284 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

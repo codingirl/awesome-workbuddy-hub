@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 腾讯还是那个腾讯，出品的Agent办公助手WorkBuddy 处处体现了对用户体验和需求的重视， 已经看过很多老师分享了， 但是保姆级教程的话我强推摸鱼老哥 @SunNeverSetsX 的这一篇！
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Henry-登徒子｜BNB @huoniuniu](https://x.com/huoniuniu/status/2068235398414045529) · 2026-06-20 · 11 赞 / 94 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

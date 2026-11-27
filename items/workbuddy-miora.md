@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 朋友甩过来一条：「WorkBuddy+Miora，下一代高级设计工作台来了！（再附3个神仙Skill）」。 我回了个问号，他说你先看看自己。 热闹归热闹，背后那点东西才值得琢磨。 「WorkBuddy+Miora，下一代高级设计工作台来了！（再附3个神仙Skill）」，说白了是… #热搜 #龙虎哥工作室 #elonmusk @grok
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [龍虎哥 @s_hxxtn](https://x.com/s_hxxtn/status/2113157037295337615) · 2026-10-22 · 0 赞 / 48 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

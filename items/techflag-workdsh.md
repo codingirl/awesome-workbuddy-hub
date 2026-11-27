@@ -23,4 +23,4 @@ A WorkBuddy-style desktop workspace powered by the DSH plugin ecosystem. WorkDSH
 - GitHub · [techflag/workdsh](https://github.com/techflag/workdsh) · 许可：MIT · stars 346
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

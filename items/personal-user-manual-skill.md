@@ -21,4 +21,4 @@ MIT 许可、零依赖的 WorkBuddy 个人使用说明书 Skill，基于多轮�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/NI9N/gerenshiyongshuomingshu) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

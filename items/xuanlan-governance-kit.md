@@ -21,4 +21,4 @@ Apache-2.0 的 WorkBuddy 规划 Agent 与架构合规检测工具，提供自包
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/jackyjinggit/xuanlan-governance-kit) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

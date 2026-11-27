@@ -26,7 +26,7 @@ npm run dev
 
 数据更新后重新执行 `npm run build` 即可，不需要改页面代码。构建会读取仓库根目录的 `data/items.json`，并写入 `site/dist/`（不要提交这个目录）。
 
-正式域名还没定时，canonical、Open Graph 和 `sitemap.xml` 默认使用 `https://awesome-workbuddy-hub.workers.dev`。绑定自定义域名后，构建前设置：
+canonical、Open Graph 和 `sitemap.xml` 默认使用 `https://awesome-workbuddy-hub.azuoblog.workers.dev`。换域名时，构建前设置：
 
 ```bash
 SITE_URL=https://your.domain npm run build

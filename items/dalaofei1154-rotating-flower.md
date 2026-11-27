@@ -21,4 +21,4 @@ A desk flower that moves with local Codex and WorkBuddy tasks. Open-source macOS
 - GitHub · [dalaofei1154/rotating-flower](https://github.com/dalaofei1154/rotating-flower) · 许可：MIT · stars 54
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

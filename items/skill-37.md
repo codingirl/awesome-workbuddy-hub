@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 实用的skill提示词，希望对大家有用 最近这个WorkBuddy用得多，确实可以增效帮助不少～ #howto用好AI #提高工作效率的方法 #skill分享 #AI工具
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Mugi AI分享 @duduwzec](https://x.com/duduwzec/status/2113146851650326803) · 2026-10-22 · 1 赞 / 531 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

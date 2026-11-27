@@ -18,4 +18,4 @@ WorkBuddy 终极教程（一）：认识这个替你打工的 AI
 - X · [劳伦斯 @LawrenceW_Zen](https://x.com/LawrenceW_Zen/status/2078464636031205732) · 2026-07-18 · 9 赞 / 1 转 / 2504 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

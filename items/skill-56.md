@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 个人作品：剪纸卡通风格的视频生成skill 如下是生成的视频作品，目前正在优化中 稍后会在workbuddy和github上分享发布该风格skill
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [阿杜紫藤 @duchangan](https://x.com/duchangan/status/2118164597580652766) · 2026-11-05 · 0 赞 / 66 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

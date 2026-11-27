@@ -21,4 +21,4 @@
 - GitHub · [datawhalechina/mini-workbuddy](https://github.com/datawhalechina/mini-workbuddy) · stars 73
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

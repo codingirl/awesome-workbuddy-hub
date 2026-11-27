@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 小白上手教程①：零基础上手，交付你的第一份成果
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [小星 @Felixlmjz](https://x.com/Felixlmjz/status/2107384964358553891) · 2026-10-06 · 2 赞 / 1 转 / 2122 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

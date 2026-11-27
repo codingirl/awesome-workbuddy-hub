@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 【一键让WorkBuddy用上GPT 6 Astra｜开源skill】 兄弟们，GPT 6 Astra现在又快又聪明又有人味儿～ 非常适合用作主控模型了 我已经用skill一键给配置到WorkBuddy里面了，需要的朋友自取～ 一键安装：npx skills add zjp1997720/zhijian-skills \ --skill workbuddy-cli-model-bridge GitHub
 
 ## 使用/获取
@@ -23,4 +21,4 @@
 - X · [Kay @justsosooknow](https://x.com/justsosooknow/status/2096460649656094954) · 2026-09-06 · 1 赞 / 145 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

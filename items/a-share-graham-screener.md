@@ -21,4 +21,4 @@ MIT 许可的 A 股防御型选股 Skill，按 7 条格雷厄姆价值条件筛�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/yekwennnn/ashare-graham-screener) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

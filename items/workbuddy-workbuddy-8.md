@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 参考我上次让人打开 workbuddy，他把workbuddy安装包又安装了一次的案例， 收多少钱都不为过，真的，那是精神损失费。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [黄小木 @ai_xiaomu](https://x.com/ai_xiaomu/status/2123339789403586667) · 2026-11-19 · 4 赞 / 2252 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

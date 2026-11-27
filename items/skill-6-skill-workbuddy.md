@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 除了读书skill，这6个SKill 建议使用Workbuddy 的同学也都安上 1. agent-browser直接打开网页、抓取最新信息、截图、提取内容，还能自动填写表单。 2. guizang-ppt-skill生成电子杂志、瑞士风格的 HTML 页面，再转成标准 PPTX，PPT 质感直接提升一个档次。 3.
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [苏乐 @ai_suxiaole](https://x.com/ai_suxiaole/status/2077396824395223530) · 2026-07-15 · 37 赞 / 6 转 / 8565 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

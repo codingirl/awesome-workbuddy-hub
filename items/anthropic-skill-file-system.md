@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 看不太懂Anthropic这个skill file system 的 设计，还配了个vm是为了执行skill的脚本吗？ 明明就只是是找个地方存放和access agent skill。 我见过比这个复杂十倍的agent workspace, 都画出这么复杂的演示图片。 往深入分析，这居然有点workbuddy那个skill工厂的感觉🤔。。。
 
 ## 使用/获取
@@ -21,4 +19,4 @@
 - X · [Yifan Xu @yifanxu_ephai](https://x.com/yifanxu_ephai/status/2111185082979582114) · 2026-10-16 · 1 赞 / 15 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

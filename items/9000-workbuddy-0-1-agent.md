@@ -18,4 +18,4 @@
 - X · [Judy Learrr @JudyLearrr5llr](https://x.com/JudyLearrr5llr/status/2090717999926030511) · 2026-08-21 · 0 赞 / 5 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

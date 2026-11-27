@@ -8,8 +8,6 @@ Google Research open-sourced Harness². It leaves the model alone and …
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Google Research open-sourced Harness². It leaves the model alone and rewrites everything around it (prompts, tools, memory, skills), testing each edit on the same task. One pass bumped GLM-5 and Gemini 3.5 Flash by up to 11.5 points on WorkBuddy-Bench.
 
 ## 使用/获取
@@ -29,4 +27,4 @@ Google Research open-sourced Harness². It leaves the model alone and …
 - X · [Zenlyte @Z3nlyte](https://x.com/Z3nlyte/status/2111957785499816267) · 2026-10-18 · 0 赞 / 49 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

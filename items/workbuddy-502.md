@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 今天被 workbuddy 统治了 花了两个月烧了 近2w 刀开发的 app 一直遇到 windows 上各种奇怪的问题 甲方：一直出现适配问题，为什么不考虑 workbuddy 我当时还狡辩了一下，说软件行业就这样，需要一直迭代。 然后我去看一下 workbuddy 好像这个业务还真可以😢😭😢😭 我宣布，app 已死，wb万岁 中国企业
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [干饭新秩序🍔 @LINXIVERSE](https://x.com/LINXIVERSE/status/2082435242934354364) · 2026-07-29 · 0 赞 / 25 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

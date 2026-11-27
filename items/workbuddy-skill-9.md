@@ -8,8 +8,6 @@ workbuddy 上面的“创作者”正在疯狂抄袭我的 Skill 基本上是换
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy 上面的“创作者”正在疯狂抄袭我的 Skill 基本上是换个名字，然后一字不改 高置信抄袭／冒用：6 组发布者，共 64 个市场上架条目，合计下载约 16,485 次。
 
 ## 使用/获取
@@ -22,4 +20,4 @@ workbuddy 上面的“创作者”正在疯狂抄袭我的 Skill 基本上是换
 - X · [dontbesilent @dontbesilent](https://x.com/dontbesilent/status/2117229096069714270) · 2026-11-02 · 122 赞 / 11 转 / 24051 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@
 - X · [沈美丽子 @Shenmeili1213](https://x.com/Shenmeili1213/status/2085241907098317009) · 2026-08-06 · 85 赞 / 9 转 / 26249 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

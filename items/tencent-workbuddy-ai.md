@@ -8,8 +8,6 @@ Tencent WorkBuddy 让我看到了在 AI 时代下一个真正有价值的产品�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Tencent WorkBuddy 让我看到了在 AI 时代下一个真正有价值的产品真正应该解放的生产力！ 就过去而言，多数朋友都非常好奇我的精力和时间分配，是如何在做自己交易的同时，还可以完成网站搭建/运营 X/小红书，产出 YouTube视频，其实在 5
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Tencent WorkBuddy 让我看到了在 AI 时代下一个真正有价值的产品�
 - X · [WiseInvest @WiseInvest513](https://x.com/WiseInvest513/status/2069391410386849907) · 2026-06-23 · 40 赞 / 4 转 / 32186 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

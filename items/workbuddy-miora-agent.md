@@ -18,4 +18,4 @@
 - X · [AI一手 @ffg95477791](https://x.com/ffg95477791/status/2080548795633569824) · 2026-07-24 · 1 赞 / 34 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

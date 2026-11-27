@@ -8,8 +8,6 @@ Tencent AI Cloud Wants Every Business to Be Agentic First I saw the W…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Tencent AI Cloud Wants Every Business to Be Agentic First I saw the WorkBuddy character everywhere at Tencent’s Shenzhen summit. It was in almost every product. The character was running around in every forum. WorkBuddy is Tencent's flagship agentic product. And the big
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Tencent AI Cloud Wants Every Business to Be Agentic First I saw the W…
 - X · [Jeffrey Towson 陶迅 @JeffreyTowson](https://x.com/JeffreyTowson/status/2118172252827222258) · 2026-11-05 · 4 赞 / 1 转 / 376 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

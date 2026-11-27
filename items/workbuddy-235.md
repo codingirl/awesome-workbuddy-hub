@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 最流行的 直接变成了中国国民级产品Workbuddy的技能，你哪怕电脑白痴，痴心妄想说我想开发一个微信，只要你Token够，Workbuddy也可以帮你干出来。
 
 ## 使用/获取
@@ -21,4 +19,4 @@
 - X · [爱出海 @ai_chuhai](https://x.com/ai_chuhai/status/2114911614541382085) · 2026-10-27 · 5 赞 / 773 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

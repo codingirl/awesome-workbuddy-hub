@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 今天注册workbuddy开放平台，企业认证账号，上传了一个工具skill，等审核通过后，尝试付费skill。。。 期待中... 需要快速试❌
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [DeepDive-AI @hualulinyun](https://x.com/hualulinyun/status/2120143194017104128) · 2026-11-10 · 2 赞 / 1 转 / 32 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

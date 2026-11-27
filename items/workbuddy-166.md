@@ -18,4 +18,4 @@ WorkBuddy邪修技巧之跨会话跨电脑操作
 - X · [马佳彬 @majiabin](https://x.com/majiabin/status/2118532672247214132) · 2026-11-06 · 11 赞 / 2 转 / 1343 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ Workbuddy + 通达信 MCP 接入教程：让 AI 实时分析 A 股行情
 - X · [Crypto/戒色交易员 @snake_w](https://x.com/snake_w/status/2062375456821870654) · 2026-06-04 · 171 赞 / 34 转 / 75391 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

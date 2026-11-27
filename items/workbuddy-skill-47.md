@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 我用WorkBuddy做的skill，做了一张单词卡片，完成度还挺好的，因为是网页，所以也没有错误。 欢迎试用这个单词卡片技能，在workbuddy里输入“/单词卡片 （你想了解的单词）”，就可以了。
 
 ## 使用/获取
@@ -23,4 +21,4 @@
 - X · [Olivert @indiehackercase](https://x.com/indiehackercase/status/2123173104562372703) · 2026-11-18 · 3 赞 / 851 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

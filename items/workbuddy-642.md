@@ -8,8 +8,6 @@ Workbuddy还有另外一个赚钱机会， 就是从github上去搬运一些高s
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Workbuddy还有另外一个赚钱机会， 就是从github上去搬运一些高star、好用的skill挂到这上面去售卖，拼一个信息差，前期赚钱的机会肯定是有的 #AI
 
 ## 使用/获取
@@ -22,4 +20,4 @@ Workbuddy还有另外一个赚钱机会， 就是从github上去搬运一些高s
 - X · [jessica.chen @jessicachen1988](https://x.com/jessicachen1988/status/2113892749061578891) · 2026-10-24 · 0 赞 / 10 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

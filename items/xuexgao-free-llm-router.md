@@ -21,4 +21,4 @@ WorkBuddy 任务自动化 + OpenAI 兼容 API 聚合，部署到 Cloudflare Work
 - GitHub · [XuexGao/free-llm-router](https://github.com/XuexGao/free-llm-router) · 许可：MIT · stars 79
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 周日晚高峰出摊！诚意交友，活人蓝V在线！🎪✨ 我是 Laurel（@lovlace77788191），长线深耕并持续输出三大硬核领域： 🤖 AI Agent 生产级生态（77+ WorkBuddy 工具技能 &amp; 32 个专家智能体集群） 🎥 YouTube 纯代码科技金融纪录片（@LovlaceLaurel-e8p 1080p 60fps 深度复盘） 📈 10x
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [锦绣_LOVLACE777 @lovlace77788191](https://x.com/lovlace77788191/status/2119399416159482074) · 2026-11-08 · 2 赞 / 9 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 刚看完 @miles_mazy 老师的这篇教程 应该是我看到实操性最强的一篇WorkBuddy教程之一 看完真的很受用 我自己的WorkBuddy + 企业落地教程也已经写到一半了 过两天也分享给兄弟们😇
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [来碗牛肉粉 @beefnoode](https://x.com/beefnoode/status/2091367937043239404) · 2026-08-23 · 11 赞 / 1 转 / 2098 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

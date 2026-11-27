@@ -19,4 +19,4 @@ MIT 许可的跨 Agent 求职看板与 WorkBuddy Skill，支持岗位发现、�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/genius916/CareerSail) · 许可：CC0-1.0 · Content and career
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

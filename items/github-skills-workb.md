@@ -8,8 +8,6 @@ Github 上有没有自动玩阴阳师的 skills，好想给 Workbuddy 装一个�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Github 上有没有自动玩阴阳师的 skills，好想给 Workbuddy 装一个，用免费的 ds 帮我下棋到 2600…
 
 ## 使用/获取
@@ -22,4 +20,4 @@ Github 上有没有自动玩阴阳师的 skills，好想给 Workbuddy 装一个�
 - X · [史呆分 @DaifenShi](https://x.com/DaifenShi/status/2113931798342504653) · 2026-10-24 · 1 赞 / 3191 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

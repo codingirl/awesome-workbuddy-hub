@@ -19,4 +19,4 @@ MIT 许可、支持 macOS/Windows 的 WorkBuddy 每日签到 Skill，带有凭�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/liubinne/workbuddy-free-credits) · 许可：CC0-1.0 · Community clients and enhancements
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

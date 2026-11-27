@@ -18,4 +18,4 @@
 - X · [ETHREAL @QAQethreal](https://x.com/QAQethreal/status/2076592453805904266) · 2026-07-13 · 8 赞 / 1459 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

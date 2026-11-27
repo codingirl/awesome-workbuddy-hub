@@ -18,4 +18,4 @@
 - X · [图寻不熬夜 @touxnplayai](https://x.com/touxnplayai/status/2077986068218236989) · 2026-07-17 · 96 赞 / 22 转 / 35949 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 总体测试下来，腾讯WorkBuddy的Skill和功能特别多，但是agent老是干不好活，出来的东西基本差强人意，包括图片设计和网页制作属于豆包都不如水平。 腾讯目前股价对得起他AI的水平。 我目前跟倾向于使用他的专家skill蒸馏出的技能，这个别的agent没有。 难道未来agent拼的谁蒸馏的人才专家更多吗？
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Roger Ying @Ying1Roger](https://x.com/Ying1Roger/status/2070021685278036203) · 2026-06-25 · 0 赞 / 42 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -19,4 +19,4 @@ MIT 许可的 DeepSeek Harness 会话费用统计插件，可通过 CLIProxyAPI 
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Han-1413141/dsh-cost-meter) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

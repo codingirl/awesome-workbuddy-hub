@@ -18,4 +18,4 @@
 - X · [AI研究员Justin @AIJustinsfm](https://x.com/AIJustinsfm/status/2090719296288948325) · 2026-08-21 · 0 赞 / 473 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

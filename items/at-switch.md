@@ -19,4 +19,4 @@ MIT 许可的 macOS/Windows 本地 AI Agent Provider 与模型切换工具，明
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/atswitch/at-switch) · 许可：CC0-1.0 · Automation and Agent workflows
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

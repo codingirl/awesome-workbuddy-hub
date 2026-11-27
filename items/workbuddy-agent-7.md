@@ -18,4 +18,4 @@ WorkBuddy 的前世今生：爽文主 Agent 的逆袭之路
 - X · [码良 @cxjwin](https://x.com/cxjwin/status/2077041040654279056) · 2026-07-14 · 31 赞 / 4 转 / 23716 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

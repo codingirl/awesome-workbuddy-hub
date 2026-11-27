@@ -8,8 +8,6 @@ WorkBuddy自动剪辑skill分享 特效、素材、人物缩放位移都由它�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy自动剪辑skill分享 特效、素材、人物缩放位移都由它自己加上，真的是太牛了 #自动剪辑 #AI剪辑 #短视频运营 #剪辑工具 #视频剪辑 #WorkBuddy
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy自动剪辑skill分享 特效、素材、人物缩放位移都由它�
 - X · [子昂从零出发 @ZiangLi94322673](https://x.com/ZiangLi94322673/status/2118669096921526302) · 2026-11-06 · 0 赞 / 14 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 我们的WorkBuddy蓝皮书开源两天，官网已经破20w PV了！ github也快1K Star了，社区已经提交了更多的高价值应用场景+教程。 接下来计划更新企业级的应用场景案例！ 几个社群也贼活跃，一会儿不看就99+ 官网： github：
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [袋鼠帝 @aikangarooking](https://x.com/aikangarooking/status/2077423380891095327) · 2026-07-15 · 21 赞 / 5 转 / 2984 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

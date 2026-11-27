@@ -18,4 +18,4 @@
 - X · [lxcong.eth ($C) @lxcong](https://x.com/lxcong/status/2072574309206516152) · 2026-07-02 · 51 赞 / 12 转 / 90458 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

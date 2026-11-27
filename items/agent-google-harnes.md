@@ -8,14 +8,12 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 不改权重，Agent 也能自己变强？Google 开源的 Harness² 让 Agent 干活时自己改提示词、工具和记忆：先提方案、再实测对比、合成更顺手的打法，经验还留给下个任务。在 WorkBuddy-Bench 上最高涨 11.5 分，支持 Codex 和 OpenCode。调 Agent 少点手搓试错。
 
 ## 使用/获取
 
 - 链接：<https://github.com/google-research/harness2>
-- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
+- 可按自己的场景改写后使用。
 
 ## 所有来源
 
@@ -27,4 +25,4 @@
 - X · [IvesFeng @FengIves](https://x.com/FengIves/status/2112029612800905304) · 2026-10-19 · 0 赞 / 3 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 试用了workbuddy，感觉很普通啊，还经常卡顿。最大的差异就是内置很多专家模板，但多Agent协同、WorkFlow这些差异化能力都没有😅
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [云山海海 @Maple_LH](https://x.com/Maple_LH/status/2073613135349760368) · 2026-07-05 · 0 赞 / 33 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

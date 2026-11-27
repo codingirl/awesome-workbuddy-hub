@@ -18,4 +18,4 @@ WorkBuddy 万字教程：带你从安装到跑通第一个真实任务！
 - X · [来碗牛肉粉 @beefnoode](https://x.com/beefnoode/status/2091459487794352149) · 2026-08-23 · 192 赞 / 51 转 / 85935 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

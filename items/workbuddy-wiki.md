@@ -21,4 +21,4 @@ Apache-2.0 的 WorkBuddy + Obsidian 本地知识库构建系统，提供版本�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/YuanYiZheXue/workbuddy-wiki) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

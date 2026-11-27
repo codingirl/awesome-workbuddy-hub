@@ -10,7 +10,7 @@ AGPL-3.0 的 WorkBuddy 桌面增强工具，提供账号备份/切换、会话�
 
 本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。
 
-X 上相关分享（节选）：
+相关分享：
 
 > 多账号一键切换、自动领每日积分、跨账号迁移会话、账号备份导入导出、主题美化、提示词暂存，这些 WorkDaddy 全包了，不用每次换号都重新扫码。 最舒服的是它通过 CDP 注入实现，不修改 WorkBuddy 官方安装包，数据也只在本机处理，支持 macOS 和 Windows。
 
@@ -25,4 +25,4 @@ X 上相关分享（节选）：
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/babygoton/WorkDaddy) · 许可：CC0-1.0 · Community clients and enhancements
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

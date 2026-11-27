@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 上一条聊 WorkBuddy 还有人在评论区替我操心“隐私裸奔”，结果今天跟一个朋友聊天，说她们公立学校的校长已经在天天往教师群里发 WorkBuddy 教程，催着老师们用起来了😂 其实 WorkBuddy 在国内公立学校挺受欢迎的，尤其是一些高认知的校长，已经在主动带头拥抱 Agent。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Hedy Zhang @xiaomanhedy](https://x.com/xiaomanhedy/status/2120496009742798916) · 2026-11-11 · 2 赞 / 1166 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

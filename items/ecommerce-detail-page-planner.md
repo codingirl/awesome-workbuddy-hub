@@ -21,4 +21,4 @@ MIT 许可的 WorkBuddy 电商详情页策划 Skill，根据产品和卖点生�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Banye0517/ecommerce-detail-page-skill) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

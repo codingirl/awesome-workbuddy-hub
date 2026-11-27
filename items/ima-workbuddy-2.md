@@ -18,4 +18,4 @@ ima 接进 WorkBuddy 的完整配置：小心那个"看起来已经配好了"的
 - X · [前端哥Liam @jinglian](https://x.com/jinglian/status/2076893022542061879) · 2026-07-14 · 69 赞 / 5 转 / 56819 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

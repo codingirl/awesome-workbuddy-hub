@@ -8,8 +8,6 @@ DeepSeek 又推新版本了：V4.1-Flash-1017，网页、APP、API 全部同步�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > DeepSeek 又推新版本了：V4.1-Flash-1017，网页、APP、API 全部同步替换。 官方说这次是性能和成本的双赢：各项基准测试能力比上一版明显提升，任务跑得更快、输出更短，单次调用成本也降下来了。 还特别针对自家 Harness、腾讯 CodeBuddy、WorkBuddy 做了优化，建议把 DeepSeek Harness 升到
 
 ## 使用/获取
@@ -20,4 +18,4 @@ DeepSeek 又推新版本了：V4.1-Flash-1017，网页、APP、API 全部同步�
 - X · [M. @wlzh](https://x.com/wlzh/status/2111385706752790803) · 2026-10-17 · 0 赞 / 654 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 这个不错的 Skills Manager（7.4k 星，MIT 许可，昨天还在更新） - 一份存放、多处使用：所有 skill 放在一个中央目录里，都是普通文件夹，再用链接或复制分到各个工具。这和中台现在的做法一样，不会和 Agent 改文件冲突。 - 能接 WorkBuddy：可以添加自定义工具，填上 WorkBuddy 的 skill
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Wasabi｜Rust & AI 背锅侠 @wasabi1029](https://x.com/wasabi1029/status/2119980752842744037) · 2026-11-10 · 2 赞 / 78 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

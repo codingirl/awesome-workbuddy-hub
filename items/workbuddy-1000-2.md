@@ -18,4 +18,4 @@
 - X · [三金AI搞钱实验室 @sj66587](https://x.com/sj66587/status/2074783538566877542) · 2026-07-08 · 2 赞 / 565 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -19,4 +19,4 @@ MIT 许可的离线 Skill、规则和 MCP 迁移工具，覆盖 Cursor、Claude 
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Luckycat133/skills-repo) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

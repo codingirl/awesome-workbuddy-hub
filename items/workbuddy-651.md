@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 转需 国内普通人 懒得折腾的 真的是直接教他们用 WorkBuddy 省去翻墙的麻烦 成品 skill 专家团都可以拿来直接用 见效快 后续沟通成本低
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Felix @Felixwwj](https://x.com/Felixwwj/status/2100603771172860172) · 2026-09-17 · 0 赞 / 140 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ Obsidian + WorkBuddy 个人数据管理体系
 - X · [Jace Zhou @zjx0664](https://x.com/zjx0664/status/2073033576589988254) · 2026-07-03 · 2 赞 / 552 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

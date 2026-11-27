@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 国产旗舰模型又添猛将。阶跃新出的 Step 5 Preview 确实有点东西，腾讯 WorkBuddy 今天刚接入，还给到了两周独家限时免费。 看了下底层硬实力： • 6000 亿总参数的稀疏 MoE 架构，单 Token 激活约 270 亿，兼顾效率与算力成本 • Artificial Analysis 综合智能指数 44 分，冲进全球开源前三 •
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [狼贲 @langbenai](https://x.com/langbenai/status/2109585998891921821) · 2026-10-12 · 0 赞 / 12 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

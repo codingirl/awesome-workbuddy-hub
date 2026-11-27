@@ -8,8 +8,6 @@ workbuddy armour break unlock completely frees the deepseek on your w…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy armour break unlock completely frees the deepseek on your workbuddy completely free, one-click installation, can support up to L4 level armour break No restrictions at all free and open source to use. There are more fun and free content on my website, you can check
 
 ## 使用/获取
@@ -25,4 +23,4 @@ workbuddy armour break unlock completely frees the deepseek on your w…
 - X · [生蚝 @shenhaob1zs](https://x.com/shenhaob1zs/status/2120661761947062675) · 2026-11-11 · 2 赞 / 58 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

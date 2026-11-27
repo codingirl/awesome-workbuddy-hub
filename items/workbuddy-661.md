@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 哈哈哈, workbuddy上排名第一的专家团 还真是只吃早入场的红利, 这skill价值和那本微信读书的 “某橙皮书” 有得一比
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [生菜丝Sarom @CryptoSarom](https://x.com/CryptoSarom/status/2116242906700996854) · 2026-10-30 · 0 赞 / 36 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ WorkBuddy 的 Skill 真的可以卖钱了！从零开发、上架到微信提现
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 用 Codex 开发的 Skill，怎么上架 WorkBuddy 赚钱？ 从开发、发布到变现，一篇讲清楚
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 的 Skill 真的可以卖钱了！从零开发、上架到微信提现
 - X · [Kristen @wroolafd](https://x.com/wroolafd/status/2114319771495723335) · 2026-10-25 · 3 赞 / 1 转 / 613 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

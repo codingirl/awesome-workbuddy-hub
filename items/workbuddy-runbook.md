@@ -21,4 +21,4 @@ MIT 许可的流程执行 Skill，把多步骤任务整理为含目标、预期�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/maning636/workbuddy-runbook) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

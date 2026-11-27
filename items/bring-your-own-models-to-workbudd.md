@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 📘 BRING YOUR OWN MODELS TO WORKBUDDY: A COMPLETE VISUAL GUIDE 🚀 With just a few quick setup steps, you'll unlock a seamless local AI collaboration workflow. 🧮 Worth actually reading "local AI collaboration workflow" once more, worth appreciating
 
 ## 使用/获取
@@ -27,4 +25,4 @@
 - X · [DALAT VENTURES @Dalat_Ventures](https://x.com/Dalat_Ventures/status/2103568672229105765) · 2026-09-25 · 0 赞 / 13255 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ WorkBuddy 的技能能卖钱了，我先把规则摸了一遍 WorkBuddy 开放�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 的技能能卖钱了，我先把规则摸了一遍 WorkBuddy 开放平台的左侧边栏，最近多了个入口叫收入变现。 技能卖家条件： 三条并列条件：完成开发者认证、账号没有违规记录、已经有至少一个审核通过的技能或专家。 如何上传技能： 技能打包成 zip
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 的技能能卖钱了，我先把规则摸了一遍 WorkBuddy 开放�
 - X · [Crowns @CrownsGod99](https://x.com/CrownsGod99/status/2113832811354558707) · 2026-10-24 · 1 赞 / 401 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 我错了，workbuddy加上dsk4.1 真的很好用，复杂代码我不知道，但是很多体力活做得很好，要是腾讯把codex的bu cu技能学过来就完美了
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [xiaoyaozi @XiaohuaY45395](https://x.com/XiaohuaY45395/status/2116849790206046437) · 2026-11-01 · 1 赞 / 58 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

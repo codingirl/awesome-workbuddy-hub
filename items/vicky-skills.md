@@ -21,4 +21,4 @@ MIT 许可的中文内容创作 Skill 集合，提供 `vicky-writer` 并明确�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/vickywenqi/vicky-skills) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 智谱的 coding 套餐今天到期了，没有再续订，我感觉没有续订的意义了。 我在 DeepSeek Harness 上使用 V4.1 flash 模型也还可以，基本能够满足自己的需求。另外，省下来的钱我也订阅了 WorkBuddy 的会员。因为 WorkBuddy 非常火，所以我必须研究它，然后出一些教程。 国内用这两个 Agent
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [赵有才 @jaker_Q](https://x.com/jaker_Q/status/2121196615356563675) · 2026-11-13 · 1 赞 / 159 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

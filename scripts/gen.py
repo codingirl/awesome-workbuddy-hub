@@ -26,18 +26,18 @@ for it in I:
     if it.get('name_en'): L+=[f"英文名/标识：`{it['name_en']}`",'']
     L+=['## 简介','',it['summary'] or it['name'],'','## 详情','']
     if it['source_type']=='x' and it.get('description') and not it['sources'][0]['source_type']=='github':
-        L+=['以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：','','> '+re.sub(r'\n+','\n> ',it['description'].strip()),'']
+        L+=[it['description'].strip(),'']
     else:
         L+=[f"本条目收录自社区资源索引，简介见上；具体功能、适用场景与限制请以原项目页面为准。",'']
-        for c in it.get('x_context',[])[:2]: L+=['X 上相关分享（节选）：','','> '+c.replace('\n',' '),'']
+        for c in it.get('x_context',[])[:2]: L+=['相关分享：','','> '+c.replace('\n',' '),'']
     L+=['## 使用/获取','']
     if it.get('install_or_link'): L+=[f"- 链接：<{it['install_or_link']}>"]
     if it['type']=='skill': L+=['- 一般做法：按原项目 README / `SKILL.md` 的说明，把 Skill 导入 WorkBuddy（或放入技能目录）。','- ⚠️ 安装第三方 Skill 前请审阅其来源、许可证、会访问的文件/账号/网络权限。']
-    elif it['type']=='prompt': L+=['- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。']
+    elif it['type']=='prompt': L+=['- 可按自己的场景改写后使用。']
     L+=['']
     if it.get('media'): L+=['## 配图（来自原帖）','']+[f"![]({m})" for m in it['media'][:2]]+['']
     L+=['## 所有来源','']+[srcline(s) for s in it['sources']]+['']
-    L+=['---','*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*','']
+    L+=['---','*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*','']
     open(f"items/{it['id']}.md",'w',encoding='utf8').write('\n'.join(L))
 def entry(it):
     link=it.get('install_or_link') or it['primary_source_url']
@@ -46,7 +46,7 @@ def entry(it):
     return f"- [{esc(it['name'])}]({link}) — {esc(one(it["summary"] or it["name"],70))} · [详情](items/{it['id']}.md){badge}"
 st=collections.Counter(i['type'] for i in I)
 nx=sum(1 for i in I if any(s['source_type']=='x' for s in i['sources'])); ng=sum(1 for i in I if any(s['source_type']=='github' for s in i['sources']))
-R=['# Awesome WorkBuddy 资源合集','','维护者：[阿佐](https://x.com/azuo_blog)（X [@azuo_blog](https://x.com/azuo_blog)）','','致谢上游：[sandbaseai/awesome-workbuddy](https://github.com/sandbaseai/awesome-workbuddy)、[semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy)、[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)、[yehuzi2026/workbuddy-skills-hub](https://github.com/yehuzi2026/workbuddy-skills-hub)、[shuangying0001-beep/awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills)、[sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) 以及 X 上的分享者。','','> 腾讯 **WorkBuddy**（AI 办公智能体 / 桌面 Agent）的技能、教程、工作流、提示词、案例与知识点合集——整理自 X（Twitter）社区分享与多个开源 GitHub 清单，已去重、分类，每条附简介、详情页与全部来源链接。','',
+R=['# Awesome WorkBuddy 资源合集','','> **网站：** [Awesome WorkBuddy Hub](https://awesome-workbuddy-hub.azuoblog.workers.dev)','','维护者：[阿佐](https://x.com/azuo_blog)（X [@azuo_blog](https://x.com/azuo_blog)）','','致谢上游：[sandbaseai/awesome-workbuddy](https://github.com/sandbaseai/awesome-workbuddy)、[semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy)、[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)、[yehuzi2026/workbuddy-skills-hub](https://github.com/yehuzi2026/workbuddy-skills-hub)、[shuangying0001-beep/awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills)、[sandbaseai/workbuddy-skill](https://github.com/sandbaseai/workbuddy-skill) 以及 X 上的分享者。','','> 腾讯 **WorkBuddy**（AI 办公智能体 / 桌面 Agent）的技能、教程、工作流、提示词、案例与知识点合集——整理自 X（Twitter）社区分享与多个开源 GitHub 清单，已去重、分类，每条附简介、详情页与全部来源链接。','',
 f"**{len(I)} 条资源**（技能 {st['skill']} · 工作流 {st['workflow']} · 教程 {st['tutorial']} · 知识点 {st['knowledge']} · 提示词 {st['prompt']} · 案例 {st['case']} · 工具/其他 {st['other']}）｜来自 X：{nx} 条 · 来自 GitHub 清单：{ng} 条｜[English](README.en.md)",'',
 '> ⚠️ 这是第三方、社区整理的索引，非腾讯官方。第三方 Skill/工具使用前请审阅来源、许可证与权限；X 数据采集时间 2026-11-27，详见 [data/README.md](data/README.md)。','',
 '图例：𝕏 = X 上有人分享　⌥ = 收录于开源 GitHub 清单。数据：[data/items.json](data/items.json)。','','## 目录','']
@@ -88,7 +88,7 @@ R+=['## 数据来源与致谢','','- **X（Twitter）**：通过 X 公共搜索�
 '## 参与贡献','','欢迎 PR 补充或纠错，见 [CONTRIBUTING.md](CONTRIBUTING.md)。','','## 许可','','本仓库自写内容（简介、分类、结构）以 [CC0-1.0](LICENSE) 释出；被收录项目与帖子版权归原作者，详见各详情页“所有来源”。','']
 open('README.md','w',encoding='utf8').write('\n'.join(R))
 # English readme (compact)
-E=['# Awesome WorkBuddy Collection','','Maintainer: [Azo / 阿佐](https://x.com/azuo_blog) ([@azuo_blog](https://x.com/azuo_blog) on X).','','Thanks to upstream lists: sandbaseai/awesome-workbuddy, semlinker/awesome-workbuddy, AlephAITech/WorkBuddyGuide, yehuzi2026/workbuddy-skills-hub, shuangying0001-beep/awesome-workbuddy-skills, and sandbaseai/workbuddy-skill, plus everyone who shared on X.','',f"A curated, de-duplicated index of **{len(I)}** community resources for Tencent **WorkBuddy** (AI desktop work agent): skills, workflows, tutorials, prompts, cases and tips — collected from X (Twitter) posts and several open-source GitHub lists. Each entry links to its original sources.",'',
+E=['# Awesome WorkBuddy Collection','','> **Website:** [Awesome WorkBuddy Hub](https://awesome-workbuddy-hub.azuoblog.workers.dev)','','Maintainer: [Azo / 阿佐](https://x.com/azuo_blog) ([@azuo_blog](https://x.com/azuo_blog) on X).','','Thanks to upstream lists: sandbaseai/awesome-workbuddy, semlinker/awesome-workbuddy, AlephAITech/WorkBuddyGuide, yehuzi2026/workbuddy-skills-hub, shuangying0001-beep/awesome-workbuddy-skills, and sandbaseai/workbuddy-skill, plus everyone who shared on X.','',f"A curated, de-duplicated index of **{len(I)}** community resources for Tencent **WorkBuddy** (AI desktop work agent): skills, workflows, tutorials, prompts, cases and tips — collected from X (Twitter) posts and several open-source GitHub lists. Each entry links to its original sources.",'',
 f"Skills {st['skill']} · Workflows {st['workflow']} · Tutorials {st['tutorial']} · Knowledge {st['knowledge']} · Prompts {st['prompt']} · Cases {st['case']} · Tools/Other {st['other']}",'',
 '- Full list (Chinese-first descriptions): [README.md](README.md)','- Machine-readable data: [data/items.json](data/items.json); method and limits: [data/README.md](data/README.md)','- Per-item detail pages: [items/](items/)','- Complete per-category lists: [lists/](lists/README.md)','',
 '> Unofficial third-party index, not affiliated with Tencent. Review the source, license and permissions before installing any third-party skill.','','## Top shared on X (by likes)','']

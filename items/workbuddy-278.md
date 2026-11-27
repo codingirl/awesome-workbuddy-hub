@@ -8,8 +8,6 @@ WorkBuddy 模型太多不知道怎么选？ 榜单整理好了，官方能力分
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 模型太多不知道怎么选？ 榜单整理好了，官方能力分数仅供参考，更多的还是个人主观感受。 Kimi K3 官方 2.8T/104B MoE，1M 上下文，原生视觉。TB 2.1 88.3、FrontierSWE 81.2、SWE-bench Verified 93.4%。官方 API $3/$15，目前全场最贵。 我用下来，它在英文社区被认可的 frontier
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 模型太多不知道怎么选？ 榜单整理好了，官方能力分
 - X · [背背贝贝呗 @DongTao57263](https://x.com/DongTao57263/status/2111509718997110883) · 2026-10-17 · 3 赞 / 209 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

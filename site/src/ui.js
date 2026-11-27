@@ -48,6 +48,19 @@
     });
   });
 
+  const lightbox = document.getElementById("lightbox");
+  document.addEventListener("click", function (event) {
+    const shot = event.target.closest("[data-lightbox]");
+    if (shot && lightbox) {
+      const image = lightbox.querySelector("img");
+      image.src = shot.getAttribute("data-lightbox") || "";
+      if (typeof lightbox.showModal === "function") lightbox.showModal();
+      return;
+    }
+    if (!lightbox || !lightbox.open) return;
+    if (event.target.closest("[data-lb-close]") || event.target === lightbox) lightbox.close();
+  });
+
   document.addEventListener("keydown", function (event) {
     if (event.key !== "/" || event.metaKey || event.ctrlKey || event.altKey) return;
     const target = event.target;

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 现在学习workbuddy，就好像19年学习抖音，我找不出workbuddy对于新手、入门级、进阶级ai使用者的任何弊端，skill你可以下载配置，agent可以安装，kpi可以接入，门槛低的令你发指，只需要下载并且微信扫码登录即可
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Zane 赞恩 @aaaaaaabaa123](https://x.com/aaaaaaabaa123/status/2074319473595797666) · 2026-07-07 · 0 赞 / 67 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

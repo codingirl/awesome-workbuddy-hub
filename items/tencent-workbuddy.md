@@ -8,8 +8,6 @@ Tencentの「WorkBuddy」がグローバル提供開始 ・中国で最も人気
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Tencentの「WorkBuddy」がグローバル提供開始 ・中国で最も人気のデスクトップAIエージェント ・コーディング・分析・生産性向上など幅広いシナリオに対応 ・作業を自動化し、すぐ使えるプロジェクトファイルとして出力 ・Built-in Skills Gallery搭載
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Tencentの「WorkBuddy」がグローバル提供開始 ・中国で最も人気
 - X · [Shodai Yanagimoto | 桺本頌大 @shodaiiiiii](https://x.com/shodaiiiiii/status/2060146533555945522) · 2026-05-28 · 2 赞 / 2358 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

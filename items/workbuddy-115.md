@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 最近很多人都在猛推 WorkBuddy 工作台，但有个最容易踩的坑，很多教程根本没说清楚： 手机能打开，不等于网站已经正式上线。 我用 WorkBuddy
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Vincent @Vincent_AINotes](https://x.com/Vincent_AINotes/status/2083554306352173090) · 2026-08-01 · 25 赞 / 2 转 / 9177 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

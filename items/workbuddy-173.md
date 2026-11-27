@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 我刚用workbuddy给这段内容生成了一段相关的短视频 核心就两个步骤： 1.使用 视频生成专家 这个技能，将视频文案内容发给workbuddy，然后附上要求 “根据这段文案生成一段视频”，workbuddy就调用remotion生成视频文件。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [马识途 @shitunote](https://x.com/shitunote/status/2084567355301195815) · 2026-08-04 · 10 赞 / 1 转 / 1044 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

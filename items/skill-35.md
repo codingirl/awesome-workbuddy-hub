@@ -8,8 +8,6 @@ Skill 变现别只看抽成，真正差的是流量从哪来。 WorkBuddy 像进
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Skill 变现别只看抽成，真正差的是流量从哪来。 WorkBuddy 像进商场：先有过审资产才能开收款，审核最长 7 个工作日；内测服务费约 1%，付费资产云端加密运行，买家拿调用权、不拿源码。好处是能在客户端技能市场里被搜到，坏处是上架慢，免费资产不能事后转付费，要另发付费版。 SkillPay
 
 ## 使用/获取
@@ -22,4 +20,4 @@ Skill 变现别只看抽成，真正差的是流量从哪来。 WorkBuddy 像进
 - X · [Black Mamba @duolamifaso](https://x.com/duolamifaso/status/2125940784423907702) · 2026-11-26 · 1 赞 / 41 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

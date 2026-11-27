@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 昨天看完腾讯 WorkBuddy 生态大会，我最大的感受不是“又多了一个AI办公产品”。 而是： AI Agent 的竞争，正在进入下一阶段。 过去大家比： 谁的模型更强？ 谁的 Agent 更聪明？ 谁能做PPT、操作浏览器、分析Excel？ 但接下来真正重要的问题可能变成： 这个 Agent 能调用多少外部能力？ 模型决定 Agent
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [TonyLiu @yizhan_liu](https://x.com/yizhan_liu/status/2095378509971505543) · 2026-09-03 · 1 赞 / 63 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

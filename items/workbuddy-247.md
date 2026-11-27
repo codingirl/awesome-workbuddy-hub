@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 想把 WorkBuddy 真正用起来，别只研究提示词。 找 10 个真实任务跑一遍，你基本就知道 Agent 到底能干什么了。 我从社区案例里挑了 10 个比较值得折腾的： 01｜WorkBuddy 入门与个人工作台 从安装、第一个任务开始，一直到 Skills、连接器、自动化和多 Agent，适合第一次系统学习 WorkBuddy。 🔗
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [dashdot @dashdot1205](https://x.com/dashdot1205/status/2107689210203590923) · 2026-10-07 · 4 赞 / 1 转 / 368 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 1/6 我靠，鹅厂藏的还是太深了，今天才发现 @WorkBuddy_AI 竟然已经有海外版了！ 而且比国内版还狠——内置就带海外模型，GPT、Gemini 不用你自己折腾，官方自带，开箱直接用。 我盯着它玩了一下午，越用越觉得：这就是 AI 办公的Alpha moment啊！
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Berryxia.AI @berryxia](https://x.com/berryxia/status/2094262133420703995) · 2026-08-31 · 110 赞 / 18 转 / 18971 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ WorkBuddy 保姆级入门：从安装到跑通第一个办公任务
 - X · [Cheery @cheery9998](https://x.com/cheery9998/status/2072634985098440898) · 2026-07-02 · 685 赞 / 147 转 / 148453 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

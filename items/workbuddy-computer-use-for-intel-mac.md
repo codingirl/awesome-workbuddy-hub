@@ -19,4 +19,4 @@ MIT 许可、面向 Intel Mac 的 WorkBuddy MCP，提供截图、鼠标/键盘/�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Guyzn/workbuddy-cua-mcp) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

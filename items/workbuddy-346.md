@@ -18,4 +18,4 @@ WorkBuddy怎么用？别只会聊天，专家+自动化把活交出去
 - X · [老金带你玩AI @KimYx0207](https://x.com/KimYx0207/status/2079182970334925170) · 2026-07-20 · 1 赞 / 495 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

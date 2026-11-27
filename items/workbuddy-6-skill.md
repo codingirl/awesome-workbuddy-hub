@@ -8,8 +8,6 @@ WorkBuddy 6种Skill实用组合 这 6 种组合，分别对应资料研究、文
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 6种Skill实用组合 这 6 种组合，分别对应资料研究、文案创作、数据分析、视频制作、知识管理和流程自动化。 01｜Deep Research + Humanizer：资料研究与内容创作组合 适合场景：行业分析、专题研究、知识分享、深度文章。 02｜Agent Browser + Deep Research：网页搜集与深度研究组合
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy 6种Skill实用组合 这 6 种组合，分别对应资料研究、文
 - X · [易川Jensen🇦🇺 @JingchunYi22950](https://x.com/JingchunYi22950/status/2113912018084200850) · 2026-10-24 · 4 赞 / 182 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ GitHub上的开源免费文件转换工具Filee，按住Ctrl拖动文件就会�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > GitHub上的开源免费文件转换工具Filee，按住Ctrl拖动文件就会弹出甜甜圈格式菜单，不用开主窗口就能转换，支持244种格式，能处理PDF、Word等各类文档，不会折腾的话可以发指令让workbuddy帮忙安装，经常需要转格式的朋友很实用~ “帮我安装 GitHub 上的 KnifeLemon/Filee 最新版文件转换器。请从官方
 
 ## 使用/获取
@@ -20,4 +18,4 @@ GitHub上的开源免费文件转换工具Filee，按住Ctrl拖动文件就会�
 - X · [Im @Imggcn](https://x.com/Imggcn/status/2111811007295451625) · 2026-10-18 · 3 赞 / 4275 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@ Grok Bot 保姆级：选题到草稿箱，五步自动跑（附提示词｜WorkB
 - X · [老秦 @laoqinai](https://x.com/laoqinai/status/2118326310653263919) · 2026-11-05 · 0 赞 / 30 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

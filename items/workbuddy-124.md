@@ -18,4 +18,4 @@
 - X · [马佳彬 @majiabin](https://x.com/majiabin/status/2120700291041657049) · 2026-11-12 · 22 赞 / 4 转 / 1855 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

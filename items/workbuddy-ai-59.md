@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 还在把 WorkBuddy 当普通 AI 聊天工具？那你可能只用了它一小部分能力。 整理了 8 个值得关注的 Skill，从数据分析、网站开发，到浏览器自动化、内容创作和安全检查，基本覆盖日常高频工作。 1. Smart Charts｜数据可视化 把 Excel、CSV 表格转换成交互式图表，适合数据分析、经营报表和可视化看板。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [茵茵 Crypto🏄 @yinyinCrypto](https://x.com/yinyinCrypto/status/2113220482724200815) · 2026-10-22 · 0 赞 / 227 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -18,4 +18,4 @@
 - X · [蔡文彬CyberBin @CyberBinAI](https://x.com/CyberBinAI/status/2077396826466942988) · 2026-07-15 · 46 赞 / 5 转 / 4081 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

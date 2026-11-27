@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 最近不少朋友在用WorkBuddy 结合官方文档，给元Skill做了一版规范适配升级 开源给大家 一键安装部署后 把工作流、提示词、SOP做成可复用的Skill，支持创建、评测和打包 安装部署方式，在WorkBuddy中发送： “帮我把 WorkBuddy 项目，并完成配置和自检。”
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [姚金刚 @yaojingang](https://x.com/yaojingang/status/2119695515822461373) · 2026-11-09 · 42 赞 / 8 转 / 4225 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

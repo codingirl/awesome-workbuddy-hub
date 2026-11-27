@@ -20,4 +20,4 @@
 - X · [冰瑞Brui @andyruice](https://x.com/andyruice/status/2073005191310594507) · 2026-07-03 · 4 赞 / 2 转 / 2201 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

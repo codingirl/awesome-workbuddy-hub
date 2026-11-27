@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 给 WorkBuddy 做了个换肤技能 dreamskin：整个窗口换成一张画，侧栏、输入框、弹窗全跟着变。18 张内置壁纸，亮图配浅色、暗图配深色；正式版还有会动星空。技能市场搜 dreamskin，基础版免费。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [aramineli @aramineli](https://x.com/aramineli/status/2119779071739797991) · 2026-11-09 · 0 赞 / 32 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

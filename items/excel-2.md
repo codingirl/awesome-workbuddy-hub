@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 抖音博主作品怎么导出Excel？不用逐条抄赞评藏。 SocialDataX 社媒数据助手获取作品列表，WorkBuddy 生成Excel：标题、时间、赞藏评、作品链接一起整理。 11月10日实测首批15条，整理10条，有后续页，不代表全部历史。 先完成AI接入。数据按量计费，AI工具费用另计。
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [device｜SocialDataX 社媒数据助手 @devinchen2025](https://x.com/devinchen2025/status/2120795333945098712) · 2026-11-12 · 0 赞 / 13 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

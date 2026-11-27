@@ -23,4 +23,4 @@ MIT 许可的 WorkBuddy Skill 合集，包含账号迁移、Wake 多 Agent 日�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Young1108/skillhub) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

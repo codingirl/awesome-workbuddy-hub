@@ -19,4 +19,4 @@ MIT 许可、面向 WorkBuddy 5.x 的 JupyterLab MCP 接线 Skill，提供真实
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Kallium-cn/workbuddy-jupyter-bridge) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

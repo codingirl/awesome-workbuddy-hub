@@ -21,4 +21,4 @@ Apache-2.0 许可的 50+ 通用 Agent Skills 集合，明确支持 WorkBuddy，�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/jiushiwon/wg-skills) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

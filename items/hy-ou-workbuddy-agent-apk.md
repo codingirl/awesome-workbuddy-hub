@@ -21,4 +21,4 @@ workbuddy-agent-apk
 - GitHub · [Hy-ou/workbuddy-agent-apk](https://github.com/Hy-ou/workbuddy-agent-apk) · 许可：MIT · stars 46
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

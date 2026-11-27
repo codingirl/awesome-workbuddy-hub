@@ -8,8 +8,6 @@ Citi: Tencent’s WorkBuddy Launch Marks Shift Toward “Execution AI,” M…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Citi: Tencent’s WorkBuddy Launch Marks Shift Toward “Execution AI,” Maintain Buy, HK$783 TP The launch of WorkBuddy, an AI agent developed by Tencent Cloud’s CodeBuddy team and released on March 9, is seen as significant for China’s AI landscape. Fully compatible with OpenClaw
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Citi: Tencent’s WorkBuddy Launch Marks Shift Toward “Execution AI,” M…
 - X · [CN Wire @Sino_Market](https://x.com/Sino_Market/status/2031251352970735744) · 2026-03-10 · 24 赞 / 2 转 / 7289 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -21,4 +21,4 @@ MIT 许可、面向 WorkBuddy 的零依赖行为协议，用六条规则、风�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/nehemc2026/ai-operating-protocol) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

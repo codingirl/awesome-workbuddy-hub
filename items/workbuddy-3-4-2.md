@@ -18,4 +18,4 @@
 - X · [喜乐聊AI @DuXile93737](https://x.com/DuXile93737/status/2079225858569699653) · 2026-07-20 · 0 赞 / 50 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

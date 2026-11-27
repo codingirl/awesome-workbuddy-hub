@@ -8,8 +8,6 @@ A Korean indie dev built an online temple, and 100,000+ people a day …
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > A Korean indie dev built an online temple, and 100,000+ people a day started visiting it. I loved the idea, so I made my own with Hy4 in WorkBuddy. One photo of a Chinese pavilion, one prompt. 43 minutes later, without me touching anything:
 
 ## 使用/获取
@@ -20,4 +18,4 @@ A Korean indie dev built an online temple, and 100,000+ people a day …
 - X · [XIAOBA @mayimeng_xiaoba](https://x.com/mayimeng_xiaoba/status/2118344666454393099) · 2026-11-05 · 0 赞 / 21 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

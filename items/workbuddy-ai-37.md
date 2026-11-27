@@ -8,8 +8,6 @@ WorkBuddy实战课｜零代码AI办公 系统学习WorkBuddy部署、提示词�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy实战课｜零代码AI办公 系统学习WorkBuddy部署、提示词、文件处理、数据分析与自动化工作流，打造高效AI办公体系，全面提升工作效率。 学习链接【七天有效期请尽快转存】：
 
 ## 使用/获取
@@ -21,4 +19,4 @@ WorkBuddy实战课｜零代码AI办公 系统学习WorkBuddy部署、提示词�
 - X · [A阿途知识分享互fo必回 @zhaojinmai570](https://x.com/zhaojinmai570/status/2081540482992382048) · 2026-07-27 · 0 赞 / 45 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

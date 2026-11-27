@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 📊 WEEKLY REPORT | SEPT 21 – SEPT 27 🚀📌 Weekly Keywords: Registered Users Surpass 2.8M · 8 models launched in one week · Responses API upgraded to a unified standard interface · Popular models discounted up to 90% OFF · WorkBuddy integration tutorial
 
 ## 使用/获取
@@ -23,4 +21,4 @@
 - X · [shadowmint @shadowmint07](https://x.com/shadowmint07/status/2105304981599576530) · 2026-09-30 · 0 赞 / 7729 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

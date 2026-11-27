@@ -8,8 +8,6 @@ WorkBuddy 这波，确实跑出来了。 易观最新数据里，6 月国内 PC 
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 这波，确实跑出来了。 易观最新数据里，6 月国内 PC 端 AI 原生办公智能体总访问量突破 6000 万次，WorkBuddy 以 2097 万次继续排名第一。 更直观一点：第二名 TRAE IDE 国内版是 1279 万，第三名 QoderWork 是 788 万。WorkBuddy 一家的访问量，甚至略高于第二、第三名之和。
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 这波，确实跑出来了。 易观最新数据里，6 月国内 PC 
 - X · [码良 @cxjwin](https://x.com/cxjwin/status/2079183661153603914) · 2026-07-20 · 4 赞 / 3 转 / 491 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

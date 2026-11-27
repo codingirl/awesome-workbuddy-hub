@@ -19,4 +19,4 @@ Apache-2.0 许可的跨平台 Agent 与 MCP 管理桌面应用，支持 WorkBudd
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/Zafer-Liu/Agent_Manager) · 许可：CC0-1.0 · Tools and integrations
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

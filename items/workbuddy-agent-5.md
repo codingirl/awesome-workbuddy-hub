@@ -8,8 +8,6 @@ WorkBuddy应该算国内第一个把办公需求作为主要场景的Agent吧 �
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy应该算国内第一个把办公需求作为主要场景的Agent吧 目前国内平台关于Workbuddy的教程几乎没有，这篇文章直接拿去讲就是一条爆款
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy应该算国内第一个把办公需求作为主要场景的Agent吧 �
 - X · [冬天Slen❄️ @seventhoce56019](https://x.com/seventhoce56019/status/2072870321200521644) · 2026-07-03 · 38 赞 / 4 转 / 7923 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 装了 WorkBuddy，先挑一两个贴近手头任务的 Skill。 这期用 8 个例子讲清：找技能、记规则、复用流程、补缺口，以及图表、文稿、PPT 和文档整理。 #WorkBuddy #AI工具 #AI办公
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Pepper @Pepper12189](https://x.com/Pepper12189/status/2125052275978912245) · 2026-11-24 · 1 赞 / 106 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

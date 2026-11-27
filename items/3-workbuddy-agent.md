@@ -18,4 +18,4 @@
 - X · [一只小橘呀 @Ellieorange8](https://x.com/Ellieorange8/status/2086373124292116698) · 2026-08-09 · 49 赞 / 15 转 / 16039 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

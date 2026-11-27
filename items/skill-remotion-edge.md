@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 开源了一个数学物理教学视频的Skill，用的remotion和edgetts，还能控制上一步下一步，没理解的地方可以一步步点击了看。大家感兴趣可以试试，国内workbuddy，minimaxcode，zcode都可以用。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [yicao huang @YicaoHuang](https://x.com/YicaoHuang/status/2108857193277927631) · 2026-10-10 · 1 赞 / 78 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

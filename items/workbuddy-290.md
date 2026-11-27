@@ -18,4 +18,4 @@ WorkBuddy零基础保姆级教程
 - X · [阿兰AI @alanlovelq](https://x.com/alanlovelq/status/2078486903268245955) · 2026-07-18 · 2 赞 / 2672 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

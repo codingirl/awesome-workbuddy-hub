@@ -8,8 +8,6 @@ grok bot的市场非常简洁明了，相反workbuddy打开以后 一堆专家�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > grok bot的市场非常简洁明了，相反workbuddy打开以后 一堆专家团，压根不知道到底用哪个，有没有人遇到过这 样的问题呢。其实大部分模型已经具备了通识回答非专业 场景完全不需要太多skill。
 
 ## 使用/获取
@@ -20,4 +18,4 @@ grok bot的市场非常简洁明了，相反workbuddy打开以后 一堆专家�
 - X · [AuraSon @AuraSongu](https://x.com/AuraSongu/status/2099762198101069837) · 2026-09-15 · 2 赞 / 78 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

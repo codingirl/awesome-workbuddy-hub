@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 准备给非技术岗写一个 AI 工具安装配置入门指南，国内貌似只能选 workbuddy 或者 zcode 了。。大家还有更好的推荐吗？
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [文森 Vincent @heyvinsen](https://x.com/heyvinsen/status/2071594265692782768) · 2026-06-29 · 0 赞 / 72 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

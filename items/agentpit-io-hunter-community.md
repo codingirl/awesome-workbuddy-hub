@@ -21,4 +21,4 @@ HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替�
 - GitHub · [agentpit-io/hunter-community](https://github.com/agentpit-io/hunter-community) · 许可：Apache-2.0 · stars 622
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

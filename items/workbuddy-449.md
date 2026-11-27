@@ -18,4 +18,4 @@ Workbuddy 的真正悖论
 - X · [爱泪不分｜AI实战 & 自驾 @lcx4541626](https://x.com/lcx4541626/status/2074375757439340797) · 2026-07-07 · 0 赞 / 17 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

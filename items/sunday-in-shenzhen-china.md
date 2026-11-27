@@ -8,8 +8,6 @@ Sunday in Shenzhen, China 🇨🇳 A room full of people learning how to gi…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Sunday in Shenzhen, China 🇨🇳 A room full of people learning how to give their AI agent (Tencent’s WorkBuddy) new skills. Funny how we’re no longer just learning new skills ourselves. We’re teaching our AI buddies new ones too. 😂
 
 ## 使用/获取
@@ -21,4 +19,4 @@ Sunday in Shenzhen, China 🇨🇳 A room full of people learning how to gi…
 - X · [Chun Jia @Chunbelljia](https://x.com/Chunbelljia/status/2116854281836147032) · 2026-11-01 · 0 赞 / 17 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

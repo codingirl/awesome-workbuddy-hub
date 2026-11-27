@@ -21,4 +21,4 @@ MIT 许可的演讲型 PPT 大纲与体检 Skill，提供 WorkBuddy Team 适配�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/LearnPrompt/humanize-ppt) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 腾讯在 2026 全球数字生态大会上给 WorkBuddy 报了一组很漂亮的数字：3 月上线，7 个月迭代 100 多个大版本，累计 90 亿次任务请求，Token 消耗较上线初期增长 50 倍，企业版落地 50 多个行业、覆盖中国企业 500 强中的 50%，开放平台上架 Skills 超 20
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [bolvarfordragon @bo1varFordragoN](https://x.com/bo1varFordragoN/status/2117149834943606921) · 2026-11-02 · 2 赞 / 186 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

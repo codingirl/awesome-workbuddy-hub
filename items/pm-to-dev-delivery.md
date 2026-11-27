@@ -21,4 +21,4 @@ MIT 许可、提供明确 WorkBuddy 适配入口的产品工程交付 Skill，�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/lovejiaowu-hue/pm-to-dev-delivery) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

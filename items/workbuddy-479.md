@@ -8,8 +8,6 @@ WorkBuddy生成系列绘画效果超棒！ 最近使用WorkBuddy生成了一系�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy生成系列绘画效果超棒！ 最近使用WorkBuddy生成了一系列的中国古代绘画，提前安装好绘画技能SKILL,输入系列绘画的名称，WorkBuddy自动优化提示词“......每幅需明确画面主体、人物动作神态、场景环境、氛围意境与整体美术风格，保持系列视觉统一，符合中国古典玄幻志怪的古典美学。"
 
 ## 使用/获取
@@ -22,4 +20,4 @@ WorkBuddy生成系列绘画效果超棒！ 最近使用WorkBuddy生成了一系�
 - X · [ali liu @aliliu311](https://x.com/aliliu311/status/2106718865724153914) · 2026-10-04 · 0 赞 / 41 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

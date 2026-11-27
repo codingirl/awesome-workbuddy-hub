@@ -8,18 +8,16 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 如何用 workbuddy 使用 Claude 大模型？ 把这个提示词发给你的 workbuddy 请在这台电脑上用 CC Switch 帮我给 WorkBuddy 接入魔星 API。先检查本机系统、架构、可用权限以及是否已安装 CC Switch。需要安装或升级时，从 下载并安装适合本机的 v4.0.31
 
 ## 使用/获取
 
 - 链接：<https://ccswitch.io/>
-- 提示词请到原帖/文章中获取完整版本，按自己的场景改写后使用。
+- 可按自己的场景改写后使用。
 
 ## 所有来源
 
 - X · [LilTea @LilTea_eth](https://x.com/LilTea_eth/status/2124425506196255186) · 2026-11-22 · 0 赞 / 183 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

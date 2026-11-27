@@ -8,8 +8,6 @@ WorkBuddy 财务自动化课程，学习搭建财务专属 AI 工作流，自动
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 财务自动化课程，学习搭建财务专属 AI 工作流，自动完成对账、报表整理、数据汇总等高频工作，减少重复手工操作，提升财务工作效率
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 财务自动化课程，学习搭建财务专属 AI 工作流，自动
 - X · [iPlayZip @iPlayZip](https://x.com/iPlayZip/status/2119074414075768965) · 2026-11-07 · 0 赞 / 19 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

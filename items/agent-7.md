@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 大家好，我是Selah赛拉 这是我在X的第一篇文章，我是一个普通大学老师，最近几个月也在学习用AI做独立开发，在深度体验了Codex/Workbuddy/Grok Bot之后，我总结了一些小技巧： 主包最近一直在用agent来做Web出海这件事情。自从加入到哥飞的社群以来，通过使用codex加Obsidian的方式搭建了我的Web出海知识库，workbuddy刚出来的时候知识库这个概念很火，抖音各个大主播小主播也在推，而真正用的我觉得没有多少人，不过，我已经使用这个方式做了两个网站，且已经成功上线了。 www.charttoolbox.com www.wordtomarkdown.net 虽然目前还没有什么曝光量和点击率进来。但我知道这是由于我还没有发外链以及优化SEO，内页导致的。 最近我也在学习优化内页和SEO这些内容，但这不是今天这个文章的重点。 自从开始Vibe Coding之后呢，我其实用过非常多的Agent，最开始搭建知识库的时候，用的是腾讯的Workbuddy配合Obsidian。。但是从整理内容正确性以及重点标注的角度上来说，WorkBuddy替我整理的内容和Codex帮我整理的内容相比对重点的内容整理得不…
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Selah赛拉 @gbbacoffee](https://x.com/gbbacoffee/status/2106016366134509857) · 2026-10-02 · 41 赞 / 4075 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

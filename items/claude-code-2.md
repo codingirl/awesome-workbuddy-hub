@@ -8,8 +8,6 @@ Claude Code 我彻底停了。 改用 WorkBuddy 跑便宜模型。 外面天天�
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > Claude Code 我彻底停了。 改用 WorkBuddy 跑便宜模型。 外面天天在吹什么爆款 Skill 榜单。 我看了一圈真是窝火。 因为榜单里全是通用壳子。 对我这边来说，老被封号全是麻烦。 Skill 就是写给 AI 的顺手流程。 换个平台不照样得重写。 这 30 天我只拿 WorkBuddy 做交叉验证。
 
 ## 使用/获取
@@ -20,4 +18,4 @@ Claude Code 我彻底停了。 改用 WorkBuddy 跑便宜模型。 外面天天�
 - X · [周彦充Ai私教陪跑落地 @zycbat888](https://x.com/zycbat888/status/2124219795348533413) · 2026-11-21 · 0 赞 / 77 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

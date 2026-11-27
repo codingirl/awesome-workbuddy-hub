@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 快快快，workbuddy 羊毛帖！ workbuddy 有个每日 100 积分活动，小技巧来了 1: 先断网然后打开 workbuddy 2: 打开workbuddy 的时候抓紧打开网络 3:鼠标在那狂点领取即可 朴实无华的撸毛小技巧，手速快的已经撸了几千分。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [Sam Z. @Samlive686](https://x.com/Samlive686/status/2097718882874310756) · 2026-09-09 · 1 赞 / 1 转 / 64 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

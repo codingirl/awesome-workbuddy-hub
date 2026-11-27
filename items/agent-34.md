@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 视频号和抖音的用户不在乎你最新最好用的agent是什么 你只需要告诉他们workbuddy怎么安装，安装之后能解决你什么难题，仅此而已
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [Jessi Cao @JessiCao_JC](https://x.com/JessiCao_JC/status/2113087097796264087) · 2026-10-22 · 1 赞 / 727 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

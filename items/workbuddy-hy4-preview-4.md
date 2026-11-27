@@ -8,8 +8,6 @@ WorkBuddy 换上混元 Hy4 Preview 之后，我拿它连续测了两天：从零
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 换上混元 Hy4 Preview 之后，我拿它连续测了两天：从零写带动画的网站和 3D 游戏、几十万字资料直接做 PPT/表格，到一次并行完成数据汇总、内训教程、半年运营规划和官网——现在 AI 办公真正开始跳过中间那一大段“脏活累活”了。#WorkBuddy
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 换上混元 Hy4 Preview 之后，我拿它连续测了两天：从零
 - X · [PunkChou @Punkstore333](https://x.com/Punkstore333/status/2094615195951993210) · 2026-09-01 · 0 赞 / 103 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

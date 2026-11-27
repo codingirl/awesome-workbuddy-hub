@@ -1,6 +1,6 @@
 # Awesome WorkBuddy 资源合集
 
-> **网站入口：** [Awesome WorkBuddy Hub](site/README.md) 是本仓库的在线目录（Cloudflare Workers 静态资源，Worker 名 `awesome-workbuddy-hub`）。正式地址上线后，把本行换成网站链接。本地预览和部署步骤见 [site/README.md](site/README.md)。
+> **网站：** [Awesome WorkBuddy Hub](https://awesome-workbuddy-hub.azuoblog.workers.dev)。本地预览和部署见 [site/README.md](site/README.md)。
 
 维护者：[阿佐](https://x.com/azuo_blog)（X [@azuo_blog](https://x.com/azuo_blog)）
 

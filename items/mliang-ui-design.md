@@ -21,4 +21,4 @@ MIT 许可、明确支持 WorkBuddy 的通用 UI 设计 Skill，提供 14 套调
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/MLiang0920/mliang-ui-design-skill) · 许可：CC0-1.0 · Ready-to-use Skills
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

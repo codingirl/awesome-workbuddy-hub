@@ -18,4 +18,4 @@ WorkBuddy零基础入门系统教程（上）
 - X · [挺身而出的蜗牛 @isanameonly](https://x.com/isanameonly/status/2081749668753821769) · 2026-07-27 · 3 赞 / 1 转 / 1888 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

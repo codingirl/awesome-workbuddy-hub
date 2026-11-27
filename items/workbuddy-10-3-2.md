@@ -18,4 +18,4 @@ WorkBuddy 10 个邪修用法，会 3 个就不白装
 - X · [极简 @Ylj158852](https://x.com/Ylj158852/status/2124503870386868346) · 2026-11-22 · 8 赞 / 2 转 / 1631 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

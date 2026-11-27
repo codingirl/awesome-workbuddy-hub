@@ -18,4 +18,4 @@ BestBlogs 早报｜Opus 5 重算模型性价比，WorkBuddy 补齐 Agent 控制�
 - X · [ginobefun @hongming731](https://x.com/hongming731/status/2080804744109658534) · 2026-07-24 · 2 赞 / 5358 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

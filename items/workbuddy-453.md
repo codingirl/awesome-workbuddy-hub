@@ -18,4 +18,4 @@ workbuddy换肤闲鱼卖爆了
 - X · [洛ら @caishi560342](https://x.com/caishi560342/status/2085265640928243888) · 2026-08-06 · 0 赞 / 99 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

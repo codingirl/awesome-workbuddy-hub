@@ -18,4 +18,4 @@
 - X · [林浩AI @XLinhaoAI](https://x.com/XLinhaoAI/status/2080185888710275403) · 2026-07-23 · 0 赞 / 1 转 / 183 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

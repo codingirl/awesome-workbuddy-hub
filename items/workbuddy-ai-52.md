@@ -18,4 +18,4 @@ WorkBuddy真的好用吗？别被AI办公的虚假繁荣骗了
 - X · [Genzo @robinham](https://x.com/robinham/status/2125901814122025169) · 2026-11-26 · 0 赞 / 270 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

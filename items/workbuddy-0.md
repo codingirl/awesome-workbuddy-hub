@@ -18,4 +18,4 @@
 - X · [Stanley @Stanleysobest](https://x.com/Stanleysobest/status/2085194131354325166) · 2026-08-06 · 1 赞 / 1 转 / 2577 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

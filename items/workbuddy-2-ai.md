@@ -18,4 +18,4 @@
 - X · [Alina霖子 @alinalinzi](https://x.com/alinalinzi/status/2052246436134388188) · 2026-05-07 · 0 赞 / 17 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

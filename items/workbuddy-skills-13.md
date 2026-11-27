@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 卧槽！还真有人在 WorkBuddy 上卖 skills 赚到钱啊！ 有个朋友在 Github 搬运 skills 到 WorkBuddy 上卖，2 周赚了 1 万多！ 我他妈在这吭哧吭哧发帖做 X 是在干啥？？？😭
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [知一 @xingzengji](https://x.com/xingzengji/status/2115782702305583524) · 2026-10-29 · 0 赞 / 159 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

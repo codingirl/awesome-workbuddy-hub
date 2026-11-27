@@ -19,4 +19,4 @@ WorkBuddy 你必须知道的100个小技巧（基础版）。
 - X · [Achen @Achenwhak](https://x.com/Achenwhak/status/2122987387525669181) · 2026-11-18 · 3 赞 / 5917 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

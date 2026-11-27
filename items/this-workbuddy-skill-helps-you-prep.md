@@ -8,8 +8,6 @@ This WorkBuddy skill helps you prepare for software copyright registr…
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > This WorkBuddy skill helps you prepare for software copyright registration in China: cross-check feature descriptions, manuals &amp; source code, organize originality evidence, and address AI-content flags. #indiegame #Taptap #workbuddy #Skill
 
 ## 使用/获取
@@ -21,4 +19,4 @@ This WorkBuddy skill helps you prepare for software copyright registr…
 - X · [考え続けているDRAKE @DRAKE62325244](https://x.com/DRAKE62325244/status/2116696810375061924) · 2026-11-01 · 0 赞 / 76 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

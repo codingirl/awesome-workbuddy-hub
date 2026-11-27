@@ -21,4 +21,4 @@
 - GitHub · [yehuzi2026/workbuddy-skills-hub](https://github.com/yehuzi2026/workbuddy-skills-hub/tree/main/categories/09-windows-ops/workbuddy-program-blacklist) · 许可：MIT/mixed (see PROVENANCE.md) · 09-windows-ops
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

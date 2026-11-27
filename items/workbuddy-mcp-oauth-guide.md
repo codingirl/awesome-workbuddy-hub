@@ -21,4 +21,4 @@ MIT 许可的远程 MCP OAuth 2.1/PKCE 排障与上线指南，包含动态客�
 - GitHub · [sandbaseai/awesome-workbuddy](https://github.com/normalpeople553/workbuddy-mcp-oauth-guide) · 许可：CC0-1.0 · Skill collections
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

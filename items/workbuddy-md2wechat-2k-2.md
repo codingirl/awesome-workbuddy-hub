@@ -8,8 +8,6 @@ WorkBuddy 写公众号神器！ md2wechat 成功攻克 2k 下载量，腾讯 Ski
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 写公众号神器！ md2wechat 成功攻克 2k 下载量，腾讯 SkillHub 获得优质评分。 一句话安装： 请先检查是否已安装 SkillHub 商店，若未安装，请根据 安装SkillHub商店，但是只安装CLI，然后安装md2wechat技能。 若已安装，则直接安装md2wechat技能 Thoughts?
 
 ## 使用/获取
@@ -23,4 +21,4 @@ WorkBuddy 写公众号神器！ md2wechat 成功攻克 2k 下载量，腾讯 Ski
 - X · [浪格里个浪 @hppzyy](https://x.com/hppzyy/status/2072934056178905583) · 2026-07-03 · 1 赞 / 150 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

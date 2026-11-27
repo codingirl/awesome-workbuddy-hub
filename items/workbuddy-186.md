@@ -18,4 +18,4 @@
 - X · [Yorling Chen @keyiLeYi](https://x.com/keyiLeYi/status/2086464891393913309) · 2026-08-09 · 8 赞 / 1 转 / 10784 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

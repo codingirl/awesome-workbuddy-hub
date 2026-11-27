@@ -8,8 +8,6 @@ workbuddy 灵感菜单下的素材太多了，几百个。其他 desktop agent �
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > workbuddy 灵感菜单下的素材太多了，几百个。其他 desktop agent 怎么玩呀。包括专家库，技能库，全是运营层面的功夫。
 
 ## 使用/获取
@@ -20,4 +18,4 @@ workbuddy 灵感菜单下的素材太多了，几百个。其他 desktop agent �
 - X · [沿海赛亚人 @oshanosoi](https://x.com/oshanosoi/status/2084218469973991865) · 2026-08-03 · 0 赞 / 37 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

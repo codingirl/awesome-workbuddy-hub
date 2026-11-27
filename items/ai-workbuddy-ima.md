@@ -18,4 +18,4 @@ AI 知识库怎么搭才不吃灰？WorkBuddy＋ima完整教程：这一套闭�
 - X · [檀奕 @yunxi0623](https://x.com/yunxi0623/status/2077384934973739054) · 2026-07-15 · 120 赞 / 28 转 / 9507 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

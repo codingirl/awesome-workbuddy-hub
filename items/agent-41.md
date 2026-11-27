@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 让 Agent 做小程序，出来的经常还是网页。 胶囊和底栏对不上。 有个开源 skill，叫 huashu-design。 它按微信的规格来画，定稿能导出交付包。 交给 WorkBuddy，做成真的小程序。 npx skills add alchaincyf/huashu-design 装完跟它说：帮我设计一个预约用的微信小程序。
 
 ## 使用/获取
@@ -23,4 +21,4 @@
 - X · [亮仔 @liangzaicom](https://x.com/liangzaicom/status/2124661068563661012) · 2026-11-23 · 0 赞 / 8 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

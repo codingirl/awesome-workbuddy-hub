@@ -18,4 +18,4 @@
 - X · [Vegas Liu @vegas_liu](https://x.com/vegas_liu/status/2087448684187570582) · 2026-08-12 · 14 赞 / 3461 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

@@ -8,8 +8,6 @@ WorkBuddy 将会有一次国运级的机会，上次是 DeepSeek 周围从业职
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 将会有一次国运级的机会，上次是 DeepSeek 周围从业职场技能的教培老师，学员几乎清一色的 WorkBuddy 受众，与 FDE 不同，这些学员是反向吸引，要求职场教练培训 WorkBuddy, 而不是单位强迫着跟 FDE 学。主动的力量强过一切
 
 ## 使用/获取
@@ -20,4 +18,4 @@ WorkBuddy 将会有一次国运级的机会，上次是 DeepSeek 周围从业职
 - X · [黄赟 @huangyun_122](https://x.com/huangyun_122/status/2125152208664887420) · 2026-11-24 · 131 赞 / 10 转 / 44113 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

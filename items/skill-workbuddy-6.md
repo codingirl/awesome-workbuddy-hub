@@ -8,8 +8,6 @@ skill在精不在多，这里的除了WorkBuddy那个，其他都是要么久闻
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > skill在精不在多，这里的除了WorkBuddy那个，其他都是要么久闻大名，要么正在爽用的 血泪经验:如果想vibecoding什么的话，让AI查查github上有没有，别忙活半天发现不如现成的😭别问我怎么知道的
 
 ## 使用/获取
@@ -22,4 +20,4 @@ skill在精不在多，这里的除了WorkBuddy那个，其他都是要么久闻
 - X · [诺鸭船长3 @noahduck283](https://x.com/noahduck283/status/2085000835327791415) · 2026-08-05 · 6 赞 / 1575 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

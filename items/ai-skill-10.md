@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > 支付宝、腾讯都下场了，把工作流做成 AI Skill，也能上架卖钱。有人在 YouMind 赚了6500 美元的成绩，但那是别人的赚的，不是「上传就能月入过万」。我对照官网，把 WorkBuddy、支付宝 SkillPay、YouMind 的收费、到账和上架步骤拆了一遍。先看清规则，再决定要不要上自己的第一个 Skill。
 
 ## 使用/获取
@@ -22,4 +20,4 @@
 - X · [AllenZhan @AllenZhanai](https://x.com/AllenZhanai/status/2125933920726442032) · 2026-11-26 · 0 赞 / 31 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

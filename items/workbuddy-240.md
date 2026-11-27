@@ -18,4 +18,4 @@ WorkBuddy 工作台保姆级图文教程
 - X · [David Roto @DavidRottoT](https://x.com/DavidRottoT/status/2083273308137787579) · 2026-07-31 · 4 赞 / 2080 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*

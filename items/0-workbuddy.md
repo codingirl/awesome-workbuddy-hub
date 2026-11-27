@@ -8,8 +8,6 @@
 
 ## 详情
 
-以下内容整理自原帖/文章（节选，未做编造；完整内容请见来源链接）：
-
 > WorkBuddy 确实很火，附上从 0 开始用上 WorkBuddy 的保姆级教程！
 
 ## 使用/获取
@@ -20,4 +18,4 @@
 - X · [库森 @sencode](https://x.com/sencode/status/2088918762296574259) · 2026-08-16 · 0 赞 / 6 浏览
 
 ---
-*由 awesome-workbuddy-collection 整理；仅含自写简介与原文节选，版权归原作者所有。*
+*由 awesome-workbuddy-collection 整理；简介为自写，原文版权归原作者所有。*
