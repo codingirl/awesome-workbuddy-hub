@@ -70,6 +70,15 @@ assert.match(article, /几千人催我做的公众号排版 Skill，开源了!/)
 assert.match(article, /article-body/);
 assert.match(article, /class="post-intro"/);
 
+const longform = await readFile(join(dist, "item", "workbuddy-0-1000.html"), "utf8");
+assert.match(longform, /别不信！ WorkBuddy 就可以把你的小红书从0粉干到1000/);
+assert.match(longform, /class="article-cover"/);
+assert.match(longform, /\/media\/x\/3_2074027231228407808\.jpg/);
+assert.match(longform, /class="article-figure"/);
+assert.match(longform, /\/media\/x\/3_2073988054948397056\.jpg/);
+assert.doesNotMatch(longform, /全文可能不完整/);
+await access(join(dist, "media", "x", "3_2074027231228407808.jpg"));
+
 const quoted = await readFile(join(dist, "item", "workbuddy-95.html"), "utf8");
 assert.match(quoted, /class="quote"/);
 

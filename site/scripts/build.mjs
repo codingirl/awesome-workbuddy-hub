@@ -506,7 +506,7 @@ function galleryHtml(record) {
   const clips = plays.map((item) => {
     const thumb = item.local || item.preview_image_url || "";
     const label = item.type === "animated_gif" ? "查看动图" : "查看视频";
-    return `<a class="play" href="${esc(record.url)}" target="_blank" rel="noopener noreferrer">
+    return `<a class="play" href="${esc(item.video_url || record.url)}" target="_blank" rel="noopener noreferrer">
       ${thumb ? `<img src="${esc(thumb)}" alt="" loading="lazy" decoding="async">` : ""}
       <span class="play-badge"><span aria-hidden="true">▶</span><span class="sr">${label}</span></span>
     </a>`;
@@ -514,37 +514,78 @@ function galleryHtml(record) {
   return `${shots ? `<div class="gallery ${countClass}">${shots}</div>` : ""}${clips ? `<div class="clips">${clips}</div>` : ""}`;
 }
 
+
+function articleCoverHtml(article) {
+  const cover = article?.cover;
+  const src = cover?.local || cover?.url;
+  if (!src) return "";
+  const lightbox = cover.local || src;
+  const dims = cover.width && cover.height ? ` width="${Number(cover.width)}" height="${Number(cover.height)}"` : "";
+  return `<figure class="article-cover"><button type="button" class="shot" data-lightbox="${esc(lightbox)}">
+    <img src="${esc(src)}" alt="${esc(article.title || "")}" loading="lazy" decoding="async"${dims}>
+  </button></figure>`;
+}
+
+function articleImageHtml(image) {
+  const src = image?.local || image?.url;
+  if (!src) return "";
+  const lightbox = image.local || src;
+  const dims = image.width && image.height ? ` width="${Number(image.width)}" height="${Number(image.height)}"` : "";
+  return `<figure class="article-figure"><button type="button" class="shot" data-lightbox="${esc(lightbox)}">
+    <img src="${esc(src)}" alt="" loading="lazy" decoding="async"${dims}>
+  </button></figure>`;
+}
+
+function articleBodyHtml(article, record) {
+  const blocks = article?.blocks;
+  if (Array.isArray(blocks) && blocks.length) {
+    return blocks.map((block) => {
+      if (!block) return "";
+      if (block.type === "image") return articleImageHtml(block);
+      if (block.type === "code") return `<pre class="article-code"><code>${esc(block.text || "")}</code></pre>`;
+      return richText(block.text || "", record);
+    }).join("");
+  }
+  const text = article?.text || "";
+  const images = (article?.images || []).map(articleImageHtml).join("");
+  return `${text ? richText(text, record) : ""}${images}`;
+}
+
 function quoteCard(quoted) {
   if (!quoted || typeof quoted !== "object") return "";
-  const articleText = quoted.article?.text || "";
+  const article = quoted.article;
+  const articleText = article?.text || "";
   const tweet = quoted.text || "";
   if (!articleText && !tweet) return "";
-  const title = quoted.article?.title ? `<h3>${esc(quoted.article.title)}</h3>` : "";
+  const title = articleText && article?.title ? `<h3>${esc(article.title)}</h3>` : "";
   const intro = articleText && tweet ? `<div class="post-intro">${richText(tweet, quoted)}</div>` : "";
-  const body = articleText ? richText(articleText, quoted) : richText(tweet, quoted);
+  const body = articleText ? articleBodyHtml(article, quoted) : richText(tweet, quoted);
   return `<blockquote class="quote">
     ${bylineHtml(quoted)}
     ${intro}
     ${title}
+    ${articleCoverHtml(article)}
     <div class="post-body">${body}</div>
     ${galleryHtml(quoted)}
   </blockquote>`;
 }
 
 function postHtml(post) {
-  const articleText = post.article?.text || "";
+  const article = post.article;
+  const articleText = article?.text || "";
   const tweet = post.text || "";
   const intro = articleText && tweet ? `<div class="post-intro">${richText(tweet, post)}</div>` : "";
-  const title = articleText && post.article?.title ? `<h2 class="article-title">${esc(post.article.title)}</h2>` : "";
-  const body = articleText ? richText(articleText, post) : richText(tweet, post);
+  const title = articleText && article?.title ? `<h2 class="article-title">${esc(article.title)}</h2>` : "";
+  const body = articleText ? articleBodyHtml(article, post) : richText(tweet, post);
   const notes = [];
   if (post.media_unresolved) notes.push("原帖含更多图片，见原帖");
-  if (post.text_maybe_truncated || post.article?.text_missing) notes.push("全文可能不完整，见原帖");
+  if (post.text_maybe_truncated || article?.text_missing) notes.push("全文可能不完整，见原帖");
   return `<article class="xpost">
     ${bylineHtml(post)}
     ${metricsHtml(post.metrics)}
     ${intro}
     ${title}
+    ${articleCoverHtml(article)}
     <div class="post-body${articleText ? " article-body" : ""}">${body}</div>
     ${galleryHtml(post)}
     ${quoteCard(post.quoted)}
